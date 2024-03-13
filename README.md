@@ -1,5 +1,4 @@
 # Web3-Glossary
-# Web3 Glossary
 
 Welcome to the Web3 Glossary!
 
