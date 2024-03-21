@@ -13,7 +13,7 @@ fs.readFile('consensys-termbase.json', 'utf8', (err, data) => {
 
     // Iterate over each term
     for (const termData of terms) {
-      const englishTerm = termData['English term'];
+      const englishTerm = termData['Term'];
 
       // Create object for definitions.js
       const definitionObj = {

@@ -3,9 +3,15 @@ const exportDefinitions = {
     "term": "0x API",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users:\n\nAPI References",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users:\n\nAPI References
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "0x API",
       "Simplified Chinese": "0x API",
       "French": "0x API",
       "German": "0x API",
@@ -35,9 +41,15 @@ const exportDefinitions = {
     "term": "1inch",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Decentralized exchange aggregator that aims to provide traders with the best price and lowest fees on their transactions.  1inch",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Decentralized exchange aggregator that aims to provide traders with the best price and lowest fees on their transactions.  1inch
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "1inch",
       "Simplified Chinese": "1inch",
       "French": "1inch",
       "German": "1inch",
@@ -67,9 +79,15 @@ const exportDefinitions = {
     "term": "3Box Labs",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The inventors and core developers of Ceramic, the first decentralized network for composable data. Ceramic makes it possible for developers to build data-rich Web3 applications without needing a traditional database, and in the process, unlocks data composability and portability across every application within the Web3 ecosystem\n\n3Box Labs",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The inventors and core developers of Ceramic, the first decentralized network for composable data. Ceramic makes it possible for developers to build data-rich Web3 applications without needing a traditional database, and in the process, unlocks data composability and portability across every application within the Web3 ecosystem\n\n3Box Labs
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "3Box Labs",
       "Simplified Chinese": "3Box Labs",
       "French": "3Box Labs",
       "German": "3Box Labs",
@@ -99,9 +117,15 @@ const exportDefinitions = {
     "term": "51% Attack",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "If more than half the computer power or mining hash rate on a network is run by a single person or a single group of people, then a 51% attack is in operation. This means that this entity has full control of the network and can negatively affect a cryptocurrency by taking over mining operations, stopping or changing transactions, and double-spending coins.",
+    "description": (
+  <>
+    If more than half the computer power or mining hash rate on a network is run by a single person or a single group of people, then a 51% attack is in operation. This means that this entity has full control of the network and can negatively affect a cryptocurrency by taking over mining operations, stopping or changing transactions, and double-spending coins.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "51% Attack",
       "Simplified Chinese": "51%攻击",
       "French": "Attaque des 51 %",
       "German": "51% Attack",
@@ -131,9 +155,15 @@ const exportDefinitions = {
     "term": "Aave",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Aave is an open source protocol to create non-custodial liquidity markets to earn interest on supplying and borrowing assets with a variable or stable interest rate.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Aave is an open source protocol to create non-custodial liquidity markets to earn interest on supplying and borrowing assets with a variable or stable interest rate.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Aave",
       "Simplified Chinese": "Aave",
       "French": "Aave",
       "German": "Aave",
@@ -163,9 +193,15 @@ const exportDefinitions = {
     "term": "Account",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose.  \n\nIn the world of crypto, this is referred to as a cryptocurrency account. It gives you certain benefits, and it is a requirement in order to use just about any cryptocurrency exchange. A cryptocurrency account gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process. \n\nAccount",
+    "description": (
+  <>
+    Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose.  \n\nIn the world of crypto, this is referred to as a cryptocurrency account. It gives you certain benefits, and it is a requirement in order to use just about any cryptocurrency exchange. A cryptocurrency account gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process. \n\nAccount
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Account",
       "Simplified Chinese": "账户",
       "French": "Compte",
       "German": "Konto",
@@ -195,9 +231,15 @@ const exportDefinitions = {
     "term": "ACH transfer",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "ACH (Automated Clearing House) bank transfer is an electronic payment method that allows money to be transferred between bank accounts in the United States. It is a system that processes transactions in batches and is commonly used for direct deposit of paychecks, bill payments, and online money transfers.",
+    "description": (
+  <>
+    ACH (Automated Clearing House) bank transfer is an electronic payment method that allows money to be transferred between bank accounts in the United States. It is a system that processes transactions in batches and is commonly used for direct deposit of paychecks, bill payments, and online money transfers.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "ACH transfer",
       "Simplified Chinese": "自动清算中心（ACH）转账",
       "French": "Transfert ACH",
       "German": "ACH-Überweisung",
@@ -223,13 +265,19 @@ const exportDefinitions = {
       "Ukrainian": "ACH-трансфер"
     }
   },
-  "address/\"public address\" (wallet address)": {
-    "term": "address/\"public address\" (wallet address)",
+  "address; public address; account address": {
+    "term": "address; public address; account address",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Used to send and receive transactions on a blockchain network, and to identify different users; also referred to as a 'public key'. An address is an alphanumeric character string, which can also be represented as a scannable QR code. In Ethereum, the address begins with 0x. For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee",
+    "description": (
+  <>
+    Used to send and receive transactions on a blockchain network, and to identify different users; also referred to as a 'public key'. An address is an alphanumeric character string, which can also be represented as a scannable QR code. In Ethereum, the address begins with 0x. For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "address; public address; account address",
       "Simplified Chinese": "地址/“公钥”（钱包地址）",
       "French": "adresse/ « adresse publique » (adresse du portefeuille)",
       "German": "Adresse/„öffentliche Adresse“ (Wallet-Adresse)",
@@ -259,9 +307,15 @@ const exportDefinitions = {
     "term": "Advanced",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of \"Advanced gas controls\": it is an optional feature in the MetaMask wallet,  that gives you more control over the gas you pay in MetaMask.\n\nUsing advanced gas controls",
+    "description": (
+  <>
+    In the context of 'Advanced gas controls': it is an optional feature in the MetaMask wallet,  that gives you more control over the gas you pay in MetaMask.\n\nUsing advanced gas controls
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "Advanced",
       "Simplified Chinese": "高级",
       "French": "Avancé",
       "German": "Erweitert",
@@ -291,9 +345,15 @@ const exportDefinitions = {
     "term": "aggregator",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An aggregator is a platform that aggregates liquidity from multiple decentralized exchanges (DEXs) or other sources of liquidity to provide users with the best prices and the most efficient execution for their trades.",
+    "description": (
+  <>
+    An aggregator is a platform that aggregates liquidity from multiple decentralized exchanges (DEXs) or other sources of liquidity to provide users with the best prices and the most efficient execution for their trades.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "aggregator",
       "Simplified Chinese": "聚合器",
       "French": "agrégateur",
       "German": "Aggregator",
@@ -323,9 +383,15 @@ const exportDefinitions = {
     "term": "Aggressive",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of \"gas fees\", Aggressive is a category that enables you to be more forceful with your transaction, and have it completed as soon as possible. There are three categories available in MetaMask: Low, Market, Aggressive\n\nUsing advanced gas controls",
+    "description": (
+  <>
+    In the context of 'gas fees', Aggressive is a category that enables you to be more forceful with your transaction, and have it completed as soon as possible. There are three categories available in MetaMask: Low, Market, Aggressive\n\nUsing advanced gas controls
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "Aggressive",
       "Simplified Chinese": "激进型",
       "French": "Agressif",
       "German": "Aggressiv",
@@ -355,9 +421,15 @@ const exportDefinitions = {
     "term": "Agoric",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Agoric is a Proof-of-Stake blockchain that functions as a smart contract platform, enabling developers to deploy decentralized applications. The platform is built on a variant of the JavaScript programming language, which is a widely used language for web development.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Agoric is a Proof-of-Stake blockchain that functions as a smart contract platform, enabling developers to deploy decentralized applications. The platform is built on a variant of the JavaScript programming language, which is a widely used language for web development.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Agoric",
       "Simplified Chinese": "Agoric",
       "French": "Agoric",
       "German": "Agoric",
@@ -387,9 +459,15 @@ const exportDefinitions = {
     "term": "air-gapping",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A method for securing computers in which the device does not connect to the internet or any other open networks. Many hardware wallets use air-gapping as a security mechanism to keep users' private keys or Secret Recovery Phrase offline, and thus safer from any kind of attack.",
+    "description": (
+  <>
+    A method for securing computers in which the device does not connect to the internet or any other open networks. Many hardware wallets use air-gapping as a security mechanism to keep users' private keys or Secret Recovery Phrase offline, and thus safer from any kind of attack.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "air-gapping",
       "Simplified Chinese": "气隙",
       "French": "isolation déconnectée",
       "German": "Air-Gapping",
@@ -419,9 +497,15 @@ const exportDefinitions = {
     "term": "airdrop",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.",
+    "description": (
+  <>
+    A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "airdrop",
       "Simplified Chinese": "空投",
       "French": "airdrop",
       "German": "Airdrop",
@@ -451,9 +535,15 @@ const exportDefinitions = {
     "term": "airdrop (noun)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.",
+    "description": (
+  <>
+    A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "airdrop (noun)",
       "Simplified Chinese": "空投",
       "French": "airdrop (nom)",
       "German": "Airdrop",
@@ -483,9 +573,15 @@ const exportDefinitions = {
     "term": "AirGap Vault",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "AirGap Vault is a crypto wallet application that provides secure storage for digital assets. The wallet is designed to be used in conjunction with AirGap's other wallet app, AirGap Wallet, which is used for sending and receiving transactions.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    AirGap Vault is a crypto wallet application that provides secure storage for digital assets. The wallet is designed to be used in conjunction with AirGap's other wallet app, AirGap Wallet, which is used for sending and receiving transactions.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "AirGap Vault",
       "Simplified Chinese": "AirGap Vault",
       "French": "AirGap Vault",
       "German": "AirGap Vault",
@@ -515,9 +611,15 @@ const exportDefinitions = {
     "term": "AirSwap",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "AirSwap is a decentralized exchange (DEX) platform for trading digital assets, operating on Ethereum and Layer-2s like Polygon, Arbitrum.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    AirSwap is a decentralized exchange (DEX) platform for trading digital assets, operating on Ethereum and Layer-2s like Polygon, Arbitrum.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "AirSwap",
       "Simplified Chinese": "AirSwap",
       "French": "AirSwap",
       "German": "AirSwap",
@@ -547,9 +649,15 @@ const exportDefinitions = {
     "term": "algorithm",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.",
+    "description": (
+  <>
+    An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "algorithm",
       "Simplified Chinese": "算法",
       "French": "algorithme",
       "German": "Algorithmus",
@@ -579,9 +687,15 @@ const exportDefinitions = {
     "term": "altcoin",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "As Bitcoin was the first cryptocurrency, the term 'altcoin' was created to refer to 'any cryptocurrency other than Bitcoin'. The term is less used in Ethereum or smart contract-enabled blockchain communities. Many altcoins are forks of Bitcoin with minor changes (e.g., Litecoin). See also 'fork'.",
+    "description": (
+  <>
+    As Bitcoin was the first cryptocurrency, the term 'altcoin' was created to refer to 'any cryptocurrency other than Bitcoin'. The term is less used in Ethereum or smart contract-enabled blockchain communities. Many altcoins are forks of Bitcoin with minor changes (e.g., Litecoin). See also 'fork'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "altcoin",
       "Simplified Chinese": "竞争币",
       "French": "altcoin",
       "German": "Altcoin",
@@ -611,9 +725,15 @@ const exportDefinitions = {
     "term": "AML (Anti-Money Laundering)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A set of international laws enacted to diminish the potential for criminal organizations or individuals to launder money. These rules and laws are applied to cryptocurrencies with varying effects in different jurisdictions.",
+    "description": (
+  <>
+    A set of international laws enacted to diminish the potential for criminal organizations or individuals to launder money. These rules and laws are applied to cryptocurrencies with varying effects in different jurisdictions.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "AML (Anti-Money Laundering)",
       "Simplified Chinese": "反洗钱（AML）",
       "French": "AML (lutte contre le blanchiment d’argent)",
       "German": "AML (Geldwäschebekämpfung)",
@@ -643,9 +763,15 @@ const exportDefinitions = {
     "term": "API",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Application Programming Interface. A software intermediary that allows two separate applications to communicate with one another. APIs define methods of communication between various components.",
+    "description": (
+  <>
+    Application Programming Interface. A software intermediary that allows two separate applications to communicate with one another. APIs define methods of communication between various components.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "API",
       "Simplified Chinese": "API",
       "French": "API",
       "German": "API",
@@ -675,9 +801,15 @@ const exportDefinitions = {
     "term": "API (Application Programming Interface)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A predefined set of requests that one program can make to another in order to transfer information between them. When you hear someone saying that an application is \"getting information from\" another source, it's often doing so through an API.",
+    "description": (
+  <>
+    A predefined set of requests that one program can make to another in order to transfer information between them. When you hear someone saying that an application is 'getting information from' another source, it's often doing so through an API.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "API (Application Programming Interface)",
       "Simplified Chinese": "API（应用程序编程接口）",
       "French": "API (interface de programmation d’application)",
       "German": "API (Anwendungsprogrammierschnittstelle)",
@@ -707,9 +839,15 @@ const exportDefinitions = {
     "term": "AppChain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A blockchain network custom-made and optimized for a specific application's needs. An appchain is generally not a full-blown blockchain, but offers an optimized execution environment for the application, while still relying on an underlying blockchain for consensus. See also: \"blockchain trilemma\", \"modular blockchain\", \"Layer 2\", \"Layer 3\".",
+    "description": (
+  <>
+    A blockchain network custom-made and optimized for a specific application's needs. An appchain is generally not a full-blown blockchain, but offers an optimized execution environment for the application, while still relying on an underlying blockchain for consensus. See also: 'blockchain trilemma', 'modular blockchain', 'Layer 2', 'Layer 3'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "AppChain",
       "Simplified Chinese": "AppChain",
       "French": "AppChain",
       "German": "AppChain",
@@ -739,9 +877,15 @@ const exportDefinitions = {
     "term": "Apple Pay",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Apple Pay is a mobile payment service by Apple Inc. that allows users to make payments in person, in iOS apps, and on the web.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Apple Pay is a mobile payment service by Apple Inc. that allows users to make payments in person, in iOS apps, and on the web.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Apple Pay",
       "Simplified Chinese": "Apple Pay",
       "French": "Apple Pay",
       "German": "Apple Pay",
@@ -771,9 +915,15 @@ const exportDefinitions = {
     "term": "Arbitrum",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Arbitrum is a layer 2 scaling solution for Ethereum, designed to improve the scalability and reduce the cost of transactions on the Ethereum network. It is an implementation of the Optimistic Rollup technology, which is a type of scaling solution that uses off-chain computation to reduce the load on the main Ethereum network.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Arbitrum is a layer 2 scaling solution for Ethereum, designed to improve the scalability and reduce the cost of transactions on the Ethereum network. It is an implementation of the Optimistic Rollup technology, which is a type of scaling solution that uses off-chain computation to reduce the load on the main Ethereum network.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Arbitrum",
       "Simplified Chinese": "Arbitrum",
       "French": "Arbitrum",
       "German": "Arbitrum",
@@ -803,9 +953,15 @@ const exportDefinitions = {
     "term": "ASIC (Application Specific Integrated Circuit)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "ASICs are silicon chips designed to do a specific task. In ASICs used for mining cryptocurrencies, the ASIC will perform a calculation to find values that provide a desired solution when placed into a hashing algorithm.",
+    "description": (
+  <>
+    ASICs are silicon chips designed to do a specific task. In ASICs used for mining cryptocurrencies, the ASIC will perform a calculation to find values that provide a desired solution when placed into a hashing algorithm.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "ASIC (Application Specific Integrated Circuit)",
       "Simplified Chinese": "ASIC（专用集成电路）",
       "French": "ASIC (circuit intégré spécifique à une application)",
       "German": "ASIC (Anwendungsspezifische integrierte Schaltung)",
@@ -835,9 +991,15 @@ const exportDefinitions = {
     "term": "asset provenance",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Asset provenance refers to the origin, history, and ownership of a particular digital asset on the blockchain. In the crypto context, asset provenance refers to the ability to trace the ownership and transfer of a specific cryptocurrency or token from its creation or minting to its current holder.",
+    "description": (
+  <>
+    Asset provenance refers to the origin, history, and ownership of a particular digital asset on the blockchain. In the crypto context, asset provenance refers to the ability to trace the ownership and transfer of a specific cryptocurrency or token from its creation or minting to its current holder.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "asset provenance",
       "Simplified Chinese": "资产来源",
       "French": "Provenance de l’actif",
       "German": "Herkunft des Assets",
@@ -867,9 +1029,15 @@ const exportDefinitions = {
     "term": "attestation",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Attestation in crypto refers to the process of verifying the authenticity or validity of a piece of information or a transaction on a blockchain network. Attestation is an important aspect of blockchain technology, as it helps to ensure the integrity and security of the network.\n\nIn general, attestation involves a trusted third-party, or attester, verifying the authenticity of a transaction or piece of information. This can include verifying the identity of users on the network, verifying the accuracy of data, or validating the authenticity of a digital signature.\n\nOne example of attestation in crypto is the use of digital signatures to authenticate transactions on a blockchain network. Digital signatures use public key cryptography to verify the identity of the sender and ensure that the transaction has not been tampered with.\n\nAnother example of attestation in crypto is the use of Proof of Stake (PoS) consensus mechanisms, which rely on validators to attest to the validity of transactions on the network. Validators are responsible for verifying transactions and adding new blocks to the blockchain, and they are rewarded with cryptocurrency for their efforts.\n\nFor more info, see Attestation in Ethereum.",
+    "description": (
+  <>
+    Attestation in crypto refers to the process of verifying the authenticity or validity of a piece of information or a transaction on a blockchain network. Attestation is an important aspect of blockchain technology, as it helps to ensure the integrity and security of the network.\n\nIn general, attestation involves a trusted third-party, or attester, verifying the authenticity of a transaction or piece of information. This can include verifying the identity of users on the network, verifying the accuracy of data, or validating the authenticity of a digital signature.\n\nOne example of attestation in crypto is the use of digital signatures to authenticate transactions on a blockchain network. Digital signatures use public key cryptography to verify the identity of the sender and ensure that the transaction has not been tampered with.\n\nAnother example of attestation in crypto is the use of Proof of Stake (PoS) consensus mechanisms, which rely on validators to attest to the validity of transactions on the network. Validators are responsible for verifying transactions and adding new blocks to the blockchain, and they are rewarded with cryptocurrency for their efforts.\n\nFor more info, see Attestation in Ethereum.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "attestation",
       "Simplified Chinese": "证明",
       "French": "attestation",
       "German": "Bestätigung",
@@ -899,9 +1067,15 @@ const exportDefinitions = {
     "term": "Avalanche",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Avalanche is a decentralized blockchain platform designed to provide fast and secure transactions for digital assets and applications. The platform uses a consensus mechanism known as Avalanche consensus, which allows for high throughput, low latency, and customizable blockchains.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Avalanche is a decentralized blockchain platform designed to provide fast and secure transactions for digital assets and applications. The platform uses a consensus mechanism known as Avalanche consensus, which allows for high throughput, low latency, and customizable blockchains.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Avalanche",
       "Simplified Chinese": "Avalanche",
       "French": "Avalanche",
       "German": "Avalanche",
@@ -931,9 +1105,15 @@ const exportDefinitions = {
     "term": "Axie Infinity",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Axie Infinity is a non-fungible token-based online video game known for its in-game economy, which uses Ethereum-based cryptocurrencies.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Axie Infinity is a non-fungible token-based online video game known for its in-game economy, which uses Ethereum-based cryptocurrencies.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Axie Infinity",
       "Simplified Chinese": "Axie Infinity",
       "French": "Axie Infinity",
       "German": "Axie Infinity",
@@ -963,9 +1143,15 @@ const exportDefinitions = {
     "term": "Base fee",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Every block has a reserve price known as the 'base fee'. It is the minimum gas fee a user must pay to include a transaction in the next block.",
+    "description": (
+  <>
+    Every block has a reserve price known as the 'base fee'. It is the minimum gas fee a user must pay to include a transaction in the next block.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Base fee",
       "Simplified Chinese": "基础费用",
       "French": "Frais de base",
       "German": "Grundgebühr",
@@ -995,9 +1181,15 @@ const exportDefinitions = {
     "term": "Beacon Chain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Beacon Chain was one element built in the infrastructure being built to scale Ethereum. It was the foundation for a transition from a Proof of Work (PoW) consensus mechanism to Proof of Stake (PoS). For more information, see this guide.",
+    "description": (
+  <>
+    The Beacon Chain was one element built in the infrastructure being built to scale Ethereum. It was the foundation for a transition from a Proof of Work (PoW) consensus mechanism to Proof of Stake (PoS). For more information, see this guide.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Beacon Chain",
       "Simplified Chinese": "信标链",
       "French": "Chaîne phare",
       "German": "Beacon Chain",
@@ -1027,9 +1219,15 @@ const exportDefinitions = {
     "term": "Binance",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Binance is a centralized cryptocurrency exchange which operates in multiple countries, as well as two different blockchains, the BNB Chain and the BNB Smart Chain.",
+    "description": (
+  <>
+    Binance is a centralized cryptocurrency exchange which operates in multiple countries, as well as two different blockchains, the BNB Chain and the BNB Smart Chain.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Binance",
       "Simplified Chinese": "Binance",
       "French": "Binance",
       "German": "Binance",
@@ -1059,9 +1257,15 @@ const exportDefinitions = {
     "term": "Bitcoin / bitcoin (BTC)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Bitcoin is a decentralized digital currency or cryptocurrency, which was created in 2009 by an unknown person or group using the name Satoshi Nakamoto. Bitcoin transactions are recorded on a public digital ledger called the blockchain, which is maintained by a network of computers worldwide. Bitcoin transactions are made directly between users without the need for intermediaries like banks or financial institutions. Users can send and receive Bitcoins using digital wallets.\n\nOne of the key features of Bitcoin is its limited supply. There will only ever be 21 million Bitcoins in existence, which helps to prevent inflation and maintain the value of the currency. The plural of bitcoin is just bitcoin; the abbreviation is BTC, with a space: I have 250 BTC.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Bitcoin is a decentralized digital currency or cryptocurrency, which was created in 2009 by an unknown person or group using the name Satoshi Nakamoto. Bitcoin transactions are recorded on a public digital ledger called the blockchain, which is maintained by a network of computers worldwide. Bitcoin transactions are made directly between users without the need for intermediaries like banks or financial institutions. Users can send and receive Bitcoins using digital wallets.\n\nOne of the key features of Bitcoin is its limited supply. There will only ever be 21 million Bitcoins in existence, which helps to prevent inflation and maintain the value of the currency. The plural of bitcoin is just bitcoin; the abbreviation is BTC, with a space: I have 250 BTC.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Bitcoin / bitcoin (BTC)",
       "Simplified Chinese": "比特币 / 比特币（BTC）",
       "French": "Bitcoin / bitcoin (BTC)",
       "German": "Bitcoin / Bitcoin (BTC)",
@@ -1091,9 +1295,15 @@ const exportDefinitions = {
     "term": "block (noun)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "If we think of a blockchain as consisting of a ledger that is being constantly synced between any number of different nodes (indeed, \"distributed ledger technology\" is another phrase used to describe it), imagine that after a certain number of transactions have been added to the ledger and consensus has been reached among the nodes that the transactions are valid, then they are cryptographically locked into a \"block\" and officially recorded; this \"block\" forms the basis for the next one; in this way, they are all linked together in a chain, hence--blockchain.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    If we think of a blockchain as consisting of a ledger that is being constantly synced between any number of different nodes (indeed, 'distributed ledger technology' is another phrase used to describe it), imagine that after a certain number of transactions have been added to the ledger and consensus has been reached among the nodes that the transactions are valid, then they are cryptographically locked into a 'block' and officially recorded; this 'block' forms the basis for the next one; in this way, they are all linked together in a chain, hence--blockchain.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "block (noun)",
       "Simplified Chinese": "区块",
       "French": "Bloc (nom)",
       "German": "Block",
@@ -1123,9 +1333,15 @@ const exportDefinitions = {
     "term": "block explorer",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
+    "description": (
+  <>
+    A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "block explorer",
       "Simplified Chinese": "区块浏览器",
       "French": "explorateur de blocs",
       "German": "Block-Explorer",
@@ -1155,9 +1371,15 @@ const exportDefinitions = {
     "term": "block height",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The number of blocks connected together in the blockchain. For example, Height 0 would be the very first block, which is also called the Genesis Block.",
+    "description": (
+  <>
+    The number of blocks connected together in the blockchain. For example, Height 0 would be the very first block, which is also called the Genesis Block.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "block height",
       "Simplified Chinese": "区块高度",
       "French": "hauteur de bloc",
       "German": "Blockhöhe",
@@ -1187,9 +1409,15 @@ const exportDefinitions = {
     "term": "block reward",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The reward given to a miner or validator after it has successfully hashed a transaction block. Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.",
+    "description": (
+  <>
+    The reward given to a miner or validator after it has successfully hashed a transaction block. Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "block reward",
       "Simplified Chinese": "区块奖励",
       "French": "récompense de bloc",
       "German": "Blockbelohnung",
@@ -1219,9 +1447,15 @@ const exportDefinitions = {
     "term": "block time",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "When we talk about 'block time', we're referring to how long it takes for a block of transactions (see 'block') to be confirmed by the network, either by miners under PoW or by validators under PoS. See also 'Proof of Work', 'Proof of Stake'.",
+    "description": (
+  <>
+    When we talk about 'block time', we're referring to how long it takes for a block of transactions (see 'block') to be confirmed by the network, either by miners under PoW or by validators under PoS. See also 'Proof of Work', 'Proof of Stake'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "block time",
       "Simplified Chinese": "区块时间",
       "French": "délai du bloc",
       "German": "Blockzeit",
@@ -1251,9 +1485,15 @@ const exportDefinitions = {
     "term": "blockchain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A digital ledger comprised of unchangeable, digitally recorded data in packages called blocks. Each block is ‘chained’ to the next block using a cryptographic signature. Ethereum is a public blockchain, open to the world; its digital ledger is distributed, or synced, between many nodes; these nodes arrive at consensus regarding whether a transaction is valid before encrypting it, along with a number of other valid transactions, into a block. For more on blockchain technology, see here. See also 'block'.",
+    "description": (
+  <>
+    A digital ledger comprised of unchangeable, digitally recorded data in packages called blocks. Each block is ‘chained’ to the next block using a cryptographic signature. Ethereum is a public blockchain, open to the world; its digital ledger is distributed, or synced, between many nodes; these nodes arrive at consensus regarding whether a transaction is valid before encrypting it, along with a number of other valid transactions, into a block. For more on blockchain technology, see here. See also 'block'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "blockchain",
       "Simplified Chinese": "区块链",
       "French": "blockchain/chaîne de blocs",
       "German": "Blockchain",
@@ -1283,9 +1523,15 @@ const exportDefinitions = {
     "term": "Blockchain explorer",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be \"readable by anyone\", finding the specific information you're interested in may require indexing data off the blockchain--that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
+    "description": (
+  <>
+    A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be 'readable by anyone', finding the specific information you're interested in may require indexing data off the blockchain--that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Blockchain explorer",
       "Simplified Chinese": "区块链浏览器",
       "French": "Explorateur de blockchain",
       "German": "Blockchain-Explorer",
@@ -1315,9 +1561,15 @@ const exportDefinitions = {
     "term": "blockchain trilemma",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Tradeoffs facing those building public blockchain networks vis-a-vis three elements: decentralization, security, and scalability (or speed). These three elements are either necessary or desireable in public distributed networks, and often, designing a system that optimizes for one compromises on another.",
+    "description": (
+  <>
+    Tradeoffs facing those building public blockchain networks vis-a-vis three elements: decentralization, security, and scalability (or speed). These three elements are either necessary or desireable in public distributed networks, and often, designing a system that optimizes for one compromises on another.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "blockchain trilemma",
       "Simplified Chinese": "区块链不可能三角",
       "French": "Trilemme de la blockchain",
       "German": "Blockchain-Trilemma",
@@ -1347,9 +1599,15 @@ const exportDefinitions = {
     "term": "BNB Chain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Build N Build (BNB) Chain is a distributed blockchain network upon which developers and innovators can build decentralized applications (DApps) as part of the move to Web3. BNB chain",
+    "description": (
+  <>
+    Build N Build (BNB) Chain is a distributed blockchain network upon which developers and innovators can build decentralized applications (DApps) as part of the move to Web3. BNB chain
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "BNB Chain",
       "Simplified Chinese": "BNB Chain",
       "French": "BNB Chain",
       "German": "BNB Chain",
@@ -1379,9 +1637,15 @@ const exportDefinitions = {
     "term": "bounty / bug bounty",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A reward offered for exposing vulnerabilities and issues in computer code.",
+    "description": (
+  <>
+    A reward offered for exposing vulnerabilities and issues in computer code.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "bounty / bug bounty",
       "Simplified Chinese": "赏金 / 漏洞赏金",
       "French": "prime/prime de bug",
       "German": "Belohnung / Fehlerbelohnung",
@@ -1411,9 +1675,15 @@ const exportDefinitions = {
     "term": "brain wallet",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A blockchain account generated from a seed phrase or password or passphrase of your choosing. Humans are not capable of generating enough entropy, or randomness, and therefore the wallets derived from these phrases are insecure; brain wallets can be brute forced by super fast computers. For this reason, brain wallet are insecure and should not be used. See also 'Seed phrase / Secret Recovery Phrase'.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A blockchain account generated from a seed phrase or password or passphrase of your choosing. Humans are not capable of generating enough entropy, or randomness, and therefore the wallets derived from these phrases are insecure; brain wallets can be brute forced by super fast computers. For this reason, brain wallet are insecure and should not be used. See also 'Seed phrase / Secret Recovery Phrase'.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "brain wallet",
       "Simplified Chinese": "脑钱包",
       "French": "portefeuille mnémotechnique",
       "German": "Brain-Wallet",
@@ -1443,9 +1713,15 @@ const exportDefinitions = {
     "term": "Brave",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Brave is a free and open-source web browser developed by Brave Software, Inc., based on the Chromium web browser. It has a built-in crypto wallet that allows users to connect to the web3 ecosystem.",
+    "description": (
+  <>
+    Brave is a free and open-source web browser developed by Brave Software, Inc., based on the Chromium web browser. It has a built-in crypto wallet that allows users to connect to the web3 ecosystem.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Brave",
       "Simplified Chinese": "Brave",
       "French": "Brave",
       "German": "Brave",
@@ -1475,9 +1751,15 @@ const exportDefinitions = {
     "term": "Bridge",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A bridge is a tool built to move assets from one network to another. It’s also a verb, used to describe that action: “I bridged my ETH from Ethereum mainnet to Arbitrum.” Not all bridges are created equal, and you should be informed about what you’re doing before you use one. \nField Guide to bridges \n\nSee also MetaMask Bridge",
+    "description": (
+  <>
+    A bridge is a tool built to move assets from one network to another. It’s also a verb, used to describe that action: “I bridged my ETH from Ethereum mainnet to Arbitrum.” Not all bridges are created equal, and you should be informed about what you’re doing before you use one. \nField Guide to bridges \n\nSee also MetaMask Bridge
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Bridge",
       "Simplified Chinese": "跨链桥",
       "French": "Passerelle",
       "German": "Bridge",
@@ -1507,9 +1789,15 @@ const exportDefinitions = {
     "term": "BTC",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Abbreviation for Bitcoin",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Abbreviation for Bitcoin
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "BTC",
       "Simplified Chinese": "BTC",
       "French": "BTC",
       "German": "BTC",
@@ -1539,9 +1827,15 @@ const exportDefinitions = {
     "term": "BUIDL",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Ostensibly coined (see what we did there) by Gitcoin's Kevin Owocki. It reflects the Ethereum-focused mindset of not just investing in a cryptocurrency as a store of value, but rather investing in it as an ecosystem and a platform for public goods and software; it complements, in this sense, the now-infamous HODL.",
+    "description": (
+  <>
+    Ostensibly coined (see what we did there) by Gitcoin's Kevin Owocki. It reflects the Ethereum-focused mindset of not just investing in a cryptocurrency as a store of value, but rather investing in it as an ecosystem and a platform for public goods and software; it complements, in this sense, the now-infamous HODL.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "BUIDL",
       "Simplified Chinese": "BUIDL（构建）",
       "French": "BUIDL (voir nos réalisations)",
       "German": "BUIDL",
@@ -1571,9 +1865,15 @@ const exportDefinitions = {
     "term": "bytecode",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Bytecode is a \"low-level\" computer language, that is, meant to be processed by a computer, rather than a \"high-level\", more human-readable, language. In Ethereum, higher-level Solidity is compiled into Ethereum bytecode, which is read by the Ethereum Virtual Machine (EVM).",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Bytecode is a 'low-level' computer language, that is, meant to be processed by a computer, rather than a 'high-level', more human-readable, language. In Ethereum, higher-level Solidity is compiled into Ethereum bytecode, which is read by the Ethereum Virtual Machine (EVM).
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "bytecode",
       "Simplified Chinese": "字节码",
       "French": "bytecode",
       "German": "Bytecode",
@@ -1603,9 +1903,15 @@ const exportDefinitions = {
     "term": "Byzantine fault tolerance",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A Byzantine fault, or failure, is one of the most difficult failures to deal with in computer systems; this is because it takes into account the possibility that the information used to determine the current state of the system may--or may not--be reliable. While applicable in many realms of technology, this becomes of particular interest in public blockchain systems: how do we ensure that we can agree on the current state of the network when there is an incentive, often a significant financial incentive, to subvert the state of the network for one's own profit? On a more basic level, if we're coordinating a network running around the world on all kinds of different hardware and software, there are all kinds or problems that can occur that hinder the network's ability to reach consensus on its current state. Therefore, a network that has been designed and implemented to be resistant to these sorts of failures, either due to malicious intent or technical failure, is said to be Byzantine Fault Tolerant.",
+    "description": (
+  <>
+    A Byzantine fault, or failure, is one of the most difficult failures to deal with in computer systems; this is because it takes into account the possibility that the information used to determine the current state of the system may--or may not--be reliable. While applicable in many realms of technology, this becomes of particular interest in public blockchain systems: how do we ensure that we can agree on the current state of the network when there is an incentive, often a significant financial incentive, to subvert the state of the network for one's own profit? On a more basic level, if we're coordinating a network running around the world on all kinds of different hardware and software, there are all kinds or problems that can occur that hinder the network's ability to reach consensus on its current state. Therefore, a network that has been designed and implemented to be resistant to these sorts of failures, either due to malicious intent or technical failure, is said to be Byzantine Fault Tolerant.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Byzantine fault tolerance",
       "Simplified Chinese": "拜占庭容错",
       "French": "Panne byzantine",
       "German": "Byzantine-Fehlertoleranz",
@@ -1635,9 +1941,15 @@ const exportDefinitions = {
     "term": "Byzantium fork",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A \"hard fork\" in the Ethereum network that occurred in October of 2017. For detailled information, see here; see also \"hard fork\".",
+    "description": (
+  <>
+    A 'hard fork' in the Ethereum network that occurred in October of 2017. For detailled information, see here; see also 'hard fork'.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Byzantium fork",
       "Simplified Chinese": "拜占庭分叉",
       "French": "Fork Byzance",
       "German": "Byzantium-Fork",
@@ -1667,9 +1979,15 @@ const exportDefinitions = {
     "term": "Celo",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Celo is a platform designed to allow mobile users around the world to make simple financial transactions with cryptocurrency. The platform has its own blockchain and two native tokens: CELO and cUSD",
+    "description": (
+  <>
+    Celo is a platform designed to allow mobile users around the world to make simple financial transactions with cryptocurrency. The platform has its own blockchain and two native tokens: CELO and cUSD
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Celo",
       "Simplified Chinese": "Celo",
       "French": "Celo",
       "German": "Celo",
@@ -1699,9 +2017,15 @@ const exportDefinitions = {
     "term": "Centralized exchange (CEX)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users.\nCentralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.\nHowever, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.",
+    "description": (
+  <>
+    A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users.\nCentralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.\nHowever, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Centralized exchange (CEX)",
       "Simplified Chinese": "中心化交易所（CEX）",
       "French": "Échange centralisé (CEX)",
       "German": "Zentralisierte Börse (CEX)",
@@ -1731,9 +2055,15 @@ const exportDefinitions = {
     "term": "CEX",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronym; see 'Centralized Exchange'.",
+    "description": (
+  <>
+    Acronym; see 'Centralized Exchange'.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "CEX",
       "Simplified Chinese": "CEX（中心化交易所）",
       "French": "CEX",
       "German": "CEX",
@@ -1763,9 +2093,15 @@ const exportDefinitions = {
     "term": "chain ID",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A chain ID is a unique identifier that represents a blockchain network. We use it to distinguish different blockchain networks from each other and to ensure that transactions and messages are sent to the correct network.\nEthereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses.\n\nPeer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A chain ID is a unique identifier that represents a blockchain network. We use it to distinguish different blockchain networks from each other and to ensure that transactions and messages are sent to the correct network.\nEthereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses.\n\nPeer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "chain ID",
       "Simplified Chinese": "链 ID",
       "French": "ID de chaîne",
       "German": "Chain-ID",
@@ -1795,9 +2131,15 @@ const exportDefinitions = {
     "term": "Chrome",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Internet browser.",
+    "description": (
+  <>
+    Internet browser.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Chrome",
       "Simplified Chinese": "Chrome",
       "French": "Chrome",
       "German": "Chrome",
@@ -1827,9 +2169,15 @@ const exportDefinitions = {
     "term": "client (Ethereum or other compatible blockchain)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In computing in general, a 'client' is a program, running on a local computer, that is accessing data made available by a remote computer. In public blockchain networks, a 'client' is the software that actually does the work of syncing block data, confirming transactions, and participating in network consensus. A client usually includes a cryptocurrency software wallet. ConsenSys has supported efforts to maintain the Ethereum clients of Besu and Teku; see an up-to-date list of Ethereum clients here.",
+    "description": (
+  <>
+    In computing in general, a 'client' is a program, running on a local computer, that is accessing data made available by a remote computer. In public blockchain networks, a 'client' is the software that actually does the work of syncing block data, confirming transactions, and participating in network consensus. A client usually includes a cryptocurrency software wallet. ConsenSys has supported efforts to maintain the Ethereum clients of Besu and Teku; see an up-to-date list of Ethereum clients here.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "client (Ethereum or other compatible blockchain)",
       "Simplified Chinese": "客户端（Ethereum 或其他兼容区块链）",
       "French": "client (Ethereum ou autre compatible avec la blockchain)",
       "German": "Kunde (Ethereum oder eine andere kompatible Blockchain)",
@@ -1859,9 +2207,15 @@ const exportDefinitions = {
     "term": "Codefi",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Derived from “Commerce & Decentralized Finance”, Codefi, part of ConsenSys, builds applications for commerce and financial use cases. Currently known as Consensys Staking",
+    "description": (
+  <>
+    Derived from “Commerce & Decentralized Finance”, Codefi, part of ConsenSys, builds applications for commerce and financial use cases. Currently known as Consensys Staking
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Codefi",
       "Simplified Chinese": "Codefi",
       "French": "Codefi",
       "German": "Codefi",
@@ -1891,9 +2245,15 @@ const exportDefinitions = {
     "term": "coin",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The term 'coin' has some nuances. Strictly speaking, a 'coin' could be defined as: A fungible token (all of them identical) issued on a blockchain, either as the network's transactional token, or through a smart contract deployed to that network. Some people may use 'coins' as shorthand for 'bitcoin'; the immortal aphorism 'not your keys, not your coins' refers to bitcoins. Another thing to keep in mind is that, while coins are put forward as some sort of representation of value, that value can vary wildly from one 'coin' to another. A coin may represent the value of the computational resources of the network, or it may be 'pegged' to represent fiat currency value, or it may float according to the value placed on immaterial resources like NFTs, membership, or digital goods, to name a few.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The term 'coin' has some nuances. Strictly speaking, a 'coin' could be defined as: A fungible token (all of them identical) issued on a blockchain, either as the network's transactional token, or through a smart contract deployed to that network. Some people may use 'coins' as shorthand for 'bitcoin'; the immortal aphorism 'not your keys, not your coins' refers to bitcoins. Another thing to keep in mind is that, while coins are put forward as some sort of representation of value, that value can vary wildly from one 'coin' to another. A coin may represent the value of the computational resources of the network, or it may be 'pegged' to represent fiat currency value, or it may float according to the value placed on immaterial resources like NFTs, membership, or digital goods, to name a few.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "coin",
       "Simplified Chinese": "代币",
       "French": "monnaie/jeton fongible",
       "German": "Coin",
@@ -1923,9 +2283,15 @@ const exportDefinitions = {
     "term": "Coinbase Pay",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Coinbase Pay is a payment feature that allows you to buy or transfer supported crypto on Coinbase.com directly from self-custody wallets (like MetaMask) and dapps.",
+    "description": (
+  <>
+    Coinbase Pay is a payment feature that allows you to buy or transfer supported crypto on Coinbase.com directly from self-custody wallets (like MetaMask) and dapps.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Coinbase Pay",
       "Simplified Chinese": "Coinbase Pay",
       "French": "Coinbase Pay",
       "German": "Coinbase Pay",
@@ -1955,9 +2321,15 @@ const exportDefinitions = {
     "term": "cold storage",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "cold wallet/cold storage: An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub:\nHardware Wallet Hub",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    cold wallet/cold storage: An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub:\nHardware Wallet Hub
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "cold storage",
       "Simplified Chinese": "冷存储",
       "French": "stockage déconnecté",
       "German": "Cold Storage",
@@ -1987,9 +2359,15 @@ const exportDefinitions = {
     "term": "cold wallet / cold storage",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub.",
+    "description": (
+  <>
+    An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "cold wallet / cold storage",
       "Simplified Chinese": "冷钱包 / 冷存储",
       "French": "portefeuille déconnecté /stockage déconnecté",
       "German": "Cold Wallet / Cold Storage",
@@ -2019,9 +2397,15 @@ const exportDefinitions = {
     "term": "Community Platform",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A community platform is a dedicated virtual space where people who share the same goals, interests, or motivations can connect and build relationships.\n\nMetaMask's community platform can be accessed here:\nMetaMask Community",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A community platform is a dedicated virtual space where people who share the same goals, interests, or motivations can connect and build relationships.\n\nMetaMask's community platform can be accessed here:\nMetaMask Community
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Community Platform",
       "Simplified Chinese": "社区平台",
       "French": "Plateforme communautaire",
       "German": "Community-Plattform",
@@ -2051,9 +2435,15 @@ const exportDefinitions = {
     "term": "Compiling",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "There are many languages in computing and software programming. In general, 'low-level' languages are those actually processed by the computer's operating system or processor, while 'high-level' languages are those typed in by software developers making programs. Compiling, then, is converting code written in a high-level programming language (e.g., Solidity) into a lower-level language (e.g., EVM bytecode).",
+    "description": (
+  <>
+    There are many languages in computing and software programming. In general, 'low-level' languages are those actually processed by the computer's operating system or processor, while 'high-level' languages are those typed in by software developers making programs. Compiling, then, is converting code written in a high-level programming language (e.g., Solidity) into a lower-level language (e.g., EVM bytecode).
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Compiling",
       "Simplified Chinese": "编译",
       "French": "Compiler",
       "German": "Kompilierung",
@@ -2083,9 +2473,15 @@ const exportDefinitions = {
     "term": "Compound",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Compound is a decentralized, blockchain-based protocol that allows you to lend and borrow crypto — and have a say in its governance with its native COMP token.",
+    "description": (
+  <>
+    Compound is a decentralized, blockchain-based protocol that allows you to lend and borrow crypto — and have a say in its governance with its native COMP token.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Compound",
       "Simplified Chinese": "Compound",
       "French": "Compound",
       "German": "Compound",
@@ -2115,9 +2511,15 @@ const exportDefinitions = {
     "term": "confirmation",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A confirmation happens when a network has verified a blockchain transaction. Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed, it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.",
+    "description": (
+  <>
+    A confirmation happens when a network has verified a blockchain transaction. Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed, it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "confirmation",
       "Simplified Chinese": "确认",
       "French": "confirmation",
       "German": "Bestätigung",
@@ -2147,9 +2549,15 @@ const exportDefinitions = {
     "term": "consensus",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The process used by a group of peers, or nodes, on a blockchain network to agree on the validity of transactions submitted to the network. Dominant consensus mechanisms are Proof of Work (PoW) and Proof of Stake (PoS).",
+    "description": (
+  <>
+    The process used by a group of peers, or nodes, on a blockchain network to agree on the validity of transactions submitted to the network. Dominant consensus mechanisms are Proof of Work (PoW) and Proof of Stake (PoS).
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "consensus",
       "Simplified Chinese": "共识",
       "French": "consensus",
       "German": "Konsens",
@@ -2179,9 +2587,15 @@ const exportDefinitions = {
     "term": "Consensus client",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A consensus client is a component of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger.\n\nThere are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A consensus client is a component of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger.\n\nThere are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Consensus client",
       "Simplified Chinese": "共识客户端",
       "French": "client de consensus",
       "German": "Konsens-Client",
@@ -2211,9 +2625,15 @@ const exportDefinitions = {
     "term": "Consensus layer",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The consensus layer is responsible for validating and verifying transactions and blocks, and for coordinating communication between nodes to achieve consensus. In a blockchain network, the consensus layer is implemented by the consensus protocol or algorithm that defines how new blocks are added to the chain and how the network reaches agreement on the current state of the ledger.",
+    "description": (
+  <>
+    The consensus layer is responsible for validating and verifying transactions and blocks, and for coordinating communication between nodes to achieve consensus. In a blockchain network, the consensus layer is implemented by the consensus protocol or algorithm that defines how new blocks are added to the chain and how the network reaches agreement on the current state of the ledger.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Consensus layer",
       "Simplified Chinese": "共识层",
       "French": "couche de consensus",
       "German": "Konsens-Layer",
@@ -2243,9 +2663,15 @@ const exportDefinitions = {
     "term": "Consensus mechanism",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Consensus mechanisms (also known as consensus protocols or consensus algorithms) allow distributed systems (networks of computers) to work together and stay secure.",
+    "description": (
+  <>
+    Consensus mechanisms (also known as consensus protocols or consensus algorithms) allow distributed systems (networks of computers) to work together and stay secure.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Consensus mechanism",
       "Simplified Chinese": "共识机制",
       "French": "mécanisme de consensus",
       "German": "Konsens-Mechanismus",
@@ -2275,9 +2701,15 @@ const exportDefinitions = {
     "term": "Consensys",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Short for Consensus Systems, ConsenSys is the software engineering leader of the blockchain space.",
+    "description": (
+  <>
+    Short for Consensus Systems, ConsenSys is the software engineering leader of the blockchain space.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Consensys",
       "Simplified Chinese": "Consensys",
       "French": "Consensys",
       "German": "Consensys",
@@ -2307,9 +2739,15 @@ const exportDefinitions = {
     "term": "Constantinople fork",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "One of the \"hard forks\" made to the Ethereum network, in February 2019. For more detailed information, see here; see also \"hard fork\".",
+    "description": (
+  <>
+    One of the 'hard forks' made to the Ethereum network, in February 2019. For more detailed information, see here; see also 'hard fork'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Constantinople fork",
       "Simplified Chinese": "君士坦丁堡分叉",
       "French": "Fork Constantinople",
       "German": "Constantinople-Fork",
@@ -2339,9 +2777,15 @@ const exportDefinitions = {
     "term": "contract",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "See smart contract",
+    "description": (
+  <>
+    See smart contract
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "contract",
       "Simplified Chinese": "合约",
       "French": "contrat",
       "German": "Contract",
@@ -2371,9 +2815,15 @@ const exportDefinitions = {
     "term": "Contract account",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An account containing code that executes whenever it receives a transaction from another account (EOA or contract).",
+    "description": (
+  <>
+    An account containing code that executes whenever it receives a transaction from another account (EOA or contract).
+  </>
+)
+,
     "termCategory": "Company name",
     "i18n": {
+      "Term": "Contract account",
       "Simplified Chinese": "合约账户",
       "French": "compte du contrat",
       "German": "Vertragskonto",
@@ -2403,9 +2853,15 @@ const exportDefinitions = {
     "term": "CoolWallet",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A crypto hardware wallet for Bitcoin, Ethereum, Litecoin, Bitcoin Cash, and ERC20 Token.",
+    "description": (
+  <>
+    A crypto hardware wallet for Bitcoin, Ethereum, Litecoin, Bitcoin Cash, and ERC20 Token.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "CoolWallet",
       "Simplified Chinese": "CoolWallet",
       "French": "CoolWallet",
       "German": "CoolWallet",
@@ -2435,9 +2891,15 @@ const exportDefinitions = {
     "term": "crypto asset",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.",
+    "description": (
+  <>
+    A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "crypto asset",
       "Simplified Chinese": "加密货币资产",
       "French": "cryptoactif",
       "German": "Krypto-Asset",
@@ -2467,9 +2929,15 @@ const exportDefinitions = {
     "term": "crypto bounties",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Crypto bounties are an important rewards mechanism that blockchain projects utilize in order to secure the successful accomplishments of certain tasks required by the network. Initially, bounties were intended as a marketing tool to attract users to participate in performing validation services for blockchain projects. Today, crypto bounties have developed significantly beyond the purpose of a simple marketing tool. crypto bounties",
+    "description": (
+  <>
+    Crypto bounties are an important rewards mechanism that blockchain projects utilize in order to secure the successful accomplishments of certain tasks required by the network. Initially, bounties were intended as a marketing tool to attract users to participate in performing validation services for blockchain projects. Today, crypto bounties have developed significantly beyond the purpose of a simple marketing tool. crypto bounties
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "crypto bounties",
       "Simplified Chinese": "加密货币赏金",
       "French": "primes crypto",
       "German": "Krypto-Belohnungen",
@@ -2499,9 +2967,15 @@ const exportDefinitions = {
     "term": "crypto fund",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A crypto fund is a type of investment fund that focuses on investing in cryptocurrencies or companies involved in the cryptocurrency industry. These funds are designed to give investors exposure to the crypto market without the need for them to directly buy and hold cryptocurrencies themselves.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A crypto fund is a type of investment fund that focuses on investing in cryptocurrencies or companies involved in the cryptocurrency industry. These funds are designed to give investors exposure to the crypto market without the need for them to directly buy and hold cryptocurrencies themselves.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "crypto fund",
       "Simplified Chinese": "加密货币基金",
       "French": "fonds crypto",
       "German": "Krypto-Fond",
@@ -2531,9 +3005,15 @@ const exportDefinitions = {
     "term": "crypto wallet",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A crypto wallet is a device, physical medium, program or a service which stores the public and/or private keys for cryptocurrency transactions.\nCrypto wallets come in different forms, including software wallets, hardware wallets, and paper wallets.",
+    "description": (
+  <>
+    A crypto wallet is a device, physical medium, program or a service which stores the public and/or private keys for cryptocurrency transactions.\nCrypto wallets come in different forms, including software wallets, hardware wallets, and paper wallets.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "crypto wallet",
       "Simplified Chinese": "加密货币钱包",
       "French": "portefeuille crypto",
       "German": "Krypto-Wallet",
@@ -2563,9 +3043,15 @@ const exportDefinitions = {
     "term": "crypto-",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Even though this prefix is originally Greek, our current usage comes from cryptography. Technologies that are referred to with the blanket term of \"crypto\" tech are underlain by cryptographic tools and processes (such as public/private key pairs) that enable innovative functionality and security. Of course, \"cryptocurrency\" often gets shortened to simply \"crypto\", so this emerging field is full of instances where something \"crypto\" is being added to or shortened. With the emergence of the term \"Web3\", arguably a distinction has begun to be made between \"crypto\", referring to DeFi and other financial use cases of the technology, while \"Web3\" refers to the transition of Internet-based activities to more decentralized practices and platforms.",
+    "description": (
+  <>
+    Even though this prefix is originally Greek, our current usage comes from cryptography. Technologies that are referred to with the blanket term of 'crypto' tech are underlain by cryptographic tools and processes (such as public/private key pairs) that enable innovative functionality and security. Of course, 'cryptocurrency' often gets shortened to simply 'crypto', so this emerging field is full of instances where something 'crypto' is being added to or shortened. With the emergence of the term 'Web3', arguably a distinction has begun to be made between 'crypto', referring to DeFi and other financial use cases of the technology, while 'Web3' refers to the transition of Internet-based activities to more decentralized practices and platforms.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "crypto-",
       "Simplified Chinese": "加密-",
       "French": "crypto-",
       "German": "Krypto-",
@@ -2595,9 +3081,15 @@ const exportDefinitions = {
     "term": "crypto-compliance",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A blanket term used to refer to ensuring crypto projects conform with applicable regulations and laws.",
+    "description": (
+  <>
+    A blanket term used to refer to ensuring crypto projects conform with applicable regulations and laws.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "crypto-compliance",
       "Simplified Chinese": "加密-合规",
       "French": "compliance crypto",
       "German": "Krypto-Compliance",
@@ -2627,9 +3119,15 @@ const exportDefinitions = {
     "term": "cryptoassets",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.",
+    "description": (
+  <>
+    A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "cryptoassets",
       "Simplified Chinese": "加密资产",
       "French": "cryptoactifs",
       "German": "Krypto-Assets",
@@ -2659,9 +3157,15 @@ const exportDefinitions = {
     "term": "cryptocurrency",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Digital currency that is based on mathematics and uses encryption techniques to regulate the creation of units of currency as well as verifying the transfer of funds. Cryptocurrencies operate independently of a central bank, and are kept track of through distributed ledger technology.",
+    "description": (
+  <>
+    Digital currency that is based on mathematics and uses encryption techniques to regulate the creation of units of currency as well as verifying the transfer of funds. Cryptocurrencies operate independently of a central bank, and are kept track of through distributed ledger technology.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "cryptocurrency",
       "Simplified Chinese": "加密货币",
       "French": "cryptomonnaie",
       "German": "Kryptowährung",
@@ -2691,9 +3195,15 @@ const exportDefinitions = {
     "term": "cryptoeconomics",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The economic analysis of decentralized finance; notably, the MIT Cryptoeconomics Lab.",
+    "description": (
+  <>
+    The economic analysis of decentralized finance; notably, the MIT Cryptoeconomics Lab.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "cryptoeconomics",
       "Simplified Chinese": "加密经济",
       "French": "Cryptoéconomie",
       "German": "Kryptoökonomie",
@@ -2723,9 +3233,15 @@ const exportDefinitions = {
     "term": "cryptography",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In its broadest sense, cryptography is the art of 'hidden writing' -- using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks. Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.",
+    "description": (
+  <>
+    In its broadest sense, cryptography is the art of 'hidden writing' -- using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks. Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "cryptography",
       "Simplified Chinese": "加密学",
       "French": "cryptographie",
       "German": "Kryptographie",
@@ -2755,9 +3271,15 @@ const exportDefinitions = {
     "term": "Curve",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Curve is a decentralized exchange for stablecoins that uses an automated market maker (AMM) to manage liquidity.",
+    "description": (
+  <>
+    Curve is a decentralized exchange for stablecoins that uses an automated market maker (AMM) to manage liquidity.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Curve",
       "Simplified Chinese": "Curve",
       "French": "Curve",
       "German": "Curve",
@@ -2787,9 +3309,15 @@ const exportDefinitions = {
     "term": "custody (noun)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of cryptocurrencies, custody refers to the safekeeping and management of digital assets on behalf of a client by a third-party service provider. Custody services are an important aspect of the cryptocurrency industry because cryptocurrencies are digital assets that require secure storage and management to prevent loss, theft, or unauthorized access.\n\nCrypto custody services are typically offered by specialized companies that provide secure storage solutions for cryptocurrencies. These companies use various security measures such as multi-signature authentication, cold storage, and insurance to protect their clients' assets.",
+    "description": (
+  <>
+    In the context of cryptocurrencies, custody refers to the safekeeping and management of digital assets on behalf of a client by a third-party service provider. Custody services are an important aspect of the cryptocurrency industry because cryptocurrencies are digital assets that require secure storage and management to prevent loss, theft, or unauthorized access.\n\nCrypto custody services are typically offered by specialized companies that provide secure storage solutions for cryptocurrencies. These companies use various security measures such as multi-signature authentication, cold storage, and insurance to protect their clients' assets.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "custody (noun)",
       "Simplified Chinese": "托管",
       "French": "Dépôt (nom)",
       "German": "Verwahrung",
@@ -2819,9 +3347,15 @@ const exportDefinitions = {
     "term": "D'CENT",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Hardware wallet.",
+    "description": (
+  <>
+    Hardware wallet.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "D'CENT",
       "Simplified Chinese": "D'CENT",
       "French": "D’CENT",
       "German": "D'CENT",
@@ -2851,9 +3385,15 @@ const exportDefinitions = {
     "term": "DAI",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "DAI is an Ethereum-based stablecoin whose issuance and development is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    DAI is an Ethereum-based stablecoin whose issuance and development is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "DAI",
       "Simplified Chinese": "DAI",
       "French": "DAI",
       "German": "DAI",
@@ -2883,9 +3423,15 @@ const exportDefinitions = {
     "term": "DAO",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronym; see 'Decentralized Autonomous Organization'.",
+    "description": (
+  <>
+    Acronym; see 'Decentralized Autonomous Organization'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "DAO",
       "Simplified Chinese": "DAO（去中心化自治组织）",
       "French": "DAO",
       "German": "DAO",
@@ -2915,9 +3461,15 @@ const exportDefinitions = {
     "term": "dapp",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronym; see 'decentralized application'",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Acronym; see 'decentralized application'
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "dapp",
       "Simplified Chinese": "dapp（去中心化应用）",
       "French": "dApp",
       "German": "dApp",
@@ -2947,9 +3499,15 @@ const exportDefinitions = {
     "term": "decentralization",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The transfer of authority and responsibility from a centralized organization, government, or party to a distributed network.",
+    "description": (
+  <>
+    The transfer of authority and responsibility from a centralized organization, government, or party to a distributed network.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "decentralization",
       "Simplified Chinese": "去中心化",
       "French": "Décentralisation",
       "German": "Dezentralisierung",
@@ -2979,9 +3537,15 @@ const exportDefinitions = {
     "term": "decentralized application",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An open-source software application with backend (not user-facing) code running on a decentralized peer-to-peer network, rather than a centralized server.  You may see alternate spellings: dApps, DApps, Dapps, and Đapps.",
+    "description": (
+  <>
+    An open-source software application with backend (not user-facing) code running on a decentralized peer-to-peer network, rather than a centralized server.  You may see alternate spellings: dApps, DApps, Dapps, and Đapps.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "decentralized application",
       "Simplified Chinese": "去中心化应用",
       "French": "application décentralisée",
       "German": "Dezentralisierte Anwendung",
@@ -3011,9 +3575,15 @@ const exportDefinitions = {
     "term": "Decentralized Autonomous Organization (DAO)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A Digital Decentralized Autonomous Organization (DAO, pronounced like the Chinese concept) is a powerful and very flexible organizational structure built on a blockchain. Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.",
+    "description": (
+  <>
+    A Digital Decentralized Autonomous Organization (DAO, pronounced like the Chinese concept) is a powerful and very flexible organizational structure built on a blockchain. Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Decentralized Autonomous Organization (DAO)",
       "Simplified Chinese": "去中心化自治组织（DAO）",
       "French": "Organisation autonome décentralisée",
       "German": "Dezentralisierte autonome Organisation (DAO)",
@@ -3043,9 +3613,15 @@ const exportDefinitions = {
     "term": "decentralized exchange (DEX)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A decentralized exchange (DEX) is a platform for exchanging cryptocurrencies based on functionality programmed on the blockchain (i.e., in smart contracts). The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.",
+    "description": (
+  <>
+    A decentralized exchange (DEX) is a platform for exchanging cryptocurrencies based on functionality programmed on the blockchain (i.e., in smart contracts). The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "decentralized exchange (DEX)",
       "Simplified Chinese": "去中心化交易所（DEX）",
       "French": "Échange décentralisé (DEX)",
       "German": "Dezentralisierte Börse (DEX)",
@@ -3075,9 +3651,15 @@ const exportDefinitions = {
     "term": "decentralized finance",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "If cryptocurrency is web3’s monetary system, its financial system is DeFi. This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools.",
+    "description": (
+  <>
+    If cryptocurrency is web3’s monetary system, its financial system is DeFi. This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "decentralized finance",
       "Simplified Chinese": "去中心化金融",
       "French": "finance décentralisée",
       "German": "Dezentralisierte Finanzen",
@@ -3107,9 +3689,15 @@ const exportDefinitions = {
     "term": "decentralized web",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The decentralized web, also known as web3, is a concept that refers to a new type of internet architecture that aims to provide a more open, secure, and privacy-preserving internet experience by removing the need for centralized intermediaries and giving users more control over their data.\n\nIn contrast to the current centralized web, where most online activities are controlled by a few large corporations and their servers, the decentralized web relies on a network of distributed nodes and peer-to-peer protocols to store and transmit data. This means that there is no central authority controlling the internet, and users can interact directly with each other without the need for intermediaries.",
+    "description": (
+  <>
+    The decentralized web, also known as web3, is a concept that refers to a new type of internet architecture that aims to provide a more open, secure, and privacy-preserving internet experience by removing the need for centralized intermediaries and giving users more control over their data.\n\nIn contrast to the current centralized web, where most online activities are controlled by a few large corporations and their servers, the decentralized web relies on a network of distributed nodes and peer-to-peer protocols to store and transmit data. This means that there is no central authority controlling the internet, and users can interact directly with each other without the need for intermediaries.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "decentralized web",
       "Simplified Chinese": "去中心化网络",
       "French": "web décentralisé",
       "German": "Dezentralisiertes Web",
@@ -3139,9 +3727,15 @@ const exportDefinitions = {
     "term": "deposit",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In most web3 contexts, 'depositing' refers to the act of transferring some amount of token(s) to an address other than one's own, most often to a smart contract controlled by a 'protocol', such as a decentralized exchange, video game or multiverse, DAO, etc. Generally, the user will receive something in return for their deposit, and the deposit can be claimed at the user's discretion, or upon completion of given conditions. Compare with 'stake'.",
+    "description": (
+  <>
+    In most web3 contexts, 'depositing' refers to the act of transferring some amount of token(s) to an address other than one's own, most often to a smart contract controlled by a 'protocol', such as a decentralized exchange, video game or multiverse, DAO, etc. Generally, the user will receive something in return for their deposit, and the deposit can be claimed at the user's discretion, or upon completion of given conditions. Compare with 'stake'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "deposit",
       "Simplified Chinese": "保证金",
       "French": "dépôt",
       "German": "Einzahlung",
@@ -3171,9 +3765,15 @@ const exportDefinitions = {
     "term": "derive / derivation",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "To derive something is to obtain it from an original source. In the context of crypto-technology, we often discuss \"deriving\" wallets and accounts from seed phrases (aka Secret Recovery Phrases, or SRPs). This is literally true: the SRP represents a cryptographic key which is used to derive account addresses deterministically, meaning they will be derived the same way each time. Another, more technical, way of referring to this technology is to refer to \"hierarchical deterministic\" wallets.",
+    "description": (
+  <>
+    To derive something is to obtain it from an original source. In the context of crypto-technology, we often discuss 'deriving' wallets and accounts from seed phrases (aka Secret Recovery Phrases, or SRPs). This is literally true: the SRP represents a cryptographic key which is used to derive account addresses deterministically, meaning they will be derived the same way each time. Another, more technical, way of referring to this technology is to refer to 'hierarchical deterministic' wallets.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "derive / derivation",
       "Simplified Chinese": "派生",
       "French": "dériver / dérivation",
       "German": "Ableiten / Ableitung",
@@ -3203,9 +3803,15 @@ const exportDefinitions = {
     "term": "dev",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Abbreviation of developer.",
+    "description": (
+  <>
+    Abbreviation of developer.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "dev",
       "Simplified Chinese": "开发者",
       "French": "dev.",
       "German": "Entwickler",
@@ -3235,9 +3841,15 @@ const exportDefinitions = {
     "term": "Devcon",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "This is shorthand for the Ethereum Developers’ Conference.",
+    "description": (
+  <>
+    This is shorthand for the Ethereum Developers’ Conference.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Devcon",
       "Simplified Chinese": "Ethereum 开发者会议",
       "French": "DevCon",
       "German": "Devcon",
@@ -3267,9 +3879,15 @@ const exportDefinitions = {
     "term": "Developer",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A person that creates new products, especially computer products such as software.",
+    "description": (
+  <>
+    A person that creates new products, especially computer products such as software.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Developer",
       "Simplified Chinese": "开发者",
       "French": "Développeur",
       "German": "Entwickler",
@@ -3299,9 +3917,15 @@ const exportDefinitions = {
     "term": "DEX",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronym; see \"decentralized exchange\".",
+    "description": (
+  <>
+    Acronym; see 'decentralized exchange'.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "DEX",
       "Simplified Chinese": "DEX（去中心化交易所）",
       "French": "DEX",
       "German": "DEX",
@@ -3331,9 +3955,15 @@ const exportDefinitions = {
     "term": "difficulty",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The concept outlining how hard it is to verify blocks in a blockchain network during Proof of Work mining. In the Bitcoin network, the difficulty of mining adjusts every 2016 blocks. This is to keep block verification time at ten minutes.",
+    "description": (
+  <>
+    The concept outlining how hard it is to verify blocks in a blockchain network during Proof of Work mining. In the Bitcoin network, the difficulty of mining adjusts every 2016 blocks. This is to keep block verification time at ten minutes.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "difficulty",
       "Simplified Chinese": "难度",
       "French": "difficulté",
       "German": "Schwierigkeit",
@@ -3363,9 +3993,15 @@ const exportDefinitions = {
     "term": "difficulty bomb",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The difficulty bomb, along with the Beacon Chain and others, was a key element of Ethereum's upgrade to Ethereum 2.0 and a Proof of Stake (PoS) consensus mechanism. As the name indicates, the difficulty bomb was a software mechanism that increased block verification difficulty, making it more expensive and difficult--eventually, prohibitively so--to mine a new block. Through economic incentive, and later, the raw limitations of computing power, this forced the shift to PoS consensus. See also 'Proof of Stake', 'the Merge'.",
+    "description": (
+  <>
+    The difficulty bomb, along with the Beacon Chain and others, was a key element of Ethereum's upgrade to Ethereum 2.0 and a Proof of Stake (PoS) consensus mechanism. As the name indicates, the difficulty bomb was a software mechanism that increased block verification difficulty, making it more expensive and difficult--eventually, prohibitively so--to mine a new block. Through economic incentive, and later, the raw limitations of computing power, this forced the shift to PoS consensus. See also 'Proof of Stake', 'the Merge'.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "difficulty bomb",
       "Simplified Chinese": "难度炸弹",
       "French": "bombe de difficulté",
       "German": "Schwierigkeitsbombe",
@@ -3395,9 +4031,15 @@ const exportDefinitions = {
     "term": "digital asset",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A digital commodity that is scarce, electronically transferable, and intangible with a market value.",
+    "description": (
+  <>
+    A digital commodity that is scarce, electronically transferable, and intangible with a market value.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "digital asset",
       "Simplified Chinese": "数字资产",
       "French": "Actif numérique",
       "German": "Digitales Asset",
@@ -3427,9 +4069,15 @@ const exportDefinitions = {
     "term": "digital identity",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An online or networked identity adopted by an individual, organization, or electronic device.",
+    "description": (
+  <>
+    An online or networked identity adopted by an individual, organization, or electronic device.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "digital identity",
       "Simplified Chinese": "数字身份",
       "French": "identité numérique",
       "German": "Digitale Identität",
@@ -3459,9 +4107,15 @@ const exportDefinitions = {
     "term": "Digital signature",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A short string of data a user produces for a document using a private key such that anyone with the corresponding public key, the signature, and the document can verify that (1) the document was \"signed\" by the owner of that particular private key, and (2) the document was not changed after it was signed.",
+    "description": (
+  <>
+    A short string of data a user produces for a document using a private key such that anyone with the corresponding public key, the signature, and the document can verify that (1) the document was 'signed' by the owner of that particular private key, and (2) the document was not changed after it was signed.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Digital signature",
       "Simplified Chinese": "电子签名",
       "French": "Signature numérique",
       "German": "Digitale Signatur",
@@ -3491,9 +4145,15 @@ const exportDefinitions = {
     "term": "Distributed Denial of Service (DDoS) Attack",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A type of cyber-attack in which the perpetrator continuously overwhelms the system with requests in order to prevent service of legitimate requests.",
+    "description": (
+  <>
+    A type of cyber-attack in which the perpetrator continuously overwhelms the system with requests in order to prevent service of legitimate requests.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Distributed Denial of Service (DDoS) Attack",
       "Simplified Chinese": "分布式拒绝服务攻击（DDoS）",
       "French": "Attaque par déni de service (DDoS)",
       "German": "Distributed Denial of Service (DDoS) Angriff",
@@ -3523,9 +4183,15 @@ const exportDefinitions = {
     "term": "distributed ledger",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A type of database which spreads across multiple sites, countries, or institutions. Records are stored sequentially in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned”, determining who can view it. This term is used, often, to refer in general to public blockchain technology, as 'crypto' has come to mean 'cryptocurrency', 'web3' is the collective community, and 'blockchain', after all, is \"just\" the data structure used to sync the distributed ledger itself.",
+    "description": (
+  <>
+    A type of database which spreads across multiple sites, countries, or institutions. Records are stored sequentially in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned”, determining who can view it. This term is used, often, to refer in general to public blockchain technology, as 'crypto' has come to mean 'cryptocurrency', 'web3' is the collective community, and 'blockchain', after all, is 'just' the data structure used to sync the distributed ledger itself.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "distributed ledger",
       "Simplified Chinese": "分布式账本",
       "French": "registre distribué",
       "German": "Distributed Ledger",
@@ -3555,9 +4221,15 @@ const exportDefinitions = {
     "term": "Distributed Ledger Technology",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A type of database which spreads across multiple sites, countries, or institutions. Records are stored sequentially in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned”, determining who can view it. This term is used, often, to refer in general to public blockchain technology, as ‘crypto’ has come to mean ‘cryptocurrency’, ‘web3’ is the collective community, and ‘blockchain’, after all, is “just” the data structure used to sync the distributed ledger itself.",
+    "description": (
+  <>
+    A type of database which spreads across multiple sites, countries, or institutions. Records are stored sequentially in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned”, determining who can view it. This term is used, often, to refer in general to public blockchain technology, as ‘crypto’ has come to mean ‘cryptocurrency’, ‘web3’ is the collective community, and ‘blockchain’, after all, is “just” the data structure used to sync the distributed ledger itself.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Distributed Ledger Technology",
       "Simplified Chinese": "分布式账本技术",
       "French": "Technologie de registre distribué",
       "German": "Distributed-Ledger-Technologie",
@@ -3587,9 +4259,15 @@ const exportDefinitions = {
     "term": "DLT",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronym; see \"distributed ledger technology\".",
+    "description": (
+  <>
+    Acronym; see 'distributed ledger technology'.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "DLT",
       "Simplified Chinese": "DLT（分布式账本技术）",
       "French": "DLT",
       "German": "DLT",
@@ -3619,9 +4297,15 @@ const exportDefinitions = {
     "term": "double spend",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The 'double spend' is the benchmark security concern of blockchain networks: how do we ensure that someone doesn't send the same transaction to two different entities, essentially \"spending their money twice\"? This is the cornerstone of the consensus mechanism, ensuring that all nodes of the network are \"in agreement\" about which assets are allocated to which addresses, on an ongoing basis, to prevent malicious actions such as a double spend.",
+    "description": (
+  <>
+    The 'double spend' is the benchmark security concern of blockchain networks: how do we ensure that someone doesn't send the same transaction to two different entities, essentially 'spending their money twice'? This is the cornerstone of the consensus mechanism, ensuring that all nodes of the network are 'in agreement' about which assets are allocated to which addresses, on an ongoing basis, to prevent malicious actions such as a double spend.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "double spend",
       "Simplified Chinese": "双重支付",
       "French": "Double dépense",
       "German": "Doppelte Ausgaben",
@@ -3651,9 +4335,15 @@ const exportDefinitions = {
     "term": "ecosystem",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of \"web3 ecosystem\"; \"blockchain ecosystem\". See \"web3\"; See \"blockchain",
+    "description": (
+  <>
+    In the context of 'web3 ecosystem'; 'blockchain ecosystem'. See 'web3'; See 'blockchain'
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "ecosystem",
       "Simplified Chinese": "生态系统",
       "French": "écosystème",
       "German": "Ökosystem",
@@ -3683,9 +4373,15 @@ const exportDefinitions = {
     "term": "Edge",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of \"Edge computing\": it is an emerging computing paradigm which refers to a range of networks and devices at or near the user. Edge is about processing data closer to where it's being generated, enabling processing at greater speeds and volumes, leading to greater action-led results in real time.\nThe term can also refer to Microsoft's browser or the crypto software wallet",
+    "description": (
+  <>
+    In the context of 'Edge computing': it is an emerging computing paradigm which refers to a range of networks and devices at or near the user. Edge is about processing data closer to where it's being generated, enabling processing at greater speeds and volumes, leading to greater action-led results in real time.\nThe term can also refer to Microsoft's browser or the crypto software wallet
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Edge",
       "Simplified Chinese": "Edge",
       "French": "Edge",
       "German": "Edge",
@@ -3715,9 +4411,15 @@ const exportDefinitions = {
     "term": "EIP-1559",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "EIP (Ethereum Improvement Proposal)\n\nThe EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559.\nEIP-1559 will change Ethereum’s fee market mechanism. Fundamentally, EIP-1559 gets rid of the first-price auction as the main gas fee calculation. In first-price auctions, people bid a set amount of money to pay for their transaction to be processed, and the highest bidder wins. With EIP-1559, there will be a discrete “base fee” for transactions to be included in the next block. For users or applications that want to prioritize their transaction, they can add a “tip,” which is called a “priority fee” to pay a miner for faster inclusion.",
+    "description": (
+  <>
+    EIP (Ethereum Improvement Proposal)\n\nThe EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559.\nEIP-1559 will change Ethereum’s fee market mechanism. Fundamentally, EIP-1559 gets rid of the first-price auction as the main gas fee calculation. In first-price auctions, people bid a set amount of money to pay for their transaction to be processed, and the highest bidder wins. With EIP-1559, there will be a discrete “base fee” for transactions to be included in the next block. For users or applications that want to prioritize their transaction, they can add a “tip,” which is called a “priority fee” to pay a miner for faster inclusion.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "EIP-1559",
       "Simplified Chinese": "Ethereum 改进提议（EIP）-1559",
       "French": "EIP-1559",
       "German": "EIP-1559",
@@ -3747,9 +4449,15 @@ const exportDefinitions = {
     "term": "encrypted vs unencrypted keys",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "As discussed elsewhere, public and private cryptographic key pairs are one of the technologies that underpins cryptocurrencies and \"crypto\" tech in general. In MetaMask, an unencrypted private key is 64 characters long, and it is used to unlock or restore wallets. An encrypted key is also 64 letters long and is a regular private key that has gone through the process of encryption. Usually, encrypted private keys are kept within the extension or device they are encrypted by, and they remain out of sight from the user. This is meant to add another layer of security to keep a user’s wallet information safe. By way of example: if the world ‘Apple’ was your private key, then it was encrypted three letters down the alphabet, your new encrypted key would be ‘Dssoh’. Since you know the way to encrypt this key, you could derive the original private key from it by reversing the method of encryption.",
+    "description": (
+  <>
+    As discussed elsewhere, public and private cryptographic key pairs are one of the technologies that underpins cryptocurrencies and 'crypto' tech in general. In MetaMask, an unencrypted private key is 64 characters long, and it is used to unlock or restore wallets. An encrypted key is also 64 letters long and is a regular private key that has gone through the process of encryption. Usually, encrypted private keys are kept within the extension or device they are encrypted by, and they remain out of sight from the user. This is meant to add another layer of security to keep a user’s wallet information safe. By way of example: if the world ‘Apple’ was your private key, then it was encrypted three letters down the alphabet, your new encrypted key would be ‘Dssoh’. Since you know the way to encrypt this key, you could derive the original private key from it by reversing the method of encryption.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "encrypted vs unencrypted keys",
       "Simplified Chinese": "加密秘钥与未加密密钥",
       "French": "clés chiffrées ou clés déchiffrées",
       "German": "Verschlüsselte vs. unverschlüsselte Schlüssel",
@@ -3779,9 +4487,15 @@ const exportDefinitions = {
     "term": "encryption",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Encrpytion, literally 'in a hidden place', is the art and science of encoding information to control who can read it, or how it is to be read. Encryption occurs in natural (human) languages, as well as in machine and computer languages. Highly complex, and therefore difficult to decipher, encryption is an essential element enabling blockchain networks to be simultaneously public and secure.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Encrpytion, literally 'in a hidden place', is the art and science of encoding information to control who can read it, or how it is to be read. Encryption occurs in natural (human) languages, as well as in machine and computer languages. Highly complex, and therefore difficult to decipher, encryption is an essential element enabling blockchain networks to be simultaneously public and secure.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "encryption",
       "Simplified Chinese": "加密",
       "French": "Chiffrement",
       "German": "Verschlüsselung",
@@ -3811,9 +4525,15 @@ const exportDefinitions = {
     "term": "ENS",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Ethereum Name Service is a protocol, managed by a DAO, which assigns human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet's DNS.",
+    "description": (
+  <>
+    The Ethereum Name Service is a protocol, managed by a DAO, which assigns human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet's DNS.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "ENS",
       "Simplified Chinese": "ENS（Ethereum 域名服务）",
       "French": "ENS (service de nomination Ethereum)",
       "German": "ENS",
@@ -3843,9 +4563,15 @@ const exportDefinitions = {
     "term": "Enterprise Ethereum Alliance (EEA)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A group of Ethereum core developers, startups, and large companies working together to commercialize and use Ethereum for different business applications. Website here.",
+    "description": (
+  <>
+    A group of Ethereum core developers, startups, and large companies working together to commercialize and use Ethereum for different business applications. Website here.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Enterprise Ethereum Alliance (EEA)",
       "Simplified Chinese": "企业 Ethereum 联盟（EEA）",
       "French": "Enterprise Ethereum Alliance (EEA)",
       "German": "Enterprise Ethereum Alliance (EEA)",
@@ -3875,9 +4601,15 @@ const exportDefinitions = {
     "term": "entropy",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of cryptography, 'entropy' refers to 'randomness'; generally, the more random something is (the more entropy it has), the more secure it is.",
+    "description": (
+  <>
+    In the context of cryptography, 'entropy' refers to 'randomness'; generally, the more random something is (the more entropy it has), the more secure it is.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "entropy",
       "Simplified Chinese": "熵",
       "French": "entropie",
       "German": "Entropie",
@@ -3907,9 +4639,15 @@ const exportDefinitions = {
     "term": "epoch",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An epoch, in general, is a measure of time, or of blockchain progression, on a given blockchain. In Ethereum Proof of Stake, an epoch consists of 32 slots, each lasting 12 seconds, for a total of 6.4 minutes per epoch. There is additional functionality built upon the epoch measure in the Beacon Chain to help ensure security and proper operation of the Chain.",
+    "description": (
+  <>
+    An epoch, in general, is a measure of time, or of blockchain progression, on a given blockchain. In Ethereum Proof of Stake, an epoch consists of 32 slots, each lasting 12 seconds, for a total of 6.4 minutes per epoch. There is additional functionality built upon the epoch measure in the Beacon Chain to help ensure security and proper operation of the Chain.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "epoch",
       "Simplified Chinese": "时段",
       "French": "epoch",
       "German": "Epoche",
@@ -3939,9 +4677,15 @@ const exportDefinitions = {
     "term": "ERC",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Ethereum Request for Comment, or ERC, is a bit of a misnomer, as it is used to refer to suggestions for modifications that have already made it through the Ethereum Improvement Protocol (EIP) process and have been made standard on Ethereum. An ERC is, essentially, a set of standards for a given operation or topic on the Ethereum network. The authoritative list can be found here.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Ethereum Request for Comment, or ERC, is a bit of a misnomer, as it is used to refer to suggestions for modifications that have already made it through the Ethereum Improvement Protocol (EIP) process and have been made standard on Ethereum. An ERC is, essentially, a set of standards for a given operation or topic on the Ethereum network. The authoritative list can be found here.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "ERC",
       "Simplified Chinese": "Ethereum 征求修正意见书（ERC）",
       "French": "ERC",
       "German": "ERC",
@@ -3971,9 +4715,15 @@ const exportDefinitions = {
     "term": "ERC-1155",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A token standard for creating semi-fungible tokens, meaning you can launch both fungible and non-fungible tokens within a single smart contract.",
+    "description": (
+  <>
+    A token standard for creating semi-fungible tokens, meaning you can launch both fungible and non-fungible tokens within a single smart contract.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "ERC-1155",
       "Simplified Chinese": "Ethereum 征求修正意见书（ERC）-1155",
       "French": "ERC-1155",
       "German": "ERC-1155",
@@ -4003,9 +4753,15 @@ const exportDefinitions = {
     "term": "ERC-20 Token Standard",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "ERC is the abbreviation for Ethereum Request for Comment and is followed by the assignment number of the standard. ERC-20 is a technical standard for smart contracts which is used to issue the majority of tokens (in particular, cryptocurrency tokens) extant on Ethereum. This list of rules states the requirements that a token must fulfill to be compliant and function within the Ethereum network.",
+    "description": (
+  <>
+    ERC is the abbreviation for Ethereum Request for Comment and is followed by the assignment number of the standard. ERC-20 is a technical standard for smart contracts which is used to issue the majority of tokens (in particular, cryptocurrency tokens) extant on Ethereum. This list of rules states the requirements that a token must fulfill to be compliant and function within the Ethereum network.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "ERC-20 Token Standard",
       "Simplified Chinese": "Ethereum 征求修正意见书（ERC）-20 代币标准",
       "French": "Norme de jeton ERC-20",
       "German": "ERC-20 Token-Standard",
@@ -4035,9 +4791,15 @@ const exportDefinitions = {
     "term": "ERC-721",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "ERC-721 Token Standard\n\nAnother standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.",
+    "description": (
+  <>
+    ERC-721 Token Standard\n\nAnother standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "ERC-721",
       "Simplified Chinese": "Ethereum 征求修正意见书（ERC）-721",
       "French": "ERC-721",
       "German": "ERC-721",
@@ -4067,9 +4829,15 @@ const exportDefinitions = {
     "term": "ERC-721 Token Standard",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "ERC-721 Token Standard\n\nA standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.",
+    "description": (
+  <>
+    ERC-721 Token Standard\n\nA standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "ERC-721 Token Standard",
       "Simplified Chinese": "Ethereum 征求修正意见书（ERC）-721 代币标准",
       "French": "Norme de jeton ERC-721",
       "German": "ERC-721 Token-Standard",
@@ -4099,9 +4867,15 @@ const exportDefinitions = {
     "term": "ETH",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronym; see \"ether",
+    "description": (
+  <>
+    Acronym; see 'ether'
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "ETH",
       "Simplified Chinese": "ETH",
       "French": "ETH",
       "German": "ETH",
@@ -4131,9 +4905,15 @@ const exportDefinitions = {
     "term": "ether (denominations)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "There are a number of denominations of the currency we know as 'ether' or ETH; for the definitive explanation, see the original Ethereum Homestead documentation Ethereum Homestead documentation here.",
+    "description": (
+  <>
+    There are a number of denominations of the currency we know as 'ether' or ETH; for the definitive explanation, see the original Ethereum Homestead documentation Ethereum Homestead documentation here.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "ether (denominations)",
       "Simplified Chinese": "以太币（面额）",
       "French": "ether (dénominations)",
       "German": "Ether (Denominationen)",
@@ -4163,9 +4943,15 @@ const exportDefinitions = {
     "term": "ether (ETH)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Ether is the native cryptocurrency of the Ethereum blockchain network. Ether—also referred to as ETH (pronounced with a long “e”, like “teeth” without the “t”)—functions as the fuel of the Ethereum ecosystem, by quantifying the work performed by the network, and as a form of payment for participants securing the network.",
+    "description": (
+  <>
+    Ether is the native cryptocurrency of the Ethereum blockchain network. Ether—also referred to as ETH (pronounced with a long “e”, like “teeth” without the “t”)—functions as the fuel of the Ethereum ecosystem, by quantifying the work performed by the network, and as a form of payment for participants securing the network.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "ether (ETH)",
       "Simplified Chinese": "以太币（ETH）",
       "French": "ether (ETH)",
       "German": "Ether (ETH)",
@@ -4195,9 +4981,15 @@ const exportDefinitions = {
     "term": "Ethereum",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A public blockchain network and decentralized software platform upon which developers build and run applications. As it is a proper noun, it should always be capitalized.",
+    "description": (
+  <>
+    A public blockchain network and decentralized software platform upon which developers build and run applications. As it is a proper noun, it should always be capitalized.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Ethereum",
       "Simplified Chinese": "Ethereum",
       "French": "Ethereum",
       "German": "Ethereum",
@@ -4227,9 +5019,15 @@ const exportDefinitions = {
     "term": "Ethereum 2.0",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "a.k.a The Merge\n\nFinalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.",
+    "description": (
+  <>
+    a.k.a The Merge\n\nFinalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Ethereum 2.0",
       "Simplified Chinese": "Ethereum 2.0",
       "French": "Ethereum 2.0",
       "German": "Ethereum 2.0",
@@ -4259,9 +5057,15 @@ const exportDefinitions = {
     "term": "Ethereum Improvement Proposal (EIP)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole; the official repository is here. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559. Keep in mind that as it is an iterative, lengthy process, some EIPs never get fully approved, and some do, and many end up somewhere in a gray area of 'partially implemented'.",
+    "description": (
+  <>
+    The EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole; the official repository is here. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559. Keep in mind that as it is an iterative, lengthy process, some EIPs never get fully approved, and some do, and many end up somewhere in a gray area of 'partially implemented'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Ethereum Improvement Proposal (EIP)",
       "Simplified Chinese": "Ethereum 改进提议（EIP）",
       "French": "Propositions d’amélioration d’Ethereum (EIP)",
       "German": "Ethereum Improvement Proposal (EIP)",
@@ -4291,9 +5095,15 @@ const exportDefinitions = {
     "term": "Ethereum Name Service (ENS)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Ethereum Name Service is a protocol, managed by a DAO, which assigns human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet’s DNS.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The Ethereum Name Service is a protocol, managed by a DAO, which assigns human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet’s DNS.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Ethereum Name Service (ENS)",
       "Simplified Chinese": "Ethereum 域名服务（ENS）",
       "French": "Service de nomination Ethereum (ENS)",
       "German": "Ethereum Name Service (ENS)",
@@ -4323,9 +5133,15 @@ const exportDefinitions = {
     "term": "Ethereum Public Address",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An Ethereum public address, also known as an Ethereum account address, is a string of 42 characters (including letters and numbers) that is used to receive or send Ethereum and other Ethereum-based tokens on the Ethereum network.\n\nEach Ethereum public address is unique and is associated with a private key that allows the owner of the address to sign and authorize transactions. The public address is derived from the private key using a mathematical algorithm, and it can be shared with others to receive payments or tokens.\n\nWhen sending Ethereum or tokens, users need to specify the recipient's public address as the destination for the transaction. Once the transaction is confirmed by the network, the Ethereum or tokens are transferred to the recipient's address.",
+    "description": (
+  <>
+    An Ethereum public address, also known as an Ethereum account address, is a string of 42 characters (including letters and numbers) that is used to receive or send Ethereum and other Ethereum-based tokens on the Ethereum network.\n\nEach Ethereum public address is unique and is associated with a private key that allows the owner of the address to sign and authorize transactions. The public address is derived from the private key using a mathematical algorithm, and it can be shared with others to receive payments or tokens.\n\nWhen sending Ethereum or tokens, users need to specify the recipient's public address as the destination for the transaction. Once the transaction is confirmed by the network, the Ethereum or tokens are transferred to the recipient's address.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Ethereum Public Address",
       "Simplified Chinese": "Ethereum 公钥",
       "French": "Adresse publique Ethereum",
       "German": "Öffentliche Ethereum-Adresse",
@@ -4355,9 +5171,15 @@ const exportDefinitions = {
     "term": "Ethereum Virtual Machine (EVM)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The EVM is a virtual machine that operates on the Ethereum network. It is Turing complete and allows anyone, anywhere to execute arbitrary EVM bytecode. All Ethereum nodes run on the EVM. It is home for smart contracts based on the Ethereum blockchain.",
+    "description": (
+  <>
+    The EVM is a virtual machine that operates on the Ethereum network. It is Turing complete and allows anyone, anywhere to execute arbitrary EVM bytecode. All Ethereum nodes run on the EVM. It is home for smart contracts based on the Ethereum blockchain.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Ethereum Virtual Machine (EVM)",
       "Simplified Chinese": "Ethereum 虚拟机（EVM）",
       "French": "Machine virtuelle Ethereum (EVM)",
       "German": "Ethereum Virtual Machine (EVM)",
@@ -4387,9 +5209,15 @@ const exportDefinitions = {
     "term": "Etherscan",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A popular website for analyzing activity on the Ethereum blockchain. See ‘blockchain explorer’.\n\nhttps://etherscan.io/",
+    "description": (
+  <>
+    A popular website for analyzing activity on the Ethereum blockchain. See ‘blockchain explorer’.\n\nhttps://etherscan.io/
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Etherscan",
       "Simplified Chinese": "Etherscan",
       "French": "Etherscan",
       "German": "Etherscan",
@@ -4419,9 +5247,15 @@ const exportDefinitions = {
     "term": "EVM",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronym; see \"Ethereum Virtual Machine\".",
+    "description": (
+  <>
+    Acronym; see 'Ethereum Virtual Machine'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "EVM",
       "Simplified Chinese": "EVM（Ethereum 虚拟机）",
       "French": "EVM",
       "German": "EVM",
@@ -4451,9 +5285,15 @@ const exportDefinitions = {
     "term": "exchange",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A place to trade cryptocurrency. Centralized exchanges, operated by companies like Coinbase and Gemini, function as intermediaries, while decentralized exchanges do not have a central authority.",
+    "description": (
+  <>
+    A place to trade cryptocurrency. Centralized exchanges, operated by companies like Coinbase and Gemini, function as intermediaries, while decentralized exchanges do not have a central authority.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "exchange",
       "Simplified Chinese": "交易所",
       "French": "échange",
       "German": "Börse",
@@ -4483,9 +5323,15 @@ const exportDefinitions = {
     "term": "Execution client",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Execution clients are tasked with processing and broadcasting transactions, as well as with managing Ethereum's state. They run the computations for each transaction in the Ethereum Virtual Machine to ensure that the rules of the protocol are followed. Today, they also handle proof of work consensus. After the transition to proof of stake, they will delegate this to consensus clients.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Execution clients are tasked with processing and broadcasting transactions, as well as with managing Ethereum's state. They run the computations for each transaction in the Ethereum Virtual Machine to ensure that the rules of the protocol are followed. Today, they also handle proof of work consensus. After the transition to proof of stake, they will delegate this to consensus clients.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Execution client",
       "Simplified Chinese": "执行客户端",
       "French": "Client d’exécution",
       "German": "Ausführungs-Client",
@@ -4515,9 +5361,15 @@ const exportDefinitions = {
     "term": "Execution layer",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Ethereum's execution layer is the network of execution clients.",
+    "description": (
+  <>
+    Ethereum's execution layer is the network of execution clients.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Execution layer",
       "Simplified Chinese": "执行层",
       "French": "Couche d’exécution",
       "German": "Ausführungs-Layer",
@@ -4547,9 +5399,15 @@ const exportDefinitions = {
     "term": "Extended Private Key (XPRIV)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "See \"private key\"; see \"Hierarchical Deterministic (HD)\" wallet. An extended private key, or xprv, is a private key which can be used to derive child private keys as part of a Hierarchical Deterministic (HD) wallet.",
+    "description": (
+  <>
+    See 'private key'; see 'Hierarchical Deterministic (HD)' wallet. An extended private key, or xprv, is a private key which can be used to derive child private keys as part of a Hierarchical Deterministic (HD) wallet.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Extended Private Key (XPRIV)",
       "Simplified Chinese": "扩展密钥（XPRIV）",
       "French": "Clé privée étendue (XPRIV)",
       "German": "Erweiterter privater Schlüssel (XPRIV)",
@@ -4579,9 +5437,15 @@ const exportDefinitions = {
     "term": "Extended Public Key (XPUB)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "See \"public key\"; see \"Hierarchical Deterministic (HD)\" wallet. An extended public key, or xpub, is a public key which can be used to derive child public keys as part of a Hierarchical Deterministic (HD) wallet.",
+    "description": (
+  <>
+    See 'public key'; see 'Hierarchical Deterministic (HD)' wallet. An extended public key, or xpub, is a public key which can be used to derive child public keys as part of a Hierarchical Deterministic (HD) wallet.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Extended Public Key (XPUB)",
       "Simplified Chinese": "扩展公钥（XPUB）",
       "French": "Clé publique étendue (XPUB)",
       "German": "Erweiterter öffentlicher Schlüssel (XPUB)",
@@ -4611,9 +5475,15 @@ const exportDefinitions = {
     "term": "Extension",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMask is a web browser extension and mobile app that allows you to manage your Ethereum private keys. By doing so, it serves as a wallet for Ether and other tokens, and allows you to interact with decentralized applications, or dapps. Unlike some wallets, MetaMask keeps no information on you: not your email address, not your password, and not your Secret Recovery Phrase or other private keys. You retain all power over your crypto-identity.",
+    "description": (
+  <>
+    MetaMask is a web browser extension and mobile app that allows you to manage your Ethereum private keys. By doing so, it serves as a wallet for Ether and other tokens, and allows you to interact with decentralized applications, or dapps. Unlike some wallets, MetaMask keeps no information on you: not your email address, not your password, and not your Secret Recovery Phrase or other private keys. You retain all power over your crypto-identity.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Extension",
       "Simplified Chinese": "扩展程序",
       "French": "Extension",
       "German": "Erweiterung",
@@ -4643,9 +5513,15 @@ const exportDefinitions = {
     "term": "Fantom",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Fantom is a public blockchain platform that aims to facilitate fast and low-cost transactions for dapps and smart contracts. It was launched in 2018 and is based on the Ethereum codebase, but with several key enhancements.\n\nOne of the main features of Fantom is its consensus mechanism, known as Lachesis, which is a variant of Directed Acyclic Graphs (DAGs) that allows for high transaction throughput and low confirmation times. This means that transactions on the Fantom network can be processed quickly and at a low cost, making it an attractive platform for developers looking to build dApps that require fast and efficient transactions.",
+    "description": (
+  <>
+    Fantom is a public blockchain platform that aims to facilitate fast and low-cost transactions for dapps and smart contracts. It was launched in 2018 and is based on the Ethereum codebase, but with several key enhancements.\n\nOne of the main features of Fantom is its consensus mechanism, known as Lachesis, which is a variant of Directed Acyclic Graphs (DAGs) that allows for high transaction throughput and low confirmation times. This means that transactions on the Fantom network can be processed quickly and at a low cost, making it an attractive platform for developers looking to build dApps that require fast and efficient transactions.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Fantom",
       "Simplified Chinese": "Fantom",
       "French": "Fantom",
       "German": "Fantom",
@@ -4675,9 +5551,15 @@ const exportDefinitions = {
     "term": "faucet",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A faucet is an application, sometimes a very simple website, other times more complex, that dispenses cryptocurrency. While some networks, especially those in early launch stages, offer “real Mainnet” tokens via faucets, it is much more common for a faucet to be present on a test network, or testnet. These faucets are used by developers to test out dapps or smart contracts before deploying them on Ethereum Mainnet, or users who want to practice an action on the blockchain with no risk. Tokens dispensed by a test faucet stay on the test networks and cannot be exchanged for mainnet equivalents.",
+    "description": (
+  <>
+    A faucet is an application, sometimes a very simple website, other times more complex, that dispenses cryptocurrency. While some networks, especially those in early launch stages, offer “real Mainnet” tokens via faucets, it is much more common for a faucet to be present on a test network, or testnet. These faucets are used by developers to test out dapps or smart contracts before deploying them on Ethereum Mainnet, or users who want to practice an action on the blockchain with no risk. Tokens dispensed by a test faucet stay on the test networks and cannot be exchanged for mainnet equivalents.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "faucet",
       "Simplified Chinese": "水龙头",
       "French": "faucet",
       "German": "Faucet",
@@ -4707,9 +5589,15 @@ const exportDefinitions = {
     "term": "fiat currency",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Government-issued currency. For example, US Dollars (USD), Euros (EUR), Yuan (CNY), and Yen (JPY).",
+    "description": (
+  <>
+    Government-issued currency. For example, US Dollars (USD), Euros (EUR), Yuan (CNY), and Yen (JPY).
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "fiat currency",
       "Simplified Chinese": "法币",
       "French": "devise fiat / monnaie fiat",
       "German": "Fiat-Währung",
@@ -4739,9 +5627,15 @@ const exportDefinitions = {
     "term": "final, finality",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A transaction is considered \"final\" once it can no longer be changed. In a sense, this happens once there are sufficient confirmations of the transaction, but for all intents and purposes, a transaction is final once the block that contains it is mined or validated. Keep in mind that this reflects a fundamental rule of blockchains: unlike traditional financial systems where charges can be \"reversed\", there is no \"undoing\" a transaction on the blockchain. Once finality is reached, the transaction is immutable.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A transaction is considered 'final' once it can no longer be changed. In a sense, this happens once there are sufficient confirmations of the transaction, but for all intents and purposes, a transaction is final once the block that contains it is mined or validated. Keep in mind that this reflects a fundamental rule of blockchains: unlike traditional financial systems where charges can be 'reversed', there is no 'undoing' a transaction on the blockchain. Once finality is reached, the transaction is immutable.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "final, finality",
       "Simplified Chinese": "最终性",
       "French": "finale, finalité",
       "German": "final, Finality",
@@ -4771,9 +5665,15 @@ const exportDefinitions = {
     "term": "Finality Rate",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "See \"finality",
+    "description": (
+  <>
+    See 'finality'
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Finality Rate",
       "Simplified Chinese": "最终性概率",
       "French": "Taux de finalité",
       "German": "Finality Rate",
@@ -4803,9 +5703,15 @@ const exportDefinitions = {
     "term": "financial technology (FinTech)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The integration of technology into offerings by financial services companies in order to improve their use and delivery to consumers.",
+    "description": (
+  <>
+    The integration of technology into offerings by financial services companies in order to improve their use and delivery to consumers.
+  </>
+)
+,
     "termCategory": "Financial term",
     "i18n": {
+      "Term": "financial technology (FinTech)",
       "Simplified Chinese": "金融科技（FinTech）",
       "French": "technologie financière (FinTech)",
       "German": "Finanztechnologie (FinTech)",
@@ -4835,9 +5741,15 @@ const exportDefinitions = {
     "term": "finney",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A denomination of ether. See ether (denomination).",
+    "description": (
+  <>
+    A denomination of ether. See ether (denomination).
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "finney",
       "Simplified Chinese": "芬尼",
       "French": "finney",
       "German": "Finney",
@@ -4867,9 +5779,15 @@ const exportDefinitions = {
     "term": "Firefox",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Internet browser.",
+    "description": (
+  <>
+    Internet browser.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Firefox",
       "Simplified Chinese": "Firefox",
       "French": "Firefox",
       "German": "Firefox",
@@ -4899,9 +5817,15 @@ const exportDefinitions = {
     "term": "Firewall",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.",
+    "description": (
+  <>
+    In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Firewall",
       "Simplified Chinese": "防火墙",
       "French": "Pare-feu",
       "German": "Firewall",
@@ -4931,9 +5855,15 @@ const exportDefinitions = {
     "term": "Flask",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.\n\nWhat is MetaMask Flask, and how is it different from normal MetaMask",
+    "description": (
+  <>
+    MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.\n\nWhat is MetaMask Flask, and how is it different from normal MetaMask
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Flask",
       "Simplified Chinese": "Flask",
       "French": "Flask",
       "German": "Flask",
@@ -4963,9 +5893,15 @@ const exportDefinitions = {
     "term": "fork",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Forking' is a term that comes from the world of collaborative software development, and refers to the action of copying an existing application or set of code and modifying it to create an alternate version. At the blockchain protocol level, a 'fork' creates an alternative version of a blockchain. Forks are often enacted intentionally to apply upgrades to a network. Soft Forks render two chains with some compatibility, while Hard Forks create a new version of the chain that must be adopted to continue participation. In the instance of a contentious Hard Fork, this can create two versions of a blockchain network. See also \"hard fork\".",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Forking' is a term that comes from the world of collaborative software development, and refers to the action of copying an existing application or set of code and modifying it to create an alternate version. At the blockchain protocol level, a 'fork' creates an alternative version of a blockchain. Forks are often enacted intentionally to apply upgrades to a network. Soft Forks render two chains with some compatibility, while Hard Forks create a new version of the chain that must be adopted to continue participation. In the instance of a contentious Hard Fork, this can create two versions of a blockchain network. See also 'hard fork'.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "fork",
       "Simplified Chinese": "分叉",
       "French": "fork",
       "German": "Fork",
@@ -4995,9 +5931,15 @@ const exportDefinitions = {
     "term": "Fractional Ownership",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of NFT ownership: \nA fractional NFT (F-NFT) is an entire NFT broken into smaller fragments, allowing several people to claim ownership of a piece of the same NFT. Fractional NFTs",
+    "description": (
+  <>
+    In the context of NFT ownership: \nA fractional NFT (F-NFT) is an entire NFT broken into smaller fragments, allowing several people to claim ownership of a piece of the same NFT. Fractional NFTs
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Fractional Ownership",
       "Simplified Chinese": "部分所有权",
       "French": "Propriété fractionnée",
       "German": "Fractional Ownership",
@@ -5027,9 +5969,15 @@ const exportDefinitions = {
     "term": "Fraud proof",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A security model for certain layer 2 solutions where, to increase speed, transactions are rolled up into batches and submitted to Ethereum in a single transaction. They are assumed valid but can be challenged if fraud is suspected. A fraud proof will then run the transaction to see if fraud took place. This method increases the amount of transactions possible while maintaining security.",
+    "description": (
+  <>
+    A security model for certain layer 2 solutions where, to increase speed, transactions are rolled up into batches and submitted to Ethereum in a single transaction. They are assumed valid but can be challenged if fraud is suspected. A fraud proof will then run the transaction to see if fraud took place. This method increases the amount of transactions possible while maintaining security.
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "Fraud proof",
       "Simplified Chinese": "欺诈证明",
       "French": "Preuve de fraude",
       "German": "Betrugssicher",
@@ -5059,9 +6007,15 @@ const exportDefinitions = {
     "term": "full node",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.",
+    "description": (
+  <>
+    Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "full node",
       "Simplified Chinese": "全节点",
       "French": "nœud complet",
       "German": "Full Node",
@@ -5091,9 +6045,15 @@ const exportDefinitions = {
     "term": "Ganache",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Ganache is a personal blockchain for Ethereum development that developers can use to deploy contracts, develop applications, and run tests. It is part of the Truffle Suite ecosystem.",
+    "description": (
+  <>
+    Ganache is a personal blockchain for Ethereum development that developers can use to deploy contracts, develop applications, and run tests. It is part of the Truffle Suite ecosystem.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Ganache",
       "Simplified Chinese": "Ganache",
       "French": "Ganache",
       "German": "Ganache",
@@ -5123,9 +6083,15 @@ const exportDefinitions = {
     "term": "gas",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A measure of the computational steps required for a transaction on the Ethereum network. This then equates to a fee for network users paid in small units of ETH specified as gwei. For more on gas, see MetaMask’s user guide here:\n\nUser Guide: Gas",
+    "description": (
+  <>
+    A measure of the computational steps required for a transaction on the Ethereum network. This then equates to a fee for network users paid in small units of ETH specified as gwei. For more on gas, see MetaMask’s user guide here:\n\nUser Guide: Gas
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "gas",
       "Simplified Chinese": "燃料",
       "French": "gaz",
       "German": "Gas",
@@ -5155,9 +6121,15 @@ const exportDefinitions = {
     "term": "gas fee",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Gas fee refers to the transaction fee on the blockchain. It is what users pay to get their transaction validated, or completed.",
+    "description": (
+  <>
+    Gas fee refers to the transaction fee on the blockchain. It is what users pay to get their transaction validated, or completed.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "gas fee",
       "Simplified Chinese": "燃料费",
       "French": "frais de gaz",
       "German": "Gas-Gebühr",
@@ -5187,9 +6159,15 @@ const exportDefinitions = {
     "term": "gas limit",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The gas limit is the maximum amount you’re willing to pay for any given transaction to go through the Ethereum network. Another way of looking at it is as a “rough estimate” of how much computing power your transaction will take.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The gas limit is the maximum amount you’re willing to pay for any given transaction to go through the Ethereum network. Another way of looking at it is as a “rough estimate” of how much computing power your transaction will take.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "gas limit",
       "Simplified Chinese": "燃料限制",
       "French": "limite de gaz",
       "German": "Gas-Limit",
@@ -5219,9 +6197,15 @@ const exportDefinitions = {
     "term": "gas price",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The gas price is what it sounds like: the cost the network is paid for the computational work being performed in a given transaction. It is paid in units of ETH called gwei. Depending on network congestion, the gas price may vary significantly.",
+    "description": (
+  <>
+    The gas price is what it sounds like: the cost the network is paid for the computational work being performed in a given transaction. It is paid in units of ETH called gwei. Depending on network congestion, the gas price may vary significantly.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "gas price",
       "Simplified Chinese": "燃料价格",
       "French": "prix du gaz",
       "German": "Gas-Preis",
@@ -5251,9 +6235,15 @@ const exportDefinitions = {
     "term": "Gas Station Network",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Gas Station Network (GSN) is a decentralized network of relayers mainly referring to the Ethereum blockchain. It allows you to build dapps which provide payment for transactions, so users do not need to hold Ether or ETH to pay for gas, easing their onboarding process and improving user acquisition and experience.\nHowever, while the relayers in the GSN do not charge users, they charge the recipient and contract instead. In this way, the relayers recover the costs of transactions and profit from extra fees for providing such services.\n\nOriginally conceived and designed by TabooKey, the GSN has grown to encompass many companies, protocols and platforms in the Ethereum ecosystem that wish to facilitate the onboarding of users to Ethereum applications. Gas Station Network",
+    "description": (
+  <>
+    The Gas Station Network (GSN) is a decentralized network of relayers mainly referring to the Ethereum blockchain. It allows you to build dapps which provide payment for transactions, so users do not need to hold Ether or ETH to pay for gas, easing their onboarding process and improving user acquisition and experience.\nHowever, while the relayers in the GSN do not charge users, they charge the recipient and contract instead. In this way, the relayers recover the costs of transactions and profit from extra fees for providing such services.\n\nOriginally conceived and designed by TabooKey, the GSN has grown to encompass many companies, protocols and platforms in the Ethereum ecosystem that wish to facilitate the onboarding of users to Ethereum applications. Gas Station Network
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Gas Station Network",
       "Simplified Chinese": "Gas Station Network",
       "French": "Gas Station Network",
       "German": "Gas Station Network",
@@ -5283,9 +6273,15 @@ const exportDefinitions = {
     "term": "genesis block",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The initial block of data computed in the history of a blockchain network.",
+    "description": (
+  <>
+    The initial block of data computed in the history of a blockchain network.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "genesis block",
       "Simplified Chinese": "创世区块",
       "French": "bloc initial",
       "German": "Genesis Block",
@@ -5315,9 +6311,15 @@ const exportDefinitions = {
     "term": "Gigawei",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Gwei is a unit of ether, the smallest denomination, which stands for gigawei (or 1,000,000,000). Gwei is used for gas fees, or rather payments made by users to compensate for the computing energy required to process and validate transactions on the Ethereum blockchain.",
+    "description": (
+  <>
+    Gwei is a unit of ether, the smallest denomination, which stands for gigawei (or 1,000,000,000). Gwei is used for gas fees, or rather payments made by users to compensate for the computing energy required to process and validate transactions on the Ethereum blockchain.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Gigawei",
       "Simplified Chinese": "Gigawei",
       "French": "Gigawei",
       "German": "Gigawei",
@@ -5347,9 +6349,15 @@ const exportDefinitions = {
     "term": "Gitcoin",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Gitcoin is a platform where coders and developers can get paid to work on open-source software in a wide variety of programming languages. Users can also submit their own project ideas to the Gitcoin platform in order to crowdsource funding from contributing donors.\n\nGitcoin",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Gitcoin is a platform where coders and developers can get paid to work on open-source software in a wide variety of programming languages. Users can also submit their own project ideas to the Gitcoin platform in order to crowdsource funding from contributing donors.\n\nGitcoin
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Gitcoin",
       "Simplified Chinese": "Gitcoin",
       "French": "Gitcoin",
       "German": "Gitcoin",
@@ -5379,9 +6387,15 @@ const exportDefinitions = {
     "term": "GitHub",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work. GitHub",
+    "description": (
+  <>
+    GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work. GitHub
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "GitHub",
       "Simplified Chinese": "GitHub",
       "French": "GitHub",
       "German": "GitHub",
@@ -5411,9 +6425,15 @@ const exportDefinitions = {
     "term": "Goerli",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Goerli is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).\n\nETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet.",
+    "description": (
+  <>
+    Goerli is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).\n\nETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Goerli",
       "Simplified Chinese": "Goerli",
       "French": "Goerli",
       "German": "Goerli",
@@ -5443,9 +6463,15 @@ const exportDefinitions = {
     "term": "Governance",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the world of cryptocurrencies, governance is defined as the people or organizations that have decision-making powers regarding the project. Governance is an essential aspect of all cryptocurrency projects. As decentralized blockchains, cryptocurrencies often have a very liberal governance structure. There are a number of different approaches to governance. Governance",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    In the world of cryptocurrencies, governance is defined as the people or organizations that have decision-making powers regarding the project. Governance is an essential aspect of all cryptocurrency projects. As decentralized blockchains, cryptocurrencies often have a very liberal governance structure. There are a number of different approaches to governance. Governance
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Governance",
       "Simplified Chinese": "治理",
       "French": "Gouvernance",
       "German": "Governance",
@@ -5475,9 +6501,15 @@ const exportDefinitions = {
     "term": "GSN",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Abbreviation for Gas Station Network",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Abbreviation for Gas Station Network
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "GSN",
       "Simplified Chinese": "GSN",
       "French": "GSN",
       "German": "GSN",
@@ -5507,9 +6539,15 @@ const exportDefinitions = {
     "term": "gwei",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A minuscule and common denomination of ETH, and the unit in which gas prices are often specified. See 'ether (denominations)' entry for more information.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A minuscule and common denomination of ETH, and the unit in which gas prices are often specified. See 'ether (denominations)' entry for more information.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "gwei",
       "Simplified Chinese": "gwei",
       "French": "gwei",
       "German": "Gwei",
@@ -5539,9 +6577,15 @@ const exportDefinitions = {
     "term": "halving",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Many cryptocurrencies have a finite supply, which makes them a scarce digital commodity. For example, the total amount of bitcoin that will ever be issued is 21 million. The number of bitcoins generated per block is decreased 50% every four years. This is called “halving.” The final halving will take place in the year 2140.",
+    "description": (
+  <>
+    Many cryptocurrencies have a finite supply, which makes them a scarce digital commodity. For example, the total amount of bitcoin that will ever be issued is 21 million. The number of bitcoins generated per block is decreased 50% every four years. This is called “halving.” The final halving will take place in the year 2140.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "halving",
       "Simplified Chinese": "减半",
       "French": "Réduire de moitié",
       "German": "Halbierung",
@@ -5571,9 +6615,15 @@ const exportDefinitions = {
     "term": "hard fork",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A hard fork occurs when there is a change in the blockchain that is not backward compatible (not compatible with older versions), thus requiring all participants to upgrade to the new version in order to be able to continue participating on the network. See also \"fork\".",
+    "description": (
+  <>
+    A hard fork occurs when there is a change in the blockchain that is not backward compatible (not compatible with older versions), thus requiring all participants to upgrade to the new version in order to be able to continue participating on the network. See also 'fork'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "hard fork",
       "Simplified Chinese": "硬分叉",
       "French": "fork dur",
       "German": "Hard Fork",
@@ -5603,9 +6653,15 @@ const exportDefinitions = {
     "term": "hardware wallet",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A hardware wallet is a physical device that is used to store cryptographic keys, and generally, sign transactions. Some hardware wallets can be connected physically or through software to internet connectivity; others are ‘air-gapped’, receiving transaction requests and sending transaction approvals through a mechanism such as a QR code. The overall goal of using a hardware wallet to manage keys and signatures is to reduce the likelihood of your keys or Secret Recovery Phrase from being somehow stolen or compromised, due to being connected to the Internet. For more on hardware wallets, see MetaMask’s Hardware Wallet Hub:\nHardware Wallet Hub",
+    "description": (
+  <>
+    A hardware wallet is a physical device that is used to store cryptographic keys, and generally, sign transactions. Some hardware wallets can be connected physically or through software to internet connectivity; others are ‘air-gapped’, receiving transaction requests and sending transaction approvals through a mechanism such as a QR code. The overall goal of using a hardware wallet to manage keys and signatures is to reduce the likelihood of your keys or Secret Recovery Phrase from being somehow stolen or compromised, due to being connected to the Internet. For more on hardware wallets, see MetaMask’s Hardware Wallet Hub:\nHardware Wallet Hub
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "hardware wallet",
       "Simplified Chinese": "硬件钱包",
       "French": "portefeuille physique",
       "German": "Hardware-Wallet",
@@ -5635,9 +6691,15 @@ const exportDefinitions = {
     "term": "hash (noun)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In computing, ‘hashing’ is an operation performed on lists or sets of data to create a reliable index for that data. A particular datum, or a reference to it, is fed into an algorithm, which transforms the datum and returns a standardized, and generally unrecognizable, ‘hash’ of it, sometimes referred to as that datum or file’s “digital fingerprint.” Each block in a blockchain contains the hash value that validated the block before it, followed by its own hash value (this is how the continuity of the ‘chain’ is constructed). Hashes can be used to confirm that blockchain transactions are complete and valid. You may see references to the “transaction hash” or “tx hash”; this should be understood as “unique identifier of the transaction”.",
+    "description": (
+  <>
+    In computing, ‘hashing’ is an operation performed on lists or sets of data to create a reliable index for that data. A particular datum, or a reference to it, is fed into an algorithm, which transforms the datum and returns a standardized, and generally unrecognizable, ‘hash’ of it, sometimes referred to as that datum or file’s “digital fingerprint.” Each block in a blockchain contains the hash value that validated the block before it, followed by its own hash value (this is how the continuity of the ‘chain’ is constructed). Hashes can be used to confirm that blockchain transactions are complete and valid. You may see references to the “transaction hash” or “tx hash”; this should be understood as “unique identifier of the transaction”.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "hash (noun)",
       "Simplified Chinese": "哈希",
       "French": "hachage (nom)",
       "German": "Hash",
@@ -5667,9 +6729,15 @@ const exportDefinitions = {
     "term": "hexadecimal; 'hex data'",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Hexadecimal is a base 16, rather than base 10, counting system. Used all over Ethereum for a variety of things, a hexadecimal string is comprised of the numbers 0 1 2 3 4 5 6 7 8 9 and letters A B C D E F.",
+    "description": (
+  <>
+    Hexadecimal is a base 16, rather than base 10, counting system. Used all over Ethereum for a variety of things, a hexadecimal string is comprised of the numbers 0 1 2 3 4 5 6 7 8 9 and letters A B C D E F.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "hexadecimal; 'hex data'",
       "Simplified Chinese": "十六进制；“十六进制数据”",
       "French": "hexadécimal ; « données hexadécimales »",
       "German": "hexadezimal; ‚Hex-Daten‘",
@@ -5699,9 +6767,15 @@ const exportDefinitions = {
     "term": "Hierarchical Deterministic (HD) wallet",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Hierarchical Deterministic wallets were first created for Bitcoin, and enable the creation of a very large number of accounts based on an initial seed phrase. This technology was later adopted in Ethereum wallets; when restoring a MetaMask wallet from the Secret Recovery Phrase, for example, if you \"create\" accounts, they will be the same accounts as previously created from that same phrase; they are derived from it.",
+    "description": (
+  <>
+    Hierarchical Deterministic wallets were first created for Bitcoin, and enable the creation of a very large number of accounts based on an initial seed phrase. This technology was later adopted in Ethereum wallets; when restoring a MetaMask wallet from the Secret Recovery Phrase, for example, if you 'create' accounts, they will be the same accounts as previously created from that same phrase; they are derived from it.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Hierarchical Deterministic (HD) wallet",
       "Simplified Chinese": "分层确定性（HD）钱包",
       "French": "Portefeuille déterministe hiérarchique (HD)",
       "German": "Hierarchisch-deterministisches (HD) Wallet",
@@ -5731,9 +6805,15 @@ const exportDefinitions = {
     "term": "hot storage",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Synonymous with 'hot wallet'.",
+    "description": (
+  <>
+    Synonymous with 'hot wallet'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "hot storage",
       "Simplified Chinese": "热存储",
       "French": "stockage connecté",
       "German": "Hot Storage",
@@ -5763,9 +6843,15 @@ const exportDefinitions = {
     "term": "hot wallet",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A wallet that is directly connected to the internet at all times; for example, one that is held on a centralized exchange. Hot wallets are considered to have lower security than cold storage systems or hardware wallets.",
+    "description": (
+  <>
+    A wallet that is directly connected to the internet at all times; for example, one that is held on a centralized exchange. Hot wallets are considered to have lower security than cold storage systems or hardware wallets.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "hot wallet",
       "Simplified Chinese": "热钱包",
       "French": "portefeuille connecté",
       "German": "Hot Wallet",
@@ -5795,9 +6881,15 @@ const exportDefinitions = {
     "term": "Hybrid Network",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Hybrid blockchain. See \"PoS/PoW Hybrid",
+    "description": (
+  <>
+    Hybrid blockchain. See 'PoS/PoW Hybrid'
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Hybrid Network",
       "Simplified Chinese": "混合网络",
       "French": "Réseau hybride",
       "German": "Hybrides Netzwerk",
@@ -5827,9 +6919,15 @@ const exportDefinitions = {
     "term": "Hyperledger",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Hyperledger is an ecosystem of open-system tools, libraries, and products designed to enable and support enterprise-grade blockchain technology. In general, the products focus on creating solutions for permissioned blockchains--that is, non-public blockchains, with alternative consensus mechanisms other than Proof of Work (PoW) or Proof of Stake (PoS). That said, there are use cases where such institutions would want to integrate with public blockchains, and for that reason Hyperledger Besu and Hyperledger Burrow are actively developed projects, the former being a Java-based Ethereum client, the latter being a smart contract platform which supports EVM bytecode.",
+    "description": (
+  <>
+    Hyperledger is an ecosystem of open-system tools, libraries, and products designed to enable and support enterprise-grade blockchain technology. In general, the products focus on creating solutions for permissioned blockchains--that is, non-public blockchains, with alternative consensus mechanisms other than Proof of Work (PoW) or Proof of Stake (PoS). That said, there are use cases where such institutions would want to integrate with public blockchains, and for that reason Hyperledger Besu and Hyperledger Burrow are actively developed projects, the former being a Java-based Ethereum client, the latter being a smart contract platform which supports EVM bytecode.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Hyperledger",
       "Simplified Chinese": "超级账本",
       "French": "Hyperledger",
       "German": "Hyperledger",
@@ -5859,9 +6957,15 @@ const exportDefinitions = {
     "term": "ICO",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An Initial Coin Offering (also called ICO) occurs when a new token project sells advance tokens in exchange for upfront capital. These have been a vehicle for fraud and scams, and as such are subject to ever-evolving regulation and legislation.",
+    "description": (
+  <>
+    An Initial Coin Offering (also called ICO) occurs when a new token project sells advance tokens in exchange for upfront capital. These have been a vehicle for fraud and scams, and as such are subject to ever-evolving regulation and legislation.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "ICO",
       "Simplified Chinese": "首次代币发行（ICO）",
       "French": "offre au public de jetons (ICO)",
       "German": "ICO",
@@ -5891,9 +6995,15 @@ const exportDefinitions = {
     "term": "Identicon / AddressIdenticon / AddressIcon",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The colorful blob of colors that corresponds to your address in MetaMask. It is an easy way to see if your address is correct. More specifically, you can choose between jazzicons (created by the MetaMask team!) or blockies.",
+    "description": (
+  <>
+    The colorful blob of colors that corresponds to your address in MetaMask. It is an easy way to see if your address is correct. More specifically, you can choose between jazzicons (created by the MetaMask team!) or blockies.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Identicon / AddressIdenticon / AddressIcon",
       "Simplified Chinese": "Identicon / AddressIdenticon / AddressIcon",
       "French": "Identicon / AddressIdenticon / AddressIcon",
       "German": "Identicon / AddressIdenticon / AddressIcon",
@@ -5923,9 +7033,15 @@ const exportDefinitions = {
     "term": "immutability",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The inability to be altered or changed. This is a key element of blockchain networks: once written onto a blockchain ledger, data cannot be altered. This immutability provides the basis for commerce and trade to take place on blockchain networks.",
+    "description": (
+  <>
+    The inability to be altered or changed. This is a key element of blockchain networks: once written onto a blockchain ledger, data cannot be altered. This immutability provides the basis for commerce and trade to take place on blockchain networks.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "immutability",
       "Simplified Chinese": "不可篡改性",
       "French": "immutabilité",
       "German": "Unveränderlichkeit",
@@ -5955,9 +7071,15 @@ const exportDefinitions = {
     "term": "Infura",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Part of ConsenSys, Infura offers backend access to the Ethereum network over established HTTP and WebSockets technology. Prior to Infura, developers were obligated to run their own nodes of the networks with which they wanted to interact; Infura provides that access through a set of APIs. This enables developers of dapps and websites seeking to interact with the Ethereum blockchain to do so, and at scale.\n\nInfura",
+    "description": (
+  <>
+    Part of ConsenSys, Infura offers backend access to the Ethereum network over established HTTP and WebSockets technology. Prior to Infura, developers were obligated to run their own nodes of the networks with which they wanted to interact; Infura provides that access through a set of APIs. This enables developers of dapps and websites seeking to interact with the Ethereum blockchain to do so, and at scale.\n\nInfura
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Infura",
       "Simplified Chinese": "Infura",
       "French": "Infura",
       "German": "Infura",
@@ -5987,9 +7109,15 @@ const exportDefinitions = {
     "term": "Initial Public Offering (IPO)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An initial public offering (IPO) is the process of a company offering shares for purchase on the stock market for the first time.  IPO",
+    "description": (
+  <>
+    An initial public offering (IPO) is the process of a company offering shares for purchase on the stock market for the first time.  IPO
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Initial Public Offering (IPO)",
       "Simplified Chinese": "首次公开募股（IPO）",
       "French": "Introduction en bourse (IPO)",
       "German": "Börsengang (IPO)",
@@ -6019,9 +7147,15 @@ const exportDefinitions = {
     "term": "Insider Trading",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Insider trading happens when someone purchases or sells stocks while possessing private, material information about that stock. Insider Trading",
+    "description": (
+  <>
+    Insider trading happens when someone purchases or sells stocks while possessing private, material information about that stock. Insider Trading
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Insider Trading",
       "Simplified Chinese": "内幕交易",
       "French": "Délit d’initié",
       "German": "Insiderhandel",
@@ -6051,9 +7185,15 @@ const exportDefinitions = {
     "term": "Inter-Blockchain Communication (IBC) Protocol",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Inter-Blockchain Communication (IBC) is a communication protocol that allows different blockchains to relay messages to each other. It guarantees reliable, ordered and authenticated communication between the chains. Blockchains can trustlessly exchange value like tokens. IBC does not work like a bridge. Instead, blockchains send packets of information via smart contracts that allow them to not only exchange value but relay any form of data, such as communication, via the communication protocol.  Inter-Blockchain Communication (IBC)",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Inter-Blockchain Communication (IBC) is a communication protocol that allows different blockchains to relay messages to each other. It guarantees reliable, ordered and authenticated communication between the chains. Blockchains can trustlessly exchange value like tokens. IBC does not work like a bridge. Instead, blockchains send packets of information via smart contracts that allow them to not only exchange value but relay any form of data, such as communication, via the communication protocol.  Inter-Blockchain Communication (IBC)
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Inter-Blockchain Communication (IBC) Protocol",
       "Simplified Chinese": "跨链通信（IBC）协议",
       "French": "Protocole de communication entre chaînes de blocs (IBC)",
       "German": "Inter-Blockchain-Kommunikationsprotokoll (IBC)",
@@ -6083,9 +7223,15 @@ const exportDefinitions = {
     "term": "internal transaction",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An internal transaction on the Ethereum network is one that occurs between smart contracts, rather than between addresses. Notably, they are not included on the blockchain, and therefore do not incur gas fees, but they are often crucial to carrying out the action in question, and can be viewed on Etherscan. For more detail, see MetaMask's article on the topic: Internal Transactions",
+    "description": (
+  <>
+    An internal transaction on the Ethereum network is one that occurs between smart contracts, rather than between addresses. Notably, they are not included on the blockchain, and therefore do not incur gas fees, but they are often crucial to carrying out the action in question, and can be viewed on Etherscan. For more detail, see MetaMask's article on the topic: Internal Transactions
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "internal transaction",
       "Simplified Chinese": "内部交易",
       "French": "transaction interne",
       "German": "Interne Transaktion",
@@ -6115,9 +7261,15 @@ const exportDefinitions = {
     "term": "Interoperability",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Blockchain interoperability, or cross-chain interoperability, is the ability to see and share information across multiple blockchains. One of the clear benefits of blockchain interoperability is being able to trade assets across various blockchains without the need for a centralized, custodial exchange. Interoperability",
+    "description": (
+  <>
+    Blockchain interoperability, or cross-chain interoperability, is the ability to see and share information across multiple blockchains. One of the clear benefits of blockchain interoperability is being able to trade assets across various blockchains without the need for a centralized, custodial exchange. Interoperability
+  </>
+)
+,
     "termCategory": "Financial term",
     "i18n": {
+      "Term": "Interoperability",
       "Simplified Chinese": "互操作性",
       "French": "Interopérabilité",
       "German": "Interoperabilität",
@@ -6147,9 +7299,15 @@ const exportDefinitions = {
     "term": "InterPlanetary File System (IPFS)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A decentralized file storage and referencing system for the Ethereum blockchain, and the internet as a whole. IFPS is an open source protocol that enables storing and sharing hypermedia (text, audio, visual) in a distributed manner without relying on a single point of failure. This distributed file system enables applications to run faster, safer and more transparently.",
+    "description": (
+  <>
+    A decentralized file storage and referencing system for the Ethereum blockchain, and the internet as a whole. IFPS is an open source protocol that enables storing and sharing hypermedia (text, audio, visual) in a distributed manner without relying on a single point of failure. This distributed file system enables applications to run faster, safer and more transparently.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "InterPlanetary File System (IPFS)",
       "Simplified Chinese": "星际文件系统（IPFS）",
       "French": "InterPlanetary File System (IPFS)",
       "German": "InterPlanetary-Dateisystem (IPFS)",
@@ -6179,9 +7337,15 @@ const exportDefinitions = {
     "term": "IP address",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A unique string of characters that identifies each computer using the Internet Protocol to communicate over a network.",
+    "description": (
+  <>
+    A unique string of characters that identifies each computer using the Internet Protocol to communicate over a network.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "IP address",
       "Simplified Chinese": "IP 地址",
       "French": "Adresse IP",
       "German": "IP-Adresse",
@@ -6211,9 +7375,15 @@ const exportDefinitions = {
     "term": "JSON file",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. it is commonly used in public blockchain systems to move data.",
+    "description": (
+  <>
+    JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. it is commonly used in public blockchain systems to move data.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "JSON file",
       "Simplified Chinese": "JSON 文件",
       "French": "Fichier JSON",
       "German": "JSON-Datei",
@@ -6243,9 +7413,15 @@ const exportDefinitions = {
     "term": "JSON-RPC",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "JSON-RPC is, quite simply, a method used to move data around computer systems, and predates public blockchain technology. It was chosen as a standard for moving data between blockchain networks and Internet browsers and wallets, with the result that these networks have come to be called 'RPC networks', despite JSON-RPC not being their defining technical feature.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    JSON-RPC is, quite simply, a method used to move data around computer systems, and predates public blockchain technology. It was chosen as a standard for moving data between blockchain networks and Internet browsers and wallets, with the result that these networks have come to be called 'RPC networks', despite JSON-RPC not being their defining technical feature.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "JSON-RPC",
       "Simplified Chinese": "JSON-RPC",
       "French": "JSON-RPC",
       "German": "JSON-RPC",
@@ -6275,9 +7451,15 @@ const exportDefinitions = {
     "term": "keystore file",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A keystore file is a special, encrypted version of a private key in JSON format. See also 'private key'.",
+    "description": (
+  <>
+    A keystore file is a special, encrypted version of a private key in JSON format. See also 'private key'.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "keystore file",
       "Simplified Chinese": "密钥库文件",
       "French": "fichier keystore",
       "German": "Keystore-Datei",
@@ -6307,9 +7489,15 @@ const exportDefinitions = {
     "term": "Know Your Customer (KYC)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A process in which a business must verify the identity and background information (address, financial details, etc.) of their customers. For example, current regulations and laws require banks and other financial institutions to keep and report customers' personal information and transactions.",
+    "description": (
+  <>
+    A process in which a business must verify the identity and background information (address, financial details, etc.) of their customers. For example, current regulations and laws require banks and other financial institutions to keep and report customers' personal information and transactions.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Know Your Customer (KYC)",
       "Simplified Chinese": "实名认证（KYC）",
       "French": "Know Your Customer (KYC)",
       "German": "Know Your Customer (KYC)",
@@ -6339,9 +7527,15 @@ const exportDefinitions = {
     "term": "Know Your Transaction",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Know Your Transaction (KYT) is a process employed by financial institutions to monitor the merchants' businesses through the analysis of transaction data.",
+    "description": (
+  <>
+    Know Your Transaction (KYT) is a process employed by financial institutions to monitor the merchants' businesses through the analysis of transaction data.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Know Your Transaction",
       "Simplified Chinese": "交易监控（KYT）",
       "French": "Know Your Transaction",
       "German": "Know Your Transaction",
@@ -6371,9 +7565,15 @@ const exportDefinitions = {
     "term": "Kovan",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Kovan test network has been deprecated. Ethereum used to have four testnets: Ropsten, Rinkeby, Goerli, and Kovan (Kiln was also added for specific purposes relating to the Merge in 2022). However, after the Merge occurred on September 15th 2022, most of the existing testnets began being deprecated (taken out of service). They may still work, but could be unreliable. Sepolia and Goerli are now the only two available.",
+    "description": (
+  <>
+    An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Kovan test network has been deprecated. Ethereum used to have four testnets: Ropsten, Rinkeby, Goerli, and Kovan (Kiln was also added for specific purposes relating to the Merge in 2022). However, after the Merge occurred on September 15th 2022, most of the existing testnets began being deprecated (taken out of service). They may still work, but could be unreliable. Sepolia and Goerli are now the only two available.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Kovan",
       "Simplified Chinese": "Kovan",
       "French": "Kovan",
       "German": "Kovan",
@@ -6403,9 +7603,15 @@ const exportDefinitions = {
     "term": "KYC",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronym; see 'Know Your Customer'.",
+    "description": (
+  <>
+    Acronym; see 'Know Your Customer'.
+  </>
+)
+,
     "termCategory": "Legal term",
     "i18n": {
+      "Term": "KYC",
       "Simplified Chinese": "KYC（实名认证）",
       "French": "KYC",
       "German": "KYC",
@@ -6435,9 +7641,15 @@ const exportDefinitions = {
     "term": "KYT",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronym; see 'Know Your Transaction'.",
+    "description": (
+  <>
+    Acronym; see 'Know Your Transaction'.
+  </>
+)
+,
     "termCategory": "Legal term",
     "i18n": {
+      "Term": "KYT",
       "Simplified Chinese": "KYT（交易监控）",
       "French": "KYT",
       "German": "KYT",
@@ -6467,9 +7679,15 @@ const exportDefinitions = {
     "term": "Latency",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of Network latency:  refers to the amount of time it takes for a computer on one network to communicate with a computer on another network. Network latency",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    In the context of Network latency:  refers to the amount of time it takes for a computer on one network to communicate with a computer on another network. Network latency
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Latency",
       "Simplified Chinese": "延迟",
       "French": "Latence",
       "German": "Latenz",
@@ -6499,9 +7717,15 @@ const exportDefinitions = {
     "term": "Lattice1",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Lattice1 is a powerful, secure, and user-friendly hardware wallet that allows you to manage an unlimited number of wallets and easily transact on the blockchain.",
+    "description": (
+  <>
+    The Lattice1 is a powerful, secure, and user-friendly hardware wallet that allows you to manage an unlimited number of wallets and easily transact on the blockchain.
+  </>
+)
+,
     "termCategory": "Legal term",
     "i18n": {
+      "Term": "Lattice1",
       "Simplified Chinese": "Lattice1",
       "French": "Lattice1",
       "German": "Lattice1",
@@ -6531,9 +7755,15 @@ const exportDefinitions = {
     "term": "Launchpad",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Launchpad is the Ethereum Foundation's official way to deposit your ETH for staking on Ethereum. Ethereum Launchpad",
+    "description": (
+  <>
+    The Launchpad is the Ethereum Foundation's official way to deposit your ETH for staking on Ethereum. Ethereum Launchpad
+  </>
+)
+,
     "termCategory": "Legal term",
     "i18n": {
+      "Term": "Launchpad",
       "Simplified Chinese": "Launchpad",
       "French": "Launchpad",
       "German": "Launchpad",
@@ -6563,9 +7793,15 @@ const exportDefinitions = {
     "term": "Layer 0",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Layer 0 in blockchain refers to the underlying infrastructure that supports the blockchain network. It includes the physical hardware, such as computers, servers, and other network components, as well as the software protocols that govern the interactions between the nodes in the network.\n\nIn other words, Layer 0 is the foundation upon which the blockchain network is built. It provides the necessary resources and technical capabilities for the network to function, such as computing power, storage, and network connectivity. Layer 0 is essential to the operation and security of the blockchain network, as it ensures that data is transmitted and stored correctly and securely across the network.\n\nLayer 0 is sometimes also referred to as \"Layer Zero\" or \"L0\". It is important to note that the concept of Layer 0 is not unique to blockchain technology, but is a more general term used to describe the physical and technical infrastructure underlying any type of computer network.",
+    "description": (
+  <>
+    Layer 0 in blockchain refers to the underlying infrastructure that supports the blockchain network. It includes the physical hardware, such as computers, servers, and other network components, as well as the software protocols that govern the interactions between the nodes in the network.\n\nIn other words, Layer 0 is the foundation upon which the blockchain network is built. It provides the necessary resources and technical capabilities for the network to function, such as computing power, storage, and network connectivity. Layer 0 is essential to the operation and security of the blockchain network, as it ensures that data is transmitted and stored correctly and securely across the network.\n\nLayer 0 is sometimes also referred to as 'Layer Zero' or 'L0'. It is important to note that the concept of Layer 0 is not unique to blockchain technology, but is a more general term used to describe the physical and technical infrastructure underlying any type of computer network.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Layer 0",
       "Simplified Chinese": "零层",
       "French": "Couche 0",
       "German": "Layer 0",
@@ -6595,9 +7831,15 @@ const exportDefinitions = {
     "term": "Layer 1",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Layer 1 in blockchain refers to the base layer of the blockchain protocol. It is the layer that contains the core elements of the blockchain, including the consensus mechanism, the data structure, and the rules that govern the creation and transfer of assets or tokens.\n\nIn other words, Layer 1 is the foundation of the blockchain technology stack, upon which all other layers and applications are built. It is responsible for maintaining the integrity of the blockchain network and ensuring that all transactions are valid and secure.\n\nLayer 1 is designed to be decentralized, meaning that no single entity has control over the network. This is achieved through the use of consensus mechanisms, such as Proof of Work (PoW), Proof of Stake (PoS), or other methods, which enable participants to reach agreement on the validity of transactions and the state of the network.\n\nSome examples of Layer 1 blockchain protocols include Bitcoin, Ethereum, Binance Smart Chain, Avalanche.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Layer 1 in blockchain refers to the base layer of the blockchain protocol. It is the layer that contains the core elements of the blockchain, including the consensus mechanism, the data structure, and the rules that govern the creation and transfer of assets or tokens.\n\nIn other words, Layer 1 is the foundation of the blockchain technology stack, upon which all other layers and applications are built. It is responsible for maintaining the integrity of the blockchain network and ensuring that all transactions are valid and secure.\n\nLayer 1 is designed to be decentralized, meaning that no single entity has control over the network. This is achieved through the use of consensus mechanisms, such as Proof of Work (PoW), Proof of Stake (PoS), or other methods, which enable participants to reach agreement on the validity of transactions and the state of the network.\n\nSome examples of Layer 1 blockchain protocols include Bitcoin, Ethereum, Binance Smart Chain, Avalanche.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Layer 1",
       "Simplified Chinese": "一层公链",
       "French": "Couche 1",
       "German": "Layer 1",
@@ -6627,9 +7869,15 @@ const exportDefinitions = {
     "term": "Layer 2",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A Layer 2 network, or L2, is a blockchain that is built specifically to scale another network. For a full understanding of how this is achieved, see here. Some popular examples of this in the Ethereum ecosystem are Arbitrum, Optimism, and StarkNet. These chains are specifically built to handle a large number of transactions quickly by relying on Ethereum Mainnet for security functions, while optimizing for speed and scale. These networks are considered \"scaling solutions\" while not being part of Ethereum's protocol-level scaling efforts. See also \"blockchain trilemma\", \"modular blockchain\", \"Serenity\". Contrast with \"sidechain\".",
+    "description": (
+  <>
+    A Layer 2 network, or L2, is a blockchain that is built specifically to scale another network. For a full understanding of how this is achieved, see here. Some popular examples of this in the Ethereum ecosystem are Arbitrum, Optimism, and StarkNet. These chains are specifically built to handle a large number of transactions quickly by relying on Ethereum Mainnet for security functions, while optimizing for speed and scale. These networks are considered 'scaling solutions' while not being part of Ethereum's protocol-level scaling efforts. See also 'blockchain trilemma', 'modular blockchain', 'Serenity'. Contrast with 'sidechain'.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Layer 2",
       "Simplified Chinese": "二层公链",
       "French": "Couche 2",
       "German": "Layer 2",
@@ -6659,9 +7907,15 @@ const exportDefinitions = {
     "term": "Learn; MetaMask Learn",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.\n\nhttps://learn.metamask.io/",
+    "description": (
+  <>
+    MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.\n\nhttps://learn.metamask.io/
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Learn; MetaMask Learn",
       "Simplified Chinese": "Learn；MetaMask Learn",
       "French": "Learn ; MetaMask Learn",
       "German": "Learn; MetaMask Learn",
@@ -6694,6 +7948,7 @@ const exportDefinitions = {
     "description": "",
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Ledger",
       "Simplified Chinese": "Ledger",
       "French": "Ledger",
       "German": "Ledger",
@@ -6723,9 +7978,15 @@ const exportDefinitions = {
     "term": "Ledger Live App",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Ledger Live is a hardware wallet interface app for users of the Ledger Nano X, Ledger Nano S, and Ledger Blue.\n\nThe app enables Ledger users to manage their cryptocurrency hardware and assets. Additionally, it features real-time price updates, multi-account management, and the convenience of an extremely simple setup process.\n\nLedger Live combines the management of your individual crypto assets and device management into one interface, with the intention of gradually replacing the Chrome-based applications system that previously annoyed some users of the device.",
+    "description": (
+  <>
+    Ledger Live is a hardware wallet interface app for users of the Ledger Nano X, Ledger Nano S, and Ledger Blue.\n\nThe app enables Ledger users to manage their cryptocurrency hardware and assets. Additionally, it features real-time price updates, multi-account management, and the convenience of an extremely simple setup process.\n\nLedger Live combines the management of your individual crypto assets and device management into one interface, with the intention of gradually replacing the Chrome-based applications system that previously annoyed some users of the device.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Ledger Live App",
       "Simplified Chinese": "Ledger Live App",
       "French": "Ledger Live App",
       "German": "Ledger Live App",
@@ -6755,9 +8016,15 @@ const exportDefinitions = {
     "term": "Library",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A collection of non-volatile resources used by computer programs, often for software development. These may include configuration data, documentation, help data, message templates, pre-written code and subroutines, classes, values or type specifications. Software Library",
+    "description": (
+  <>
+    A collection of non-volatile resources used by computer programs, often for software development. These may include configuration data, documentation, help data, message templates, pre-written code and subroutines, classes, values or type specifications. Software Library
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "Library",
       "Simplified Chinese": "软件库",
       "French": "Bibliothèque",
       "German": "Bibliothek",
@@ -6787,9 +8054,15 @@ const exportDefinitions = {
     "term": "Lido",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Lido is a liquid staking protocol for Ethereum that allows users with less than 32 ETH to collectively fund new validators and receive rewards.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Lido is a liquid staking protocol for Ethereum that allows users with less than 32 ETH to collectively fund new validators and receive rewards.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Lido",
       "Simplified Chinese": "Lido",
       "French": "Lido",
       "German": "Lido",
@@ -6819,9 +8092,15 @@ const exportDefinitions = {
     "term": "light client",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In computing, a 'client' is a software that runs or accesses a program made available by a remote computer. With blockchain networks, then, clients are the programs that sync blockchain data and participate in network consensus. More often and more specifically, 'Layer 2' is used as a noun, to refer to a type of network that is specifically built to handle a large number of transactions quickly by relying on Ethereum mainnet for security functions, and optimizing for speed and scale. Examples include Arbitrum and Optimism; this is different from a 'sidechain', which is a network that has its own security mechanism, yet still allows compatibility and bridging of assets between itself and Ethereum.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    In computing, a 'client' is a software that runs or accesses a program made available by a remote computer. With blockchain networks, then, clients are the programs that sync blockchain data and participate in network consensus. More often and more specifically, 'Layer 2' is used as a noun, to refer to a type of network that is specifically built to handle a large number of transactions quickly by relying on Ethereum mainnet for security functions, and optimizing for speed and scale. Examples include Arbitrum and Optimism; this is different from a 'sidechain', which is a network that has its own security mechanism, yet still allows compatibility and bridging of assets between itself and Ethereum.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "light client",
       "Simplified Chinese": "轻客户端",
       "French": "client léger",
       "German": "Light Client",
@@ -6851,9 +8130,15 @@ const exportDefinitions = {
     "term": "Lightning Network",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently.\n\nThis layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain.",
+    "description": (
+  <>
+    The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently.\n\nThis layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Lightning Network",
       "Simplified Chinese": "Lightning Network",
       "French": "Lightning Network",
       "German": "Lightning Network",
@@ -6883,9 +8168,15 @@ const exportDefinitions = {
     "term": "Liquid Democracy (Delegative Democracy)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A government system where votes can be delegated or proxied to other individuals such as friends, politicians, or subject matter experts. For example, in a liquid democracy, Bernadette could give Ahmad her vote and Ahmad would then vote for both himself and Bernadette. Liquid democracy is used at times as a governance mechanism for Decentralized Autonomous Organizations (DAOs) wherein every participant is able to vote or delegate their vote to another individual.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A government system where votes can be delegated or proxied to other individuals such as friends, politicians, or subject matter experts. For example, in a liquid democracy, Bernadette could give Ahmad her vote and Ahmad would then vote for both himself and Bernadette. Liquid democracy is used at times as a governance mechanism for Decentralized Autonomous Organizations (DAOs) wherein every participant is able to vote or delegate their vote to another individual.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Liquid Democracy (Delegative Democracy)",
       "Simplified Chinese": "委任式民主",
       "French": "Démocratie liquide (démocratie délégative)",
       "German": "Liquid Democracy (Delegative Democracy)",
@@ -6915,9 +8206,15 @@ const exportDefinitions = {
     "term": "Liquidation",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Liquidation happens when a trader has insufficient funds to keep a leveraged trade open. Liquidation",
+    "description": (
+  <>
+    Liquidation happens when a trader has insufficient funds to keep a leveraged trade open. Liquidation
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Liquidation",
       "Simplified Chinese": "清算",
       "French": "Liquidation",
       "German": "Liquidation",
@@ -6947,9 +8244,15 @@ const exportDefinitions = {
     "term": "liquidity",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An asset is considered more ‘liquid’ if it can easily be converted into cash, and therefore, ‘liquidity’ refers to the availability of assets to a company or market. Conversely, the harder it is to turn an asset into cash, the more illiquid the asset. For example, stocks are considered relatively liquid assets, as they can be easily converted to cash, while real estate is considered an illiquid asset. The liquidity of an asset affects its risk potential and market price.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    An asset is considered more ‘liquid’ if it can easily be converted into cash, and therefore, ‘liquidity’ refers to the availability of assets to a company or market. Conversely, the harder it is to turn an asset into cash, the more illiquid the asset. For example, stocks are considered relatively liquid assets, as they can be easily converted to cash, while real estate is considered an illiquid asset. The liquidity of an asset affects its risk potential and market price.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "liquidity",
       "Simplified Chinese": "流动性",
       "French": "liquidités",
       "German": "Liquidität",
@@ -6979,9 +8282,15 @@ const exportDefinitions = {
     "term": "liquidity pool",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A liquidity pool is a crowdsourced pool of cryptocurrencies or tokens locked in a smart contract that is used to facilitate trades between the assets on a decentralized exchange (DEX). Instead of traditional markets of buyers and sellers, many decentralized finance (DeFi) platforms use automated market makers (AMMs), which allow digital assets to be traded in an automatic and permissionless manner through the use of liquidity pools.",
+    "description": (
+  <>
+    A liquidity pool is a crowdsourced pool of cryptocurrencies or tokens locked in a smart contract that is used to facilitate trades between the assets on a decentralized exchange (DEX). Instead of traditional markets of buyers and sellers, many decentralized finance (DeFi) platforms use automated market makers (AMMs), which allow digital assets to be traded in an automatic and permissionless manner through the use of liquidity pools.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "liquidity pool",
       "Simplified Chinese": "流动性池",
       "French": "pool de liquidités",
       "German": "Liquiditätspool",
@@ -7011,9 +8320,15 @@ const exportDefinitions = {
     "term": "liquidity staking",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Liquid staking allows users to stake tokens and simultaneously use them in the DeFi ecosystem. This is made possible by wrapping the staked tokens and providing users with a wrapped token that is a claim on the underlying collateral. The wrapped tokens can be transferred and generate yield.\nLiquid staking permits users to stake and unstake their coins without being beholden to a lock-up period. It thus enables greater capital efficiency and increased liquidity on proof-of-stake blockchains, allowing users to maximize the benefits of staking and DeFi simultaneously. Furthermore, liquid staking enhances network security on PoS chains.",
+    "description": (
+  <>
+    Liquid staking allows users to stake tokens and simultaneously use them in the DeFi ecosystem. This is made possible by wrapping the staked tokens and providing users with a wrapped token that is a claim on the underlying collateral. The wrapped tokens can be transferred and generate yield.\nLiquid staking permits users to stake and unstake their coins without being beholden to a lock-up period. It thus enables greater capital efficiency and increased liquidity on proof-of-stake blockchains, allowing users to maximize the benefits of staking and DeFi simultaneously. Furthermore, liquid staking enhances network security on PoS chains.
+  </>
+)
+,
     "termCategory": "Financial term",
     "i18n": {
+      "Term": "liquidity staking",
       "Simplified Chinese": "流动性质押",
       "French": "staking liquide",
       "German": "Liquiditätsstaking",
@@ -7043,9 +8358,15 @@ const exportDefinitions = {
     "term": "Low",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of \"gas fees\", Low is a category that allows you to wait a bit longer and save money if you choose. There are 3 categories available in MetaMask: Low, Market, Aggressive\n\nUsing Advanced Gas Controls",
+    "description": (
+  <>
+    In the context of 'gas fees', Low is a category that allows you to wait a bit longer and save money if you choose. There are 3 categories available in MetaMask: Low, Market, Aggressive\n\nUsing Advanced Gas Controls
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Low",
       "Simplified Chinese": "低级型",
       "French": "Faible",
       "German": "Niedrig",
@@ -7075,9 +8396,15 @@ const exportDefinitions = {
     "term": "mainnet",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The primary network where actual transactions take place on a specific distributed ledger. For example, The Ethereum Mainnet (capitalized in this case) is the public blockchain where network validation and transactions take place",
+    "description": (
+  <>
+    The primary network where actual transactions take place on a specific distributed ledger. For example, The Ethereum Mainnet (capitalized in this case) is the public blockchain where network validation and transactions take place
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "mainnet",
       "Simplified Chinese": "主网",
       "French": "réseau principal Ethereum (mainnet)",
       "German": "Mainnet",
@@ -7107,9 +8434,15 @@ const exportDefinitions = {
     "term": "Maker Protocol",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Maker Protocol, built on the Ethereum blockchain, enables users to create and hold currency. Current elements of the Maker Protocol are the DAI stable coin, Maker Vaults, and Voting. MakerDAO governs the Maker Protocol by deciding on key parameters (e.g., stability fees, collateral types and rates, etc.)",
+    "description": (
+  <>
+    The Maker Protocol, built on the Ethereum blockchain, enables users to create and hold currency. Current elements of the Maker Protocol are the DAI stable coin, Maker Vaults, and Voting. MakerDAO governs the Maker Protocol by deciding on key parameters (e.g., stability fees, collateral types and rates, etc.)
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Maker Protocol",
       "Simplified Chinese": "稳定币协议",
       "French": "Protocole Maker",
       "German": "Maker Protocol",
@@ -7139,9 +8472,15 @@ const exportDefinitions = {
     "term": "Malware",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.",
+    "description": (
+  <>
+    Any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "Malware",
       "Simplified Chinese": "恶意软件",
       "French": "Malware",
       "German": "Malware",
@@ -7171,9 +8510,15 @@ const exportDefinitions = {
     "term": "market cap",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Short for 'market capitalization', this refers to the total value held in a particular industry, market, company, or asset. For a publicly traded company, the market cap is the total dollar market value of a company's outstanding shares. For Bitcoin or Ethereum, the total market cap is a reflection of the current existing supply times the market price.",
+    "description": (
+  <>
+    Short for 'market capitalization', this refers to the total value held in a particular industry, market, company, or asset. For a publicly traded company, the market cap is the total dollar market value of a company's outstanding shares. For Bitcoin or Ethereum, the total market cap is a reflection of the current existing supply times the market price.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "market cap",
       "Simplified Chinese": "市值",
       "French": "capitalisation boursière",
       "German": "Marktkapitalisierung",
@@ -7203,9 +8548,15 @@ const exportDefinitions = {
     "term": "Maximal Extractable Value (MEV)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Originally known as Miner Extractable Value, MEV is a broad complex topic that refers to the inclusion, exclusion, and reordering of transactions within a block in order to extract more value from it, generally in excess of what a validator (or miner, on PoW networks) would earn from producing the block. MEV includes activities such as frontrunning, arbitrage, and what could be considered malicious actions to profit off of other users' transactions. This is a very active topic of research that is changing rapidly.",
+    "description": (
+  <>
+    Originally known as Miner Extractable Value, MEV is a broad complex topic that refers to the inclusion, exclusion, and reordering of transactions within a block in order to extract more value from it, generally in excess of what a validator (or miner, on PoW networks) would earn from producing the block. MEV includes activities such as frontrunning, arbitrage, and what could be considered malicious actions to profit off of other users' transactions. This is a very active topic of research that is changing rapidly.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Maximal Extractable Value (MEV)",
       "Simplified Chinese": "最大可提取价值（MEV）",
       "French": "Valeur extractible maximum (MEV)",
       "German": "Maximaler extrahierbarer Wert (MEV)",
@@ -7235,9 +8586,15 @@ const exportDefinitions = {
     "term": "Maximum Priority Fee",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The fee, or \"miner tip\", goes to the validator or miner, and incentivizes them to prioritize your transaction.",
+    "description": (
+  <>
+    The fee, or 'miner tip', goes to the validator or miner, and incentivizes them to prioritize your transaction.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Maximum Priority Fee",
       "Simplified Chinese": "最大优先交易费用",
       "French": "Frais de priorité maximum",
       "German": "Maximale Prioritätsgebühr",
@@ -7267,9 +8624,15 @@ const exportDefinitions = {
     "term": "memory pool; mempool",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "a.k.a. Transaction Pool\n\nWhen a user submits a transaction to the Ethereum network–or many other networks based on Ethereum–the transaction goes into what’s known as a “transaction pool”, or “txpool” for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are “picked up” and included in the next block, and there is currently a lot of research surrounding how this decision gets made. In Bitcoin, the transaction pool was referred to as the “memory pool”, or “mempool”, and often these terms are used interchangeably.",
+    "description": (
+  <>
+    a.k.a. Transaction Pool\n\nWhen a user submits a transaction to the Ethereum network–or many other networks based on Ethereum–the transaction goes into what’s known as a “transaction pool”, or “txpool” for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are “picked up” and included in the next block, and there is currently a lot of research surrounding how this decision gets made. In Bitcoin, the transaction pool was referred to as the “memory pool”, or “mempool”, and often these terms are used interchangeably.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "memory pool; mempool",
       "Simplified Chinese": "内存池（Mempool）",
       "French": "pool de stockage des transactions ; mempool",
       "German": "Memory Pool; Mempool",
@@ -7299,9 +8662,15 @@ const exportDefinitions = {
     "term": "Merge (noun)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Finalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.",
+    "description": (
+  <>
+    Finalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Merge (noun)",
       "Simplified Chinese": "合并",
       "French": "Fusion (nom)",
       "German": "Merge",
@@ -7331,9 +8700,15 @@ const exportDefinitions = {
     "term": "Merkle Patricia trie",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Often referred to simply as a \"Merkle trie\" (pronounced \"tree\"), a Merkle Patricia trie is a data structure in which a single hash code function (see 'hash') splits into smaller branches. In a similar way to a family tree, where a parent branch splits into child branches, which are then extrapolated into grandchild branches, a Merkle Patricia trie keeps a record of the filiation and history of each element. This type of data structure enables for faster verification on a blockchain network.",
+    "description": (
+  <>
+    Often referred to simply as a 'Merkle trie' (pronounced 'tree'), a Merkle Patricia trie is a data structure in which a single hash code function (see 'hash') splits into smaller branches. In a similar way to a family tree, where a parent branch splits into child branches, which are then extrapolated into grandchild branches, a Merkle Patricia trie keeps a record of the filiation and history of each element. This type of data structure enables for faster verification on a blockchain network.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Merkle Patricia trie",
       "Simplified Chinese": "梅克尔树",
       "French": "Arbre de Merkle",
       "German": "Merkle Patricia-Trie",
@@ -7363,9 +8738,15 @@ const exportDefinitions = {
     "term": "Mesh",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "ConsenSys Mesh is a network of loosely coupled, tightly aligned teams, products, and investments advancing the Ethereum ecosystem and the arrival of web3.",
+    "description": (
+  <>
+    ConsenSys Mesh is a network of loosely coupled, tightly aligned teams, products, and investments advancing the Ethereum ecosystem and the arrival of web3.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Mesh",
       "Simplified Chinese": "Mesh",
       "French": "Mesh",
       "German": "Mesh",
@@ -7395,9 +8776,15 @@ const exportDefinitions = {
     "term": "Metadata",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of \"NFT metadata\": Metadata is \"data that provides information about other data\" Metadata",
+    "description": (
+  <>
+    In the context of 'NFT metadata': Metadata is 'data that provides information about other data' Metadata
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Metadata",
       "Simplified Chinese": "元数据",
       "French": "Métadonnées",
       "German": "Metadaten",
@@ -7427,9 +8814,15 @@ const exportDefinitions = {
     "term": "MetaMask",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMask, either in its mobile app form on iOS and Android, or in its browser extension form, is a tool to access and interact with blockchains and the decentralized web. It allows users to manage their digital identity and the permission of others to interact with that identity; its functions include that of a wallet, a dapp permissions manager, and access to token swaps. It is an open-source project that encourages developers from other projects to build on top of it through MetaMask Snaps.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    MetaMask, either in its mobile app form on iOS and Android, or in its browser extension form, is a tool to access and interact with blockchains and the decentralized web. It allows users to manage their digital identity and the permission of others to interact with that identity; its functions include that of a wallet, a dapp permissions manager, and access to token swaps. It is an open-source project that encourages developers from other projects to build on top of it through MetaMask Snaps.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "MetaMask",
       "Simplified Chinese": "MetaMask",
       "French": "MetaMask",
       "German": "MetaMask",
@@ -7459,9 +8852,15 @@ const exportDefinitions = {
     "term": "MetaMask Bridge",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMask Bridge: You can now access a curated, straightforward bridging experience in MetaMask Bridge, available at https://portfolio.metamask.io/bridge \nOnly certain tokens and network combinations are available initially. MetaMask Bridge",
+    "description": (
+  <>
+    MetaMask Bridge: You can now access a curated, straightforward bridging experience in MetaMask Bridge, available at https://portfolio.metamask.io/bridge \nOnly certain tokens and network combinations are available initially. MetaMask Bridge
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "MetaMask Bridge",
       "Simplified Chinese": "MetaMask Bridge",
       "French": "Passerelle Metamask",
       "German": "MetaMask Bridge",
@@ -7491,9 +8890,15 @@ const exportDefinitions = {
     "term": "MetaMask Community Platform",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The MetaMask forums located at community.metamask.io\n\nMetaMask's community platform can be accessed here:\nMetaMask Community",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The MetaMask forums located at community.metamask.io\n\nMetaMask's community platform can be accessed here:\nMetaMask Community
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "MetaMask Community Platform",
       "Simplified Chinese": "MetaMask 社区平台",
       "French": "Plateforme communautaire MetaMask",
       "German": "MetaMask Community-Plattform",
@@ -7523,9 +8928,15 @@ const exportDefinitions = {
     "term": "MetaMask Extension",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMask is a web browser extension and mobile app that allows you to manage your Ethereum private keys. By doing so, it serves as a wallet for Ether and other tokens, and allows you to interact with decentralized applications, or dapps. Unlike some wallets, MetaMask keeps no information on you: not your email address, not your password, and not your Secret Recovery Phrase or other private keys. You retain all power over your crypto-identity.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    MetaMask is a web browser extension and mobile app that allows you to manage your Ethereum private keys. By doing so, it serves as a wallet for Ether and other tokens, and allows you to interact with decentralized applications, or dapps. Unlike some wallets, MetaMask keeps no information on you: not your email address, not your password, and not your Secret Recovery Phrase or other private keys. You retain all power over your crypto-identity.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "MetaMask Extension",
       "Simplified Chinese": "MetaMask Extension",
       "French": "Extension Metamask",
       "German": "MetaMask-Erweiterung",
@@ -7555,9 +8966,15 @@ const exportDefinitions = {
     "term": "MetaMask Flask",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.\n\nWhat is MetaMask Flask, and how is it different from normal MetaMask?",
+    "description": (
+  <>
+    MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.\n\nWhat is MetaMask Flask, and how is it different from normal MetaMask?
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "MetaMask Flask",
       "Simplified Chinese": "MetaMask Flask",
       "French": "MetaMask Flask",
       "German": "MetaMask Flask",
@@ -7587,9 +9004,15 @@ const exportDefinitions = {
     "term": "MetaMask Institutional",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMask Institutional is an institution-compliant version of the world’s leading web3 wallet, MetaMask. Organizations trust us to manage their web3 access and engagement with institution-required security, operational efficiency, and compliance. MetaMask Institutional",
+    "description": (
+  <>
+    MetaMask Institutional is an institution-compliant version of the world’s leading web3 wallet, MetaMask. Organizations trust us to manage their web3 access and engagement with institution-required security, operational efficiency, and compliance. MetaMask Institutional
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "MetaMask Institutional",
       "Simplified Chinese": "MetaMask Institutional",
       "French": "MetaMask Institutional",
       "German": "MetaMask Institutional",
@@ -7619,9 +9042,15 @@ const exportDefinitions = {
     "term": "MetaMask Learn",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.\n\nMetaMask Learn",
+    "description": (
+  <>
+    MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.\n\nMetaMask Learn
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "MetaMask Learn",
       "Simplified Chinese": "MetaMask Learn",
       "French": "MetaMask Learn",
       "German": "MetaMask Learn",
@@ -7651,9 +9080,15 @@ const exportDefinitions = {
     "term": "MetaMask SDK",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMask SDK (Software Development Kit) is a library that can be installed by developers in their projects. It will automatically guide their users to connect easily with a MetaMask Wallet client.  MetaMask SDK",
+    "description": (
+  <>
+    MetaMask SDK (Software Development Kit) is a library that can be installed by developers in their projects. It will automatically guide their users to connect easily with a MetaMask Wallet client.  MetaMask SDK
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "MetaMask SDK",
       "Simplified Chinese": "MetaMask SDK（软件开发工具包）",
       "French": "MetaMask SDK",
       "German": "MetaMask SDK",
@@ -7683,9 +9118,15 @@ const exportDefinitions = {
     "term": "MetaMask Snaps",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The first big feature shipped through Flask has been MetaMask Snaps. Snaps is a whole topic in and of itself, but think of it like this: Snaps allows developers to bring any kind of functionality they want to the application. Given how broad that is, and the potential security implications, snaps can only be used in Flask at the moment; however, the plan is to allow users to customize their MetaMask experience through this functionality.",
+    "description": (
+  <>
+    The first big feature shipped through Flask has been MetaMask Snaps. Snaps is a whole topic in and of itself, but think of it like this: Snaps allows developers to bring any kind of functionality they want to the application. Given how broad that is, and the potential security implications, snaps can only be used in Flask at the moment; however, the plan is to allow users to customize their MetaMask experience through this functionality.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "MetaMask Snaps",
       "Simplified Chinese": "Snaps (MetaMask Snaps)",
       "French": "Snaps (MetaMask Snaps)",
       "German": "Snaps (MetaMask Snaps)",
@@ -7715,9 +9156,15 @@ const exportDefinitions = {
     "term": "MetaMetrics",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MetaMetrics is an opt-in analytics platform that aims to collect information on non-sensitive user events to help us improve the software for MetaMask users.\n\nHow to manage your MetaMetrics settings",
+    "description": (
+  <>
+    MetaMetrics is an opt-in analytics platform that aims to collect information on non-sensitive user events to help us improve the software for MetaMask users.\n\nHow to manage your MetaMetrics settings
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "MetaMetrics",
       "Simplified Chinese": "MetaMetrics",
       "French": "MetaMetrics",
       "German": "MetaMetrics",
@@ -7747,9 +9194,15 @@ const exportDefinitions = {
     "term": "metaverse",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A metaverse is a digital universe that contains all the aspects of the real world, such as real-time interactions and economies. It offers a unique experience to end-users. Metaverse",
+    "description": (
+  <>
+    A metaverse is a digital universe that contains all the aspects of the real world, such as real-time interactions and economies. It offers a unique experience to end-users. Metaverse
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "metaverse",
       "Simplified Chinese": "元宇宙",
       "French": "métavers",
       "German": "Metaverse",
@@ -7779,9 +9232,15 @@ const exportDefinitions = {
     "term": "miner tip",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The miner tip is the Maximum Priority Fee that incentivizes the miner to prioritize a transaction. Learn the basics of blockchains and Ethereum (miners and validators, gas, cryptocurrencies and NFTs, block explorer, networks, etc.)",
+    "description": (
+  <>
+    The miner tip is the Maximum Priority Fee that incentivizes the miner to prioritize a transaction. Learn the basics of blockchains and Ethereum (miners and validators, gas, cryptocurrencies and NFTs, block explorer, networks, etc.)
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "miner tip",
       "Simplified Chinese": "矿工费",
       "French": "pourboire du mineur",
       "German": "Miner Tip",
@@ -7811,9 +9270,15 @@ const exportDefinitions = {
     "term": "mining",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The process by which blocks or transactions are verified and added to a blockchain using a Proof of Work (PoW) consensus mechanism. In order to verify a block, a miner must use a computer to solve a cryptographic problem. Once the computer has solved the problem, the block is considered “mined” or verified. On Bitcoin or other PoW blockchains, the first computer to mine or verify the block receives bitcoin, or the equivalent network token, as a reward.",
+    "description": (
+  <>
+    The process by which blocks or transactions are verified and added to a blockchain using a Proof of Work (PoW) consensus mechanism. In order to verify a block, a miner must use a computer to solve a cryptographic problem. Once the computer has solved the problem, the block is considered “mined” or verified. On Bitcoin or other PoW blockchains, the first computer to mine or verify the block receives bitcoin, or the equivalent network token, as a reward.
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "mining",
       "Simplified Chinese": "挖矿",
       "French": "minage",
       "German": "Mining",
@@ -7843,9 +9308,15 @@ const exportDefinitions = {
     "term": "Mint",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Minting refers to the act of publishing a token on the blockchain to make it transferrable and purchasable.",
+    "description": (
+  <>
+    Minting refers to the act of publishing a token on the blockchain to make it transferrable and purchasable.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Mint",
       "Simplified Chinese": "铸币",
       "French": "Publier",
       "German": "Prägung",
@@ -7875,9 +9346,15 @@ const exportDefinitions = {
     "term": "mnemonic phrase",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "This is an alternative way of referring to a Secret Recovery Phrase, also known as a 'seed phrase': a series of words that correspond to a very long cryptographic key, used to generate and control all the addresses of a crypto wallet.",
+    "description": (
+  <>
+    This is an alternative way of referring to a Secret Recovery Phrase, also known as a 'seed phrase': a series of words that correspond to a very long cryptographic key, used to generate and control all the addresses of a crypto wallet.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "mnemonic phrase",
       "Simplified Chinese": "助记词",
       "French": "phrase mnémotechnique",
       "German": "Mnemonische Phrase",
@@ -7907,9 +9384,15 @@ const exportDefinitions = {
     "term": "MobiKwik",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MobiKwik is an Indian payment service provider founded in 2009 that provides a mobile phone-based payment system and digital wallet.",
+    "description": (
+  <>
+    MobiKwik is an Indian payment service provider founded in 2009 that provides a mobile phone-based payment system and digital wallet.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "MobiKwik",
       "Simplified Chinese": "MobiKwik",
       "French": "MobiKwik",
       "German": "MobiKwik",
@@ -7939,9 +9422,15 @@ const exportDefinitions = {
     "term": "modular blockchain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Bitcoin is an example of a monolithic blockchain: all of the functions of the network (consensus, execution, data availability, and settlement) are run on one chain. This has significant drawbacks (see \"blockchain trilemma\" for more). A modular blockchain, on the other hand, separates some or all of these functions into separate chains, each one optimized for its specific function, and relying on the other chains for the other functions. Ethereum is currently moving towards modularization, both on a protocol level beginning with the Merge, which split consensus and execution into two chains, and at the level of \"Layer 2\" networks which provide optimized execution environments, and then \"roll up\" their data to Ethereum for its consensus functionality.",
+    "description": (
+  <>
+    Bitcoin is an example of a monolithic blockchain: all of the functions of the network (consensus, execution, data availability, and settlement) are run on one chain. This has significant drawbacks (see 'blockchain trilemma' for more). A modular blockchain, on the other hand, separates some or all of these functions into separate chains, each one optimized for its specific function, and relying on the other chains for the other functions. Ethereum is currently moving towards modularization, both on a protocol level beginning with the Merge, which split consensus and execution into two chains, and at the level of 'Layer 2' networks which provide optimized execution environments, and then 'roll up' their data to Ethereum for its consensus functionality.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "modular blockchain",
       "Simplified Chinese": "模块化区块链",
       "French": "blockchain modulaire / Chaîne de blocs modulaire",
       "German": "Modulare Blockchain",
@@ -7971,9 +9460,15 @@ const exportDefinitions = {
     "term": "MoonPay",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "MoonPay is a financial technology company that builds payments infrastructure for crypto. Its on-and-off-ramp suite of products provides a seamless experience for converting between fiat currencies and cryptocurrencies using all major payment methods, including debit and credit cards, local bank transfers, Apple Pay, Google Pay, and Samsung Pay. MoonPay is active in more than 160 countries and is trusted by 300+ leading wallets, websites, and applications to accept payments and defeat fraud. The company is based in Miami, Florida, and was founded in 2019.",
+    "description": (
+  <>
+    MoonPay is a financial technology company that builds payments infrastructure for crypto. Its on-and-off-ramp suite of products provides a seamless experience for converting between fiat currencies and cryptocurrencies using all major payment methods, including debit and credit cards, local bank transfers, Apple Pay, Google Pay, and Samsung Pay. MoonPay is active in more than 160 countries and is trusted by 300+ leading wallets, websites, and applications to accept payments and defeat fraud. The company is based in Miami, Florida, and was founded in 2019.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "MoonPay",
       "Simplified Chinese": "MoonPay",
       "French": "MoonPay",
       "German": "MoonPay",
@@ -8003,9 +9498,15 @@ const exportDefinitions = {
     "term": "multi-sig",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "multi-signature wallet (multisig)\nA crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    multi-signature wallet (multisig)\nA crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "multi-sig",
       "Simplified Chinese": "多重签名",
       "French": "Multisig",
       "German": "Multi-Sig",
@@ -8035,9 +9536,15 @@ const exportDefinitions = {
     "term": "multi-signature wallet (multisig)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.",
+    "description": (
+  <>
+    A crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "multi-signature wallet (multisig)",
       "Simplified Chinese": "多重签名钱包（multisig）",
       "French": "portefeuille multi-signature (Multisig)",
       "German": "Multi-Signatur-Wallet (Multi-Sig)",
@@ -8067,9 +9574,15 @@ const exportDefinitions = {
     "term": "Multifactor Authentication",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Authentication using two or more different factors to achieve authentication.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Authentication using two or more different factors to achieve authentication.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Multifactor Authentication",
       "Simplified Chinese": "多因素身份验证",
       "French": "Authentification multifactorielle",
       "German": "Multifaktor-Authentifizierung",
@@ -8099,9 +9612,15 @@ const exportDefinitions = {
     "term": "Near-Field Communication (NFC)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Near-field communication is a set of communication protocols that enables communication between two electronic devices over a distance of 4 cm or less. NFC offers a low-speed connection through a simple setup that can be used to bootstrap more capable wireless connections..",
+    "description": (
+  <>
+    Near-field communication is a set of communication protocols that enables communication between two electronic devices over a distance of 4 cm or less. NFC offers a low-speed connection through a simple setup that can be used to bootstrap more capable wireless connections..
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Near-Field Communication (NFC)",
       "Simplified Chinese": "近距离无线通讯（NFC）",
       "French": "Communication en champ proche (NFC)",
       "German": "Near Field Communication (NFC)",
@@ -8131,9 +9650,15 @@ const exportDefinitions = {
     "term": "Nested Blockchain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A nested blockchain is essentially a blockchain within — or, rather, atop — another blockchain. See \"Layer 2",
+    "description": (
+  <>
+    A nested blockchain is essentially a blockchain within — or, rather, atop — another blockchain. See 'Layer 2'
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Nested Blockchain",
       "Simplified Chinese": "嵌套区块链",
       "French": "Blockchain imbriquée / Chaîne de blocs imbriquée",
       "German": "Verschachtelte Blockchain",
@@ -8163,9 +9688,15 @@ const exportDefinitions = {
     "term": "Network",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A network refers to all nodes in the operation of a blockchain at any given moment in time.",
+    "description": (
+  <>
+    A network refers to all nodes in the operation of a blockchain at any given moment in time.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Network",
       "Simplified Chinese": "网络",
       "French": "Réseau",
       "German": "Netzwerk",
@@ -8195,9 +9726,15 @@ const exportDefinitions = {
     "term": "Network Congestion",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The reduced quality of service that occurs when a network node or link is carrying more data than it can handle. Typical effects include queueing delay, packet loss or the blocking of new connections. Congestion",
+    "description": (
+  <>
+    The reduced quality of service that occurs when a network node or link is carrying more data than it can handle. Typical effects include queueing delay, packet loss or the blocking of new connections. Congestion
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Network Congestion",
       "Simplified Chinese": "网络拥塞",
       "French": "Congestion de réseau",
       "German": "Netzwerküberlastung",
@@ -8227,9 +9764,15 @@ const exportDefinitions = {
     "term": "NFT",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "When discussing Non-Fungible Tokens (NFTs), “fungibility” refers to an object’s ability to be exchanged for another. For example, an individual dollar is considered fungible, as one dollar is fully interchangeable with another. Artwork is usually deemed non-fungible, as paintings or sculptures are likely to be unequal between them in quality, value, or other attributes. A non-fungible token is a type of token that is a unique digital asset and has no equal token. This is in contrast to cryptocurrencies like ether that are fungible in nature.",
+    "description": (
+  <>
+    When discussing Non-Fungible Tokens (NFTs), “fungibility” refers to an object’s ability to be exchanged for another. For example, an individual dollar is considered fungible, as one dollar is fully interchangeable with another. Artwork is usually deemed non-fungible, as paintings or sculptures are likely to be unequal between them in quality, value, or other attributes. A non-fungible token is a type of token that is a unique digital asset and has no equal token. This is in contrast to cryptocurrencies like ether that are fungible in nature.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "NFT",
       "Simplified Chinese": "NFT",
       "French": "NFT",
       "German": "NFT",
@@ -8259,9 +9802,15 @@ const exportDefinitions = {
     "term": "NFT aggregator",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the initial wave of interest in buying and selling NFTs, a number of NFT marketplaces--websites where you can buy and sell NFTs--were created. As the market matured, aggregators appeared, which offer the user the ability to view available stock and price, buy and sell across marketplaces from a single unified application. Similar to familiar web2 shopping portals, these have come to be known as NFT Marketplace Aggregators, or just NFT Aggregators.",
+    "description": (
+  <>
+    In the initial wave of interest in buying and selling NFTs, a number of NFT marketplaces--websites where you can buy and sell NFTs--were created. As the market matured, aggregators appeared, which offer the user the ability to view available stock and price, buy and sell across marketplaces from a single unified application. Similar to familiar web2 shopping portals, these have come to be known as NFT Marketplace Aggregators, or just NFT Aggregators.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "NFT aggregator",
       "Simplified Chinese": "NFT 聚合器",
       "French": "Agrégateur NFT",
       "German": "NFT-Aggregator",
@@ -8291,9 +9840,15 @@ const exportDefinitions = {
     "term": "NFT drop",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An NFT drop happens when a new NFT collection is released. NFT drops can vary in both how the NFTs are sold (listed for sale or auction), and in who they’re released to (the public, or a specific list called an “allowlist”).\n\n\nOften, NFT drops coincide with when the NFTs in the collection are minted, that is, written to the blockchain. You might hear these terms used interchangeably— a drop might be referred to as the project’s mint.",
+    "description": (
+  <>
+    An NFT drop happens when a new NFT collection is released. NFT drops can vary in both how the NFTs are sold (listed for sale or auction), and in who they’re released to (the public, or a specific list called an “allowlist”).\n\n\nOften, NFT drops coincide with when the NFTs in the collection are minted, that is, written to the blockchain. You might hear these terms used interchangeably— a drop might be referred to as the project’s mint.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "NFT drop",
       "Simplified Chinese": "NFT 投放",
       "French": "mise en vente de NFT",
       "German": "NFT-Drop",
@@ -8323,9 +9878,15 @@ const exportDefinitions = {
     "term": "Ngrave",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Crypto hardware wallet.",
+    "description": (
+  <>
+    Crypto hardware wallet.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Ngrave",
       "Simplified Chinese": "Ngrave",
       "French": "Ngrave",
       "German": "Ngrave",
@@ -8355,9 +9916,15 @@ const exportDefinitions = {
     "term": "node",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.",
+    "description": (
+  <>
+    Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "node",
       "Simplified Chinese": "节点",
       "French": "nœud",
       "German": "Node",
@@ -8387,9 +9954,15 @@ const exportDefinitions = {
     "term": "Non-fungible token",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "See NFT",
+    "description": (
+  <>
+    See NFT
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Non-fungible token",
       "Simplified Chinese": "非同质化代币",
       "French": "Jeton non fongible",
       "German": "Non-Fungible token",
@@ -8419,9 +9992,15 @@ const exportDefinitions = {
     "term": "nonce",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The word ‘nonce’ has a few different meanings, and in different contexts, it ends up getting used a lot of different ways. Originally formed from a contraction of a phrase meaning “not more than once”, on the Ethereum Mainnet, “nonce” refers to a unique transaction identification number that increases in value with each successive transaction in order to ensure various safety features (such as preventing a double-spend). Note that due to its broader use in cryptography, you may encounter ‘nonce’ being used differently on other sidechains or decentralized projects.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The word ‘nonce’ has a few different meanings, and in different contexts, it ends up getting used a lot of different ways. Originally formed from a contraction of a phrase meaning “not more than once”, on the Ethereum Mainnet, “nonce” refers to a unique transaction identification number that increases in value with each successive transaction in order to ensure various safety features (such as preventing a double-spend). Note that due to its broader use in cryptography, you may encounter ‘nonce’ being used differently on other sidechains or decentralized projects.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "nonce",
       "Simplified Chinese": "唯一交易标识号",
       "French": "nonce",
       "German": "Nonce",
@@ -8451,9 +10030,15 @@ const exportDefinitions = {
     "term": "off-chain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A transaction that is processed outside the blockchain network with an increased speed and reduced cost. There are two different transactions that occur on the blockchain:\n\nOn-chain transactions are those reflected on the distributed ledger and are visible to all the network users. On the other hand, off-chain transactions occur outside the blockchain network. Such a transaction doesn’t need the services of miners because no ledger verification is conducted.\nUnlike on-chain transactions, off-chain transactions can be made instantly. This method entails lower fees, happens instantly, and offers more anonymity.",
+    "description": (
+  <>
+    A transaction that is processed outside the blockchain network with an increased speed and reduced cost. There are two different transactions that occur on the blockchain:\n\nOn-chain transactions are those reflected on the distributed ledger and are visible to all the network users. On the other hand, off-chain transactions occur outside the blockchain network. Such a transaction doesn’t need the services of miners because no ledger verification is conducted.\nUnlike on-chain transactions, off-chain transactions can be made instantly. This method entails lower fees, happens instantly, and offers more anonymity.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "off-chain",
       "Simplified Chinese": "链下",
       "French": "hors chaîne",
       "German": "Off-Chain",
@@ -8483,9 +10068,15 @@ const exportDefinitions = {
     "term": "ommer block",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Under the Proof of Work (PoW) consensus mechanism, miners received rewards for being the first to mine a new block. However, at times a block would be mined just after, and in competition with, the last block. This block, known as an ommer and previously as an uncle, could get rolled into subsequent blocks and the miner of the original ommer would get a partial block reward. All of this functionality was deprecated as of the launch of the Beacon Chain.",
+    "description": (
+  <>
+    Under the Proof of Work (PoW) consensus mechanism, miners received rewards for being the first to mine a new block. However, at times a block would be mined just after, and in competition with, the last block. This block, known as an ommer and previously as an uncle, could get rolled into subsequent blocks and the miner of the original ommer would get a partial block reward. All of this functionality was deprecated as of the launch of the Beacon Chain.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "ommer block",
       "Simplified Chinese": "ommer 区块",
       "French": "bloc ommer",
       "German": "Ommer Block",
@@ -8515,9 +10106,15 @@ const exportDefinitions = {
     "term": "on-chain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "On-chain, as the name implies, refers to blockchain transactions that exist on and have been verified to the blockchain by miners or validators. On-Chain also means that transactions have been recorded to the blockchain",
+    "description": (
+  <>
+    On-chain, as the name implies, refers to blockchain transactions that exist on and have been verified to the blockchain by miners or validators. On-Chain also means that transactions have been recorded to the blockchain
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "on-chain",
       "Simplified Chinese": "链上",
       "French": "dans la chaîne",
       "German": "On-Chain",
@@ -8547,9 +10144,15 @@ const exportDefinitions = {
     "term": "on-ramp, off-ramp",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Based on a metaphor from the American highway system, \"on-ramp\" refers to a tool, or a service provider, or the action, of converting fiat currency into tokens on a blockchain. Conversely, \"off-ramp\" refers to exchanging on-chain assets for their value in a given fiat currency. There are many providers of such services, and MetaMask users have access to them through the \"Buy Crypto\" feature.",
+    "description": (
+  <>
+    Based on a metaphor from the American highway system, 'on-ramp' refers to a tool, or a service provider, or the action, of converting fiat currency into tokens on a blockchain. Conversely, 'off-ramp' refers to exchanging on-chain assets for their value in a given fiat currency. There are many providers of such services, and MetaMask users have access to them through the 'Buy Crypto' feature.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "on-ramp, off-ramp",
       "Simplified Chinese": "充值，提现",
       "French": "conversion de monnaie fiat en jetons sur la blockchain (on-ramp), échange d’actifs  de la blockchain en monnaie fiat (off-ramp)",
       "German": "On-Ramp, Off-Ramp",
@@ -8579,9 +10182,15 @@ const exportDefinitions = {
     "term": "OpenSea",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles.",
+    "description": (
+  <>
+    OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "OpenSea",
       "Simplified Chinese": "OpenSea",
       "French": "OpenSea",
       "German": "OpenSea",
@@ -8611,9 +10220,15 @@ const exportDefinitions = {
     "term": "Opera",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Internet browser.",
+    "description": (
+  <>
+    Internet browser.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Opera",
       "Simplified Chinese": "Opera",
       "French": "Opera",
       "German": "Opera",
@@ -8643,9 +10258,15 @@ const exportDefinitions = {
     "term": "Optimism",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Optimism is a layer-2 scaling solution for Ethereum, which is a blockchain-based platform for decentralized applications. It is designed to reduce the cost and increase the speed of transactions on the Ethereum network. Optimism works by using a technique called optimistic rollups, which allows it to process a large number of transactions off-chain, while still maintaining the security and decentralization of the Ethereum network.\n\nIn optimistic rollups, transactions are initially processed off-chain, and a summary of these transactions is then submitted to the Ethereum network for verification. This verification process ensures that the transactions are valid and that no fraud has occurred. Once the transactions are verified, they are added to the Ethereum blockchain, allowing users to interact with the decentralized applications built on the platform.",
+    "description": (
+  <>
+    Optimism is a layer-2 scaling solution for Ethereum, which is a blockchain-based platform for decentralized applications. It is designed to reduce the cost and increase the speed of transactions on the Ethereum network. Optimism works by using a technique called optimistic rollups, which allows it to process a large number of transactions off-chain, while still maintaining the security and decentralization of the Ethereum network.\n\nIn optimistic rollups, transactions are initially processed off-chain, and a summary of these transactions is then submitted to the Ethereum network for verification. This verification process ensures that the transactions are valid and that no fraud has occurred. Once the transactions are verified, they are added to the Ethereum blockchain, allowing users to interact with the decentralized applications built on the platform.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Optimism",
       "Simplified Chinese": "Optimism",
       "French": "Optimism",
       "German": "Optimism",
@@ -8675,9 +10296,15 @@ const exportDefinitions = {
     "term": "optimistic rollup",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A rollup that assumes the validity and good faith of transactions, and only runs a fraud proof in the case of fraud being alleged. See also 'rollup'.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A rollup that assumes the validity and good faith of transactions, and only runs a fraud proof in the case of fraud being alleged. See also 'rollup'.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "optimistic rollup",
       "Simplified Chinese": "乐观性扩容方案（ORU）",
       "French": "rollup optimisé",
       "German": "Optimistischer Rollup",
@@ -8707,9 +10334,15 @@ const exportDefinitions = {
     "term": "Oracle",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Typically, an oracle is any entity or person that is relied on to report the outcome of an event. In a blockchain network an oracle (human or machine) helps communicate data to a smart contract, which can then be used to verify an event or specific outcome.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Typically, an oracle is any entity or person that is relied on to report the outcome of an event. In a blockchain network an oracle (human or machine) helps communicate data to a smart contract, which can then be used to verify an event or specific outcome.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Oracle",
       "Simplified Chinese": "预言机",
       "French": "Oracle",
       "German": "Oracle",
@@ -8739,9 +10372,15 @@ const exportDefinitions = {
     "term": "ParaSwap",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "ParaSwap is a decentralized exchange (DEX) aggregator that optimizes swaps for users through better prices, limited gas fees, and lower slippage. ParaSwap sources their liquidity from major DEXes such as Uniswap, Balancer, Curve, Kyber, in addition to ParaSwapPool, their professional Market Maker network.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    ParaSwap is a decentralized exchange (DEX) aggregator that optimizes swaps for users through better prices, limited gas fees, and lower slippage. ParaSwap sources their liquidity from major DEXes such as Uniswap, Balancer, Curve, Kyber, in addition to ParaSwapPool, their professional Market Maker network.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "ParaSwap",
       "Simplified Chinese": "ParaSwap",
       "French": "ParaSwap",
       "German": "ParaSwap",
@@ -8771,9 +10410,15 @@ const exportDefinitions = {
     "term": "parity",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In a general sense, to say that something 'has parity' with another thing means 'equal in features or other important quality', and is a phrase often used by software developers and computer scientists.",
+    "description": (
+  <>
+    In a general sense, to say that something 'has parity' with another thing means 'equal in features or other important quality', and is a phrase often used by software developers and computer scientists.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "parity",
       "Simplified Chinese": "parity",
       "French": "parité",
       "German": "Parität",
@@ -8803,9 +10448,15 @@ const exportDefinitions = {
     "term": "Parity",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Parity Technologies is the name of a blockchain technology company that is developing a number of significant projects in the blockchain space. One of its first projects was an Ethereum client, known as Parity; its name was changed to Parity Ethereum, and then was spun out as a DAO-owned and operated project called Open Ethereum, which has also been deprecated. See also 'client'.",
+    "description": (
+  <>
+    Parity Technologies is the name of a blockchain technology company that is developing a number of significant projects in the blockchain space. One of its first projects was an Ethereum client, known as Parity; its name was changed to Parity Ethereum, and then was spun out as a DAO-owned and operated project called Open Ethereum, which has also been deprecated. See also 'client'.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Parity",
       "Simplified Chinese": "Parity",
       "French": "Parity",
       "German": "Parity",
@@ -8835,9 +10486,15 @@ const exportDefinitions = {
     "term": "Passphrase",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "See \"Secret Recovery Phrase",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    See 'Secret Recovery Phrase'
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Passphrase",
       "Simplified Chinese": "密语",
       "French": "Phrase d’authentification",
       "German": "Passphrase",
@@ -8867,9 +10524,15 @@ const exportDefinitions = {
     "term": "password manager",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A password manager is a tool or software that stores all sorts of passwords needed for online applications and services.\nPassword manager",
+    "description": (
+  <>
+    A password manager is a tool or software that stores all sorts of passwords needed for online applications and services.\nPassword manager
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "password manager",
       "Simplified Chinese": "密码管理工具",
       "French": "gestionnaire de mots de passe",
       "German": "Passwortmanager",
@@ -8899,9 +10562,15 @@ const exportDefinitions = {
     "term": "PayPal",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "PayPal is a multinational financial technology company operating an online payments system in the majority of countries.",
+    "description": (
+  <>
+    PayPal is a multinational financial technology company operating an online payments system in the majority of countries.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "PayPal",
       "Simplified Chinese": "PayPal",
       "French": "PayPal",
       "German": "PayPal",
@@ -8931,9 +10600,15 @@ const exportDefinitions = {
     "term": "peer-to-peer (P2P)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "P2P refers to interactions that happen directly between two parties, usually two separate individuals, and have been present in Internet technology in different ways for some time. These interactions are often coordinated through some sort of app or network, which can consist of any number of individuals. Public blockchains can be considered to have a high degree of P2P functionality, as individuals are able to transact or interact with each other without relying on an intermediary or single point of failure.",
+    "description": (
+  <>
+    P2P refers to interactions that happen directly between two parties, usually two separate individuals, and have been present in Internet technology in different ways for some time. These interactions are often coordinated through some sort of app or network, which can consist of any number of individuals. Public blockchains can be considered to have a high degree of P2P functionality, as individuals are able to transact or interact with each other without relying on an intermediary or single point of failure.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "peer-to-peer (P2P)",
       "Simplified Chinese": "点对点（P2P）",
       "French": "Pair-à-pair (P2P)",
       "German": "Peer-to-Peer (P2P)",
@@ -8963,9 +10638,15 @@ const exportDefinitions = {
     "term": "permissioned ledger",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A blockchain network in which access to ledger or network requires permission from an individual or group of individuals, as opposed to a public blockchain. Permissioned ledgers may have one or many owners. Consensus on a permissioned ledger is conducted by the trusted actors, such as government departments, banks, or other known entities. Permissioned blockchains or ledgers contain highly-verifiable data sets because the consensus process creates a digital signature, which can be seen by all parties. A permissioned ledger is much easier to maintain and considerably faster than a public blockchain. For example, Quorum or Hyperledger Besu are permissioned ledgers that can be more easily set up for large enterprises. In contrast, the public Ethereum blockchain is a permissionless ledger which anyone can access.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A blockchain network in which access to ledger or network requires permission from an individual or group of individuals, as opposed to a public blockchain. Permissioned ledgers may have one or many owners. Consensus on a permissioned ledger is conducted by the trusted actors, such as government departments, banks, or other known entities. Permissioned blockchains or ledgers contain highly-verifiable data sets because the consensus process creates a digital signature, which can be seen by all parties. A permissioned ledger is much easier to maintain and considerably faster than a public blockchain. For example, Quorum or Hyperledger Besu are permissioned ledgers that can be more easily set up for large enterprises. In contrast, the public Ethereum blockchain is a permissionless ledger which anyone can access.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "permissioned ledger",
       "Simplified Chinese": "许可账本",
       "French": "registre autorisé",
       "German": "Permissioned Blockchain",
@@ -8995,9 +10676,15 @@ const exportDefinitions = {
     "term": "phishing (noun)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Phishing is a form of social engineering where attackers deceive people into revealing sensitive information or installing malware such as ransomware.",
+    "description": (
+  <>
+    Phishing is a form of social engineering where attackers deceive people into revealing sensitive information or installing malware such as ransomware.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "phishing (noun)",
       "Simplified Chinese": "网络钓鱼",
       "French": "hameçonnage (nom)",
       "German": "Phishing",
@@ -9027,9 +10714,15 @@ const exportDefinitions = {
     "term": "Plasma",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Plasma' is a term that is used to refer to one of the solutions being built and deployed in order to securely scale the Ethereum network. A Plasma network functions similarly to an optimistic rollup, inasmuch as it relies on Ethereum Mainnet to maintain the record of transactions, and as the source for arbitration or fraud resolution. However, a Plasma network differs in other important technical ways from rollups, and is currently limited to simple operations, such as swaps and token transfers. More technical information is available here.",
+    "description": (
+  <>
+    Plasma' is a term that is used to refer to one of the solutions being built and deployed in order to securely scale the Ethereum network. A Plasma network functions similarly to an optimistic rollup, inasmuch as it relies on Ethereum Mainnet to maintain the record of transactions, and as the source for arbitration or fraud resolution. However, a Plasma network differs in other important technical ways from rollups, and is currently limited to simple operations, such as swaps and token transfers. More technical information is available here.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Plasma",
       "Simplified Chinese": "Plasma",
       "French": "Plasma",
       "German": "Plasma",
@@ -9059,9 +10752,15 @@ const exportDefinitions = {
     "term": "PoA, PoS, PoW",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronyms standing for Proof of X consensus mechanisms: Authority, Stake, Work. The “o” is lowercase since you wouldn’t capitalize “of” when writing out the phrase. See also 'consensus', 'Proof of Authority', 'Proof of Stake', 'Proof of Work'.",
+    "description": (
+  <>
+    Acronyms standing for Proof of X consensus mechanisms: Authority, Stake, Work. The “o” is lowercase since you wouldn’t capitalize “of” when writing out the phrase. See also 'consensus', 'Proof of Authority', 'Proof of Stake', 'Proof of Work'.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "PoA, PoS, PoW",
       "Simplified Chinese": "权威证明，权益证明，工作量证明",
       "French": "PoA, PoS, PoW",
       "German": "PoA, PoS, PoW",
@@ -9091,9 +10790,15 @@ const exportDefinitions = {
     "term": "Polygon",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Polygon (formerly Matic Network) is a layer-2 scaling solution for Ethereum that aims to address the scalability issues of the Ethereum blockchain. It is designed to provide faster and cheaper transactions with the same level of security and decentralization as the Ethereum network.\n\nPolygon achieves this by creating a multi-chain ecosystem that is built on top of the Ethereum network. This ecosystem consists of various interconnected sidechains that can process transactions independently of the main Ethereum blockchain. These sidechains are called \"Polygon chains\" or \"commit chains\".",
+    "description": (
+  <>
+    Polygon (formerly Matic Network) is a layer-2 scaling solution for Ethereum that aims to address the scalability issues of the Ethereum blockchain. It is designed to provide faster and cheaper transactions with the same level of security and decentralization as the Ethereum network.\n\nPolygon achieves this by creating a multi-chain ecosystem that is built on top of the Ethereum network. This ecosystem consists of various interconnected sidechains that can process transactions independently of the main Ethereum blockchain. These sidechains are called 'Polygon chains' or 'commit chains'.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Polygon",
       "Simplified Chinese": "Polygon",
       "French": "Polygon",
       "German": "Polygon",
@@ -9123,9 +10828,15 @@ const exportDefinitions = {
     "term": "Portfolio",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Portfolio Dapp enables you to view all your MetaMask accounts and their assets in one place. It aggregates values from across your accounts and shows your total holdings, making it easier than ever to get an at-a-glance summary of their value in your chosen currency.\n\nGetting started with MetaMask Portfolio",
+    "description": (
+  <>
+    The Portfolio Dapp enables you to view all your MetaMask accounts and their assets in one place. It aggregates values from across your accounts and shows your total holdings, making it easier than ever to get an at-a-glance summary of their value in your chosen currency.\n\nGetting started with MetaMask Portfolio
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Portfolio",
       "Simplified Chinese": "Portfolio",
       "French": "Portfolio",
       "German": "Portfolio",
@@ -9155,9 +10866,15 @@ const exportDefinitions = {
     "term": "PoS/PoW Hybrid",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A hybrid consensus model that utilizes a combination of Proof of Stake (PoS) and Proof of Work (PoW) consensus. Using this Hybrid consensus mechanism, blocks are validated from not only miners, but also voters (stakeholders) to form a balanced network governance.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A hybrid consensus model that utilizes a combination of Proof of Stake (PoS) and Proof of Work (PoW) consensus. Using this Hybrid consensus mechanism, blocks are validated from not only miners, but also voters (stakeholders) to form a balanced network governance.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "PoS/PoW Hybrid",
       "Simplified Chinese": "权益证明/工作量证明混合共识",
       "French": "hybride PoS/PoW",
       "German": "PoS / PoW Hybrid",
@@ -9187,9 +10904,15 @@ const exportDefinitions = {
     "term": "Priority fee",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The priority fee, also referred to as the \"miner tip\", incentivizes the miner to prioritize your transaction.\n\nNaturally, whether this does actually go to a miner depends on the consensus mechanism they use: Ethereum mainnet became a Proof of Stake network following the Merge in September 2022, so the priority fee goes to validators instead of miners.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The priority fee, also referred to as the 'miner tip', incentivizes the miner to prioritize your transaction.\n\nNaturally, whether this does actually go to a miner depends on the consensus mechanism they use: Ethereum mainnet became a Proof of Stake network following the Merge in September 2022, so the priority fee goes to validators instead of miners.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Priority fee",
       "Simplified Chinese": "优先费用",
       "French": "Frais de priorité",
       "German": "Prioritätsgebühr",
@@ -9219,9 +10942,15 @@ const exportDefinitions = {
     "term": "private blockchain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A blockchain or distributed ledger that has a closed network wherein participants are controlled by a single entity. A private blockchain requires a verification process for new participants. A private blockchain may also limit which individuals are able to participate in consensus of the blockchain network. See also 'permissioned ledger'.",
+    "description": (
+  <>
+    A blockchain or distributed ledger that has a closed network wherein participants are controlled by a single entity. A private blockchain requires a verification process for new participants. A private blockchain may also limit which individuals are able to participate in consensus of the blockchain network. See also 'permissioned ledger'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "private blockchain",
       "Simplified Chinese": "私有区块链",
       "French": "blockchain privée/ chaîne de blocs privée",
       "German": "Private Blockchain",
@@ -9251,9 +10980,15 @@ const exportDefinitions = {
     "term": "private currency",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A currency or token issued by a private individual or firm. Typically, the token or currency is limited to use within the network of that particular firm or individual. This is not to be confused with a “privacy cryptocurrency”, which are cryptocurrencies with specific privacy features, such as hidden user identities.",
+    "description": (
+  <>
+    A currency or token issued by a private individual or firm. Typically, the token or currency is limited to use within the network of that particular firm or individual. This is not to be confused with a “privacy cryptocurrency”, which are cryptocurrencies with specific privacy features, such as hidden user identities.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "private currency",
       "Simplified Chinese": "私人货币",
       "French": "devise privée/monnaie privée",
       "German": "Private Währung",
@@ -9283,9 +11018,15 @@ const exportDefinitions = {
     "term": "private key",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A private key is an alphanumeric string of data that, in MetaMask, corresponds to a single specific account in a wallet. Private keys can be thought of as a password that enables an individual to control a specific crypto account. Never reveal your private key to anyone, as whoever controls the private key controls the account funds. If you lose your private key, then you lose access to, and control over, that account.",
+    "description": (
+  <>
+    A private key is an alphanumeric string of data that, in MetaMask, corresponds to a single specific account in a wallet. Private keys can be thought of as a password that enables an individual to control a specific crypto account. Never reveal your private key to anyone, as whoever controls the private key controls the account funds. If you lose your private key, then you lose access to, and control over, that account.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "private key",
       "Simplified Chinese": "私钥",
       "French": "clé privée",
       "German": "Privater Schlüssel",
@@ -9315,9 +11056,15 @@ const exportDefinitions = {
     "term": "Proof of Authority (PoA)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A consensus mechanism used in private blockchains, granting a single private key the authority to generate all of the blocks or validate transactions.",
+    "description": (
+  <>
+    A consensus mechanism used in private blockchains, granting a single private key the authority to generate all of the blocks or validate transactions.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Proof of Authority (PoA)",
       "Simplified Chinese": "权威证明（PoA）",
       "French": "Preuve d’autorité (PoA)",
       "German": "Proof of Authority (PoA)",
@@ -9347,9 +11094,15 @@ const exportDefinitions = {
     "term": "Proof of Stake (PoS)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A consensus mechanism in which an individual node, or “validator”, validates transactions or blocks. Validators lock up a certain amount of cryptocurrency, such as ether, into a ‘stake’, in order to be able to participate in consensus. If the node validates a block (group of transactions) correctly, then the validator receives a reward. Conversely, if the validator behaves poorly by validating incorrect transactions or by not maintaining sufficient network connectivity, the cryptocurrency they staked can be ‘slashed’, or taken from them and put out of circulation (‘burned’). PoS requires a negligible amount of computing power compared to Proof of Work consensus.",
+    "description": (
+  <>
+    A consensus mechanism in which an individual node, or “validator”, validates transactions or blocks. Validators lock up a certain amount of cryptocurrency, such as ether, into a ‘stake’, in order to be able to participate in consensus. If the node validates a block (group of transactions) correctly, then the validator receives a reward. Conversely, if the validator behaves poorly by validating incorrect transactions or by not maintaining sufficient network connectivity, the cryptocurrency they staked can be ‘slashed’, or taken from them and put out of circulation (‘burned’). PoS requires a negligible amount of computing power compared to Proof of Work consensus.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Proof of Stake (PoS)",
       "Simplified Chinese": "权益证明（PoS）",
       "French": "Preuve d’enjeu (PoS)",
       "German": "Proof of Stake (PoS)",
@@ -9379,9 +11132,15 @@ const exportDefinitions = {
     "term": "Proof of Work (PoW)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A consensus mechanism in which each block is ‘mined’ by one of the nodes, or a group of nodes, on the network. The computational process involved in committing a series of transactions into a block on the network, known as ‘hashing a block’, is technically quite simple, and therefore subject to attack. Under PoW, each miner must solve a math problem to find a set, difficult variable in order to be able to propose their block to the network as the next to be ‘mined’. In effect, the process of hashing each block becomes a competition. This addition of solving for a target increases the difficulty of successfully hashing each block, and consequently the security of the network.\n\nFor each hashed block, the overall process of hashing will have taken some time and computational effort. Thus, a hashed block is considered Proof of Work, and the miner that successfully hashes the block first receives a reward, in the form of cryptocurrency. PoW is singificantly more energy-intensive than other consensus mechanisms, such as Proof of Stake.",
+    "description": (
+  <>
+    A consensus mechanism in which each block is ‘mined’ by one of the nodes, or a group of nodes, on the network. The computational process involved in committing a series of transactions into a block on the network, known as ‘hashing a block’, is technically quite simple, and therefore subject to attack. Under PoW, each miner must solve a math problem to find a set, difficult variable in order to be able to propose their block to the network as the next to be ‘mined’. In effect, the process of hashing each block becomes a competition. This addition of solving for a target increases the difficulty of successfully hashing each block, and consequently the security of the network.\n\nFor each hashed block, the overall process of hashing will have taken some time and computational effort. Thus, a hashed block is considered Proof of Work, and the miner that successfully hashes the block first receives a reward, in the form of cryptocurrency. PoW is singificantly more energy-intensive than other consensus mechanisms, such as Proof of Stake.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Proof of Work (PoW)",
       "Simplified Chinese": "工作量证明（PoW）",
       "French": "Preuve de travail (PoW)",
       "German": "Proof of Work (PoW)",
@@ -9411,9 +11170,15 @@ const exportDefinitions = {
     "term": "protocol",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Formally speaking, a 'protocol' is a set of rules governing how a process is carried out. This concept is used throughout public blockchain networks and web3 to refer to the way smart contracts execute their functionality in the same way regardless of the user. The products or services built on top of smart contracts are often referred to as 'protocols' by extension.",
+    "description": (
+  <>
+    Formally speaking, a 'protocol' is a set of rules governing how a process is carried out. This concept is used throughout public blockchain networks and web3 to refer to the way smart contracts execute their functionality in the same way regardless of the user. The products or services built on top of smart contracts are often referred to as 'protocols' by extension.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "protocol",
       "Simplified Chinese": "协议",
       "French": "protocole",
       "German": "Protokoll",
@@ -9443,9 +11208,15 @@ const exportDefinitions = {
     "term": "public blockchain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A globally open network wherein anyone can participate in transactions, participate in the consensus protocol to help determine which blocks get added to the chain, maintain and examine the contents of the chain.",
+    "description": (
+  <>
+    A globally open network wherein anyone can participate in transactions, participate in the consensus protocol to help determine which blocks get added to the chain, maintain and examine the contents of the chain.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "public blockchain",
       "Simplified Chinese": "公共区块链",
       "French": "blockchain publique/chaîne de blocs publique",
       "German": "Öffentliche Blockchain",
@@ -9475,9 +11246,15 @@ const exportDefinitions = {
     "term": "public key",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Public blockchain networks are just that: public. Their data is accessible and readable by anyone. In order to have any degree of usability when it comes to allowing users to do some things, like send transactions, but not others, like steal other peoples' tokens, cryptographic technology is used. In particular, a design paradigm known as 'public/private key pairs' is employed to ensure users can interact with others on the network as they wish, while keeping their own account secure. These key pairs consist of two long strings of alphanumeric characters. A public key can be derived mathematically from its corresponding private key, but the inverse is not true: it is mathematically impossible to derive a private key from its corresponding public key. This allows, for example, users to have a public wallet address that anyone can use to send them tokens, with the peace of mind that as long as they properly keep the corresponding private key safe, those tokens cannot be stolen. See also 'private key'.",
+    "description": (
+  <>
+    Public blockchain networks are just that: public. Their data is accessible and readable by anyone. In order to have any degree of usability when it comes to allowing users to do some things, like send transactions, but not others, like steal other peoples' tokens, cryptographic technology is used. In particular, a design paradigm known as 'public/private key pairs' is employed to ensure users can interact with others on the network as they wish, while keeping their own account secure. These key pairs consist of two long strings of alphanumeric characters. A public key can be derived mathematically from its corresponding private key, but the inverse is not true: it is mathematically impossible to derive a private key from its corresponding public key. This allows, for example, users to have a public wallet address that anyone can use to send them tokens, with the peace of mind that as long as they properly keep the corresponding private key safe, those tokens cannot be stolen. See also 'private key'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "public key",
       "Simplified Chinese": "公钥",
       "French": "clé publique",
       "German": "Öffentlicher Schlüssel",
@@ -9507,9 +11284,15 @@ const exportDefinitions = {
     "term": "Public-Key Cryptography",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "See \"public key\",see \"Cryptography\", see \"blockchain\". Public-Key Cryptography",
+    "description": (
+  <>
+    See 'public key',see 'Cryptography', see 'blockchain'. Public-Key Cryptography
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Public-Key Cryptography",
       "Simplified Chinese": "公钥加密",
       "French": "Cryptographie à clé publique",
       "German": "Public-Key-Kryptographie",
@@ -9539,9 +11322,15 @@ const exportDefinitions = {
     "term": "Public-Key Infrastructure",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A public key infrastructure (PKI) is a collection of roles, rules, hardware, software, and processes for creating, managing, distributing, using, storing, and revoking digital certificates. Public-Key Infrastructure",
+    "description": (
+  <>
+    A public key infrastructure (PKI) is a collection of roles, rules, hardware, software, and processes for creating, managing, distributing, using, storing, and revoking digital certificates. Public-Key Infrastructure
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Public-Key Infrastructure",
       "Simplified Chinese": "公钥基础设施",
       "French": "Infrastructure de clé publique",
       "German": "Public-Key-Infrastruktur",
@@ -9571,9 +11360,15 @@ const exportDefinitions = {
     "term": "QR code",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A QR code is a type of matrix barcode, constituting a machine-readable optical label that can contain information about the item to which it is attached.",
+    "description": (
+  <>
+    A QR code is a type of matrix barcode, constituting a machine-readable optical label that can contain information about the item to which it is attached.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "QR code",
       "Simplified Chinese": "二维码",
       "French": "Code QR",
       "German": "QR-Code",
@@ -9603,9 +11398,15 @@ const exportDefinitions = {
     "term": "Quorum",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "ConsenSys Quorum enables enterprises to leverage Ethereum for their high-value blockchain applications. Businesses can rely on the Quorum open-source protocol layer and integrate on top of it product modules from ConsenSys, other companies, or your own in-house development team to build high-performance, customizable applications.\n\nQuorum",
+    "description": (
+  <>
+    ConsenSys Quorum enables enterprises to leverage Ethereum for their high-value blockchain applications. Businesses can rely on the Quorum open-source protocol layer and integrate on top of it product modules from ConsenSys, other companies, or your own in-house development team to build high-performance, customizable applications.\n\nQuorum
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Quorum",
       "Simplified Chinese": "Quorum",
       "French": "Quorum",
       "German": "Quorum",
@@ -9635,9 +11436,15 @@ const exportDefinitions = {
     "term": "Rarible",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An NFT marketplace.",
+    "description": (
+  <>
+    An NFT marketplace.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Rarible",
       "Simplified Chinese": "Rarible",
       "French": "Rarible",
       "German": "Rarible",
@@ -9667,9 +11474,15 @@ const exportDefinitions = {
     "term": "relayer",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A relayer is an intermediary that facilitates the exchange or transfer of information, assets, or services between two or more parties. The term is used in various fields, including finance, communication, and technology.\n\nIn the context of cryptocurrencies and blockchain technology, a relayer typically refers to an intermediary that facilitates peer-to-peer transactions on a decentralized network. This can include decentralized exchanges (DEXs), where relayers act as matching engines to connect buyers and sellers of digital assets. A few examples of popular relayers include 0x: 0x is a decentralized exchange protocol that enables the creation of relayers on the Ethereum blockchain. These relayers can be built by anyone and allow for peer-to-peer trading of ERC-20 tokens.\n\nKyber Network: Kyber Network is a decentralized liquidity network that also operates as a relayer. It enables users to trade a wide range of digital assets, including ERC-20 tokens, without the need for a centralized intermediary.\n\nUniswap: Uniswap is a popular decentralized exchange that operates as a relayer. It uses an automated market maker (AMM) system to enable peer-to-peer trading of ERC-20 tokens.\n\nAirSwap: AirSwap is a decentralized exchange that operates as a peer-to-peer relayer on the Ethereum blockchain. It uses an off-chain order book to match buyers and sellers and execute trades.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A relayer is an intermediary that facilitates the exchange or transfer of information, assets, or services between two or more parties. The term is used in various fields, including finance, communication, and technology.\n\nIn the context of cryptocurrencies and blockchain technology, a relayer typically refers to an intermediary that facilitates peer-to-peer transactions on a decentralized network. This can include decentralized exchanges (DEXs), where relayers act as matching engines to connect buyers and sellers of digital assets. A few examples of popular relayers include 0x: 0x is a decentralized exchange protocol that enables the creation of relayers on the Ethereum blockchain. These relayers can be built by anyone and allow for peer-to-peer trading of ERC-20 tokens.\n\nKyber Network: Kyber Network is a decentralized liquidity network that also operates as a relayer. It enables users to trade a wide range of digital assets, including ERC-20 tokens, without the need for a centralized intermediary.\n\nUniswap: Uniswap is a popular decentralized exchange that operates as a relayer. It uses an automated market maker (AMM) system to enable peer-to-peer trading of ERC-20 tokens.\n\nAirSwap: AirSwap is a decentralized exchange that operates as a peer-to-peer relayer on the Ethereum blockchain. It uses an off-chain order book to match buyers and sellers and execute trades.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "relayer",
       "Simplified Chinese": "中继器",
       "French": "relayeur",
       "German": "Relayer",
@@ -9699,9 +11512,15 @@ const exportDefinitions = {
     "term": "Remote Procedure Call (RPC)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see ‘JSON-RPC’ for further details.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see ‘JSON-RPC’ for further details.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Remote Procedure Call (RPC)",
       "Simplified Chinese": "远程过程调用（RPC）",
       "French": "Appel de procédure à distance (RPC)",
       "German": "Remote Procedure Call (RPC)",
@@ -9731,9 +11550,15 @@ const exportDefinitions = {
     "term": "Rinkeby",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.",
+    "description": (
+  <>
+    An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Rinkeby",
       "Simplified Chinese": "Rinkeby",
       "French": "Rinkeby",
       "German": "Rinkeby",
@@ -9763,9 +11588,15 @@ const exportDefinitions = {
     "term": "Roadmap",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A planning technique which lays out the short and long term goals of a particular project within a flexible estimated timeline.",
+    "description": (
+  <>
+    A planning technique which lays out the short and long term goals of a particular project within a flexible estimated timeline.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Roadmap",
       "Simplified Chinese": "路线图",
       "French": "Feuille de route",
       "German": "Roadmap",
@@ -9795,9 +11626,15 @@ const exportDefinitions = {
     "term": "Rocket Pool",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Rocket Pool is a decentralized Ethereum staking pool.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Rocket Pool is a decentralized Ethereum staking pool.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Rocket Pool",
       "Simplified Chinese": "Rocket Pool",
       "French": "Rocket Pool",
       "German": "Rocket Pool",
@@ -9827,9 +11664,15 @@ const exportDefinitions = {
     "term": "rollups",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Rollups (pronounced \"roll ups\") are one element in the set of tools and infrastructure being built as scaling solutions for the Ethereum network. They consist, in general, of networks which prioritize their ability to compute transactions and smart contract functionality, and then 'roll up' those transactions to Ethereum Mainnet for secure verification of their validity. There are different ways of approaching this problem from a technical point of view, namely Zero Knowledge, or ZK, rollups, and Optimistic rollups. Arbitrum and Optimism are prominent examples. See the entries on both of these types of rollup for more, and more in-depth discussion here.",
+    "description": (
+  <>
+    Rollups (pronounced 'roll ups') are one element in the set of tools and infrastructure being built as scaling solutions for the Ethereum network. They consist, in general, of networks which prioritize their ability to compute transactions and smart contract functionality, and then 'roll up' those transactions to Ethereum Mainnet for secure verification of their validity. There are different ways of approaching this problem from a technical point of view, namely Zero Knowledge, or ZK, rollups, and Optimistic rollups. Arbitrum and Optimism are prominent examples. See the entries on both of these types of rollup for more, and more in-depth discussion here.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "rollups",
       "Simplified Chinese": "扩容方案",
       "French": "rollups",
       "German": "Rollups",
@@ -9859,9 +11702,15 @@ const exportDefinitions = {
     "term": "Ropsten",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Ropsten",
       "Simplified Chinese": "Ropsten",
       "French": "Ropsten",
       "German": "Ropsten",
@@ -9891,9 +11740,15 @@ const exportDefinitions = {
     "term": "RPC",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see 'JSON-RPC' for further details.",
+    "description": (
+  <>
+    The Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see 'JSON-RPC' for further details.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "RPC",
       "Simplified Chinese": "RPC（远程过程调用）",
       "French": "RPC",
       "German": "RPC",
@@ -9923,9 +11778,15 @@ const exportDefinitions = {
     "term": "rug pull",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Similar to the traditional financial scam of a pyramid scheme, a 'rug pull' is a cryptocurrency or crypto-token based scam in which the creators of the token create hype, through injecting liquidity into their token, airdropping, and other schemes, and once investors pile in and boost the price of the token up to a certain point, the creators liquidate their (generally majority) share of the tokens, leaving their investors with next to nothing.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Similar to the traditional financial scam of a pyramid scheme, a 'rug pull' is a cryptocurrency or crypto-token based scam in which the creators of the token create hype, through injecting liquidity into their token, airdropping, and other schemes, and once investors pile in and boost the price of the token up to a certain point, the creators liquidate their (generally majority) share of the tokens, leaving their investors with next to nothing.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "rug pull",
       "Simplified Chinese": "跑路",
       "French": "escroquerie du tirage de tapis (rug pull)",
       "German": "Rug Pull",
@@ -9955,9 +11816,15 @@ const exportDefinitions = {
     "term": "Safeheron",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Safeheron is an open-source platform for managing digital assets.",
+    "description": (
+  <>
+    Safeheron is an open-source platform for managing digital assets.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Safeheron",
       "Simplified Chinese": "Safeheron",
       "French": "Safeheron",
       "German": "Safeheron",
@@ -9987,9 +11854,15 @@ const exportDefinitions = {
     "term": "Samsung Pay",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Samsung Pay is a mobile payment and digital wallet service that lets users make payments using compatible phones and other Samsung-produced devices.",
+    "description": (
+  <>
+    Samsung Pay is a mobile payment and digital wallet service that lets users make payments using compatible phones and other Samsung-produced devices.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Samsung Pay",
       "Simplified Chinese": "Samsung Pay",
       "French": "Samsung Pay",
       "German": "Samsung Pay",
@@ -10019,9 +11892,15 @@ const exportDefinitions = {
     "term": "sandbox",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A testing environment in a computer system in which new or untested software or coding can be run securely.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A testing environment in a computer system in which new or untested software or coding can be run securely.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "sandbox",
       "Simplified Chinese": "沙盒",
       "French": "environnement de test sandbox",
       "German": "Sandbox",
@@ -10051,9 +11930,15 @@ const exportDefinitions = {
     "term": "Sardine",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Sardine is an instant fiat and crypto settlement platform.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Sardine is an instant fiat and crypto settlement platform.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Sardine",
       "Simplified Chinese": "Sardine",
       "French": "Sardine",
       "German": "Sardine",
@@ -10083,9 +11968,15 @@ const exportDefinitions = {
     "term": "Satoshi Nakamoto",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A pseudonymous individual or entity who created the Bitcoin protocol, solving the digital currency issue of the “double spend.” Nakamoto first published their white paper describing the project in 2008, and the first Bitcoin software was released one year later.",
+    "description": (
+  <>
+    A pseudonymous individual or entity who created the Bitcoin protocol, solving the digital currency issue of the “double spend.” Nakamoto first published their white paper describing the project in 2008, and the first Bitcoin software was released one year later.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Satoshi Nakamoto",
       "Simplified Chinese": "中本聪",
       "French": "Satoshi Nakamoto",
       "German": "Satoshi Nakamoto",
@@ -10115,9 +12006,15 @@ const exportDefinitions = {
     "term": "scalability",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A change in size or scale to handle a network’s demands. This word is used to refer to a blockchain project’s ability to handle network traffic, future growth, and capacity in its intended application.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A change in size or scale to handle a network’s demands. This word is used to refer to a blockchain project’s ability to handle network traffic, future growth, and capacity in its intended application.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "scalability",
       "Simplified Chinese": "可扩展性",
       "French": "scalabiité",
       "German": "Skalierbarkeit",
@@ -10147,9 +12044,15 @@ const exportDefinitions = {
     "term": "Scaling",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The main goal of scalability is to increase transaction speed (faster finality), and transaction throughput (high transactions per second), without sacrificing decentralization or security.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The main goal of scalability is to increase transaction speed (faster finality), and transaction throughput (high transactions per second), without sacrificing decentralization or security.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Scaling",
       "Simplified Chinese": "扩容",
       "French": "Monter en charge / Montée en charge",
       "German": "Skalieren",
@@ -10179,9 +12082,15 @@ const exportDefinitions = {
     "term": "Scrypt",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An alternative proof-of-work (PoW) algorithm to SHA-256, used in Bitcoin mining. Scrypt mining relies more heavily on memory than on pure CPU power, aiming to reduce the advantage that ASICs. Scrypt",
+    "description": (
+  <>
+    An alternative proof-of-work (PoW) algorithm to SHA-256, used in Bitcoin mining. Scrypt mining relies more heavily on memory than on pure CPU power, aiming to reduce the advantage that ASICs. Scrypt
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Scrypt",
       "Simplified Chinese": "Scrypt 挖掘算法",
       "French": "Scrypt",
       "German": "Scrypt",
@@ -10211,9 +12120,15 @@ const exportDefinitions = {
     "term": "Secret Recovery Phrase",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The seed phrase, mnemonic, or Secret Recovery Phrase is a crucial part of public blockchain technology, originally created for Bitcoin, and goes by many names. However, they all refer to a set of ordered words which correspond to determined values. These values never change, and therefore the same string of words in the same order will always produce the same number–this is the underlying functionality that allows seed phrases to back up wallets. This is also where the name ‘hierarchical deterministic wallets’ comes from, as all the accounts in a given wallet are deterministically created from the seed phrase, and they are hierarchically controlled by it.\n\nA Secret Recovery Phrase is exactly what it sounds like: something that is secret, and should be known only to the owner of the account. If the seed phrase is given to someone else, that person has complete control over the account; they can drain it of tokens and funds, execute transactions with it, etc.    What is a ‘Secret Recovery Phrase’ and how to keep your crypto wallet secure",
+    "description": (
+  <>
+    The seed phrase, mnemonic, or Secret Recovery Phrase is a crucial part of public blockchain technology, originally created for Bitcoin, and goes by many names. However, they all refer to a set of ordered words which correspond to determined values. These values never change, and therefore the same string of words in the same order will always produce the same number–this is the underlying functionality that allows seed phrases to back up wallets. This is also where the name ‘hierarchical deterministic wallets’ comes from, as all the accounts in a given wallet are deterministically created from the seed phrase, and they are hierarchically controlled by it.\n\nA Secret Recovery Phrase is exactly what it sounds like: something that is secret, and should be known only to the owner of the account. If the seed phrase is given to someone else, that person has complete control over the account; they can drain it of tokens and funds, execute transactions with it, etc.    What is a ‘Secret Recovery Phrase’ and how to keep your crypto wallet secure
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Secret Recovery Phrase",
       "Simplified Chinese": "私钥助记词",
       "French": "Phrase secrète de récupération",
       "German": "Geheime Wiederherstellungsphrase",
@@ -10243,9 +12158,15 @@ const exportDefinitions = {
     "term": "Security Token",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A security token is essentially a digital form of traditional securities. There are three primary types of traditional securities: equities, debt and a hybrid of debt and equity. Examples of securities include stocks, bonds, ETFs, options and futures. Hypothetically, any of these things can be tokenized to become a security token. It is possible that in the near future, security tokens could serve as a very viable alternative and competitor to stocks and other traditional securities. Security Token",
+    "description": (
+  <>
+    A security token is essentially a digital form of traditional securities. There are three primary types of traditional securities: equities, debt and a hybrid of debt and equity. Examples of securities include stocks, bonds, ETFs, options and futures. Hypothetically, any of these things can be tokenized to become a security token. It is possible that in the near future, security tokens could serve as a very viable alternative and competitor to stocks and other traditional securities. Security Token
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Security Token",
       "Simplified Chinese": "证券型代币",
       "French": "Jeton de sécurité",
       "German": "Security Token",
@@ -10275,9 +12196,15 @@ const exportDefinitions = {
     "term": "Security Token Offering (STO)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A security token offering (STO) is a form of initial coin offering (ICO) where a company or organization issues a security token that is backed by a tangible asset, such as real estate, technology or other assets. The security token represents the right to ownership of the underlying asset, with the tokens being tradeable on a compliant digital asset exchange. Security Token Offering",
+    "description": (
+  <>
+    A security token offering (STO) is a form of initial coin offering (ICO) where a company or organization issues a security token that is backed by a tangible asset, such as real estate, technology or other assets. The security token represents the right to ownership of the underlying asset, with the tokens being tradeable on a compliant digital asset exchange. Security Token Offering
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Security Token Offering (STO)",
       "Simplified Chinese": "证券型代币发行（STO）",
       "French": "Offre de jetons de sécurité (STO)",
       "German": "Security-Token-Offering (STO)",
@@ -10307,9 +12234,15 @@ const exportDefinitions = {
     "term": "seed phrase",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Another term for Secret Recovery Phrase",
+    "description": (
+  <>
+    Another term for Secret Recovery Phrase
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "seed phrase",
       "Simplified Chinese": "助记词",
       "French": "phrase secrète",
       "German": "Seed-Phrase",
@@ -10339,9 +12272,15 @@ const exportDefinitions = {
     "term": "self-custody (noun)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Self-custodial' refers to the fact that it's you ('self') who holds your wallet's private key(s). A self-custodial wallet eliminates the third party between you and your crypto-assets, which is more suitable for some people.",
+    "description": (
+  <>
+    Self-custodial' refers to the fact that it's you ('self') who holds your wallet's private key(s). A self-custodial wallet eliminates the third party between you and your crypto-assets, which is more suitable for some people.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "self-custody (noun)",
       "Simplified Chinese": "自主托管",
       "French": "Détention en propre",
       "German": "Selbstverwahrung",
@@ -10371,9 +12310,15 @@ const exportDefinitions = {
     "term": "self-executing",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A smart contract is a self-executing contract: a computer program that automatically executes the terms of a contract when certain conditions are met.",
+    "description": (
+  <>
+    A smart contract is a self-executing contract: a computer program that automatically executes the terms of a contract when certain conditions are met.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "self-executing",
       "Simplified Chinese": "自动执行",
       "French": "Auto-exécution",
       "German": "selbstausführend",
@@ -10403,9 +12348,15 @@ const exportDefinitions = {
     "term": "Sepolia",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Sepolia is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).\n\nETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet",
+    "description": (
+  <>
+    Sepolia is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).\n\nETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Sepolia",
       "Simplified Chinese": "Sepolia",
       "French": "Sepolia",
       "German": "Sepolia",
@@ -10435,9 +12386,15 @@ const exportDefinitions = {
     "term": "Serenity",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Ethereum network is working on a series of technical upgrades that will allow massive increases in transaction throughput, amongst other things. The plan that outlined these changes was originally referred to as 'Serenity', although that name has become less popular, in favor of specific descriptions of the upgrades themselves.",
+    "description": (
+  <>
+    The Ethereum network is working on a series of technical upgrades that will allow massive increases in transaction throughput, amongst other things. The plan that outlined these changes was originally referred to as 'Serenity', although that name has become less popular, in favor of specific descriptions of the upgrades themselves.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Serenity",
       "Simplified Chinese": "Serenity",
       "French": "Serenity",
       "German": "Serenity",
@@ -10467,9 +12424,15 @@ const exportDefinitions = {
     "term": "serialization",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The process of converting a data structure into a sequence of bytes. Ethereum internally uses an encoding format called recursive-length prefix encoding (RLP).",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    The process of converting a data structure into a sequence of bytes. Ethereum internally uses an encoding format called recursive-length prefix encoding (RLP).
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "serialization",
       "Simplified Chinese": "序列化",
       "French": "sérialisation",
       "German": "Serialisierung",
@@ -10499,9 +12462,15 @@ const exportDefinitions = {
     "term": "Shard chain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A proof-of-stake chain that is coordinated by the Beacon Chain and secured by validators. There will be 64 added to the network as part of the shard chain upgrade. Shard chains will offer increased transaction throughput for Ethereum by providing additional data to layer 2 solutions like optimistic rollups and ZK-rollups.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A proof-of-stake chain that is coordinated by the Beacon Chain and secured by validators. There will be 64 added to the network as part of the shard chain upgrade. Shard chains will offer increased transaction throughput for Ethereum by providing additional data to layer 2 solutions like optimistic rollups and ZK-rollups.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Shard chain",
       "Simplified Chinese": "分片区块链",
       "French": "chaîne de fragment",
       "German": "Shard Chain",
@@ -10531,9 +12500,15 @@ const exportDefinitions = {
     "term": "sharding (noun)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Sharding, in public blockchains, refers to splitting an entire network into multiple portions, called “shards.” Each shard would contain its own independent state, meaning a unique set of account balances and smart contracts. Sharding is currently being investigated and developed as one of the set of tools and solutions for scaling Ethereum.",
+    "description": (
+  <>
+    Sharding, in public blockchains, refers to splitting an entire network into multiple portions, called “shards.” Each shard would contain its own independent state, meaning a unique set of account balances and smart contracts. Sharding is currently being investigated and developed as one of the set of tools and solutions for scaling Ethereum.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "sharding (noun)",
       "Simplified Chinese": "分片",
       "French": "fragmentation (nom)",
       "German": "Sharding",
@@ -10563,9 +12538,15 @@ const exportDefinitions = {
     "term": "Shielded Transaction",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A shielded transaction is essentially a transaction that is between two shielded addresses.\nShielded Transaction",
+    "description": (
+  <>
+    A shielded transaction is essentially a transaction that is between two shielded addresses.\nShielded Transaction
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Shielded Transaction",
       "Simplified Chinese": "隐私交易",
       "French": "Transaction protégée",
       "German": "Abgeschirmte Transaktion",
@@ -10595,9 +12576,15 @@ const exportDefinitions = {
     "term": "sidechain",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A ‘sidechain’ refers to a chain that is connected to another (most often, to Ethereum) through a bridge, allowing assets to be transferred between them. In contrast to a Layer 2 network or a rollup, a sidechain is a full blockchain network in and of itself, and does not rely on Ethereum for consensus. It therefore must be evaluated independently in terms of its security, stability, and other features. See also “blockchain trilemma”, “modular blockchain”.\n\nNote: Bridges exist for good reason; sending tokens from a sidechain to Ethereum mainnet or vice versa would result in token loss.",
+    "description": (
+  <>
+    A ‘sidechain’ refers to a chain that is connected to another (most often, to Ethereum) through a bridge, allowing assets to be transferred between them. In contrast to a Layer 2 network or a rollup, a sidechain is a full blockchain network in and of itself, and does not rely on Ethereum for consensus. It therefore must be evaluated independently in terms of its security, stability, and other features. See also “blockchain trilemma”, “modular blockchain”.\n\nNote: Bridges exist for good reason; sending tokens from a sidechain to Ethereum mainnet or vice versa would result in token loss.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "sidechain",
       "Simplified Chinese": "侧链",
       "French": "chaîne latérale/blockchain secondaire",
       "German": "Sidechain",
@@ -10627,9 +12614,15 @@ const exportDefinitions = {
     "term": "Signature (Cryptographic)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "See \"Digital signature",
+    "description": (
+  <>
+    See 'Digital signature'
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Signature (Cryptographic)",
       "Simplified Chinese": "签名（加密）",
       "French": "Signature numérique (cryptographie)",
       "German": "Signatur (kryptografisch)",
@@ -10659,9 +12652,15 @@ const exportDefinitions = {
     "term": "slashing condition",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Under a Proof of Stake (PoS) consensus mechanism, a slashing condition is one that causes the validator's deposit to be destroyed when they trigger it. See also 'Proof of Stake'.",
+    "description": (
+  <>
+    Under a Proof of Stake (PoS) consensus mechanism, a slashing condition is one that causes the validator's deposit to be destroyed when they trigger it. See also 'Proof of Stake'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "slashing condition",
       "Simplified Chinese": "削减条件",
       "French": "condition de hachage",
       "German": "Slashing-Bedingung",
@@ -10691,9 +12690,15 @@ const exportDefinitions = {
     "term": "slippage",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Slippage is the expected percentage difference between a quoted and an executed price.",
+    "description": (
+  <>
+    Slippage is the expected percentage difference between a quoted and an executed price.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "slippage",
       "Simplified Chinese": "滑移",
       "French": "slippage / effet de glissement",
       "German": "Slippage",
@@ -10723,9 +12728,15 @@ const exportDefinitions = {
     "term": "slot",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In Proof of Stake consensus in Ethereum, a 'slot' is a period of time equivalent to 12 seconds; 32 slots make up an 'epoch'. Slots are significant in that for each slot, a different validator node is randomly chosen to propose blocks to the network, and a different committee of validators are chosen to vote on whether each block is valid",
+    "description": (
+  <>
+    In Proof of Stake consensus in Ethereum, a 'slot' is a period of time equivalent to 12 seconds; 32 slots make up an 'epoch'. Slots are significant in that for each slot, a different validator node is randomly chosen to propose blocks to the network, and a different committee of validators are chosen to vote on whether each block is valid
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "slot",
       "Simplified Chinese": "时间间隔（Slot）",
       "French": "slot",
       "German": "Slot",
@@ -10755,9 +12766,15 @@ const exportDefinitions = {
     "term": "smart contract",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Smart contracts are programs that have been published on a public blockchain, and can be used by anyone. While they often contain agreements or sets of actions between parties that emulate a traditional legal contract, they are not, in and of themselves, legal documents. Smart contracts are automated actions that can be coded and executed once a set of conditions is met, and are the dominant form of programming on the Ethereum Virtual Machine.",
+    "description": (
+  <>
+    Smart contracts are programs that have been published on a public blockchain, and can be used by anyone. While they often contain agreements or sets of actions between parties that emulate a traditional legal contract, they are not, in and of themselves, legal documents. Smart contracts are automated actions that can be coded and executed once a set of conditions is met, and are the dominant form of programming on the Ethereum Virtual Machine.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "smart contract",
       "Simplified Chinese": "智能合约",
       "French": "contrat intelligent",
       "German": "Smart Contract",
@@ -10787,9 +12804,15 @@ const exportDefinitions = {
     "term": "snap",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A program or piece of code that extends the functionality of MetaMask by using the MetaMask Snaps framework.",
+    "description": (
+  <>
+    A program or piece of code that extends the functionality of MetaMask by using the MetaMask Snaps framework.
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "snap",
       "Simplified Chinese": "Snap",
       "French": "Snap",
       "German": "Snap",
@@ -10819,9 +12842,15 @@ const exportDefinitions = {
     "term": "soft fork",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A change to the blockchain protocol resulting in only previously valid blocks and transactions being made invalid. Since old nodes will recognize the new blocks as valid, a soft fork is backward-compatible. However, this can result in a potential divide in the blockchain, as the old software generates blocks that read as invalid according to the new rules. Contrast with 'hard fork'; for more basic information regarding forks, see 'fork'.",
+    "description": (
+  <>
+    A change to the blockchain protocol resulting in only previously valid blocks and transactions being made invalid. Since old nodes will recognize the new blocks as valid, a soft fork is backward-compatible. However, this can result in a potential divide in the blockchain, as the old software generates blocks that read as invalid according to the new rules. Contrast with 'hard fork'; for more basic information regarding forks, see 'fork'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "soft fork",
       "Simplified Chinese": "软分叉",
       "French": "fork doux",
       "German": "Soft Fork",
@@ -10851,9 +12880,15 @@ const exportDefinitions = {
     "term": "Software Development Kit (SDK)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A software development kit is a collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and sometimes a software framework. See \"MetaMask SDK",
+    "description": (
+  <>
+    A software development kit is a collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and sometimes a software framework. See 'MetaMask SDK'
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "Software Development Kit (SDK)",
       "Simplified Chinese": "软件开发工具包（SDK）",
       "French": "Kit de développement logiciel (SDK)",
       "German": "Software Development Kit (SDK)",
@@ -10883,9 +12918,15 @@ const exportDefinitions = {
     "term": "Solidity",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The programming language developers use to write smart contracts on the Ethereum network. See also ‘smart contract’. Solidity",
+    "description": (
+  <>
+    The programming language developers use to write smart contracts on the Ethereum network. See also ‘smart contract’. Solidity
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Solidity",
       "Simplified Chinese": "Solidity",
       "French": "Solidity",
       "German": "Solidity",
@@ -10915,9 +12956,15 @@ const exportDefinitions = {
     "term": "stablecoin",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A cryptocurrency whose value has been ‘pegged’ to that of something considered a ‘stable’ asset, like fiat currency or gold. It theoretically remains stable in price, as it is measured against a known amount of an asset which should be less subject to fluctuation. Always spelled as one word. User Guide: Tokens",
+    "description": (
+  <>
+    A cryptocurrency whose value has been ‘pegged’ to that of something considered a ‘stable’ asset, like fiat currency or gold. It theoretically remains stable in price, as it is measured against a known amount of an asset which should be less subject to fluctuation. Always spelled as one word. User Guide: Tokens
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "stablecoin",
       "Simplified Chinese": "稳定币",
       "French": "Stablecoin (monnaie stable)",
       "German": "Stablecoin",
@@ -10947,9 +12994,15 @@ const exportDefinitions = {
     "term": "staking (noun)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "On the Ethereum Proof of Stake network, those wishing to participate in consensus must first lock up, or ‘stake’, 32 ETH into a smart contract; this ETH may be ‘slashed’ (taken from them and ‘burned’, put out of circulation) in the event that their validator behaves maliciously or does not meet performance requirements. Similar Proof of Stake mechanisms are in operation on other networks, as well.\n\nAlthough this is the canonical meaning of the word, similar actions taken at the level of a decentralized exchange (DEX) or another dapp are often called ‘staking’, though it would probably be more accurate and descriptive to just call this ‘locking up tokens’.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    On the Ethereum Proof of Stake network, those wishing to participate in consensus must first lock up, or ‘stake’, 32 ETH into a smart contract; this ETH may be ‘slashed’ (taken from them and ‘burned’, put out of circulation) in the event that their validator behaves maliciously or does not meet performance requirements. Similar Proof of Stake mechanisms are in operation on other networks, as well.\n\nAlthough this is the canonical meaning of the word, similar actions taken at the level of a decentralized exchange (DEX) or another dapp are often called ‘staking’, though it would probably be more accurate and descriptive to just call this ‘locking up tokens’.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "staking (noun)",
       "Simplified Chinese": "质押",
       "French": "staking (nom)",
       "German": "Staking",
@@ -10979,9 +13032,15 @@ const exportDefinitions = {
     "term": "state",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The set of data that a blockchain network strictly needs to keep track of, and that represents data currently relevant to applications on the chain.",
+    "description": (
+  <>
+    The set of data that a blockchain network strictly needs to keep track of, and that represents data currently relevant to applications on the chain.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "state",
       "Simplified Chinese": "状态",
       "French": "état",
       "German": "Status",
@@ -11011,9 +13070,15 @@ const exportDefinitions = {
     "term": "state channels",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "State channels are part of the set of tools and platforms involved in scaling Ethereum. While a complex topic, state channels are essentially methods through which the current 'state' of the blockchain can be exported, and then based on that, any given number of transactions can take place off-chain, and then be moved back onto the main Ethereum chain.",
+    "description": (
+  <>
+    State channels are part of the set of tools and platforms involved in scaling Ethereum. While a complex topic, state channels are essentially methods through which the current 'state' of the blockchain can be exported, and then based on that, any given number of transactions can take place off-chain, and then be moved back onto the main Ethereum chain.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "state channels",
       "Simplified Chinese": "状态通道",
       "French": "canaux d’état",
       "German": "Statuskanäle",
@@ -11043,9 +13108,15 @@ const exportDefinitions = {
     "term": "Streaming",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Money streaming represents the idea of continuous payments over time. Block numbers are used to measure time in the blockchain and continuously update the balances of the parties in the contract.",
+    "description": (
+  <>
+    Money streaming represents the idea of continuous payments over time. Block numbers are used to measure time in the blockchain and continuously update the balances of the parties in the contract.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Streaming",
       "Simplified Chinese": "资金流",
       "French": "Continu",
       "German": "Streaming",
@@ -11075,9 +13146,15 @@ const exportDefinitions = {
     "term": "swap (noun)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap. Within MetaMask, users have access to a powerful aggregator showing them information about swaps across the ecosystem, this is MetaMask Swaps:\n\nUser Guide Swaps",
+    "description": (
+  <>
+    As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap. Within MetaMask, users have access to a powerful aggregator showing them information about swaps across the ecosystem, this is MetaMask Swaps:\n\nUser Guide Swaps
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "swap (noun)",
       "Simplified Chinese": "兑换",
       "French": "swap (nom)",
       "German": "Swap",
@@ -11107,9 +13184,15 @@ const exportDefinitions = {
     "term": "Swap /MetaSwap",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap.",
+    "description": (
+  <>
+    As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Swap /MetaSwap",
       "Simplified Chinese": "Swap /MetaSwap",
       "French": "Swap/Metswap",
       "German": "Swap/MetaSwap",
@@ -11139,9 +13222,15 @@ const exportDefinitions = {
     "term": "szabo",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A denomination of ETH. See also 'ether (denominations)'.",
+    "description": (
+  <>
+    A denomination of ETH. See also 'ether (denominations)'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "szabo",
       "Simplified Chinese": "szabo",
       "French": "szabo",
       "German": "Szabo",
@@ -11171,9 +13260,15 @@ const exportDefinitions = {
     "term": "testnet (test network)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A testnet is a blockchain network that mirrors, as closely as possible, the current conditions of a corresponding ‘main’ network. Testnets are used by developers to verify that their smart contracts and other functionality work as intended, before permanently recording their code to a live blockchain network (and often spending significant gas fees in the process!).\n\nTokens minted on testnets are not transferrable for their equivalent value on mainnets.",
+    "description": (
+  <>
+    A testnet is a blockchain network that mirrors, as closely as possible, the current conditions of a corresponding ‘main’ network. Testnets are used by developers to verify that their smart contracts and other functionality work as intended, before permanently recording their code to a live blockchain network (and often spending significant gas fees in the process!).\n\nTokens minted on testnets are not transferrable for their equivalent value on mainnets.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "testnet (test network)",
       "Simplified Chinese": "测试网",
       "French": "testnet (réseau de test)",
       "German": "Testnet (Testnetzwerk)",
@@ -11203,9 +13298,15 @@ const exportDefinitions = {
     "term": "Testnet Kovan",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; website here.",
+    "description": (
+  <>
+    An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; website here.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Testnet Kovan",
       "Simplified Chinese": "Testnet Kovan",
       "French": "Testnet Kovan",
       "German": "Testnet Kovan",
@@ -11235,9 +13336,15 @@ const exportDefinitions = {
     "term": "Testnet Rinkeby",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; faucet here. Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.",
+    "description": (
+  <>
+    An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; faucet here. Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Testnet Rinkeby",
       "Simplified Chinese": "Testnet Rinkeby",
       "French": "Testnet Rinkeby",
       "German": "Testnet Rinkeby",
@@ -11267,9 +13374,15 @@ const exportDefinitions = {
     "term": "Testnet Ropsten",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Testnet Ropsten",
       "Simplified Chinese": "Testnet Ropsten",
       "French": "Testnet Ropsten",
       "German": "Testnet Ropsten",
@@ -11299,9 +13412,15 @@ const exportDefinitions = {
     "term": "token",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A token represents an asset issued on an existing blockchain; the transfer of tokens and the addresses that currently hold them are the subject of the network’s consensus activities. There are many types of tokens; see also ‘ERC-20’ and ‘ERC-721’ entries.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A token represents an asset issued on an existing blockchain; the transfer of tokens and the addresses that currently hold them are the subject of the network’s consensus activities. There are many types of tokens; see also ‘ERC-20’ and ‘ERC-721’ entries.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "token",
       "Simplified Chinese": "代币",
       "French": "jeton",
       "German": "Token",
@@ -11331,9 +13450,15 @@ const exportDefinitions = {
     "term": "token lockup",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A token lock-up refers to a mechanism where certain tokens or cryptocurrency holdings are locked up or frozen for a specified period of time to restrict their transfer or sale. This is often used in the context of initial coin offerings (ICOs), where token issuers may require investors to commit to holding onto their tokens for a certain period, typically to ensure that investors are committed to the project's long-term success.\n\nToken lock-up periods can vary in duration and can be predetermined or set according to certain conditions, such as reaching a certain milestone, liquidity event or network upgrade. During the lock-up period, the tokens cannot be transferred or sold, although in some cases, they may be staked or used to participate in certain network activities. Once the lock-up period is over, the tokens can be freely traded or sold.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    A token lock-up refers to a mechanism where certain tokens or cryptocurrency holdings are locked up or frozen for a specified period of time to restrict their transfer or sale. This is often used in the context of initial coin offerings (ICOs), where token issuers may require investors to commit to holding onto their tokens for a certain period, typically to ensure that investors are committed to the project's long-term success.\n\nToken lock-up periods can vary in duration and can be predetermined or set according to certain conditions, such as reaching a certain milestone, liquidity event or network upgrade. During the lock-up period, the tokens cannot be transferred or sold, although in some cases, they may be staked or used to participate in certain network activities. Once the lock-up period is over, the tokens can be freely traded or sold.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "token lockup",
       "Simplified Chinese": "代币锁定",
       "French": "blocage de jetons",
       "German": "Token-Lockup",
@@ -11363,9 +13488,15 @@ const exportDefinitions = {
     "term": "Token standard",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "See ERC-20, ERC-721, ERC-1155, etc.",
+    "description": (
+  <>
+    See ERC-20, ERC-721, ERC-1155, etc.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Token standard",
       "Simplified Chinese": "代币标准",
       "French": "Jeton standard",
       "German": "Token-Standard",
@@ -11395,9 +13526,15 @@ const exportDefinitions = {
     "term": "Total Value Locked (TVL)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Total Value Locked, or TVL, is a common expression used in many contexts across the crypto ecosystem, so it's important to pay attention to the specifics. In general, it refers to how much value, in tokens, has been deposited into something. Most often, it refers to a protocol, which is an application on the blockchain, or a set of protocols. For example, a decentralized token trading platform might have a series of liquidity pools, which are protocols enabling swaps between tokens, and the platform may quote the \"TVL\" for all the pools combined. Alternatively, if a network uses proof of stake for their consensus mechanism, they may represent the TVL of all the tokens staked into that consensus protocol.",
+    "description": (
+  <>
+    Total Value Locked, or TVL, is a common expression used in many contexts across the crypto ecosystem, so it's important to pay attention to the specifics. In general, it refers to how much value, in tokens, has been deposited into something. Most often, it refers to a protocol, which is an application on the blockchain, or a set of protocols. For example, a decentralized token trading platform might have a series of liquidity pools, which are protocols enabling swaps between tokens, and the platform may quote the 'TVL' for all the pools combined. Alternatively, if a network uses proof of stake for their consensus mechanism, they may represent the TVL of all the tokens staked into that consensus protocol.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Total Value Locked (TVL)",
       "Simplified Chinese": "总锁仓价值（TVL）",
       "French": "Valeur totale verrouillée (TVL)",
       "German": "Total Value Locked (TVL)",
@@ -11427,9 +13564,15 @@ const exportDefinitions = {
     "term": "Transaction",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Data committed to the Ethereum Blockchain signed by an originating account, targeting a specific address. The transaction contains metadata such as the gas limit for that transaction.",
+    "description": (
+  <>
+    Data committed to the Ethereum Blockchain signed by an originating account, targeting a specific address. The transaction contains metadata such as the gas limit for that transaction.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Transaction",
       "Simplified Chinese": "交易",
       "French": "Transaction",
       "German": "Transaktion",
@@ -11459,9 +13602,15 @@ const exportDefinitions = {
     "term": "transaction block",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A collection of transactions on a blockchain network, gathered into a set or a block that can then be hashed and added to the blockchain. See 'hash'.",
+    "description": (
+  <>
+    A collection of transactions on a blockchain network, gathered into a set or a block that can then be hashed and added to the blockchain. See 'hash'.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "transaction block",
       "Simplified Chinese": "交易区块",
       "French": "bloc de transactions",
       "German": "Transaktionssperre",
@@ -11491,9 +13640,15 @@ const exportDefinitions = {
     "term": "transaction fee",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A small fee imposed on transactions sent across a blockchain network. These fees are used to pay network validators or miners for their participation in consensus, and thus ensure that a blockchain network is self-sustaining.",
+    "description": (
+  <>
+    A small fee imposed on transactions sent across a blockchain network. These fees are used to pay network validators or miners for their participation in consensus, and thus ensure that a blockchain network is self-sustaining.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "transaction fee",
       "Simplified Chinese": "交易费用",
       "French": "frais de transaction",
       "German": "Transaktionsgebühr",
@@ -11523,9 +13678,15 @@ const exportDefinitions = {
     "term": "transaction ID",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A transaction hash/ID (often abbreviated as tx hash or txn hash) is a unique identifier, similar to a receipt, that serves as proof that a transaction was validated and added to the blockchain. In many cases, a transaction hash is needed in order to locate funds.",
+    "description": (
+  <>
+    A transaction hash/ID (often abbreviated as tx hash or txn hash) is a unique identifier, similar to a receipt, that serves as proof that a transaction was validated and added to the blockchain. In many cases, a transaction hash is needed in order to locate funds.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "transaction ID",
       "Simplified Chinese": "交易 ID",
       "French": "ID de transaction",
       "German": "Transaktions-ID",
@@ -11555,9 +13716,15 @@ const exportDefinitions = {
     "term": "transaction pool",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "When a user submits a transaction to the Ethereum network--or many other networks based on Ethereum--the transaction goes into what's know as a \"transaction pool\", or \"txpool\" for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are \"picked up\" and included in the next block, and there is currently a lot of research surrounding how this decision gets made (see \"MEV\"). In Bitcoin, the transaction pool was referred to as the \"memory pool\", or \"mempool\", and often these terms are used interchangeably.",
+    "description": (
+  <>
+    When a user submits a transaction to the Ethereum network--or many other networks based on Ethereum--the transaction goes into what's know as a 'transaction pool', or 'txpool' for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are 'picked up' and included in the next block, and there is currently a lot of research surrounding how this decision gets made (see 'MEV'). In Bitcoin, the transaction pool was referred to as the 'memory pool', or 'mempool', and often these terms are used interchangeably.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "transaction pool",
       "Simplified Chinese": "交易池",
       "French": "pool de transactions",
       "German": "Transaktionspool",
@@ -11587,9 +13754,15 @@ const exportDefinitions = {
     "term": "Transak",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Transak is a developer integration toolkit to let users buy/sell crypto in any app, website or web plugin.",
+    "description": (
+  <>
+    Transak is a developer integration toolkit to let users buy/sell crypto in any app, website or web plugin.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Transak",
       "Simplified Chinese": "Transak",
       "French": "Transak",
       "German": "Transak",
@@ -11619,9 +13792,15 @@ const exportDefinitions = {
     "term": "Trezor",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Hardware wallet.",
+    "description": (
+  <>
+    Hardware wallet.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Trezor",
       "Simplified Chinese": "Trezor",
       "French": "Trezor",
       "German": "Trezor",
@@ -11651,9 +13830,15 @@ const exportDefinitions = {
     "term": "Truffle",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Truffle Suite is a development environment based on Ethereum Blockchain, used to develop dapps. Truffle is a one-stop solution for building dapps: compiling contracts, deploying contracts, injecting it into a web app, creating front-end for dapps and testing.\nTruffle Suite",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Truffle Suite is a development environment based on Ethereum Blockchain, used to develop dapps. Truffle is a one-stop solution for building dapps: compiling contracts, deploying contracts, injecting it into a web app, creating front-end for dapps and testing.\nTruffle Suite
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Truffle",
       "Simplified Chinese": "Truffle",
       "French": "Truffle",
       "German": "Truffle",
@@ -11683,9 +13868,15 @@ const exportDefinitions = {
     "term": "trustless",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Trustless' is a term that gets used a lot in the decentralized web, and it deserves some explanation. Traditionally, to call something 'trustless' would sound like a negative thing. In the context of decentralized technology, it has a more technical meaning: since everyone has a copy of the ledger of all transactions ever executed, there is no need for a centralized entity that 'must be trusted' as the source of truth. With public blockchain networks, data isn't kept on some centralized server somewhere that could be hacked or changed arbitrarily; anyone can verify the transactions themselves. This is why the term 'trustless' was coined: there is no need for trust, although, in a way, the rules and assurances built into the blockchain provide the basis for greater trust between people, because the system is guaranteed to work the same for everyone.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Trustless' is a term that gets used a lot in the decentralized web, and it deserves some explanation. Traditionally, to call something 'trustless' would sound like a negative thing. In the context of decentralized technology, it has a more technical meaning: since everyone has a copy of the ledger of all transactions ever executed, there is no need for a centralized entity that 'must be trusted' as the source of truth. With public blockchain networks, data isn't kept on some centralized server somewhere that could be hacked or changed arbitrarily; anyone can verify the transactions themselves. This is why the term 'trustless' was coined: there is no need for trust, although, in a way, the rules and assurances built into the blockchain provide the basis for greater trust between people, because the system is guaranteed to work the same for everyone.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "trustless",
       "Simplified Chinese": "去信任",
       "French": "sans confiance",
       "German": "Vertrauenslos",
@@ -11715,9 +13906,15 @@ const exportDefinitions = {
     "term": "Turing-complete",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Any machine that can calculate on a level equal to a programmable computer is Turing-complete, or computationally universal. The Ethereum Virtual Machine, which processes smart contracts and transactions, is Turing-complete, despite not existing on a single physical computer.",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Any machine that can calculate on a level equal to a programmable computer is Turing-complete, or computationally universal. The Ethereum Virtual Machine, which processes smart contracts and transactions, is Turing-complete, despite not existing on a single physical computer.
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "Turing-complete",
       "Simplified Chinese": "图灵完备",
       "French": "Turing-complet",
       "German": "Turing-Complete",
@@ -11747,9 +13944,15 @@ const exportDefinitions = {
     "term": "Two-Factor Authentication (2FA)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Two-factor authentication (2FA) is an identity and access management security method that requires two forms of identification to access resources and data. 2FA gives businesses the ability to monitor and help safeguard their most vulnerable information and networks.See also \"U2F\" When 2FA",
+    "description": (
+  <>
+    Two-factor authentication (2FA) is an identity and access management security method that requires two forms of identification to access resources and data. 2FA gives businesses the ability to monitor and help safeguard their most vulnerable information and networks.See also 'U2F' When 2FA
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Two-Factor Authentication (2FA)",
       "Simplified Chinese": "双因素认证（2FA）",
       "French": "Authentification double (2FA)",
       "German": "Zwei-Faktor-Authentifizierung (2FA)",
@@ -11779,9 +13982,15 @@ const exportDefinitions = {
     "term": "TXID",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Transaction ID",
+    "description": (
+  <>
+    Transaction ID
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "TXID",
       "Simplified Chinese": "交易 ID",
       "French": "TXID (ID de transaction)",
       "German": "TXID",
@@ -11811,9 +14020,15 @@ const exportDefinitions = {
     "term": "U2F",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Universal 2nd Factor (U2F) is an open standard that strengthens and simplifies two-factor authentication (2FA) using specialized Universal Serial Bus (USB) or near-field communication (NFC) devices based on similar security technology found in smart cards",
+    "description": (
+  <>
+    Universal 2nd Factor (U2F) is an open standard that strengthens and simplifies two-factor authentication (2FA) using specialized Universal Serial Bus (USB) or near-field communication (NFC) devices based on similar security technology found in smart cards
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "U2F",
       "Simplified Chinese": "U2F（通用第二因素）",
       "French": "U2F",
       "German": "U2F",
@@ -11843,9 +14058,15 @@ const exportDefinitions = {
     "term": "Uniswap",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Uniswap is a decentralized cryptocurrency exchange that uses a set of smart contracts to execute trades on its exchange.",
+    "description": (
+  <>
+    Uniswap is a decentralized cryptocurrency exchange that uses a set of smart contracts to execute trades on its exchange.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Uniswap",
       "Simplified Chinese": "Uniswap",
       "French": "Uniswap",
       "German": "Uniswap",
@@ -11875,9 +14096,15 @@ const exportDefinitions = {
     "term": "unspent transaction output (UTXO)",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "An unspent transaction output (UTXO) represents some amount of digital currency which has been authorized by one account to be spent by another. UTXOs use public key cryptography to identify and transfer ownership between holders of public/private key pairs. UTXOs are formatted with the recipient's public key, thus restricting the ability to spend that UTXO to the account that can prove ownership of the associated private key. The UTXO can only be spent if it includes the digital signature associated with the public key attached the last time it was sent.",
+    "description": (
+  <>
+    An unspent transaction output (UTXO) represents some amount of digital currency which has been authorized by one account to be spent by another. UTXOs use public key cryptography to identify and transfer ownership between holders of public/private key pairs. UTXOs are formatted with the recipient's public key, thus restricting the ability to spend that UTXO to the account that can prove ownership of the associated private key. The UTXO can only be spent if it includes the digital signature associated with the public key attached the last time it was sent.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "unspent transaction output (UTXO)",
       "Simplified Chinese": "未花费的交易输出（UTXO）",
       "French": "sortie de transaction non utilisée (UTXO)",
       "German": "Uneingelöster Transaktions-Output (UTXO)",
@@ -11907,9 +14134,15 @@ const exportDefinitions = {
     "term": "upgrade",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Upgrading is the process of replacing a product with a newer version of the same product. In computing and consumer electronics, an upgrade is generally a replacement of hardware, software, or firmware with a newer or better version, in order to bring the system up to date or to improve its characteristics. See also EIP-1159, merge, and  other important Ethereum upgrades",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Upgrading is the process of replacing a product with a newer version of the same product. In computing and consumer electronics, an upgrade is generally a replacement of hardware, software, or firmware with a newer or better version, in order to bring the system up to date or to improve its characteristics. See also EIP-1159, merge, and  other important Ethereum upgrades
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "upgrade",
       "Simplified Chinese": "升级",
       "French": "mise à niveau / mettre à niveau",
       "German": "Upgrade",
@@ -11939,9 +14172,15 @@ const exportDefinitions = {
     "term": "UTXO",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Acronym; Unspent Transaction Output.",
+    "description": (
+  <>
+    Acronym; Unspent Transaction Output.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "UTXO",
       "Simplified Chinese": "UTXO（未花费的交易输出）",
       "French": "UTXO",
       "German": "UTXO",
@@ -11971,9 +14210,15 @@ const exportDefinitions = {
     "term": "validator",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A participant in Proof of Stake (PoS) consensus. On Ethereum’s Proof of Stake network, validators need to stake 32 ETH in order to get included in the validator set. See also ‘staking’.",
+    "description": (
+  <>
+    A participant in Proof of Stake (PoS) consensus. On Ethereum’s Proof of Stake network, validators need to stake 32 ETH in order to get included in the validator set. See also ‘staking’.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "validator",
       "Simplified Chinese": "验证器",
       "French": "validateur",
       "German": "Validator",
@@ -12003,9 +14248,15 @@ const exportDefinitions = {
     "term": "validity proof",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The proof submitted along with certain types of rollups to prove that the transactions are valid. See also 'rollups'.",
+    "description": (
+  <>
+    The proof submitted along with certain types of rollups to prove that the transactions are valid. See also 'rollups'.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "validity proof",
       "Simplified Chinese": "有效性证明",
       "French": "preuve de validité",
       "German": "Gültigkeitsnachweis",
@@ -12035,9 +14286,15 @@ const exportDefinitions = {
     "term": "Validium",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "One of the technologies developed for scaling of the Ethereum network; see more here.",
+    "description": (
+  <>
+    One of the technologies developed for scaling of the Ethereum network; see more here.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Validium",
       "Simplified Chinese": "Validium 扩容技术",
       "French": "Validium",
       "German": "Validium",
@@ -12067,9 +14324,15 @@ const exportDefinitions = {
     "term": "Vault Decryptor",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The MetaMask Vault Decryptor is a tool used in recovering the Secret Recovery Phrase. This tool was written by MetaMask co-founder Dan Finlay and can be accessed here: Vault Decryptor",
+    "description": (
+  <>
+    The MetaMask Vault Decryptor is a tool used in recovering the Secret Recovery Phrase. This tool was written by MetaMask co-founder Dan Finlay and can be accessed here: Vault Decryptor
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Vault Decryptor",
       "Simplified Chinese": "Vault Decryptor",
       "French": "Décrypteur/Déchiffreur de coffre-fort",
       "German": "Vault Decryptor",
@@ -12099,9 +14362,15 @@ const exportDefinitions = {
     "term": "Vesting",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In the context of \"vesting period\": The act of restricting the sale of a token for a particular period of time. Vesting period",
+    "description": (
+  <>
+    In the context of 'vesting period': The act of restricting the sale of a token for a particular period of time. Vesting period
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Vesting",
       "Simplified Chinese": "等待行权",
       "French": "Acquisition",
       "German": "Vesting",
@@ -12131,9 +14400,15 @@ const exportDefinitions = {
     "term": "wallet",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "In Ethereum-based blockchain technology, a 'wallet' is a something that allows you to manage private keys, your Secret Recovery Phrase, and the accounts generated from it. This could be an internet-connected 'hot wallet', like MetaMask, or an 'airgapped' hardware wallet. In more technical speak, you could say \"the wallet is the client, not the keys.\" It is very common for people to use the word 'wallet' to refer to their SRP itself, or the accounts generated from it, or even to one account.",
+    "description": (
+  <>
+    In Ethereum-based blockchain technology, a 'wallet' is a something that allows you to manage private keys, your Secret Recovery Phrase, and the accounts generated from it. This could be an internet-connected 'hot wallet', like MetaMask, or an 'airgapped' hardware wallet. In more technical speak, you could say 'the wallet is the client, not the keys.' It is very common for people to use the word 'wallet' to refer to their SRP itself, or the accounts generated from it, or even to one account.
+  </>
+)
+,
     "termCategory": "MetaMask term",
     "i18n": {
+      "Term": "wallet",
       "Simplified Chinese": "钱包",
       "French": "Portefeuille",
       "German": "Wallet (die)",
@@ -12163,9 +14438,15 @@ const exportDefinitions = {
     "term": "WalletConnect",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.",
+    "description": (
+  <>
+    WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "WalletConnect",
       "Simplified Chinese": "WalletConnect",
       "French": "WalletConnect",
       "German": "WalletConnect",
@@ -12195,9 +14476,15 @@ const exportDefinitions = {
     "term": "web3, Web 3.0",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Web3, or Web 3.0, are terms used synonymously with “the decentralized web” and are often used to refer, broadly, to the blockchain and decentralized technology ecosystems and communities as a whole.",
+    "description": (
+  <>
+    Web3, or Web 3.0, are terms used synonymously with “the decentralized web” and are often used to refer, broadly, to the blockchain and decentralized technology ecosystems and communities as a whole.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "web3, Web 3.0",
       "Simplified Chinese": "Web3，Web 3.0",
       "French": "web3, Web 3.0",
       "German": "Web3, Web 3.0",
@@ -12227,9 +14514,15 @@ const exportDefinitions = {
     "term": "WebHID",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "WebHID (Human Interface Device)\nEnables web applications to interact with human interface devices (HIDs) other than the standard supported devices (mice, keyboards, touchscreens, and gamepads). However, there are many other HID devices that are currently inaccessible to the web",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    WebHID (Human Interface Device)\nEnables web applications to interact with human interface devices (HIDs) other than the standard supported devices (mice, keyboards, touchscreens, and gamepads). However, there are many other HID devices that are currently inaccessible to the web
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "WebHID",
       "Simplified Chinese": "WebHID",
       "French": "WebHID",
       "German": "WebHID",
@@ -12259,9 +14552,15 @@ const exportDefinitions = {
     "term": "WebSocket",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection. It's often used by dapps to regularly fetch up-to-date information from the blockchain.",
+    "description": (
+  <>
+    WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection. It's often used by dapps to regularly fetch up-to-date information from the blockchain.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "WebSocket",
       "Simplified Chinese": "WebSocket",
       "French": "WebSocket",
       "German": "WebSocket",
@@ -12291,9 +14590,15 @@ const exportDefinitions = {
     "term": "Wei",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Wei is the smallest denomination of ether, the currency used to facilitate transactional operations on the Ethereum blockchain network, where 10^18 or 1,000,000,000,000,000,000 wei is equivalent to one ether.",
+    "description": (
+  <>
+    Wei is the smallest denomination of ether, the currency used to facilitate transactional operations on the Ethereum blockchain network, where 10^18 or 1,000,000,000,000,000,000 wei is equivalent to one ether.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Wei",
       "Simplified Chinese": "Wei",
       "French": "Wei",
       "German": "Wei",
@@ -12323,9 +14628,15 @@ const exportDefinitions = {
     "term": "Whitepaper",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Whitepapers explain the purpose and technology behind a project.",
+    "description": (
+  <>
+    Whitepapers explain the purpose and technology behind a project.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Whitepaper",
       "Simplified Chinese": "白皮书",
       "French": "Livre blanc",
       "German": "Whitepaper",
@@ -12355,9 +14666,15 @@ const exportDefinitions = {
     "term": "Wrapping",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Wrapping a token is a way of bringing a token from one network to another, like wrapped Bitcoin or MATIC tokens on Ethereum Mainnet. User Guide: Tokens",
+    "description": (
+  <>
+    Wrapping a token is a way of bringing a token from one network to another, like wrapped Bitcoin or MATIC tokens on Ethereum Mainnet. User Guide: Tokens
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Wrapping",
       "Simplified Chinese": "包装",
       "French": "Emballage",
       "German": "Wrapping",
@@ -12387,9 +14704,15 @@ const exportDefinitions = {
     "term": "Wyre",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Wyre is a regulated Money Service Business (MSB), which means it is a financial services provider licensed to transmit and convert money. The company is almost a decade old, having been around since 2013.\n\nWyre provides what the company calls a secure and compliant bridge between fiat and cryptocurrencies.\n\nIt serves as an infrastructure provider for blockchain businesses to connect with the fiat economy. In other words, Wyre payments enable blockchain businesses to efficiently integrate highly customizable fiat on-ramps into their onboarding flows.",
+    "description": (
+  <>
+    Wyre is a regulated Money Service Business (MSB), which means it is a financial services provider licensed to transmit and convert money. The company is almost a decade old, having been around since 2013.\n\nWyre provides what the company calls a secure and compliant bridge between fiat and cryptocurrencies.\n\nIt serves as an infrastructure provider for blockchain businesses to connect with the fiat economy. In other words, Wyre payments enable blockchain businesses to efficiently integrate highly customizable fiat on-ramps into their onboarding flows.
+  </>
+)
+,
     "termCategory": "Software term",
     "i18n": {
+      "Term": "Wyre",
       "Simplified Chinese": "Wyre",
       "French": "Wyre",
       "German": "Wyre",
@@ -12419,9 +14742,15 @@ const exportDefinitions = {
     "term": "yield farming",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Yield farming is an investment practice that involves locking crypto in a dapp for token rewards. Yield farmers deposit their tokens into DeFi applications for crypto trading, lending, or borrowing.",
+    "description": (
+  <>
+    Yield farming is an investment practice that involves locking crypto in a dapp for token rewards. Yield farmers deposit their tokens into DeFi applications for crypto trading, lending, or borrowing.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "yield farming",
       "Simplified Chinese": "收益挖矿",
       "French": "yield farming",
       "German": "Yield Farming",
@@ -12451,9 +14780,15 @@ const exportDefinitions = {
     "term": "yield-bearing tokens",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Yield tokens. See 'yield farming'",
-    "termCategory": "Brand or project name",
+    "description": (
+  <>
+    Yield tokens. See 'yield farming'
+  </>
+)
+,
+    "termCategory": "Brand/project name",
     "i18n": {
+      "Term": "yield-bearing tokens",
       "Simplified Chinese": "收益代币",
       "French": "jetons de yield farming",
       "German": "Ertragsbringende Token",
@@ -12483,9 +14818,15 @@ const exportDefinitions = {
     "term": "zero address",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "The Zero Address is an address on the Ethereum network that is the recipient of a special transaction used to register the creation of a new smart contract on the network.",
+    "description": (
+  <>
+    The Zero Address is an address on the Ethereum network that is the recipient of a special transaction used to register the creation of a new smart contract on the network.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "zero address",
       "Simplified Chinese": "0地址",
       "French": "adresse zéro",
       "German": "Null-Adresse",
@@ -12515,9 +14856,15 @@ const exportDefinitions = {
     "term": "Zero-knowledge proof",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A zero-knowledge proof is a cryptographic method that allows an individual to prove that a statement is true without conveying any additional information.",
+    "description": (
+  <>
+    A zero-knowledge proof is a cryptographic method that allows an individual to prove that a statement is true without conveying any additional information.
+  </>
+)
+,
     "termCategory": "Ecosystem term",
     "i18n": {
+      "Term": "Zero-knowledge proof",
       "Simplified Chinese": "零知识证明",
       "French": "Preuve à divulgation nulle de connaissance (ZKP)",
       "German": "Null-Wissen-Beweis",
@@ -12547,9 +14894,15 @@ const exportDefinitions = {
     "term": "Zero-knowledge rollup",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "A rollup of transactions that use validity proofs to offer increased layer 2 transaction throughput while using the security provided by mainnet (layer 1). Although they can't handle complex transaction types, like Optimistic rollups, they don't have latency issues because transactions are provably valid when submitted.",
+    "description": (
+  <>
+    A rollup of transactions that use validity proofs to offer increased layer 2 transaction throughput while using the security provided by mainnet (layer 1). Although they can't handle complex transaction types, like Optimistic rollups, they don't have latency issues because transactions are provably valid when submitted.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "Zero-knowledge rollup",
       "Simplified Chinese": "零知识汇总",
       "French": "Rollup à divulgation nulle de connaissance(rollup ZK)",
       "German": "Null-Wissen-Rollup",
@@ -12579,9 +14932,15 @@ const exportDefinitions = {
     "term": "zk-SNARKs",
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "Zero-Knowledge Succinct Non-interactive ARguments of Knowledge are an incredible technology, and vital to the scaling of blockchain technology and the decentralized web. They are mathematically complex and can be daunting; this explanation from the Ethereum Foundation is a good primer.",
+    "description": (
+  <>
+    Zero-Knowledge Succinct Non-interactive ARguments of Knowledge are an incredible technology, and vital to the scaling of blockchain technology and the decentralized web. They are mathematically complex and can be daunting; this explanation from the Ethereum Foundation is a good primer.
+  </>
+)
+,
     "termCategory": "Blockchain term",
     "i18n": {
+      "Term": "zk-SNARKs",
       "Simplified Chinese": "零知识简洁非交互知识论证（zk-SNARK）",
       "French": "zk-SNARKs",
       "German": "zk-SNARKs",
