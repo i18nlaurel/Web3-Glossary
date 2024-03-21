@@ -12,16 +12,25 @@ fs.readFile('consensys-termbase.json', 'utf8', (err, data) => {
     const exportDefinitions = {};
 
     // Iterate over each term
-    for (const term of terms) {
-      const englishTerm = term['English term'];
+    for (const termData of terms) {
+      const englishTerm = termData['English term'];
 
       // Create object for definitions.js
       const definitionObj = {
+        term: englishTerm,
         phonetic: '', // You may need to update this if phonetic is available in the JSON
-        description: term['Definition'], // Using 'Definition' field as description
-        // Other languages can be added here based on your requirements
-        // e.g., French: term['French'], Spanish: term['Spanish'], etc.
+        partOfSpeech: '', // You may need to fill this later
+        description: termData['Definition'], // Using 'Definition' field as description
+        termCategory: termData['Term category'] || '', // Using 'Term category' field if available
+        i18n: {},
       };
+
+      // Add translations to i18n field
+      for (const [lang, translation] of Object.entries(termData)) {
+        if (lang !== 'English term' && lang !== 'Definition' && lang !== 'Term category') {
+          definitionObj.i18n[lang] = translation;
+        }
+      }
 
       // Add the object to exportDefinitions
       exportDefinitions[englishTerm] = definitionObj;
