@@ -2,7 +2,7 @@ const glossary = {
   "0x API": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users:<br><br>API References'",
+    "definition": "'The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users:<br><br>API References'",
     "locales": {
       "Consensys' Definition": "The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users:\n\nAPI References",
       "Simplified Chinese": "0x API",
@@ -34,7 +34,7 @@ const glossary = {
   "1inch": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Decentralized exchange aggregator that aims to provide traders with the best price and lowest fees on their transactions.  1inch'",
+    "definition": "'Decentralized exchange aggregator that aims to provide traders with the best price and lowest fees on their transactions.  1inch'",
     "locales": {
       "Consensys' Definition": "Decentralized exchange aggregator that aims to provide traders with the best price and lowest fees on their transactions.  1inch",
       "Simplified Chinese": "1inch",
@@ -66,7 +66,7 @@ const glossary = {
   "3Box Labs": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The inventors and core developers of Ceramic, the first decentralized network for composable data. Ceramic makes it possible for developers to build data-rich Web3 applications without needing a traditional database, and in the process, unlocks data composability and portability across every application within the Web3 ecosystem<br><br>3Box Labs'",
+    "definition": "'The inventors and core developers of Ceramic, the first decentralized network for composable data. Ceramic makes it possible for developers to build data-rich Web3 applications without needing a traditional database, and in the process, unlocks data composability and portability across every application within the Web3 ecosystem<br><br>3Box Labs'",
     "locales": {
       "Consensys' Definition": "The inventors and core developers of Ceramic, the first decentralized network for composable data. Ceramic makes it possible for developers to build data-rich Web3 applications without needing a traditional database, and in the process, unlocks data composability and portability across every application within the Web3 ecosystem\n\n3Box Labs",
       "Simplified Chinese": "3Box Labs",
@@ -98,7 +98,7 @@ const glossary = {
   "51% Attack": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'If more than half the computer power or mining hash rate on a network is run by a single person or a single group of people, then a 51% attack is in operation. This means that this entity has full control of the network and can negatively affect a cryptocurrency by taking over mining operations, stopping or changing transactions, and double-spending coins.'",
+    "definition": "'If more than half the computer power or mining hash rate on a network is run by a single person or a single group of people, then a 51% attack is in operation. This means that this entity has full control of the network and can negatively affect a cryptocurrency by taking over mining operations, stopping or changing transactions, and double-spending coins.'",
     "locales": {
       "Consensys' Definition": "If more than half the computer power or mining hash rate on a network is run by a single person or a single group of people, then a 51% attack is in operation. This means that this entity has full control of the network and can negatively affect a cryptocurrency by taking over mining operations, stopping or changing transactions, and double-spending coins.",
       "Simplified Chinese": "51%攻击",
@@ -130,7 +130,7 @@ const glossary = {
   "Aave": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Aave is an open source protocol to create non-custodial liquidity markets to earn interest on supplying and borrowing assets with a variable or stable interest rate.'",
+    "definition": "'Aave is an open source protocol to create non-custodial liquidity markets to earn interest on supplying and borrowing assets with a variable or stable interest rate.'",
     "locales": {
       "Consensys' Definition": "Aave is an open source protocol to create non-custodial liquidity markets to earn interest on supplying and borrowing assets with a variable or stable interest rate.",
       "Simplified Chinese": "Aave",
@@ -162,7 +162,7 @@ const glossary = {
   "Account": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose.  <br><br>In the world of crypto, this is referred to as a cryptocurrency account. It gives you certain benefits, and it is a requirement in order to use just about any cryptocurrency exchange. A cryptocurrency account gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process. <br><br>Account'",
+    "definition": "'Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose.  <br><br>In the world of crypto, this is referred to as a cryptocurrency account. It gives you certain benefits, and it is a requirement in order to use just about any cryptocurrency exchange. A cryptocurrency account gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process. <br><br>Account'",
     "locales": {
       "Consensys' Definition": "Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose.  \n\nIn the world of crypto, this is referred to as a cryptocurrency account. It gives you certain benefits, and it is a requirement in order to use just about any cryptocurrency exchange. A cryptocurrency account gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process. \n\nAccount",
       "Simplified Chinese": "账户",
@@ -194,7 +194,7 @@ const glossary = {
   "ACH transfer": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'ACH (Automated Clearing House) bank transfer is an electronic payment method that allows money to be transferred between bank accounts in the United States. It is a system that processes transactions in batches and is commonly used for direct deposit of paychecks, bill payments, and online money transfers.'",
+    "definition": "'ACH (Automated Clearing House) bank transfer is an electronic payment method that allows money to be transferred between bank accounts in the United States. It is a system that processes transactions in batches and is commonly used for direct deposit of paychecks, bill payments, and online money transfers.'",
     "locales": {
       "Consensys' Definition": "ACH (Automated Clearing House) bank transfer is an electronic payment method that allows money to be transferred between bank accounts in the United States. It is a system that processes transactions in batches and is commonly used for direct deposit of paychecks, bill payments, and online money transfers.",
       "Simplified Chinese": "自动清算中心（ACH）转账",
@@ -226,7 +226,7 @@ const glossary = {
   "address/\"public address\" (wallet address)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Used to send and receive transactions on a blockchain network, and to identify different users; also referred to as a 'public key'. An address is an alphanumeric character string, which can also be represented as a scannable QR code. In Ethereum, the address begins with 0x. For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee'",
+    "definition": "'Used to send and receive transactions on a blockchain network, and to identify different users; also referred to as a 'public key'. An address is an alphanumeric character string, which can also be represented as a scannable QR code. In Ethereum, the address begins with 0x. For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee'",
     "locales": {
       "Consensys' Definition": "Used to send and receive transactions on a blockchain network, and to identify different users; also referred to as a 'public key'. An address is an alphanumeric character string, which can also be represented as a scannable QR code. In Ethereum, the address begins with 0x. For example: 0x06A85356DCb5b307096726FB86A78c59D38e08ee",
       "Simplified Chinese": "地址/“公钥”（钱包地址）",
@@ -258,7 +258,7 @@ const glossary = {
   "Advanced": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of \"Advanced gas controls\": it is an optional feature in the MetaMask wallet,  that gives you more control over the gas you pay in MetaMask.<br><br>Using advanced gas controls'",
+    "definition": "'In the context of \"Advanced gas controls\": it is an optional feature in the MetaMask wallet,  that gives you more control over the gas you pay in MetaMask.<br><br>Using advanced gas controls'",
     "locales": {
       "Consensys' Definition": "In the context of \"Advanced gas controls\": it is an optional feature in the MetaMask wallet,  that gives you more control over the gas you pay in MetaMask.\n\nUsing advanced gas controls",
       "Simplified Chinese": "高级",
@@ -290,7 +290,7 @@ const glossary = {
   "aggregator": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An aggregator is a platform that aggregates liquidity from multiple decentralized exchanges (DEXs) or other sources of liquidity to provide users with the best prices and the most efficient execution for their trades.'",
+    "definition": "'An aggregator is a platform that aggregates liquidity from multiple decentralized exchanges (DEXs) or other sources of liquidity to provide users with the best prices and the most efficient execution for their trades.'",
     "locales": {
       "Consensys' Definition": "An aggregator is a platform that aggregates liquidity from multiple decentralized exchanges (DEXs) or other sources of liquidity to provide users with the best prices and the most efficient execution for their trades.",
       "Simplified Chinese": "聚合器",
@@ -322,7 +322,7 @@ const glossary = {
   "Aggressive": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of \"gas fees\", Aggressive is a category that enables you to be more forceful with your transaction, and have it completed as soon as possible. There are three categories available in MetaMask: Low, Market, Aggressive<br><br>Using advanced gas controls'",
+    "definition": "'In the context of \"gas fees\", Aggressive is a category that enables you to be more forceful with your transaction, and have it completed as soon as possible. There are three categories available in MetaMask: Low, Market, Aggressive<br><br>Using advanced gas controls'",
     "locales": {
       "Consensys' Definition": "In the context of \"gas fees\", Aggressive is a category that enables you to be more forceful with your transaction, and have it completed as soon as possible. There are three categories available in MetaMask: Low, Market, Aggressive\n\nUsing advanced gas controls",
       "Simplified Chinese": "激进型",
@@ -354,7 +354,7 @@ const glossary = {
   "Agoric": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Agoric is a Proof-of-Stake blockchain that functions as a smart contract platform, enabling developers to deploy decentralized applications. The platform is built on a variant of the JavaScript programming language, which is a widely used language for web development.'",
+    "definition": "'Agoric is a Proof-of-Stake blockchain that functions as a smart contract platform, enabling developers to deploy decentralized applications. The platform is built on a variant of the JavaScript programming language, which is a widely used language for web development.'",
     "locales": {
       "Consensys' Definition": "Agoric is a Proof-of-Stake blockchain that functions as a smart contract platform, enabling developers to deploy decentralized applications. The platform is built on a variant of the JavaScript programming language, which is a widely used language for web development.",
       "Simplified Chinese": "Agoric",
@@ -386,7 +386,7 @@ const glossary = {
   "air-gapping": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A method for securing computers in which the device does not connect to the internet or any other open networks. Many hardware wallets use air-gapping as a security mechanism to keep users' private keys or Secret Recovery Phrase offline, and thus safer from any kind of attack.'",
+    "definition": "'A method for securing computers in which the device does not connect to the internet or any other open networks. Many hardware wallets use air-gapping as a security mechanism to keep users' private keys or Secret Recovery Phrase offline, and thus safer from any kind of attack.'",
     "locales": {
       "Consensys' Definition": "A method for securing computers in which the device does not connect to the internet or any other open networks. Many hardware wallets use air-gapping as a security mechanism to keep users' private keys or Secret Recovery Phrase offline, and thus safer from any kind of attack.",
       "Simplified Chinese": "气隙",
@@ -418,7 +418,7 @@ const glossary = {
   "airdrop": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.'",
+    "definition": "'A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.'",
     "locales": {
       "Consensys' Definition": "A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.",
       "Simplified Chinese": "空投",
@@ -450,7 +450,7 @@ const glossary = {
   "airdrop (noun)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.'",
+    "definition": "'A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.'",
     "locales": {
       "Consensys' Definition": "A token distribution method used to send cryptocurrency or tokens to wallet addresses. Sometimes airdrops are used for marketing purposes in exchange for simple tasks like reshares, referrals, or app downloads.",
       "Simplified Chinese": "空投",
@@ -482,7 +482,7 @@ const glossary = {
   "AirGap Vault": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'AirGap Vault is a crypto wallet application that provides secure storage for digital assets. The wallet is designed to be used in conjunction with AirGap's other wallet app, AirGap Wallet, which is used for sending and receiving transactions.'",
+    "definition": "'AirGap Vault is a crypto wallet application that provides secure storage for digital assets. The wallet is designed to be used in conjunction with AirGap's other wallet app, AirGap Wallet, which is used for sending and receiving transactions.'",
     "locales": {
       "Consensys' Definition": "AirGap Vault is a crypto wallet application that provides secure storage for digital assets. The wallet is designed to be used in conjunction with AirGap's other wallet app, AirGap Wallet, which is used for sending and receiving transactions.",
       "Simplified Chinese": "AirGap Vault",
@@ -514,7 +514,7 @@ const glossary = {
   "AirSwap": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'AirSwap is a decentralized exchange (DEX) platform for trading digital assets, operating on Ethereum and Layer-2s like Polygon, Arbitrum.'",
+    "definition": "'AirSwap is a decentralized exchange (DEX) platform for trading digital assets, operating on Ethereum and Layer-2s like Polygon, Arbitrum.'",
     "locales": {
       "Consensys' Definition": "AirSwap is a decentralized exchange (DEX) platform for trading digital assets, operating on Ethereum and Layer-2s like Polygon, Arbitrum.",
       "Simplified Chinese": "AirSwap",
@@ -546,7 +546,7 @@ const glossary = {
   "algorithm": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.'",
+    "definition": "'An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.'",
     "locales": {
       "Consensys' Definition": "An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.",
       "Simplified Chinese": "算法",
@@ -578,7 +578,7 @@ const glossary = {
   "altcoin": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'As Bitcoin was the first cryptocurrency, the term 'altcoin' was created to refer to 'any cryptocurrency other than Bitcoin'. The term is less used in Ethereum or smart contract-enabled blockchain communities. Many altcoins are forks of Bitcoin with minor changes (e.g., Litecoin). See also 'fork'.'",
+    "definition": "'As Bitcoin was the first cryptocurrency, the term 'altcoin' was created to refer to 'any cryptocurrency other than Bitcoin'. The term is less used in Ethereum or smart contract-enabled blockchain communities. Many altcoins are forks of Bitcoin with minor changes (e.g., Litecoin). See also 'fork'.'",
     "locales": {
       "Consensys' Definition": "As Bitcoin was the first cryptocurrency, the term 'altcoin' was created to refer to 'any cryptocurrency other than Bitcoin'. The term is less used in Ethereum or smart contract-enabled blockchain communities. Many altcoins are forks of Bitcoin with minor changes (e.g., Litecoin). See also 'fork'.",
       "Simplified Chinese": "竞争币",
@@ -610,7 +610,7 @@ const glossary = {
   "AML (Anti-Money Laundering)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A set of international laws enacted to diminish the potential for criminal organizations or individuals to launder money. These rules and laws are applied to cryptocurrencies with varying effects in different jurisdictions.'",
+    "definition": "'A set of international laws enacted to diminish the potential for criminal organizations or individuals to launder money. These rules and laws are applied to cryptocurrencies with varying effects in different jurisdictions.'",
     "locales": {
       "Consensys' Definition": "A set of international laws enacted to diminish the potential for criminal organizations or individuals to launder money. These rules and laws are applied to cryptocurrencies with varying effects in different jurisdictions.",
       "Simplified Chinese": "反洗钱（AML）",
@@ -642,7 +642,7 @@ const glossary = {
   "API": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Application Programming Interface. A software intermediary that allows two separate applications to communicate with one another. APIs define methods of communication between various components.'",
+    "definition": "'Application Programming Interface. A software intermediary that allows two separate applications to communicate with one another. APIs define methods of communication between various components.'",
     "locales": {
       "Consensys' Definition": "Application Programming Interface. A software intermediary that allows two separate applications to communicate with one another. APIs define methods of communication between various components.",
       "Simplified Chinese": "API",
@@ -674,7 +674,7 @@ const glossary = {
   "API (Application Programming Interface)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A predefined set of requests that one program can make to another in order to transfer information between them. When you hear someone saying that an application is \"getting information from\" another source, it's often doing so through an API.'",
+    "definition": "'A predefined set of requests that one program can make to another in order to transfer information between them. When you hear someone saying that an application is \"getting information from\" another source, it's often doing so through an API.'",
     "locales": {
       "Consensys' Definition": "A predefined set of requests that one program can make to another in order to transfer information between them. When you hear someone saying that an application is \"getting information from\" another source, it's often doing so through an API.",
       "Simplified Chinese": "API（应用程序编程接口）",
@@ -706,7 +706,7 @@ const glossary = {
   "AppChain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A blockchain network custom-made and optimized for a specific application's needs. An appchain is generally not a full-blown blockchain, but offers an optimized execution environment for the application, while still relying on an underlying blockchain for consensus. See also: \"blockchain trilemma\", \"modular blockchain\", \"Layer 2\", \"Layer 3\".'",
+    "definition": "'A blockchain network custom-made and optimized for a specific application's needs. An appchain is generally not a full-blown blockchain, but offers an optimized execution environment for the application, while still relying on an underlying blockchain for consensus. See also: \"blockchain trilemma\", \"modular blockchain\", \"Layer 2\", \"Layer 3\".'",
     "locales": {
       "Consensys' Definition": "A blockchain network custom-made and optimized for a specific application's needs. An appchain is generally not a full-blown blockchain, but offers an optimized execution environment for the application, while still relying on an underlying blockchain for consensus. See also: \"blockchain trilemma\", \"modular blockchain\", \"Layer 2\", \"Layer 3\".",
       "Simplified Chinese": "AppChain",
@@ -738,7 +738,7 @@ const glossary = {
   "Apple Pay": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Apple Pay is a mobile payment service by Apple Inc. that allows users to make payments in person, in iOS apps, and on the web.'",
+    "definition": "'Apple Pay is a mobile payment service by Apple Inc. that allows users to make payments in person, in iOS apps, and on the web.'",
     "locales": {
       "Consensys' Definition": "Apple Pay is a mobile payment service by Apple Inc. that allows users to make payments in person, in iOS apps, and on the web.",
       "Simplified Chinese": "Apple Pay",
@@ -770,7 +770,7 @@ const glossary = {
   "Arbitrum": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Arbitrum is a layer 2 scaling solution for Ethereum, designed to improve the scalability and reduce the cost of transactions on the Ethereum network. It is an implementation of the Optimistic Rollup technology, which is a type of scaling solution that uses off-chain computation to reduce the load on the main Ethereum network.'",
+    "definition": "'Arbitrum is a layer 2 scaling solution for Ethereum, designed to improve the scalability and reduce the cost of transactions on the Ethereum network. It is an implementation of the Optimistic Rollup technology, which is a type of scaling solution that uses off-chain computation to reduce the load on the main Ethereum network.'",
     "locales": {
       "Consensys' Definition": "Arbitrum is a layer 2 scaling solution for Ethereum, designed to improve the scalability and reduce the cost of transactions on the Ethereum network. It is an implementation of the Optimistic Rollup technology, which is a type of scaling solution that uses off-chain computation to reduce the load on the main Ethereum network.",
       "Simplified Chinese": "Arbitrum",
@@ -802,7 +802,7 @@ const glossary = {
   "ASIC (Application Specific Integrated Circuit)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'ASICs are silicon chips designed to do a specific task. In ASICs used for mining cryptocurrencies, the ASIC will perform a calculation to find values that provide a desired solution when placed into a hashing algorithm.'",
+    "definition": "'ASICs are silicon chips designed to do a specific task. In ASICs used for mining cryptocurrencies, the ASIC will perform a calculation to find values that provide a desired solution when placed into a hashing algorithm.'",
     "locales": {
       "Consensys' Definition": "ASICs are silicon chips designed to do a specific task. In ASICs used for mining cryptocurrencies, the ASIC will perform a calculation to find values that provide a desired solution when placed into a hashing algorithm.",
       "Simplified Chinese": "ASIC（专用集成电路）",
@@ -834,7 +834,7 @@ const glossary = {
   "asset provenance": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Asset provenance refers to the origin, history, and ownership of a particular digital asset on the blockchain. In the crypto context, asset provenance refers to the ability to trace the ownership and transfer of a specific cryptocurrency or token from its creation or minting to its current holder.'",
+    "definition": "'Asset provenance refers to the origin, history, and ownership of a particular digital asset on the blockchain. In the crypto context, asset provenance refers to the ability to trace the ownership and transfer of a specific cryptocurrency or token from its creation or minting to its current holder.'",
     "locales": {
       "Consensys' Definition": "Asset provenance refers to the origin, history, and ownership of a particular digital asset on the blockchain. In the crypto context, asset provenance refers to the ability to trace the ownership and transfer of a specific cryptocurrency or token from its creation or minting to its current holder.",
       "Simplified Chinese": "资产来源",
@@ -866,7 +866,7 @@ const glossary = {
   "attestation": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Attestation in crypto refers to the process of verifying the authenticity or validity of a piece of information or a transaction on a blockchain network. Attestation is an important aspect of blockchain technology, as it helps to ensure the integrity and security of the network.<br><br>In general, attestation involves a trusted third-party, or attester, verifying the authenticity of a transaction or piece of information. This can include verifying the identity of users on the network, verifying the accuracy of data, or validating the authenticity of a digital signature.<br><br>One example of attestation in crypto is the use of digital signatures to authenticate transactions on a blockchain network. Digital signatures use public key cryptography to verify the identity of the sender and ensure that the transaction has not been tampered with.<br><br>Another example of attestation in crypto is the use of Proof of Stake (PoS) consensus mechanisms, which rely on validators to attest to the validity of transactions on the network. Validators are responsible for verifying transactions and adding new blocks to the blockchain, and they are rewarded with cryptocurrency for their efforts.<br><br>For more info, see Attestation in Ethereum.'",
+    "definition": "'Attestation in crypto refers to the process of verifying the authenticity or validity of a piece of information or a transaction on a blockchain network. Attestation is an important aspect of blockchain technology, as it helps to ensure the integrity and security of the network.<br><br>In general, attestation involves a trusted third-party, or attester, verifying the authenticity of a transaction or piece of information. This can include verifying the identity of users on the network, verifying the accuracy of data, or validating the authenticity of a digital signature.<br><br>One example of attestation in crypto is the use of digital signatures to authenticate transactions on a blockchain network. Digital signatures use public key cryptography to verify the identity of the sender and ensure that the transaction has not been tampered with.<br><br>Another example of attestation in crypto is the use of Proof of Stake (PoS) consensus mechanisms, which rely on validators to attest to the validity of transactions on the network. Validators are responsible for verifying transactions and adding new blocks to the blockchain, and they are rewarded with cryptocurrency for their efforts.<br><br>For more info, see Attestation in Ethereum.'",
     "locales": {
       "Consensys' Definition": "Attestation in crypto refers to the process of verifying the authenticity or validity of a piece of information or a transaction on a blockchain network. Attestation is an important aspect of blockchain technology, as it helps to ensure the integrity and security of the network.\n\nIn general, attestation involves a trusted third-party, or attester, verifying the authenticity of a transaction or piece of information. This can include verifying the identity of users on the network, verifying the accuracy of data, or validating the authenticity of a digital signature.\n\nOne example of attestation in crypto is the use of digital signatures to authenticate transactions on a blockchain network. Digital signatures use public key cryptography to verify the identity of the sender and ensure that the transaction has not been tampered with.\n\nAnother example of attestation in crypto is the use of Proof of Stake (PoS) consensus mechanisms, which rely on validators to attest to the validity of transactions on the network. Validators are responsible for verifying transactions and adding new blocks to the blockchain, and they are rewarded with cryptocurrency for their efforts.\n\nFor more info, see Attestation in Ethereum.",
       "Simplified Chinese": "证明",
@@ -898,7 +898,7 @@ const glossary = {
   "Avalanche": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Avalanche is a decentralized blockchain platform designed to provide fast and secure transactions for digital assets and applications. The platform uses a consensus mechanism known as Avalanche consensus, which allows for high throughput, low latency, and customizable blockchains.'",
+    "definition": "'Avalanche is a decentralized blockchain platform designed to provide fast and secure transactions for digital assets and applications. The platform uses a consensus mechanism known as Avalanche consensus, which allows for high throughput, low latency, and customizable blockchains.'",
     "locales": {
       "Consensys' Definition": "Avalanche is a decentralized blockchain platform designed to provide fast and secure transactions for digital assets and applications. The platform uses a consensus mechanism known as Avalanche consensus, which allows for high throughput, low latency, and customizable blockchains.",
       "Simplified Chinese": "Avalanche",
@@ -930,7 +930,7 @@ const glossary = {
   "Axie Infinity": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Axie Infinity is a non-fungible token-based online video game known for its in-game economy, which uses Ethereum-based cryptocurrencies.'",
+    "definition": "'Axie Infinity is a non-fungible token-based online video game known for its in-game economy, which uses Ethereum-based cryptocurrencies.'",
     "locales": {
       "Consensys' Definition": "Axie Infinity is a non-fungible token-based online video game known for its in-game economy, which uses Ethereum-based cryptocurrencies.",
       "Simplified Chinese": "Axie Infinity",
@@ -962,7 +962,7 @@ const glossary = {
   "Base fee": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Every block has a reserve price known as the 'base fee'. It is the minimum gas fee a user must pay to include a transaction in the next block.'",
+    "definition": "'Every block has a reserve price known as the 'base fee'. It is the minimum gas fee a user must pay to include a transaction in the next block.'",
     "locales": {
       "Consensys' Definition": "Every block has a reserve price known as the 'base fee'. It is the minimum gas fee a user must pay to include a transaction in the next block.",
       "Simplified Chinese": "基础费用",
@@ -994,7 +994,7 @@ const glossary = {
   "Beacon Chain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Beacon Chain was one element built in the infrastructure being built to scale Ethereum. It was the foundation for a transition from a Proof of Work (PoW) consensus mechanism to Proof of Stake (PoS). For more information, see this guide.'",
+    "definition": "'The Beacon Chain was one element built in the infrastructure being built to scale Ethereum. It was the foundation for a transition from a Proof of Work (PoW) consensus mechanism to Proof of Stake (PoS). For more information, see this guide.'",
     "locales": {
       "Consensys' Definition": "The Beacon Chain was one element built in the infrastructure being built to scale Ethereum. It was the foundation for a transition from a Proof of Work (PoW) consensus mechanism to Proof of Stake (PoS). For more information, see this guide.",
       "Simplified Chinese": "信标链",
@@ -1026,7 +1026,7 @@ const glossary = {
   "Binance": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Binance is a centralized cryptocurrency exchange which operates in multiple countries, as well as two different blockchains, the BNB Chain and the BNB Smart Chain.'",
+    "definition": "'Binance is a centralized cryptocurrency exchange which operates in multiple countries, as well as two different blockchains, the BNB Chain and the BNB Smart Chain.'",
     "locales": {
       "Consensys' Definition": "Binance is a centralized cryptocurrency exchange which operates in multiple countries, as well as two different blockchains, the BNB Chain and the BNB Smart Chain.",
       "Simplified Chinese": "Binance",
@@ -1058,7 +1058,7 @@ const glossary = {
   "Bitcoin / bitcoin (BTC)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Bitcoin is a decentralized digital currency or cryptocurrency, which was created in 2009 by an unknown person or group using the name Satoshi Nakamoto. Bitcoin transactions are recorded on a public digital ledger called the blockchain, which is maintained by a network of computers worldwide. Bitcoin transactions are made directly between users without the need for intermediaries like banks or financial institutions. Users can send and receive Bitcoins using digital wallets.<br><br>One of the key features of Bitcoin is its limited supply. There will only ever be 21 million Bitcoins in existence, which helps to prevent inflation and maintain the value of the currency. The plural of bitcoin is just bitcoin; the abbreviation is BTC, with a space: I have 250 BTC.'",
+    "definition": "'Bitcoin is a decentralized digital currency or cryptocurrency, which was created in 2009 by an unknown person or group using the name Satoshi Nakamoto. Bitcoin transactions are recorded on a public digital ledger called the blockchain, which is maintained by a network of computers worldwide. Bitcoin transactions are made directly between users without the need for intermediaries like banks or financial institutions. Users can send and receive Bitcoins using digital wallets.<br><br>One of the key features of Bitcoin is its limited supply. There will only ever be 21 million Bitcoins in existence, which helps to prevent inflation and maintain the value of the currency. The plural of bitcoin is just bitcoin; the abbreviation is BTC, with a space: I have 250 BTC.'",
     "locales": {
       "Consensys' Definition": "Bitcoin is a decentralized digital currency or cryptocurrency, which was created in 2009 by an unknown person or group using the name Satoshi Nakamoto. Bitcoin transactions are recorded on a public digital ledger called the blockchain, which is maintained by a network of computers worldwide. Bitcoin transactions are made directly between users without the need for intermediaries like banks or financial institutions. Users can send and receive Bitcoins using digital wallets.\n\nOne of the key features of Bitcoin is its limited supply. There will only ever be 21 million Bitcoins in existence, which helps to prevent inflation and maintain the value of the currency. The plural of bitcoin is just bitcoin; the abbreviation is BTC, with a space: I have 250 BTC.",
       "Simplified Chinese": "比特币 / 比特币（BTC）",
@@ -1090,7 +1090,7 @@ const glossary = {
   "block (noun)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'If we think of a blockchain as consisting of a ledger that is being constantly synced between any number of different nodes (indeed, \"distributed ledger technology\" is another phrase used to describe it), imagine that after a certain number of transactions have been added to the ledger and consensus has been reached among the nodes that the transactions are valid, then they are cryptographically locked into a \"block\" and officially recorded; this \"block\" forms the basis for the next one; in this way, they are all linked together in a chain, hence--blockchain.'",
+    "definition": "'If we think of a blockchain as consisting of a ledger that is being constantly synced between any number of different nodes (indeed, \"distributed ledger technology\" is another phrase used to describe it), imagine that after a certain number of transactions have been added to the ledger and consensus has been reached among the nodes that the transactions are valid, then they are cryptographically locked into a \"block\" and officially recorded; this \"block\" forms the basis for the next one; in this way, they are all linked together in a chain, hence--blockchain.'",
     "locales": {
       "Consensys' Definition": "If we think of a blockchain as consisting of a ledger that is being constantly synced between any number of different nodes (indeed, \"distributed ledger technology\" is another phrase used to describe it), imagine that after a certain number of transactions have been added to the ledger and consensus has been reached among the nodes that the transactions are valid, then they are cryptographically locked into a \"block\" and officially recorded; this \"block\" forms the basis for the next one; in this way, they are all linked together in a chain, hence--blockchain.",
       "Simplified Chinese": "区块",
@@ -1122,7 +1122,7 @@ const glossary = {
   "block explorer": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.'",
+    "definition": "'A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.'",
     "locales": {
       "Consensys' Definition": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be “readable by anyone”, finding the specific information you’re interested in may require indexing data off the blockchain–that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
       "Simplified Chinese": "区块浏览器",
@@ -1154,7 +1154,7 @@ const glossary = {
   "block height": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The number of blocks connected together in the blockchain. For example, Height 0 would be the very first block, which is also called the Genesis Block.'",
+    "definition": "'The number of blocks connected together in the blockchain. For example, Height 0 would be the very first block, which is also called the Genesis Block.'",
     "locales": {
       "Consensys' Definition": "The number of blocks connected together in the blockchain. For example, Height 0 would be the very first block, which is also called the Genesis Block.",
       "Simplified Chinese": "区块高度",
@@ -1186,7 +1186,7 @@ const glossary = {
   "block reward": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The reward given to a miner or validator after it has successfully hashed a transaction block. Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.'",
+    "definition": "'The reward given to a miner or validator after it has successfully hashed a transaction block. Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.'",
     "locales": {
       "Consensys' Definition": "The reward given to a miner or validator after it has successfully hashed a transaction block. Block rewards can be a mixture of coins and transaction fees. The composition depends on the policy used by the cryptocurrency in question, and whether all of the coins have already been successfully mined. The current block reward for the Bitcoin network is 12.5 bitcoins per block.",
       "Simplified Chinese": "区块奖励",
@@ -1218,7 +1218,7 @@ const glossary = {
   "block time": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'When we talk about 'block time', we're referring to how long it takes for a block of transactions (see 'block') to be confirmed by the network, either by miners under PoW or by validators under PoS. See also 'Proof of Work', 'Proof of Stake'.'",
+    "definition": "'When we talk about 'block time', we're referring to how long it takes for a block of transactions (see 'block') to be confirmed by the network, either by miners under PoW or by validators under PoS. See also 'Proof of Work', 'Proof of Stake'.'",
     "locales": {
       "Consensys' Definition": "When we talk about 'block time', we're referring to how long it takes for a block of transactions (see 'block') to be confirmed by the network, either by miners under PoW or by validators under PoS. See also 'Proof of Work', 'Proof of Stake'.",
       "Simplified Chinese": "区块时间",
@@ -1250,7 +1250,7 @@ const glossary = {
   "blockchain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A digital ledger comprised of unchangeable, digitally recorded data in packages called blocks. Each block is ‘chained’ to the next block using a cryptographic signature. Ethereum is a public blockchain, open to the world; its digital ledger is distributed, or synced, between many nodes; these nodes arrive at consensus regarding whether a transaction is valid before encrypting it, along with a number of other valid transactions, into a block. For more on blockchain technology, see here. See also 'block'.'",
+    "definition": "'A digital ledger comprised of unchangeable, digitally recorded data in packages called blocks. Each block is ‘chained’ to the next block using a cryptographic signature. Ethereum is a public blockchain, open to the world; its digital ledger is distributed, or synced, between many nodes; these nodes arrive at consensus regarding whether a transaction is valid before encrypting it, along with a number of other valid transactions, into a block. For more on blockchain technology, see here. See also 'block'.'",
     "locales": {
       "Consensys' Definition": "A digital ledger comprised of unchangeable, digitally recorded data in packages called blocks. Each block is ‘chained’ to the next block using a cryptographic signature. Ethereum is a public blockchain, open to the world; its digital ledger is distributed, or synced, between many nodes; these nodes arrive at consensus regarding whether a transaction is valid before encrypting it, along with a number of other valid transactions, into a block. For more on blockchain technology, see here. See also 'block'.",
       "Simplified Chinese": "区块链",
@@ -1282,7 +1282,7 @@ const glossary = {
   "Blockchain explorer": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be \"readable by anyone\", finding the specific information you're interested in may require indexing data off the blockchain--that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.'",
+    "definition": "'A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be \"readable by anyone\", finding the specific information you're interested in may require indexing data off the blockchain--that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.'",
     "locales": {
       "Consensys' Definition": "A blockchain explorer is an application, most often a website along with a corresponding API, that displays information about blockchain activity in a more human-friendly way. While a blockchain is designed to keep information forever, and be \"readable by anyone\", finding the specific information you're interested in may require indexing data off the blockchain--that is, sorting it according to given categories (sender address, token type, etc) into a separate database which can then be queried by the user; this essential function is provided by blockchain explorers. A prominent example is etherscan, which also offers explorers on a number of other networks.",
       "Simplified Chinese": "区块链浏览器",
@@ -1314,7 +1314,7 @@ const glossary = {
   "blockchain trilemma": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Tradeoffs facing those building public blockchain networks vis-a-vis three elements: decentralization, security, and scalability (or speed). These three elements are either necessary or desireable in public distributed networks, and often, designing a system that optimizes for one compromises on another.'",
+    "definition": "'Tradeoffs facing those building public blockchain networks vis-a-vis three elements: decentralization, security, and scalability (or speed). These three elements are either necessary or desireable in public distributed networks, and often, designing a system that optimizes for one compromises on another.'",
     "locales": {
       "Consensys' Definition": "Tradeoffs facing those building public blockchain networks vis-a-vis three elements: decentralization, security, and scalability (or speed). These three elements are either necessary or desireable in public distributed networks, and often, designing a system that optimizes for one compromises on another.",
       "Simplified Chinese": "区块链不可能三角",
@@ -1346,7 +1346,7 @@ const glossary = {
   "BNB Chain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Build N Build (BNB) Chain is a distributed blockchain network upon which developers and innovators can build decentralized applications (DApps) as part of the move to Web3. BNB chain'",
+    "definition": "'Build N Build (BNB) Chain is a distributed blockchain network upon which developers and innovators can build decentralized applications (DApps) as part of the move to Web3. BNB chain'",
     "locales": {
       "Consensys' Definition": "Build N Build (BNB) Chain is a distributed blockchain network upon which developers and innovators can build decentralized applications (DApps) as part of the move to Web3. BNB chain",
       "Simplified Chinese": "BNB Chain",
@@ -1378,7 +1378,7 @@ const glossary = {
   "bounty / bug bounty": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A reward offered for exposing vulnerabilities and issues in computer code.'",
+    "definition": "'A reward offered for exposing vulnerabilities and issues in computer code.'",
     "locales": {
       "Consensys' Definition": "A reward offered for exposing vulnerabilities and issues in computer code.",
       "Simplified Chinese": "赏金 / 漏洞赏金",
@@ -1410,7 +1410,7 @@ const glossary = {
   "brain wallet": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A blockchain account generated from a seed phrase or password or passphrase of your choosing. Humans are not capable of generating enough entropy, or randomness, and therefore the wallets derived from these phrases are insecure; brain wallets can be brute forced by super fast computers. For this reason, brain wallet are insecure and should not be used. See also 'Seed phrase / Secret Recovery Phrase'.'",
+    "definition": "'A blockchain account generated from a seed phrase or password or passphrase of your choosing. Humans are not capable of generating enough entropy, or randomness, and therefore the wallets derived from these phrases are insecure; brain wallets can be brute forced by super fast computers. For this reason, brain wallet are insecure and should not be used. See also 'Seed phrase / Secret Recovery Phrase'.'",
     "locales": {
       "Consensys' Definition": "A blockchain account generated from a seed phrase or password or passphrase of your choosing. Humans are not capable of generating enough entropy, or randomness, and therefore the wallets derived from these phrases are insecure; brain wallets can be brute forced by super fast computers. For this reason, brain wallet are insecure and should not be used. See also 'Seed phrase / Secret Recovery Phrase'.",
       "Simplified Chinese": "脑钱包",
@@ -1442,7 +1442,7 @@ const glossary = {
   "Brave": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Brave is a free and open-source web browser developed by Brave Software, Inc., based on the Chromium web browser. It has a built-in crypto wallet that allows users to connect to the web3 ecosystem.'",
+    "definition": "'Brave is a free and open-source web browser developed by Brave Software, Inc., based on the Chromium web browser. It has a built-in crypto wallet that allows users to connect to the web3 ecosystem.'",
     "locales": {
       "Consensys' Definition": "Brave is a free and open-source web browser developed by Brave Software, Inc., based on the Chromium web browser. It has a built-in crypto wallet that allows users to connect to the web3 ecosystem.",
       "Simplified Chinese": "Brave",
@@ -1474,7 +1474,7 @@ const glossary = {
   "Bridge": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A bridge is a tool built to move assets from one network to another. It’s also a verb, used to describe that action: “I bridged my ETH from Ethereum mainnet to Arbitrum.” Not all bridges are created equal, and you should be informed about what you’re doing before you use one. <br>Field Guide to bridges <br><br>See also MetaMask Bridge'",
+    "definition": "'A bridge is a tool built to move assets from one network to another. It’s also a verb, used to describe that action: “I bridged my ETH from Ethereum mainnet to Arbitrum.” Not all bridges are created equal, and you should be informed about what you’re doing before you use one. <br>Field Guide to bridges <br><br>See also MetaMask Bridge'",
     "locales": {
       "Consensys' Definition": "A bridge is a tool built to move assets from one network to another. It’s also a verb, used to describe that action: “I bridged my ETH from Ethereum mainnet to Arbitrum.” Not all bridges are created equal, and you should be informed about what you’re doing before you use one. \nField Guide to bridges \n\nSee also MetaMask Bridge",
       "Simplified Chinese": "跨链桥",
@@ -1506,7 +1506,7 @@ const glossary = {
   "BTC": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Abbreviation for Bitcoin'",
+    "definition": "'Abbreviation for Bitcoin'",
     "locales": {
       "Consensys' Definition": "Abbreviation for Bitcoin",
       "Simplified Chinese": "BTC",
@@ -1538,7 +1538,7 @@ const glossary = {
   "BUIDL": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Ostensibly coined (see what we did there) by Gitcoin's Kevin Owocki. It reflects the Ethereum-focused mindset of not just investing in a cryptocurrency as a store of value, but rather investing in it as an ecosystem and a platform for public goods and software; it complements, in this sense, the now-infamous HODL.'",
+    "definition": "'Ostensibly coined (see what we did there) by Gitcoin's Kevin Owocki. It reflects the Ethereum-focused mindset of not just investing in a cryptocurrency as a store of value, but rather investing in it as an ecosystem and a platform for public goods and software; it complements, in this sense, the now-infamous HODL.'",
     "locales": {
       "Consensys' Definition": "Ostensibly coined (see what we did there) by Gitcoin's Kevin Owocki. It reflects the Ethereum-focused mindset of not just investing in a cryptocurrency as a store of value, but rather investing in it as an ecosystem and a platform for public goods and software; it complements, in this sense, the now-infamous HODL.",
       "Simplified Chinese": "BUIDL（构建）",
@@ -1570,7 +1570,7 @@ const glossary = {
   "bytecode": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Bytecode is a \"low-level\" computer language, that is, meant to be processed by a computer, rather than a \"high-level\", more human-readable, language. In Ethereum, higher-level Solidity is compiled into Ethereum bytecode, which is read by the Ethereum Virtual Machine (EVM).'",
+    "definition": "'Bytecode is a \"low-level\" computer language, that is, meant to be processed by a computer, rather than a \"high-level\", more human-readable, language. In Ethereum, higher-level Solidity is compiled into Ethereum bytecode, which is read by the Ethereum Virtual Machine (EVM).'",
     "locales": {
       "Consensys' Definition": "Bytecode is a \"low-level\" computer language, that is, meant to be processed by a computer, rather than a \"high-level\", more human-readable, language. In Ethereum, higher-level Solidity is compiled into Ethereum bytecode, which is read by the Ethereum Virtual Machine (EVM).",
       "Simplified Chinese": "字节码",
@@ -1602,7 +1602,7 @@ const glossary = {
   "Byzantine fault tolerance": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A Byzantine fault, or failure, is one of the most difficult failures to deal with in computer systems; this is because it takes into account the possibility that the information used to determine the current state of the system may--or may not--be reliable. While applicable in many realms of technology, this becomes of particular interest in public blockchain systems: how do we ensure that we can agree on the current state of the network when there is an incentive, often a significant financial incentive, to subvert the state of the network for one's own profit? On a more basic level, if we're coordinating a network running around the world on all kinds of different hardware and software, there are all kinds or problems that can occur that hinder the network's ability to reach consensus on its current state. Therefore, a network that has been designed and implemented to be resistant to these sorts of failures, either due to malicious intent or technical failure, is said to be Byzantine Fault Tolerant.'",
+    "definition": "'A Byzantine fault, or failure, is one of the most difficult failures to deal with in computer systems; this is because it takes into account the possibility that the information used to determine the current state of the system may--or may not--be reliable. While applicable in many realms of technology, this becomes of particular interest in public blockchain systems: how do we ensure that we can agree on the current state of the network when there is an incentive, often a significant financial incentive, to subvert the state of the network for one's own profit? On a more basic level, if we're coordinating a network running around the world on all kinds of different hardware and software, there are all kinds or problems that can occur that hinder the network's ability to reach consensus on its current state. Therefore, a network that has been designed and implemented to be resistant to these sorts of failures, either due to malicious intent or technical failure, is said to be Byzantine Fault Tolerant.'",
     "locales": {
       "Consensys' Definition": "A Byzantine fault, or failure, is one of the most difficult failures to deal with in computer systems; this is because it takes into account the possibility that the information used to determine the current state of the system may--or may not--be reliable. While applicable in many realms of technology, this becomes of particular interest in public blockchain systems: how do we ensure that we can agree on the current state of the network when there is an incentive, often a significant financial incentive, to subvert the state of the network for one's own profit? On a more basic level, if we're coordinating a network running around the world on all kinds of different hardware and software, there are all kinds or problems that can occur that hinder the network's ability to reach consensus on its current state. Therefore, a network that has been designed and implemented to be resistant to these sorts of failures, either due to malicious intent or technical failure, is said to be Byzantine Fault Tolerant.",
       "Simplified Chinese": "拜占庭容错",
@@ -1634,7 +1634,7 @@ const glossary = {
   "Byzantium fork": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A \"hard fork\" in the Ethereum network that occurred in October of 2017. For detailled information, see here; see also \"hard fork\".'",
+    "definition": "'A \"hard fork\" in the Ethereum network that occurred in October of 2017. For detailled information, see here; see also \"hard fork\".'",
     "locales": {
       "Consensys' Definition": "A \"hard fork\" in the Ethereum network that occurred in October of 2017. For detailled information, see here; see also \"hard fork\".",
       "Simplified Chinese": "拜占庭分叉",
@@ -1666,7 +1666,7 @@ const glossary = {
   "Celo": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Celo is a platform designed to allow mobile users around the world to make simple financial transactions with cryptocurrency. The platform has its own blockchain and two native tokens: CELO and cUSD'",
+    "definition": "'Celo is a platform designed to allow mobile users around the world to make simple financial transactions with cryptocurrency. The platform has its own blockchain and two native tokens: CELO and cUSD'",
     "locales": {
       "Consensys' Definition": "Celo is a platform designed to allow mobile users around the world to make simple financial transactions with cryptocurrency. The platform has its own blockchain and two native tokens: CELO and cUSD",
       "Simplified Chinese": "Celo",
@@ -1698,7 +1698,7 @@ const glossary = {
   "Centralized exchange (CEX)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users.<br>Centralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.<br>However, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.'",
+    "definition": "'A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users.<br>Centralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.<br>However, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.'",
     "locales": {
       "Consensys' Definition": "A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users.\nCentralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.\nHowever, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.",
       "Simplified Chinese": "中心化交易所（CEX）",
@@ -1730,7 +1730,7 @@ const glossary = {
   "CEX": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronym; see 'Centralized Exchange'.'",
+    "definition": "'Acronym; see 'Centralized Exchange'.'",
     "locales": {
       "Consensys' Definition": "Acronym; see 'Centralized Exchange'.",
       "Simplified Chinese": "CEX（中心化交易所）",
@@ -1762,7 +1762,7 @@ const glossary = {
   "chain ID": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A chain ID is a unique identifier that represents a blockchain network. We use it to distinguish different blockchain networks from each other and to ensure that transactions and messages are sent to the correct network.<br>Ethereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses.<br><br>Peer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID'",
+    "definition": "'A chain ID is a unique identifier that represents a blockchain network. We use it to distinguish different blockchain networks from each other and to ensure that transactions and messages are sent to the correct network.<br>Ethereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses.<br><br>Peer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID'",
     "locales": {
       "Consensys' Definition": "A chain ID is a unique identifier that represents a blockchain network. We use it to distinguish different blockchain networks from each other and to ensure that transactions and messages are sent to the correct network.\nEthereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses.\n\nPeer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID",
       "Simplified Chinese": "链 ID",
@@ -1794,7 +1794,7 @@ const glossary = {
   "Chrome": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Internet browser.'",
+    "definition": "'Internet browser.'",
     "locales": {
       "Consensys' Definition": "Internet browser.",
       "Simplified Chinese": "Chrome",
@@ -1826,7 +1826,7 @@ const glossary = {
   "client (Ethereum or other compatible blockchain)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In computing in general, a 'client' is a program, running on a local computer, that is accessing data made available by a remote computer. In public blockchain networks, a 'client' is the software that actually does the work of syncing block data, confirming transactions, and participating in network consensus. A client usually includes a cryptocurrency software wallet. ConsenSys has supported efforts to maintain the Ethereum clients of Besu and Teku; see an up-to-date list of Ethereum clients here.'",
+    "definition": "'In computing in general, a 'client' is a program, running on a local computer, that is accessing data made available by a remote computer. In public blockchain networks, a 'client' is the software that actually does the work of syncing block data, confirming transactions, and participating in network consensus. A client usually includes a cryptocurrency software wallet. ConsenSys has supported efforts to maintain the Ethereum clients of Besu and Teku; see an up-to-date list of Ethereum clients here.'",
     "locales": {
       "Consensys' Definition": "In computing in general, a 'client' is a program, running on a local computer, that is accessing data made available by a remote computer. In public blockchain networks, a 'client' is the software that actually does the work of syncing block data, confirming transactions, and participating in network consensus. A client usually includes a cryptocurrency software wallet. ConsenSys has supported efforts to maintain the Ethereum clients of Besu and Teku; see an up-to-date list of Ethereum clients here.",
       "Simplified Chinese": "客户端（Ethereum 或其他兼容区块链）",
@@ -1858,7 +1858,7 @@ const glossary = {
   "Codefi": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Derived from “Commerce & Decentralized Finance”, Codefi, part of ConsenSys, builds applications for commerce and financial use cases. Currently known as Consensys Staking'",
+    "definition": "'Derived from “Commerce & Decentralized Finance”, Codefi, part of ConsenSys, builds applications for commerce and financial use cases. Currently known as Consensys Staking'",
     "locales": {
       "Consensys' Definition": "Derived from “Commerce & Decentralized Finance”, Codefi, part of ConsenSys, builds applications for commerce and financial use cases. Currently known as Consensys Staking",
       "Simplified Chinese": "Codefi",
@@ -1890,7 +1890,7 @@ const glossary = {
   "coin": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The term 'coin' has some nuances. Strictly speaking, a 'coin' could be defined as: A fungible token (all of them identical) issued on a blockchain, either as the network's transactional token, or through a smart contract deployed to that network. Some people may use 'coins' as shorthand for 'bitcoin'; the immortal aphorism 'not your keys, not your coins' refers to bitcoins. Another thing to keep in mind is that, while coins are put forward as some sort of representation of value, that value can vary wildly from one 'coin' to another. A coin may represent the value of the computational resources of the network, or it may be 'pegged' to represent fiat currency value, or it may float according to the value placed on immaterial resources like NFTs, membership, or digital goods, to name a few.'",
+    "definition": "'The term 'coin' has some nuances. Strictly speaking, a 'coin' could be defined as: A fungible token (all of them identical) issued on a blockchain, either as the network's transactional token, or through a smart contract deployed to that network. Some people may use 'coins' as shorthand for 'bitcoin'; the immortal aphorism 'not your keys, not your coins' refers to bitcoins. Another thing to keep in mind is that, while coins are put forward as some sort of representation of value, that value can vary wildly from one 'coin' to another. A coin may represent the value of the computational resources of the network, or it may be 'pegged' to represent fiat currency value, or it may float according to the value placed on immaterial resources like NFTs, membership, or digital goods, to name a few.'",
     "locales": {
       "Consensys' Definition": "The term 'coin' has some nuances. Strictly speaking, a 'coin' could be defined as: A fungible token (all of them identical) issued on a blockchain, either as the network's transactional token, or through a smart contract deployed to that network. Some people may use 'coins' as shorthand for 'bitcoin'; the immortal aphorism 'not your keys, not your coins' refers to bitcoins. Another thing to keep in mind is that, while coins are put forward as some sort of representation of value, that value can vary wildly from one 'coin' to another. A coin may represent the value of the computational resources of the network, or it may be 'pegged' to represent fiat currency value, or it may float according to the value placed on immaterial resources like NFTs, membership, or digital goods, to name a few.",
       "Simplified Chinese": "代币",
@@ -1922,7 +1922,7 @@ const glossary = {
   "Coinbase Pay": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Coinbase Pay is a payment feature that allows you to buy or transfer supported crypto on Coinbase.com directly from self-custody wallets (like MetaMask) and dapps.'",
+    "definition": "'Coinbase Pay is a payment feature that allows you to buy or transfer supported crypto on Coinbase.com directly from self-custody wallets (like MetaMask) and dapps.'",
     "locales": {
       "Consensys' Definition": "Coinbase Pay is a payment feature that allows you to buy or transfer supported crypto on Coinbase.com directly from self-custody wallets (like MetaMask) and dapps.",
       "Simplified Chinese": "Coinbase Pay",
@@ -1954,7 +1954,7 @@ const glossary = {
   "cold storage": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'cold wallet/cold storage: An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub:<br>Hardware Wallet Hub'",
+    "definition": "'cold wallet/cold storage: An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub:<br>Hardware Wallet Hub'",
     "locales": {
       "Consensys' Definition": "cold wallet/cold storage: An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub:\nHardware Wallet Hub",
       "Simplified Chinese": "冷存储",
@@ -1986,7 +1986,7 @@ const glossary = {
   "cold wallet / cold storage": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub.'",
+    "definition": "'An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub.'",
     "locales": {
       "Consensys' Definition": "An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub.",
       "Simplified Chinese": "冷钱包 / 冷存储",
@@ -2018,7 +2018,7 @@ const glossary = {
   "Community Platform": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A community platform is a dedicated virtual space where people who share the same goals, interests, or motivations can connect and build relationships.<br><br>MetaMask's community platform can be accessed here:<br>MetaMask Community'",
+    "definition": "'A community platform is a dedicated virtual space where people who share the same goals, interests, or motivations can connect and build relationships.<br><br>MetaMask's community platform can be accessed here:<br>MetaMask Community'",
     "locales": {
       "Consensys' Definition": "A community platform is a dedicated virtual space where people who share the same goals, interests, or motivations can connect and build relationships.\n\nMetaMask's community platform can be accessed here:\nMetaMask Community",
       "Simplified Chinese": "社区平台",
@@ -2050,7 +2050,7 @@ const glossary = {
   "Compiling": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'There are many languages in computing and software programming. In general, 'low-level' languages are those actually processed by the computer's operating system or processor, while 'high-level' languages are those typed in by software developers making programs. Compiling, then, is converting code written in a high-level programming language (e.g., Solidity) into a lower-level language (e.g., EVM bytecode).'",
+    "definition": "'There are many languages in computing and software programming. In general, 'low-level' languages are those actually processed by the computer's operating system or processor, while 'high-level' languages are those typed in by software developers making programs. Compiling, then, is converting code written in a high-level programming language (e.g., Solidity) into a lower-level language (e.g., EVM bytecode).'",
     "locales": {
       "Consensys' Definition": "There are many languages in computing and software programming. In general, 'low-level' languages are those actually processed by the computer's operating system or processor, while 'high-level' languages are those typed in by software developers making programs. Compiling, then, is converting code written in a high-level programming language (e.g., Solidity) into a lower-level language (e.g., EVM bytecode).",
       "Simplified Chinese": "编译",
@@ -2082,7 +2082,7 @@ const glossary = {
   "Compound": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Compound is a decentralized, blockchain-based protocol that allows you to lend and borrow crypto — and have a say in its governance with its native COMP token.'",
+    "definition": "'Compound is a decentralized, blockchain-based protocol that allows you to lend and borrow crypto — and have a say in its governance with its native COMP token.'",
     "locales": {
       "Consensys' Definition": "Compound is a decentralized, blockchain-based protocol that allows you to lend and borrow crypto — and have a say in its governance with its native COMP token.",
       "Simplified Chinese": "Compound",
@@ -2114,7 +2114,7 @@ const glossary = {
   "confirmation": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A confirmation happens when a network has verified a blockchain transaction. Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed, it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.'",
+    "definition": "'A confirmation happens when a network has verified a blockchain transaction. Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed, it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.'",
     "locales": {
       "Consensys' Definition": "A confirmation happens when a network has verified a blockchain transaction. Under a Proof of Work (PoW) consensus mechanism, this happens through a process known as mining; under Proof of Stake (PoS), the process is known as validation. Once a transaction is successfully confirmed, it theoretically cannot be reversed or double spent. The more confirmations a transaction has, the harder it becomes to perform a double spend attack.",
       "Simplified Chinese": "确认",
@@ -2146,7 +2146,7 @@ const glossary = {
   "consensus": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The process used by a group of peers, or nodes, on a blockchain network to agree on the validity of transactions submitted to the network. Dominant consensus mechanisms are Proof of Work (PoW) and Proof of Stake (PoS).'",
+    "definition": "'The process used by a group of peers, or nodes, on a blockchain network to agree on the validity of transactions submitted to the network. Dominant consensus mechanisms are Proof of Work (PoW) and Proof of Stake (PoS).'",
     "locales": {
       "Consensys' Definition": "The process used by a group of peers, or nodes, on a blockchain network to agree on the validity of transactions submitted to the network. Dominant consensus mechanisms are Proof of Work (PoW) and Proof of Stake (PoS).",
       "Simplified Chinese": "共识",
@@ -2178,7 +2178,7 @@ const glossary = {
   "Consensus client": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A consensus client is a component of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger.<br><br>There are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.'",
+    "definition": "'A consensus client is a component of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger.<br><br>There are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.'",
     "locales": {
       "Consensys' Definition": "A consensus client is a component of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger.\n\nThere are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.",
       "Simplified Chinese": "共识客户端",
@@ -2210,7 +2210,7 @@ const glossary = {
   "Consensus layer": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The consensus layer is responsible for validating and verifying transactions and blocks, and for coordinating communication between nodes to achieve consensus. In a blockchain network, the consensus layer is implemented by the consensus protocol or algorithm that defines how new blocks are added to the chain and how the network reaches agreement on the current state of the ledger.'",
+    "definition": "'The consensus layer is responsible for validating and verifying transactions and blocks, and for coordinating communication between nodes to achieve consensus. In a blockchain network, the consensus layer is implemented by the consensus protocol or algorithm that defines how new blocks are added to the chain and how the network reaches agreement on the current state of the ledger.'",
     "locales": {
       "Consensys' Definition": "The consensus layer is responsible for validating and verifying transactions and blocks, and for coordinating communication between nodes to achieve consensus. In a blockchain network, the consensus layer is implemented by the consensus protocol or algorithm that defines how new blocks are added to the chain and how the network reaches agreement on the current state of the ledger.",
       "Simplified Chinese": "共识层",
@@ -2242,7 +2242,7 @@ const glossary = {
   "Consensus mechanism": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Consensus mechanisms (also known as consensus protocols or consensus algorithms) allow distributed systems (networks of computers) to work together and stay secure.'",
+    "definition": "'Consensus mechanisms (also known as consensus protocols or consensus algorithms) allow distributed systems (networks of computers) to work together and stay secure.'",
     "locales": {
       "Consensys' Definition": "Consensus mechanisms (also known as consensus protocols or consensus algorithms) allow distributed systems (networks of computers) to work together and stay secure.",
       "Simplified Chinese": "共识机制",
@@ -2274,7 +2274,7 @@ const glossary = {
   "Consensys": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Short for Consensus Systems, ConsenSys is the software engineering leader of the blockchain space.'",
+    "definition": "'Short for Consensus Systems, ConsenSys is the software engineering leader of the blockchain space.'",
     "locales": {
       "Consensys' Definition": "Short for Consensus Systems, ConsenSys is the software engineering leader of the blockchain space.",
       "Simplified Chinese": "Consensys",
@@ -2306,7 +2306,7 @@ const glossary = {
   "Constantinople fork": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'One of the \"hard forks\" made to the Ethereum network, in February 2019. For more detailed information, see here; see also \"hard fork\".'",
+    "definition": "'One of the \"hard forks\" made to the Ethereum network, in February 2019. For more detailed information, see here; see also \"hard fork\".'",
     "locales": {
       "Consensys' Definition": "One of the \"hard forks\" made to the Ethereum network, in February 2019. For more detailed information, see here; see also \"hard fork\".",
       "Simplified Chinese": "君士坦丁堡分叉",
@@ -2338,7 +2338,7 @@ const glossary = {
   "contract": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'See smart contract'",
+    "definition": "'See smart contract'",
     "locales": {
       "Consensys' Definition": "See smart contract",
       "Simplified Chinese": "合约",
@@ -2370,7 +2370,7 @@ const glossary = {
   "Contract account": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An account containing code that executes whenever it receives a transaction from another account (EOA or contract).'",
+    "definition": "'An account containing code that executes whenever it receives a transaction from another account (EOA or contract).'",
     "locales": {
       "Consensys' Definition": "An account containing code that executes whenever it receives a transaction from another account (EOA or contract).",
       "Simplified Chinese": "合约账户",
@@ -2402,7 +2402,7 @@ const glossary = {
   "CoolWallet": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A crypto hardware wallet for Bitcoin, Ethereum, Litecoin, Bitcoin Cash, and ERC20 Token.'",
+    "definition": "'A crypto hardware wallet for Bitcoin, Ethereum, Litecoin, Bitcoin Cash, and ERC20 Token.'",
     "locales": {
       "Consensys' Definition": "A crypto hardware wallet for Bitcoin, Ethereum, Litecoin, Bitcoin Cash, and ERC20 Token.",
       "Simplified Chinese": "CoolWallet",
@@ -2434,7 +2434,7 @@ const glossary = {
   "crypto asset": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.'",
+    "definition": "'A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.'",
     "locales": {
       "Consensys' Definition": "A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.",
       "Simplified Chinese": "加密货币资产",
@@ -2466,7 +2466,7 @@ const glossary = {
   "crypto bounties": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Crypto bounties are an important rewards mechanism that blockchain projects utilize in order to secure the successful accomplishments of certain tasks required by the network. Initially, bounties were intended as a marketing tool to attract users to participate in performing validation services for blockchain projects. Today, crypto bounties have developed significantly beyond the purpose of a simple marketing tool. crypto bounties'",
+    "definition": "'Crypto bounties are an important rewards mechanism that blockchain projects utilize in order to secure the successful accomplishments of certain tasks required by the network. Initially, bounties were intended as a marketing tool to attract users to participate in performing validation services for blockchain projects. Today, crypto bounties have developed significantly beyond the purpose of a simple marketing tool. crypto bounties'",
     "locales": {
       "Consensys' Definition": "Crypto bounties are an important rewards mechanism that blockchain projects utilize in order to secure the successful accomplishments of certain tasks required by the network. Initially, bounties were intended as a marketing tool to attract users to participate in performing validation services for blockchain projects. Today, crypto bounties have developed significantly beyond the purpose of a simple marketing tool. crypto bounties",
       "Simplified Chinese": "加密货币赏金",
@@ -2498,7 +2498,7 @@ const glossary = {
   "crypto fund": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A crypto fund is a type of investment fund that focuses on investing in cryptocurrencies or companies involved in the cryptocurrency industry. These funds are designed to give investors exposure to the crypto market without the need for them to directly buy and hold cryptocurrencies themselves.'",
+    "definition": "'A crypto fund is a type of investment fund that focuses on investing in cryptocurrencies or companies involved in the cryptocurrency industry. These funds are designed to give investors exposure to the crypto market without the need for them to directly buy and hold cryptocurrencies themselves.'",
     "locales": {
       "Consensys' Definition": "A crypto fund is a type of investment fund that focuses on investing in cryptocurrencies or companies involved in the cryptocurrency industry. These funds are designed to give investors exposure to the crypto market without the need for them to directly buy and hold cryptocurrencies themselves.",
       "Simplified Chinese": "加密货币基金",
@@ -2530,7 +2530,7 @@ const glossary = {
   "crypto wallet": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A crypto wallet is a device, physical medium, program or a service which stores the public and/or private keys for cryptocurrency transactions.<br>Crypto wallets come in different forms, including software wallets, hardware wallets, and paper wallets.'",
+    "definition": "'A crypto wallet is a device, physical medium, program or a service which stores the public and/or private keys for cryptocurrency transactions.<br>Crypto wallets come in different forms, including software wallets, hardware wallets, and paper wallets.'",
     "locales": {
       "Consensys' Definition": "A crypto wallet is a device, physical medium, program or a service which stores the public and/or private keys for cryptocurrency transactions.\nCrypto wallets come in different forms, including software wallets, hardware wallets, and paper wallets.",
       "Simplified Chinese": "加密货币钱包",
@@ -2562,7 +2562,7 @@ const glossary = {
   "crypto-": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Even though this prefix is originally Greek, our current usage comes from cryptography. Technologies that are referred to with the blanket term of \"crypto\" tech are underlain by cryptographic tools and processes (such as public/private key pairs) that enable innovative functionality and security. Of course, \"cryptocurrency\" often gets shortened to simply \"crypto\", so this emerging field is full of instances where something \"crypto\" is being added to or shortened. With the emergence of the term \"Web3\", arguably a distinction has begun to be made between \"crypto\", referring to DeFi and other financial use cases of the technology, while \"Web3\" refers to the transition of Internet-based activities to more decentralized practices and platforms.'",
+    "definition": "'Even though this prefix is originally Greek, our current usage comes from cryptography. Technologies that are referred to with the blanket term of \"crypto\" tech are underlain by cryptographic tools and processes (such as public/private key pairs) that enable innovative functionality and security. Of course, \"cryptocurrency\" often gets shortened to simply \"crypto\", so this emerging field is full of instances where something \"crypto\" is being added to or shortened. With the emergence of the term \"Web3\", arguably a distinction has begun to be made between \"crypto\", referring to DeFi and other financial use cases of the technology, while \"Web3\" refers to the transition of Internet-based activities to more decentralized practices and platforms.'",
     "locales": {
       "Consensys' Definition": "Even though this prefix is originally Greek, our current usage comes from cryptography. Technologies that are referred to with the blanket term of \"crypto\" tech are underlain by cryptographic tools and processes (such as public/private key pairs) that enable innovative functionality and security. Of course, \"cryptocurrency\" often gets shortened to simply \"crypto\", so this emerging field is full of instances where something \"crypto\" is being added to or shortened. With the emergence of the term \"Web3\", arguably a distinction has begun to be made between \"crypto\", referring to DeFi and other financial use cases of the technology, while \"Web3\" refers to the transition of Internet-based activities to more decentralized practices and platforms.",
       "Simplified Chinese": "加密-",
@@ -2594,7 +2594,7 @@ const glossary = {
   "crypto-compliance": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A blanket term used to refer to ensuring crypto projects conform with applicable regulations and laws.'",
+    "definition": "'A blanket term used to refer to ensuring crypto projects conform with applicable regulations and laws.'",
     "locales": {
       "Consensys' Definition": "A blanket term used to refer to ensuring crypto projects conform with applicable regulations and laws.",
       "Simplified Chinese": "加密-合规",
@@ -2626,7 +2626,7 @@ const glossary = {
   "cryptoassets": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.'",
+    "definition": "'A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.'",
     "locales": {
       "Consensys' Definition": "A useful blanket term that covers on-chain assets: cryptocurrencies, NFTs, and other, still emerging, products.",
       "Simplified Chinese": "加密资产",
@@ -2658,7 +2658,7 @@ const glossary = {
   "cryptocurrency": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Digital currency that is based on mathematics and uses encryption techniques to regulate the creation of units of currency as well as verifying the transfer of funds. Cryptocurrencies operate independently of a central bank, and are kept track of through distributed ledger technology.'",
+    "definition": "'Digital currency that is based on mathematics and uses encryption techniques to regulate the creation of units of currency as well as verifying the transfer of funds. Cryptocurrencies operate independently of a central bank, and are kept track of through distributed ledger technology.'",
     "locales": {
       "Consensys' Definition": "Digital currency that is based on mathematics and uses encryption techniques to regulate the creation of units of currency as well as verifying the transfer of funds. Cryptocurrencies operate independently of a central bank, and are kept track of through distributed ledger technology.",
       "Simplified Chinese": "加密货币",
@@ -2690,7 +2690,7 @@ const glossary = {
   "cryptoeconomics": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The economic analysis of decentralized finance; notably, the MIT Cryptoeconomics Lab.'",
+    "definition": "'The economic analysis of decentralized finance; notably, the MIT Cryptoeconomics Lab.'",
     "locales": {
       "Consensys' Definition": "The economic analysis of decentralized finance; notably, the MIT Cryptoeconomics Lab.",
       "Simplified Chinese": "加密经济",
@@ -2722,7 +2722,7 @@ const glossary = {
   "cryptography": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In its broadest sense, cryptography is the art of 'hidden writing' -- using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks. Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.'",
+    "definition": "'In its broadest sense, cryptography is the art of 'hidden writing' -- using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks. Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.'",
     "locales": {
       "Consensys' Definition": "In its broadest sense, cryptography is the art of 'hidden writing' -- using some sort of code to encrypt writing. In modern times, it often refers to the application of this concept within computing, communication, and data transfer through computers and computer networks. Cryptography has been protected as free speech in the United States, and provides the technological foundation that allows blockchain networks to be public: despite the ledger being open and accessible by all, control over the state of the ledger and the ability to move assets on it is mediated through cryptographic tools, such as the Secret Recovery Phrase.",
       "Simplified Chinese": "加密学",
@@ -2754,7 +2754,7 @@ const glossary = {
   "Curve": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Curve is a decentralized exchange for stablecoins that uses an automated market maker (AMM) to manage liquidity.'",
+    "definition": "'Curve is a decentralized exchange for stablecoins that uses an automated market maker (AMM) to manage liquidity.'",
     "locales": {
       "Consensys' Definition": "Curve is a decentralized exchange for stablecoins that uses an automated market maker (AMM) to manage liquidity.",
       "Simplified Chinese": "Curve",
@@ -2786,7 +2786,7 @@ const glossary = {
   "custody (noun)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of cryptocurrencies, custody refers to the safekeeping and management of digital assets on behalf of a client by a third-party service provider. Custody services are an important aspect of the cryptocurrency industry because cryptocurrencies are digital assets that require secure storage and management to prevent loss, theft, or unauthorized access.<br><br>Crypto custody services are typically offered by specialized companies that provide secure storage solutions for cryptocurrencies. These companies use various security measures such as multi-signature authentication, cold storage, and insurance to protect their clients' assets.'",
+    "definition": "'In the context of cryptocurrencies, custody refers to the safekeeping and management of digital assets on behalf of a client by a third-party service provider. Custody services are an important aspect of the cryptocurrency industry because cryptocurrencies are digital assets that require secure storage and management to prevent loss, theft, or unauthorized access.<br><br>Crypto custody services are typically offered by specialized companies that provide secure storage solutions for cryptocurrencies. These companies use various security measures such as multi-signature authentication, cold storage, and insurance to protect their clients' assets.'",
     "locales": {
       "Consensys' Definition": "In the context of cryptocurrencies, custody refers to the safekeeping and management of digital assets on behalf of a client by a third-party service provider. Custody services are an important aspect of the cryptocurrency industry because cryptocurrencies are digital assets that require secure storage and management to prevent loss, theft, or unauthorized access.\n\nCrypto custody services are typically offered by specialized companies that provide secure storage solutions for cryptocurrencies. These companies use various security measures such as multi-signature authentication, cold storage, and insurance to protect their clients' assets.",
       "Simplified Chinese": "托管",
@@ -2818,7 +2818,7 @@ const glossary = {
   "D'CENT": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Hardware wallet.'",
+    "definition": "'Hardware wallet.'",
     "locales": {
       "Consensys' Definition": "Hardware wallet.",
       "Simplified Chinese": "D'CENT",
@@ -2850,7 +2850,7 @@ const glossary = {
   "DAI": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'DAI is an Ethereum-based stablecoin whose issuance and development is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization.'",
+    "definition": "'DAI is an Ethereum-based stablecoin whose issuance and development is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization.'",
     "locales": {
       "Consensys' Definition": "DAI is an Ethereum-based stablecoin whose issuance and development is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization.",
       "Simplified Chinese": "DAI",
@@ -2882,7 +2882,7 @@ const glossary = {
   "DAO": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronym; see 'Decentralized Autonomous Organization'.'",
+    "definition": "'Acronym; see 'Decentralized Autonomous Organization'.'",
     "locales": {
       "Consensys' Definition": "Acronym; see 'Decentralized Autonomous Organization'.",
       "Simplified Chinese": "DAO（去中心化自治组织）",
@@ -2914,7 +2914,7 @@ const glossary = {
   "dapp": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronym; see 'decentralized application''",
+    "definition": "'Acronym; see 'decentralized application''",
     "locales": {
       "Consensys' Definition": "Acronym; see 'decentralized application'",
       "Simplified Chinese": "dapp（去中心化应用）",
@@ -2946,7 +2946,7 @@ const glossary = {
   "decentralization": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The transfer of authority and responsibility from a centralized organization, government, or party to a distributed network.'",
+    "definition": "'The transfer of authority and responsibility from a centralized organization, government, or party to a distributed network.'",
     "locales": {
       "Consensys' Definition": "The transfer of authority and responsibility from a centralized organization, government, or party to a distributed network.",
       "Simplified Chinese": "去中心化",
@@ -2978,7 +2978,7 @@ const glossary = {
   "decentralized application": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An open-source software application with backend (not user-facing) code running on a decentralized peer-to-peer network, rather than a centralized server.  You may see alternate spellings: dApps, DApps, Dapps, and Đapps.'",
+    "definition": "'An open-source software application with backend (not user-facing) code running on a decentralized peer-to-peer network, rather than a centralized server.  You may see alternate spellings: dApps, DApps, Dapps, and Đapps.'",
     "locales": {
       "Consensys' Definition": "An open-source software application with backend (not user-facing) code running on a decentralized peer-to-peer network, rather than a centralized server.  You may see alternate spellings: dApps, DApps, Dapps, and Đapps.",
       "Simplified Chinese": "去中心化应用",
@@ -3010,7 +3010,7 @@ const glossary = {
   "Decentralized Autonomous Organization (DAO)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A Digital Decentralized Autonomous Organization (DAO, pronounced like the Chinese concept) is a powerful and very flexible organizational structure built on a blockchain. Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.'",
+    "definition": "'A Digital Decentralized Autonomous Organization (DAO, pronounced like the Chinese concept) is a powerful and very flexible organizational structure built on a blockchain. Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.'",
     "locales": {
       "Consensys' Definition": "A Digital Decentralized Autonomous Organization (DAO, pronounced like the Chinese concept) is a powerful and very flexible organizational structure built on a blockchain. Alternatively, the first known example of a DAO is referred to as The DAO. The DAO served as a form of investor-directed venture capital fund, which sought to provide enterprises with new decentralized business models. Ethereum-based, The DAO’s code was open source. The organization set the record for the most crowdfunded project in 2016. Those funds were partially stolen by hackers. The hack caused an Ethereum hard-fork which lead to the creation of Ethereum Classic.",
       "Simplified Chinese": "去中心化自治组织（DAO）",
@@ -3042,7 +3042,7 @@ const glossary = {
   "decentralized exchange (DEX)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A decentralized exchange (DEX) is a platform for exchanging cryptocurrencies based on functionality programmed on the blockchain (i.e., in smart contracts). The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.'",
+    "definition": "'A decentralized exchange (DEX) is a platform for exchanging cryptocurrencies based on functionality programmed on the blockchain (i.e., in smart contracts). The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.'",
     "locales": {
       "Consensys' Definition": "A decentralized exchange (DEX) is a platform for exchanging cryptocurrencies based on functionality programmed on the blockchain (i.e., in smart contracts). The trading is peer-to-peer, or between pools of liquidity. This is in contrast with a centralized exchange, which is more akin to a bank or investment firm that specializes in cryptocurrencies. Additionally, there are so-called on-ramp providers, who could be compared to currency brokers, exchanging traditional “fiat” money for cryptocurrencies, and do not hold customer’s funds “on deposit” the way a centralized exchange does. There are important technical and regulatory differences between these, which are constantly evolving.",
       "Simplified Chinese": "去中心化交易所（DEX）",
@@ -3074,7 +3074,7 @@ const glossary = {
   "decentralized finance": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'If cryptocurrency is web3’s monetary system, its financial system is DeFi. This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools.'",
+    "definition": "'If cryptocurrency is web3’s monetary system, its financial system is DeFi. This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools.'",
     "locales": {
       "Consensys' Definition": "If cryptocurrency is web3’s monetary system, its financial system is DeFi. This includes familiar concepts like loans and interest-bearing financial instruments, as well as so-called “DeFi primitives”, novel solutions like token swapping and liquidity pools.",
       "Simplified Chinese": "去中心化金融",
@@ -3106,7 +3106,7 @@ const glossary = {
   "decentralized web": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The decentralized web, also known as web3, is a concept that refers to a new type of internet architecture that aims to provide a more open, secure, and privacy-preserving internet experience by removing the need for centralized intermediaries and giving users more control over their data.<br><br>In contrast to the current centralized web, where most online activities are controlled by a few large corporations and their servers, the decentralized web relies on a network of distributed nodes and peer-to-peer protocols to store and transmit data. This means that there is no central authority controlling the internet, and users can interact directly with each other without the need for intermediaries.'",
+    "definition": "'The decentralized web, also known as web3, is a concept that refers to a new type of internet architecture that aims to provide a more open, secure, and privacy-preserving internet experience by removing the need for centralized intermediaries and giving users more control over their data.<br><br>In contrast to the current centralized web, where most online activities are controlled by a few large corporations and their servers, the decentralized web relies on a network of distributed nodes and peer-to-peer protocols to store and transmit data. This means that there is no central authority controlling the internet, and users can interact directly with each other without the need for intermediaries.'",
     "locales": {
       "Consensys' Definition": "The decentralized web, also known as web3, is a concept that refers to a new type of internet architecture that aims to provide a more open, secure, and privacy-preserving internet experience by removing the need for centralized intermediaries and giving users more control over their data.\n\nIn contrast to the current centralized web, where most online activities are controlled by a few large corporations and their servers, the decentralized web relies on a network of distributed nodes and peer-to-peer protocols to store and transmit data. This means that there is no central authority controlling the internet, and users can interact directly with each other without the need for intermediaries.",
       "Simplified Chinese": "去中心化网络",
@@ -3138,7 +3138,7 @@ const glossary = {
   "deposit": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In most web3 contexts, 'depositing' refers to the act of transferring some amount of token(s) to an address other than one's own, most often to a smart contract controlled by a 'protocol', such as a decentralized exchange, video game or multiverse, DAO, etc. Generally, the user will receive something in return for their deposit, and the deposit can be claimed at the user's discretion, or upon completion of given conditions. Compare with 'stake'.'",
+    "definition": "'In most web3 contexts, 'depositing' refers to the act of transferring some amount of token(s) to an address other than one's own, most often to a smart contract controlled by a 'protocol', such as a decentralized exchange, video game or multiverse, DAO, etc. Generally, the user will receive something in return for their deposit, and the deposit can be claimed at the user's discretion, or upon completion of given conditions. Compare with 'stake'.'",
     "locales": {
       "Consensys' Definition": "In most web3 contexts, 'depositing' refers to the act of transferring some amount of token(s) to an address other than one's own, most often to a smart contract controlled by a 'protocol', such as a decentralized exchange, video game or multiverse, DAO, etc. Generally, the user will receive something in return for their deposit, and the deposit can be claimed at the user's discretion, or upon completion of given conditions. Compare with 'stake'.",
       "Simplified Chinese": "保证金",
@@ -3170,7 +3170,7 @@ const glossary = {
   "derive / derivation": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'To derive something is to obtain it from an original source. In the context of crypto-technology, we often discuss \"deriving\" wallets and accounts from seed phrases (aka Secret Recovery Phrases, or SRPs). This is literally true: the SRP represents a cryptographic key which is used to derive account addresses deterministically, meaning they will be derived the same way each time. Another, more technical, way of referring to this technology is to refer to \"hierarchical deterministic\" wallets.'",
+    "definition": "'To derive something is to obtain it from an original source. In the context of crypto-technology, we often discuss \"deriving\" wallets and accounts from seed phrases (aka Secret Recovery Phrases, or SRPs). This is literally true: the SRP represents a cryptographic key which is used to derive account addresses deterministically, meaning they will be derived the same way each time. Another, more technical, way of referring to this technology is to refer to \"hierarchical deterministic\" wallets.'",
     "locales": {
       "Consensys' Definition": "To derive something is to obtain it from an original source. In the context of crypto-technology, we often discuss \"deriving\" wallets and accounts from seed phrases (aka Secret Recovery Phrases, or SRPs). This is literally true: the SRP represents a cryptographic key which is used to derive account addresses deterministically, meaning they will be derived the same way each time. Another, more technical, way of referring to this technology is to refer to \"hierarchical deterministic\" wallets.",
       "Simplified Chinese": "派生",
@@ -3202,7 +3202,7 @@ const glossary = {
   "dev": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Abbreviation of developer.'",
+    "definition": "'Abbreviation of developer.'",
     "locales": {
       "Consensys' Definition": "Abbreviation of developer.",
       "Simplified Chinese": "开发者",
@@ -3234,7 +3234,7 @@ const glossary = {
   "Devcon": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'This is shorthand for the Ethereum Developers’ Conference.'",
+    "definition": "'This is shorthand for the Ethereum Developers’ Conference.'",
     "locales": {
       "Consensys' Definition": "This is shorthand for the Ethereum Developers’ Conference.",
       "Simplified Chinese": "Ethereum 开发者会议",
@@ -3266,7 +3266,7 @@ const glossary = {
   "Developer": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A person that creates new products, especially computer products such as software.'",
+    "definition": "'A person that creates new products, especially computer products such as software.'",
     "locales": {
       "Consensys' Definition": "A person that creates new products, especially computer products such as software.",
       "Simplified Chinese": "开发者",
@@ -3298,7 +3298,7 @@ const glossary = {
   "DEX": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronym; see \"decentralized exchange\".'",
+    "definition": "'Acronym; see \"decentralized exchange\".'",
     "locales": {
       "Consensys' Definition": "Acronym; see \"decentralized exchange\".",
       "Simplified Chinese": "DEX（去中心化交易所）",
@@ -3330,7 +3330,7 @@ const glossary = {
   "difficulty": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The concept outlining how hard it is to verify blocks in a blockchain network during Proof of Work mining. In the Bitcoin network, the difficulty of mining adjusts every 2016 blocks. This is to keep block verification time at ten minutes.'",
+    "definition": "'The concept outlining how hard it is to verify blocks in a blockchain network during Proof of Work mining. In the Bitcoin network, the difficulty of mining adjusts every 2016 blocks. This is to keep block verification time at ten minutes.'",
     "locales": {
       "Consensys' Definition": "The concept outlining how hard it is to verify blocks in a blockchain network during Proof of Work mining. In the Bitcoin network, the difficulty of mining adjusts every 2016 blocks. This is to keep block verification time at ten minutes.",
       "Simplified Chinese": "难度",
@@ -3362,7 +3362,7 @@ const glossary = {
   "difficulty bomb": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The difficulty bomb, along with the Beacon Chain and others, was a key element of Ethereum's upgrade to Ethereum 2.0 and a Proof of Stake (PoS) consensus mechanism. As the name indicates, the difficulty bomb was a software mechanism that increased block verification difficulty, making it more expensive and difficult--eventually, prohibitively so--to mine a new block. Through economic incentive, and later, the raw limitations of computing power, this forced the shift to PoS consensus. See also 'Proof of Stake', 'the Merge'.'",
+    "definition": "'The difficulty bomb, along with the Beacon Chain and others, was a key element of Ethereum's upgrade to Ethereum 2.0 and a Proof of Stake (PoS) consensus mechanism. As the name indicates, the difficulty bomb was a software mechanism that increased block verification difficulty, making it more expensive and difficult--eventually, prohibitively so--to mine a new block. Through economic incentive, and later, the raw limitations of computing power, this forced the shift to PoS consensus. See also 'Proof of Stake', 'the Merge'.'",
     "locales": {
       "Consensys' Definition": "The difficulty bomb, along with the Beacon Chain and others, was a key element of Ethereum's upgrade to Ethereum 2.0 and a Proof of Stake (PoS) consensus mechanism. As the name indicates, the difficulty bomb was a software mechanism that increased block verification difficulty, making it more expensive and difficult--eventually, prohibitively so--to mine a new block. Through economic incentive, and later, the raw limitations of computing power, this forced the shift to PoS consensus. See also 'Proof of Stake', 'the Merge'.",
       "Simplified Chinese": "难度炸弹",
@@ -3394,7 +3394,7 @@ const glossary = {
   "digital asset": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A digital commodity that is scarce, electronically transferable, and intangible with a market value.'",
+    "definition": "'A digital commodity that is scarce, electronically transferable, and intangible with a market value.'",
     "locales": {
       "Consensys' Definition": "A digital commodity that is scarce, electronically transferable, and intangible with a market value.",
       "Simplified Chinese": "数字资产",
@@ -3426,7 +3426,7 @@ const glossary = {
   "digital identity": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An online or networked identity adopted by an individual, organization, or electronic device.'",
+    "definition": "'An online or networked identity adopted by an individual, organization, or electronic device.'",
     "locales": {
       "Consensys' Definition": "An online or networked identity adopted by an individual, organization, or electronic device.",
       "Simplified Chinese": "数字身份",
@@ -3458,7 +3458,7 @@ const glossary = {
   "Digital signature": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A short string of data a user produces for a document using a private key such that anyone with the corresponding public key, the signature, and the document can verify that (1) the document was \"signed\" by the owner of that particular private key, and (2) the document was not changed after it was signed.'",
+    "definition": "'A short string of data a user produces for a document using a private key such that anyone with the corresponding public key, the signature, and the document can verify that (1) the document was \"signed\" by the owner of that particular private key, and (2) the document was not changed after it was signed.'",
     "locales": {
       "Consensys' Definition": "A short string of data a user produces for a document using a private key such that anyone with the corresponding public key, the signature, and the document can verify that (1) the document was \"signed\" by the owner of that particular private key, and (2) the document was not changed after it was signed.",
       "Simplified Chinese": "电子签名",
@@ -3490,7 +3490,7 @@ const glossary = {
   "Distributed Denial of Service (DDoS) Attack": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A type of cyber-attack in which the perpetrator continuously overwhelms the system with requests in order to prevent service of legitimate requests.'",
+    "definition": "'A type of cyber-attack in which the perpetrator continuously overwhelms the system with requests in order to prevent service of legitimate requests.'",
     "locales": {
       "Consensys' Definition": "A type of cyber-attack in which the perpetrator continuously overwhelms the system with requests in order to prevent service of legitimate requests.",
       "Simplified Chinese": "分布式拒绝服务攻击（DDoS）",
@@ -3522,7 +3522,7 @@ const glossary = {
   "distributed ledger": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A type of database which spreads across multiple sites, countries, or institutions. Records are stored sequentially in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned”, determining who can view it. This term is used, often, to refer in general to public blockchain technology, as 'crypto' has come to mean 'cryptocurrency', 'web3' is the collective community, and 'blockchain', after all, is \"just\" the data structure used to sync the distributed ledger itself.'",
+    "definition": "'A type of database which spreads across multiple sites, countries, or institutions. Records are stored sequentially in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned”, determining who can view it. This term is used, often, to refer in general to public blockchain technology, as 'crypto' has come to mean 'cryptocurrency', 'web3' is the collective community, and 'blockchain', after all, is \"just\" the data structure used to sync the distributed ledger itself.'",
     "locales": {
       "Consensys' Definition": "A type of database which spreads across multiple sites, countries, or institutions. Records are stored sequentially in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned”, determining who can view it. This term is used, often, to refer in general to public blockchain technology, as 'crypto' has come to mean 'cryptocurrency', 'web3' is the collective community, and 'blockchain', after all, is \"just\" the data structure used to sync the distributed ledger itself.",
       "Simplified Chinese": "分布式账本",
@@ -3554,7 +3554,7 @@ const glossary = {
   "Distributed Ledger Technology": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A type of database which spreads across multiple sites, countries, or institutions. Records are stored sequentially in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned”, determining who can view it. This term is used, often, to refer in general to public blockchain technology, as ‘crypto’ has come to mean ‘cryptocurrency’, ‘web3’ is the collective community, and ‘blockchain’, after all, is “just” the data structure used to sync the distributed ledger itself.'",
+    "definition": "'A type of database which spreads across multiple sites, countries, or institutions. Records are stored sequentially in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned”, determining who can view it. This term is used, often, to refer in general to public blockchain technology, as ‘crypto’ has come to mean ‘cryptocurrency’, ‘web3’ is the collective community, and ‘blockchain’, after all, is “just” the data structure used to sync the distributed ledger itself.'",
     "locales": {
       "Consensys' Definition": "A type of database which spreads across multiple sites, countries, or institutions. Records are stored sequentially in a continuous ledger. Distributed ledger data can be either “permissioned” or “unpermissioned”, determining who can view it. This term is used, often, to refer in general to public blockchain technology, as ‘crypto’ has come to mean ‘cryptocurrency’, ‘web3’ is the collective community, and ‘blockchain’, after all, is “just” the data structure used to sync the distributed ledger itself.",
       "Simplified Chinese": "分布式账本技术",
@@ -3586,7 +3586,7 @@ const glossary = {
   "DLT": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronym; see \"distributed ledger technology\".'",
+    "definition": "'Acronym; see \"distributed ledger technology\".'",
     "locales": {
       "Consensys' Definition": "Acronym; see \"distributed ledger technology\".",
       "Simplified Chinese": "DLT（分布式账本技术）",
@@ -3618,7 +3618,7 @@ const glossary = {
   "double spend": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The 'double spend' is the benchmark security concern of blockchain networks: how do we ensure that someone doesn't send the same transaction to two different entities, essentially \"spending their money twice\"? This is the cornerstone of the consensus mechanism, ensuring that all nodes of the network are \"in agreement\" about which assets are allocated to which addresses, on an ongoing basis, to prevent malicious actions such as a double spend.'",
+    "definition": "'The 'double spend' is the benchmark security concern of blockchain networks: how do we ensure that someone doesn't send the same transaction to two different entities, essentially \"spending their money twice\"? This is the cornerstone of the consensus mechanism, ensuring that all nodes of the network are \"in agreement\" about which assets are allocated to which addresses, on an ongoing basis, to prevent malicious actions such as a double spend.'",
     "locales": {
       "Consensys' Definition": "The 'double spend' is the benchmark security concern of blockchain networks: how do we ensure that someone doesn't send the same transaction to two different entities, essentially \"spending their money twice\"? This is the cornerstone of the consensus mechanism, ensuring that all nodes of the network are \"in agreement\" about which assets are allocated to which addresses, on an ongoing basis, to prevent malicious actions such as a double spend.",
       "Simplified Chinese": "双重支付",
@@ -3650,7 +3650,7 @@ const glossary = {
   "ecosystem": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of \"web3 ecosystem\"; \"blockchain ecosystem\". See \"web3\"; See \"blockchain'",
+    "definition": "'In the context of \"web3 ecosystem\"; \"blockchain ecosystem\". See \"web3\"; See \"blockchain'",
     "locales": {
       "Consensys' Definition": "In the context of \"web3 ecosystem\"; \"blockchain ecosystem\". See \"web3\"; See \"blockchain",
       "Simplified Chinese": "生态系统",
@@ -3682,7 +3682,7 @@ const glossary = {
   "Edge": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of \"Edge computing\": it is an emerging computing paradigm which refers to a range of networks and devices at or near the user. Edge is about processing data closer to where it's being generated, enabling processing at greater speeds and volumes, leading to greater action-led results in real time.<br>The term can also refer to Microsoft's browser or the crypto software wallet'",
+    "definition": "'In the context of \"Edge computing\": it is an emerging computing paradigm which refers to a range of networks and devices at or near the user. Edge is about processing data closer to where it's being generated, enabling processing at greater speeds and volumes, leading to greater action-led results in real time.<br>The term can also refer to Microsoft's browser or the crypto software wallet'",
     "locales": {
       "Consensys' Definition": "In the context of \"Edge computing\": it is an emerging computing paradigm which refers to a range of networks and devices at or near the user. Edge is about processing data closer to where it's being generated, enabling processing at greater speeds and volumes, leading to greater action-led results in real time.\nThe term can also refer to Microsoft's browser or the crypto software wallet",
       "Simplified Chinese": "Edge",
@@ -3714,7 +3714,7 @@ const glossary = {
   "EIP-1559": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'EIP (Ethereum Improvement Proposal)<br><br>The EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559.<br>EIP-1559 will change Ethereum’s fee market mechanism. Fundamentally, EIP-1559 gets rid of the first-price auction as the main gas fee calculation. In first-price auctions, people bid a set amount of money to pay for their transaction to be processed, and the highest bidder wins. With EIP-1559, there will be a discrete “base fee” for transactions to be included in the next block. For users or applications that want to prioritize their transaction, they can add a “tip,” which is called a “priority fee” to pay a miner for faster inclusion.'",
+    "definition": "'EIP (Ethereum Improvement Proposal)<br><br>The EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559.<br>EIP-1559 will change Ethereum’s fee market mechanism. Fundamentally, EIP-1559 gets rid of the first-price auction as the main gas fee calculation. In first-price auctions, people bid a set amount of money to pay for their transaction to be processed, and the highest bidder wins. With EIP-1559, there will be a discrete “base fee” for transactions to be included in the next block. For users or applications that want to prioritize their transaction, they can add a “tip,” which is called a “priority fee” to pay a miner for faster inclusion.'",
     "locales": {
       "Consensys' Definition": "EIP (Ethereum Improvement Proposal)\n\nThe EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559.\nEIP-1559 will change Ethereum’s fee market mechanism. Fundamentally, EIP-1559 gets rid of the first-price auction as the main gas fee calculation. In first-price auctions, people bid a set amount of money to pay for their transaction to be processed, and the highest bidder wins. With EIP-1559, there will be a discrete “base fee” for transactions to be included in the next block. For users or applications that want to prioritize their transaction, they can add a “tip,” which is called a “priority fee” to pay a miner for faster inclusion.",
       "Simplified Chinese": "Ethereum 改进提议（EIP）-1559",
@@ -3746,7 +3746,7 @@ const glossary = {
   "encrypted vs unencrypted keys": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'As discussed elsewhere, public and private cryptographic key pairs are one of the technologies that underpins cryptocurrencies and \"crypto\" tech in general. In MetaMask, an unencrypted private key is 64 characters long, and it is used to unlock or restore wallets. An encrypted key is also 64 letters long and is a regular private key that has gone through the process of encryption. Usually, encrypted private keys are kept within the extension or device they are encrypted by, and they remain out of sight from the user. This is meant to add another layer of security to keep a user’s wallet information safe. By way of example: if the world ‘Apple’ was your private key, then it was encrypted three letters down the alphabet, your new encrypted key would be ‘Dssoh’. Since you know the way to encrypt this key, you could derive the original private key from it by reversing the method of encryption.'",
+    "definition": "'As discussed elsewhere, public and private cryptographic key pairs are one of the technologies that underpins cryptocurrencies and \"crypto\" tech in general. In MetaMask, an unencrypted private key is 64 characters long, and it is used to unlock or restore wallets. An encrypted key is also 64 letters long and is a regular private key that has gone through the process of encryption. Usually, encrypted private keys are kept within the extension or device they are encrypted by, and they remain out of sight from the user. This is meant to add another layer of security to keep a user’s wallet information safe. By way of example: if the world ‘Apple’ was your private key, then it was encrypted three letters down the alphabet, your new encrypted key would be ‘Dssoh’. Since you know the way to encrypt this key, you could derive the original private key from it by reversing the method of encryption.'",
     "locales": {
       "Consensys' Definition": "As discussed elsewhere, public and private cryptographic key pairs are one of the technologies that underpins cryptocurrencies and \"crypto\" tech in general. In MetaMask, an unencrypted private key is 64 characters long, and it is used to unlock or restore wallets. An encrypted key is also 64 letters long and is a regular private key that has gone through the process of encryption. Usually, encrypted private keys are kept within the extension or device they are encrypted by, and they remain out of sight from the user. This is meant to add another layer of security to keep a user’s wallet information safe. By way of example: if the world ‘Apple’ was your private key, then it was encrypted three letters down the alphabet, your new encrypted key would be ‘Dssoh’. Since you know the way to encrypt this key, you could derive the original private key from it by reversing the method of encryption.",
       "Simplified Chinese": "加密秘钥与未加密密钥",
@@ -3778,7 +3778,7 @@ const glossary = {
   "encryption": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Encrpytion, literally 'in a hidden place', is the art and science of encoding information to control who can read it, or how it is to be read. Encryption occurs in natural (human) languages, as well as in machine and computer languages. Highly complex, and therefore difficult to decipher, encryption is an essential element enabling blockchain networks to be simultaneously public and secure.'",
+    "definition": "'Encrpytion, literally 'in a hidden place', is the art and science of encoding information to control who can read it, or how it is to be read. Encryption occurs in natural (human) languages, as well as in machine and computer languages. Highly complex, and therefore difficult to decipher, encryption is an essential element enabling blockchain networks to be simultaneously public and secure.'",
     "locales": {
       "Consensys' Definition": "Encrpytion, literally 'in a hidden place', is the art and science of encoding information to control who can read it, or how it is to be read. Encryption occurs in natural (human) languages, as well as in machine and computer languages. Highly complex, and therefore difficult to decipher, encryption is an essential element enabling blockchain networks to be simultaneously public and secure.",
       "Simplified Chinese": "加密",
@@ -3810,7 +3810,7 @@ const glossary = {
   "ENS": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Ethereum Name Service is a protocol, managed by a DAO, which assigns human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet's DNS.'",
+    "definition": "'The Ethereum Name Service is a protocol, managed by a DAO, which assigns human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet's DNS.'",
     "locales": {
       "Consensys' Definition": "The Ethereum Name Service is a protocol, managed by a DAO, which assigns human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet's DNS.",
       "Simplified Chinese": "ENS（Ethereum 域名服务）",
@@ -3842,7 +3842,7 @@ const glossary = {
   "Enterprise Ethereum Alliance (EEA)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A group of Ethereum core developers, startups, and large companies working together to commercialize and use Ethereum for different business applications. Website here.'",
+    "definition": "'A group of Ethereum core developers, startups, and large companies working together to commercialize and use Ethereum for different business applications. Website here.'",
     "locales": {
       "Consensys' Definition": "A group of Ethereum core developers, startups, and large companies working together to commercialize and use Ethereum for different business applications. Website here.",
       "Simplified Chinese": "企业 Ethereum 联盟（EEA）",
@@ -3874,7 +3874,7 @@ const glossary = {
   "entropy": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of cryptography, 'entropy' refers to 'randomness'; generally, the more random something is (the more entropy it has), the more secure it is.'",
+    "definition": "'In the context of cryptography, 'entropy' refers to 'randomness'; generally, the more random something is (the more entropy it has), the more secure it is.'",
     "locales": {
       "Consensys' Definition": "In the context of cryptography, 'entropy' refers to 'randomness'; generally, the more random something is (the more entropy it has), the more secure it is.",
       "Simplified Chinese": "熵",
@@ -3906,7 +3906,7 @@ const glossary = {
   "epoch": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An epoch, in general, is a measure of time, or of blockchain progression, on a given blockchain. In Ethereum Proof of Stake, an epoch consists of 32 slots, each lasting 12 seconds, for a total of 6.4 minutes per epoch. There is additional functionality built upon the epoch measure in the Beacon Chain to help ensure security and proper operation of the Chain.'",
+    "definition": "'An epoch, in general, is a measure of time, or of blockchain progression, on a given blockchain. In Ethereum Proof of Stake, an epoch consists of 32 slots, each lasting 12 seconds, for a total of 6.4 minutes per epoch. There is additional functionality built upon the epoch measure in the Beacon Chain to help ensure security and proper operation of the Chain.'",
     "locales": {
       "Consensys' Definition": "An epoch, in general, is a measure of time, or of blockchain progression, on a given blockchain. In Ethereum Proof of Stake, an epoch consists of 32 slots, each lasting 12 seconds, for a total of 6.4 minutes per epoch. There is additional functionality built upon the epoch measure in the Beacon Chain to help ensure security and proper operation of the Chain.",
       "Simplified Chinese": "时段",
@@ -3938,7 +3938,7 @@ const glossary = {
   "ERC": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Ethereum Request for Comment, or ERC, is a bit of a misnomer, as it is used to refer to suggestions for modifications that have already made it through the Ethereum Improvement Protocol (EIP) process and have been made standard on Ethereum. An ERC is, essentially, a set of standards for a given operation or topic on the Ethereum network. The authoritative list can be found here.'",
+    "definition": "'Ethereum Request for Comment, or ERC, is a bit of a misnomer, as it is used to refer to suggestions for modifications that have already made it through the Ethereum Improvement Protocol (EIP) process and have been made standard on Ethereum. An ERC is, essentially, a set of standards for a given operation or topic on the Ethereum network. The authoritative list can be found here.'",
     "locales": {
       "Consensys' Definition": "Ethereum Request for Comment, or ERC, is a bit of a misnomer, as it is used to refer to suggestions for modifications that have already made it through the Ethereum Improvement Protocol (EIP) process and have been made standard on Ethereum. An ERC is, essentially, a set of standards for a given operation or topic on the Ethereum network. The authoritative list can be found here.",
       "Simplified Chinese": "Ethereum 征求修正意见书（ERC）",
@@ -3970,7 +3970,7 @@ const glossary = {
   "ERC-1155": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A token standard for creating semi-fungible tokens, meaning you can launch both fungible and non-fungible tokens within a single smart contract.'",
+    "definition": "'A token standard for creating semi-fungible tokens, meaning you can launch both fungible and non-fungible tokens within a single smart contract.'",
     "locales": {
       "Consensys' Definition": "A token standard for creating semi-fungible tokens, meaning you can launch both fungible and non-fungible tokens within a single smart contract.",
       "Simplified Chinese": "Ethereum 征求修正意见书（ERC）-1155",
@@ -4002,7 +4002,7 @@ const glossary = {
   "ERC-20 Token Standard": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'ERC is the abbreviation for Ethereum Request for Comment and is followed by the assignment number of the standard. ERC-20 is a technical standard for smart contracts which is used to issue the majority of tokens (in particular, cryptocurrency tokens) extant on Ethereum. This list of rules states the requirements that a token must fulfill to be compliant and function within the Ethereum network.'",
+    "definition": "'ERC is the abbreviation for Ethereum Request for Comment and is followed by the assignment number of the standard. ERC-20 is a technical standard for smart contracts which is used to issue the majority of tokens (in particular, cryptocurrency tokens) extant on Ethereum. This list of rules states the requirements that a token must fulfill to be compliant and function within the Ethereum network.'",
     "locales": {
       "Consensys' Definition": "ERC is the abbreviation for Ethereum Request for Comment and is followed by the assignment number of the standard. ERC-20 is a technical standard for smart contracts which is used to issue the majority of tokens (in particular, cryptocurrency tokens) extant on Ethereum. This list of rules states the requirements that a token must fulfill to be compliant and function within the Ethereum network.",
       "Simplified Chinese": "Ethereum 征求修正意见书（ERC）-20 代币标准",
@@ -4034,7 +4034,7 @@ const glossary = {
   "ERC-721": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'ERC-721 Token Standard<br><br>Another standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.'",
+    "definition": "'ERC-721 Token Standard<br><br>Another standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.'",
     "locales": {
       "Consensys' Definition": "ERC-721 Token Standard\n\nAnother standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.",
       "Simplified Chinese": "Ethereum 征求修正意见书（ERC）-721",
@@ -4066,7 +4066,7 @@ const glossary = {
   "ERC-721 Token Standard": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'ERC-721 Token Standard<br><br>A standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.'",
+    "definition": "'ERC-721 Token Standard<br><br>A standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.'",
     "locales": {
       "Consensys' Definition": "ERC-721 Token Standard\n\nA standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.",
       "Simplified Chinese": "Ethereum 征求修正意见书（ERC）-721 代币标准",
@@ -4098,7 +4098,7 @@ const glossary = {
   "ETH": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronym; see \"ether'",
+    "definition": "'Acronym; see \"ether'",
     "locales": {
       "Consensys' Definition": "Acronym; see \"ether",
       "Simplified Chinese": "ETH",
@@ -4130,7 +4130,7 @@ const glossary = {
   "ether (denominations)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'There are a number of denominations of the currency we know as 'ether' or ETH; for the definitive explanation, see the original Ethereum Homestead documentation Ethereum Homestead documentation here.'",
+    "definition": "'There are a number of denominations of the currency we know as 'ether' or ETH; for the definitive explanation, see the original Ethereum Homestead documentation Ethereum Homestead documentation here.'",
     "locales": {
       "Consensys' Definition": "There are a number of denominations of the currency we know as 'ether' or ETH; for the definitive explanation, see the original Ethereum Homestead documentation Ethereum Homestead documentation here.",
       "Simplified Chinese": "以太币（面额）",
@@ -4162,7 +4162,7 @@ const glossary = {
   "ether (ETH)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Ether is the native cryptocurrency of the Ethereum blockchain network. Ether—also referred to as ETH (pronounced with a long “e”, like “teeth” without the “t”)—functions as the fuel of the Ethereum ecosystem, by quantifying the work performed by the network, and as a form of payment for participants securing the network.'",
+    "definition": "'Ether is the native cryptocurrency of the Ethereum blockchain network. Ether—also referred to as ETH (pronounced with a long “e”, like “teeth” without the “t”)—functions as the fuel of the Ethereum ecosystem, by quantifying the work performed by the network, and as a form of payment for participants securing the network.'",
     "locales": {
       "Consensys' Definition": "Ether is the native cryptocurrency of the Ethereum blockchain network. Ether—also referred to as ETH (pronounced with a long “e”, like “teeth” without the “t”)—functions as the fuel of the Ethereum ecosystem, by quantifying the work performed by the network, and as a form of payment for participants securing the network.",
       "Simplified Chinese": "以太币（ETH）",
@@ -4194,7 +4194,7 @@ const glossary = {
   "Ethereum": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A public blockchain network and decentralized software platform upon which developers build and run applications. As it is a proper noun, it should always be capitalized.'",
+    "definition": "'A public blockchain network and decentralized software platform upon which developers build and run applications. As it is a proper noun, it should always be capitalized.'",
     "locales": {
       "Consensys' Definition": "A public blockchain network and decentralized software platform upon which developers build and run applications. As it is a proper noun, it should always be capitalized.",
       "Simplified Chinese": "Ethereum",
@@ -4226,7 +4226,7 @@ const glossary = {
   "Ethereum 2.0": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'a.k.a The Merge<br><br>Finalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.'",
+    "definition": "'a.k.a The Merge<br><br>Finalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.'",
     "locales": {
       "Consensys' Definition": "a.k.a The Merge\n\nFinalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.",
       "Simplified Chinese": "Ethereum 2.0",
@@ -4258,7 +4258,7 @@ const glossary = {
   "Ethereum Improvement Proposal (EIP)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole; the official repository is here. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559. Keep in mind that as it is an iterative, lengthy process, some EIPs never get fully approved, and some do, and many end up somewhere in a gray area of 'partially implemented'.'",
+    "definition": "'The EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole; the official repository is here. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559. Keep in mind that as it is an iterative, lengthy process, some EIPs never get fully approved, and some do, and many end up somewhere in a gray area of 'partially implemented'.'",
     "locales": {
       "Consensys' Definition": "The EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole; the official repository is here. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559. Keep in mind that as it is an iterative, lengthy process, some EIPs never get fully approved, and some do, and many end up somewhere in a gray area of 'partially implemented'.",
       "Simplified Chinese": "Ethereum 改进提议（EIP）",
@@ -4290,7 +4290,7 @@ const glossary = {
   "Ethereum Name Service (ENS)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Ethereum Name Service is a protocol, managed by a DAO, which assigns human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet’s DNS.'",
+    "definition": "'The Ethereum Name Service is a protocol, managed by a DAO, which assigns human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet’s DNS.'",
     "locales": {
       "Consensys' Definition": "The Ethereum Name Service is a protocol, managed by a DAO, which assigns human-readable and easy-to-remember addresses to Ethereum addresses and assets, homologous to the traditional internet’s DNS.",
       "Simplified Chinese": "Ethereum 域名服务（ENS）",
@@ -4322,7 +4322,7 @@ const glossary = {
   "Ethereum Public Address": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An Ethereum public address, also known as an Ethereum account address, is a string of 42 characters (including letters and numbers) that is used to receive or send Ethereum and other Ethereum-based tokens on the Ethereum network.<br><br>Each Ethereum public address is unique and is associated with a private key that allows the owner of the address to sign and authorize transactions. The public address is derived from the private key using a mathematical algorithm, and it can be shared with others to receive payments or tokens.<br><br>When sending Ethereum or tokens, users need to specify the recipient's public address as the destination for the transaction. Once the transaction is confirmed by the network, the Ethereum or tokens are transferred to the recipient's address.'",
+    "definition": "'An Ethereum public address, also known as an Ethereum account address, is a string of 42 characters (including letters and numbers) that is used to receive or send Ethereum and other Ethereum-based tokens on the Ethereum network.<br><br>Each Ethereum public address is unique and is associated with a private key that allows the owner of the address to sign and authorize transactions. The public address is derived from the private key using a mathematical algorithm, and it can be shared with others to receive payments or tokens.<br><br>When sending Ethereum or tokens, users need to specify the recipient's public address as the destination for the transaction. Once the transaction is confirmed by the network, the Ethereum or tokens are transferred to the recipient's address.'",
     "locales": {
       "Consensys' Definition": "An Ethereum public address, also known as an Ethereum account address, is a string of 42 characters (including letters and numbers) that is used to receive or send Ethereum and other Ethereum-based tokens on the Ethereum network.\n\nEach Ethereum public address is unique and is associated with a private key that allows the owner of the address to sign and authorize transactions. The public address is derived from the private key using a mathematical algorithm, and it can be shared with others to receive payments or tokens.\n\nWhen sending Ethereum or tokens, users need to specify the recipient's public address as the destination for the transaction. Once the transaction is confirmed by the network, the Ethereum or tokens are transferred to the recipient's address.",
       "Simplified Chinese": "Ethereum 公钥",
@@ -4354,7 +4354,7 @@ const glossary = {
   "Ethereum Virtual Machine (EVM)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The EVM is a virtual machine that operates on the Ethereum network. It is Turing complete and allows anyone, anywhere to execute arbitrary EVM bytecode. All Ethereum nodes run on the EVM. It is home for smart contracts based on the Ethereum blockchain.'",
+    "definition": "'The EVM is a virtual machine that operates on the Ethereum network. It is Turing complete and allows anyone, anywhere to execute arbitrary EVM bytecode. All Ethereum nodes run on the EVM. It is home for smart contracts based on the Ethereum blockchain.'",
     "locales": {
       "Consensys' Definition": "The EVM is a virtual machine that operates on the Ethereum network. It is Turing complete and allows anyone, anywhere to execute arbitrary EVM bytecode. All Ethereum nodes run on the EVM. It is home for smart contracts based on the Ethereum blockchain.",
       "Simplified Chinese": "Ethereum 虚拟机（EVM）",
@@ -4386,7 +4386,7 @@ const glossary = {
   "Etherscan": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A popular website for analyzing activity on the Ethereum blockchain. See ‘blockchain explorer’.<br><br>https://etherscan.io/'",
+    "definition": "'A popular website for analyzing activity on the Ethereum blockchain. See ‘blockchain explorer’.<br><br>https://etherscan.io/'",
     "locales": {
       "Consensys' Definition": "A popular website for analyzing activity on the Ethereum blockchain. See ‘blockchain explorer’.\n\nhttps://etherscan.io/",
       "Simplified Chinese": "Etherscan",
@@ -4418,7 +4418,7 @@ const glossary = {
   "EVM": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronym; see \"Ethereum Virtual Machine\".'",
+    "definition": "'Acronym; see \"Ethereum Virtual Machine\".'",
     "locales": {
       "Consensys' Definition": "Acronym; see \"Ethereum Virtual Machine\".",
       "Simplified Chinese": "EVM（Ethereum 虚拟机）",
@@ -4450,7 +4450,7 @@ const glossary = {
   "exchange": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A place to trade cryptocurrency. Centralized exchanges, operated by companies like Coinbase and Gemini, function as intermediaries, while decentralized exchanges do not have a central authority.'",
+    "definition": "'A place to trade cryptocurrency. Centralized exchanges, operated by companies like Coinbase and Gemini, function as intermediaries, while decentralized exchanges do not have a central authority.'",
     "locales": {
       "Consensys' Definition": "A place to trade cryptocurrency. Centralized exchanges, operated by companies like Coinbase and Gemini, function as intermediaries, while decentralized exchanges do not have a central authority.",
       "Simplified Chinese": "交易所",
@@ -4482,7 +4482,7 @@ const glossary = {
   "Execution client": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Execution clients are tasked with processing and broadcasting transactions, as well as with managing Ethereum's state. They run the computations for each transaction in the Ethereum Virtual Machine to ensure that the rules of the protocol are followed. Today, they also handle proof of work consensus. After the transition to proof of stake, they will delegate this to consensus clients.'",
+    "definition": "'Execution clients are tasked with processing and broadcasting transactions, as well as with managing Ethereum's state. They run the computations for each transaction in the Ethereum Virtual Machine to ensure that the rules of the protocol are followed. Today, they also handle proof of work consensus. After the transition to proof of stake, they will delegate this to consensus clients.'",
     "locales": {
       "Consensys' Definition": "Execution clients are tasked with processing and broadcasting transactions, as well as with managing Ethereum's state. They run the computations for each transaction in the Ethereum Virtual Machine to ensure that the rules of the protocol are followed. Today, they also handle proof of work consensus. After the transition to proof of stake, they will delegate this to consensus clients.",
       "Simplified Chinese": "执行客户端",
@@ -4514,7 +4514,7 @@ const glossary = {
   "Execution layer": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Ethereum's execution layer is the network of execution clients.'",
+    "definition": "'Ethereum's execution layer is the network of execution clients.'",
     "locales": {
       "Consensys' Definition": "Ethereum's execution layer is the network of execution clients.",
       "Simplified Chinese": "执行层",
@@ -4546,7 +4546,7 @@ const glossary = {
   "Extended Private Key (XPRIV)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'See \"private key\"; see \"Hierarchical Deterministic (HD)\" wallet. An extended private key, or xprv, is a private key which can be used to derive child private keys as part of a Hierarchical Deterministic (HD) wallet.'",
+    "definition": "'See \"private key\"; see \"Hierarchical Deterministic (HD)\" wallet. An extended private key, or xprv, is a private key which can be used to derive child private keys as part of a Hierarchical Deterministic (HD) wallet.'",
     "locales": {
       "Consensys' Definition": "See \"private key\"; see \"Hierarchical Deterministic (HD)\" wallet. An extended private key, or xprv, is a private key which can be used to derive child private keys as part of a Hierarchical Deterministic (HD) wallet.",
       "Simplified Chinese": "扩展密钥（XPRIV）",
@@ -4578,7 +4578,7 @@ const glossary = {
   "Extended Public Key (XPUB)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'See \"public key\"; see \"Hierarchical Deterministic (HD)\" wallet. An extended public key, or xpub, is a public key which can be used to derive child public keys as part of a Hierarchical Deterministic (HD) wallet.'",
+    "definition": "'See \"public key\"; see \"Hierarchical Deterministic (HD)\" wallet. An extended public key, or xpub, is a public key which can be used to derive child public keys as part of a Hierarchical Deterministic (HD) wallet.'",
     "locales": {
       "Consensys' Definition": "See \"public key\"; see \"Hierarchical Deterministic (HD)\" wallet. An extended public key, or xpub, is a public key which can be used to derive child public keys as part of a Hierarchical Deterministic (HD) wallet.",
       "Simplified Chinese": "扩展公钥（XPUB）",
@@ -4610,7 +4610,7 @@ const glossary = {
   "Extension": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMask is a web browser extension and mobile app that allows you to manage your Ethereum private keys. By doing so, it serves as a wallet for Ether and other tokens, and allows you to interact with decentralized applications, or dapps. Unlike some wallets, MetaMask keeps no information on you: not your email address, not your password, and not your Secret Recovery Phrase or other private keys. You retain all power over your crypto-identity.'",
+    "definition": "'MetaMask is a web browser extension and mobile app that allows you to manage your Ethereum private keys. By doing so, it serves as a wallet for Ether and other tokens, and allows you to interact with decentralized applications, or dapps. Unlike some wallets, MetaMask keeps no information on you: not your email address, not your password, and not your Secret Recovery Phrase or other private keys. You retain all power over your crypto-identity.'",
     "locales": {
       "Consensys' Definition": "MetaMask is a web browser extension and mobile app that allows you to manage your Ethereum private keys. By doing so, it serves as a wallet for Ether and other tokens, and allows you to interact with decentralized applications, or dapps. Unlike some wallets, MetaMask keeps no information on you: not your email address, not your password, and not your Secret Recovery Phrase or other private keys. You retain all power over your crypto-identity.",
       "Simplified Chinese": "扩展程序",
@@ -4642,7 +4642,7 @@ const glossary = {
   "Fantom": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Fantom is a public blockchain platform that aims to facilitate fast and low-cost transactions for dapps and smart contracts. It was launched in 2018 and is based on the Ethereum codebase, but with several key enhancements.<br><br>One of the main features of Fantom is its consensus mechanism, known as Lachesis, which is a variant of Directed Acyclic Graphs (DAGs) that allows for high transaction throughput and low confirmation times. This means that transactions on the Fantom network can be processed quickly and at a low cost, making it an attractive platform for developers looking to build dApps that require fast and efficient transactions.'",
+    "definition": "'Fantom is a public blockchain platform that aims to facilitate fast and low-cost transactions for dapps and smart contracts. It was launched in 2018 and is based on the Ethereum codebase, but with several key enhancements.<br><br>One of the main features of Fantom is its consensus mechanism, known as Lachesis, which is a variant of Directed Acyclic Graphs (DAGs) that allows for high transaction throughput and low confirmation times. This means that transactions on the Fantom network can be processed quickly and at a low cost, making it an attractive platform for developers looking to build dApps that require fast and efficient transactions.'",
     "locales": {
       "Consensys' Definition": "Fantom is a public blockchain platform that aims to facilitate fast and low-cost transactions for dapps and smart contracts. It was launched in 2018 and is based on the Ethereum codebase, but with several key enhancements.\n\nOne of the main features of Fantom is its consensus mechanism, known as Lachesis, which is a variant of Directed Acyclic Graphs (DAGs) that allows for high transaction throughput and low confirmation times. This means that transactions on the Fantom network can be processed quickly and at a low cost, making it an attractive platform for developers looking to build dApps that require fast and efficient transactions.",
       "Simplified Chinese": "Fantom",
@@ -4674,7 +4674,7 @@ const glossary = {
   "faucet": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A faucet is an application, sometimes a very simple website, other times more complex, that dispenses cryptocurrency. While some networks, especially those in early launch stages, offer “real Mainnet” tokens via faucets, it is much more common for a faucet to be present on a test network, or testnet. These faucets are used by developers to test out dapps or smart contracts before deploying them on Ethereum Mainnet, or users who want to practice an action on the blockchain with no risk. Tokens dispensed by a test faucet stay on the test networks and cannot be exchanged for mainnet equivalents.'",
+    "definition": "'A faucet is an application, sometimes a very simple website, other times more complex, that dispenses cryptocurrency. While some networks, especially those in early launch stages, offer “real Mainnet” tokens via faucets, it is much more common for a faucet to be present on a test network, or testnet. These faucets are used by developers to test out dapps or smart contracts before deploying them on Ethereum Mainnet, or users who want to practice an action on the blockchain with no risk. Tokens dispensed by a test faucet stay on the test networks and cannot be exchanged for mainnet equivalents.'",
     "locales": {
       "Consensys' Definition": "A faucet is an application, sometimes a very simple website, other times more complex, that dispenses cryptocurrency. While some networks, especially those in early launch stages, offer “real Mainnet” tokens via faucets, it is much more common for a faucet to be present on a test network, or testnet. These faucets are used by developers to test out dapps or smart contracts before deploying them on Ethereum Mainnet, or users who want to practice an action on the blockchain with no risk. Tokens dispensed by a test faucet stay on the test networks and cannot be exchanged for mainnet equivalents.",
       "Simplified Chinese": "水龙头",
@@ -4706,7 +4706,7 @@ const glossary = {
   "fiat currency": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Government-issued currency. For example, US Dollars (USD), Euros (EUR), Yuan (CNY), and Yen (JPY).'",
+    "definition": "'Government-issued currency. For example, US Dollars (USD), Euros (EUR), Yuan (CNY), and Yen (JPY).'",
     "locales": {
       "Consensys' Definition": "Government-issued currency. For example, US Dollars (USD), Euros (EUR), Yuan (CNY), and Yen (JPY).",
       "Simplified Chinese": "法币",
@@ -4738,7 +4738,7 @@ const glossary = {
   "final, finality": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A transaction is considered \"final\" once it can no longer be changed. In a sense, this happens once there are sufficient confirmations of the transaction, but for all intents and purposes, a transaction is final once the block that contains it is mined or validated. Keep in mind that this reflects a fundamental rule of blockchains: unlike traditional financial systems where charges can be \"reversed\", there is no \"undoing\" a transaction on the blockchain. Once finality is reached, the transaction is immutable.'",
+    "definition": "'A transaction is considered \"final\" once it can no longer be changed. In a sense, this happens once there are sufficient confirmations of the transaction, but for all intents and purposes, a transaction is final once the block that contains it is mined or validated. Keep in mind that this reflects a fundamental rule of blockchains: unlike traditional financial systems where charges can be \"reversed\", there is no \"undoing\" a transaction on the blockchain. Once finality is reached, the transaction is immutable.'",
     "locales": {
       "Consensys' Definition": "A transaction is considered \"final\" once it can no longer be changed. In a sense, this happens once there are sufficient confirmations of the transaction, but for all intents and purposes, a transaction is final once the block that contains it is mined or validated. Keep in mind that this reflects a fundamental rule of blockchains: unlike traditional financial systems where charges can be \"reversed\", there is no \"undoing\" a transaction on the blockchain. Once finality is reached, the transaction is immutable.",
       "Simplified Chinese": "最终性",
@@ -4770,7 +4770,7 @@ const glossary = {
   "Finality Rate": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'See \"finality'",
+    "definition": "'See \"finality'",
     "locales": {
       "Consensys' Definition": "See \"finality",
       "Simplified Chinese": "最终性概率",
@@ -4802,7 +4802,7 @@ const glossary = {
   "financial technology (FinTech)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The integration of technology into offerings by financial services companies in order to improve their use and delivery to consumers.'",
+    "definition": "'The integration of technology into offerings by financial services companies in order to improve their use and delivery to consumers.'",
     "locales": {
       "Consensys' Definition": "The integration of technology into offerings by financial services companies in order to improve their use and delivery to consumers.",
       "Simplified Chinese": "金融科技（FinTech）",
@@ -4834,7 +4834,7 @@ const glossary = {
   "finney": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A denomination of ether. See ether (denomination).'",
+    "definition": "'A denomination of ether. See ether (denomination).'",
     "locales": {
       "Consensys' Definition": "A denomination of ether. See ether (denomination).",
       "Simplified Chinese": "芬尼",
@@ -4866,7 +4866,7 @@ const glossary = {
   "Firefox": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Internet browser.'",
+    "definition": "'Internet browser.'",
     "locales": {
       "Consensys' Definition": "Internet browser.",
       "Simplified Chinese": "Firefox",
@@ -4898,7 +4898,7 @@ const glossary = {
   "Firewall": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.'",
+    "definition": "'In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.'",
     "locales": {
       "Consensys' Definition": "In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.",
       "Simplified Chinese": "防火墙",
@@ -4930,7 +4930,7 @@ const glossary = {
   "Flask": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.<br><br>What is MetaMask Flask, and how is it different from normal MetaMask'",
+    "definition": "'MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.<br><br>What is MetaMask Flask, and how is it different from normal MetaMask'",
     "locales": {
       "Consensys' Definition": "MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.\n\nWhat is MetaMask Flask, and how is it different from normal MetaMask",
       "Simplified Chinese": "Flask",
@@ -4962,7 +4962,7 @@ const glossary = {
   "fork": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Forking' is a term that comes from the world of collaborative software development, and refers to the action of copying an existing application or set of code and modifying it to create an alternate version. At the blockchain protocol level, a 'fork' creates an alternative version of a blockchain. Forks are often enacted intentionally to apply upgrades to a network. Soft Forks render two chains with some compatibility, while Hard Forks create a new version of the chain that must be adopted to continue participation. In the instance of a contentious Hard Fork, this can create two versions of a blockchain network. See also \"hard fork\".'",
+    "definition": "'Forking' is a term that comes from the world of collaborative software development, and refers to the action of copying an existing application or set of code and modifying it to create an alternate version. At the blockchain protocol level, a 'fork' creates an alternative version of a blockchain. Forks are often enacted intentionally to apply upgrades to a network. Soft Forks render two chains with some compatibility, while Hard Forks create a new version of the chain that must be adopted to continue participation. In the instance of a contentious Hard Fork, this can create two versions of a blockchain network. See also \"hard fork\".'",
     "locales": {
       "Consensys' Definition": "Forking' is a term that comes from the world of collaborative software development, and refers to the action of copying an existing application or set of code and modifying it to create an alternate version. At the blockchain protocol level, a 'fork' creates an alternative version of a blockchain. Forks are often enacted intentionally to apply upgrades to a network. Soft Forks render two chains with some compatibility, while Hard Forks create a new version of the chain that must be adopted to continue participation. In the instance of a contentious Hard Fork, this can create two versions of a blockchain network. See also \"hard fork\".",
       "Simplified Chinese": "分叉",
@@ -4994,7 +4994,7 @@ const glossary = {
   "Fractional Ownership": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of NFT ownership: <br>A fractional NFT (F-NFT) is an entire NFT broken into smaller fragments, allowing several people to claim ownership of a piece of the same NFT. Fractional NFTs'",
+    "definition": "'In the context of NFT ownership: <br>A fractional NFT (F-NFT) is an entire NFT broken into smaller fragments, allowing several people to claim ownership of a piece of the same NFT. Fractional NFTs'",
     "locales": {
       "Consensys' Definition": "In the context of NFT ownership: \nA fractional NFT (F-NFT) is an entire NFT broken into smaller fragments, allowing several people to claim ownership of a piece of the same NFT. Fractional NFTs",
       "Simplified Chinese": "部分所有权",
@@ -5026,7 +5026,7 @@ const glossary = {
   "Fraud proof": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A security model for certain layer 2 solutions where, to increase speed, transactions are rolled up into batches and submitted to Ethereum in a single transaction. They are assumed valid but can be challenged if fraud is suspected. A fraud proof will then run the transaction to see if fraud took place. This method increases the amount of transactions possible while maintaining security.'",
+    "definition": "'A security model for certain layer 2 solutions where, to increase speed, transactions are rolled up into batches and submitted to Ethereum in a single transaction. They are assumed valid but can be challenged if fraud is suspected. A fraud proof will then run the transaction to see if fraud took place. This method increases the amount of transactions possible while maintaining security.'",
     "locales": {
       "Consensys' Definition": "A security model for certain layer 2 solutions where, to increase speed, transactions are rolled up into batches and submitted to Ethereum in a single transaction. They are assumed valid but can be challenged if fraud is suspected. A fraud proof will then run the transaction to see if fraud took place. This method increases the amount of transactions possible while maintaining security.",
       "Simplified Chinese": "欺诈证明",
@@ -5058,7 +5058,7 @@ const glossary = {
   "full node": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.'",
+    "definition": "'Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.'",
     "locales": {
       "Consensys' Definition": "Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.",
       "Simplified Chinese": "全节点",
@@ -5090,7 +5090,7 @@ const glossary = {
   "Ganache": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Ganache is a personal blockchain for Ethereum development that developers can use to deploy contracts, develop applications, and run tests. It is part of the Truffle Suite ecosystem.'",
+    "definition": "'Ganache is a personal blockchain for Ethereum development that developers can use to deploy contracts, develop applications, and run tests. It is part of the Truffle Suite ecosystem.'",
     "locales": {
       "Consensys' Definition": "Ganache is a personal blockchain for Ethereum development that developers can use to deploy contracts, develop applications, and run tests. It is part of the Truffle Suite ecosystem.",
       "Simplified Chinese": "Ganache",
@@ -5122,7 +5122,7 @@ const glossary = {
   "gas": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A measure of the computational steps required for a transaction on the Ethereum network. This then equates to a fee for network users paid in small units of ETH specified as gwei. For more on gas, see MetaMask’s user guide here:<br><br>User Guide: Gas'",
+    "definition": "'A measure of the computational steps required for a transaction on the Ethereum network. This then equates to a fee for network users paid in small units of ETH specified as gwei. For more on gas, see MetaMask’s user guide here:<br><br>User Guide: Gas'",
     "locales": {
       "Consensys' Definition": "A measure of the computational steps required for a transaction on the Ethereum network. This then equates to a fee for network users paid in small units of ETH specified as gwei. For more on gas, see MetaMask’s user guide here:\n\nUser Guide: Gas",
       "Simplified Chinese": "燃料",
@@ -5154,7 +5154,7 @@ const glossary = {
   "gas fee": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Gas fee refers to the transaction fee on the blockchain. It is what users pay to get their transaction validated, or completed.'",
+    "definition": "'Gas fee refers to the transaction fee on the blockchain. It is what users pay to get their transaction validated, or completed.'",
     "locales": {
       "Consensys' Definition": "Gas fee refers to the transaction fee on the blockchain. It is what users pay to get their transaction validated, or completed.",
       "Simplified Chinese": "燃料费",
@@ -5186,7 +5186,7 @@ const glossary = {
   "gas limit": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The gas limit is the maximum amount you’re willing to pay for any given transaction to go through the Ethereum network. Another way of looking at it is as a “rough estimate” of how much computing power your transaction will take.'",
+    "definition": "'The gas limit is the maximum amount you’re willing to pay for any given transaction to go through the Ethereum network. Another way of looking at it is as a “rough estimate” of how much computing power your transaction will take.'",
     "locales": {
       "Consensys' Definition": "The gas limit is the maximum amount you’re willing to pay for any given transaction to go through the Ethereum network. Another way of looking at it is as a “rough estimate” of how much computing power your transaction will take.",
       "Simplified Chinese": "燃料限制",
@@ -5218,7 +5218,7 @@ const glossary = {
   "gas price": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The gas price is what it sounds like: the cost the network is paid for the computational work being performed in a given transaction. It is paid in units of ETH called gwei. Depending on network congestion, the gas price may vary significantly.'",
+    "definition": "'The gas price is what it sounds like: the cost the network is paid for the computational work being performed in a given transaction. It is paid in units of ETH called gwei. Depending on network congestion, the gas price may vary significantly.'",
     "locales": {
       "Consensys' Definition": "The gas price is what it sounds like: the cost the network is paid for the computational work being performed in a given transaction. It is paid in units of ETH called gwei. Depending on network congestion, the gas price may vary significantly.",
       "Simplified Chinese": "燃料价格",
@@ -5250,7 +5250,7 @@ const glossary = {
   "Gas Station Network": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Gas Station Network (GSN) is a decentralized network of relayers mainly referring to the Ethereum blockchain. It allows you to build dapps which provide payment for transactions, so users do not need to hold Ether or ETH to pay for gas, easing their onboarding process and improving user acquisition and experience.<br>However, while the relayers in the GSN do not charge users, they charge the recipient and contract instead. In this way, the relayers recover the costs of transactions and profit from extra fees for providing such services.<br><br>Originally conceived and designed by TabooKey, the GSN has grown to encompass many companies, protocols and platforms in the Ethereum ecosystem that wish to facilitate the onboarding of users to Ethereum applications. Gas Station Network'",
+    "definition": "'The Gas Station Network (GSN) is a decentralized network of relayers mainly referring to the Ethereum blockchain. It allows you to build dapps which provide payment for transactions, so users do not need to hold Ether or ETH to pay for gas, easing their onboarding process and improving user acquisition and experience.<br>However, while the relayers in the GSN do not charge users, they charge the recipient and contract instead. In this way, the relayers recover the costs of transactions and profit from extra fees for providing such services.<br><br>Originally conceived and designed by TabooKey, the GSN has grown to encompass many companies, protocols and platforms in the Ethereum ecosystem that wish to facilitate the onboarding of users to Ethereum applications. Gas Station Network'",
     "locales": {
       "Consensys' Definition": "The Gas Station Network (GSN) is a decentralized network of relayers mainly referring to the Ethereum blockchain. It allows you to build dapps which provide payment for transactions, so users do not need to hold Ether or ETH to pay for gas, easing their onboarding process and improving user acquisition and experience.\nHowever, while the relayers in the GSN do not charge users, they charge the recipient and contract instead. In this way, the relayers recover the costs of transactions and profit from extra fees for providing such services.\n\nOriginally conceived and designed by TabooKey, the GSN has grown to encompass many companies, protocols and platforms in the Ethereum ecosystem that wish to facilitate the onboarding of users to Ethereum applications. Gas Station Network",
       "Simplified Chinese": "Gas Station Network",
@@ -5282,7 +5282,7 @@ const glossary = {
   "genesis block": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The initial block of data computed in the history of a blockchain network.'",
+    "definition": "'The initial block of data computed in the history of a blockchain network.'",
     "locales": {
       "Consensys' Definition": "The initial block of data computed in the history of a blockchain network.",
       "Simplified Chinese": "创世区块",
@@ -5314,7 +5314,7 @@ const glossary = {
   "Gigawei": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Gwei is a unit of ether, the smallest denomination, which stands for gigawei (or 1,000,000,000). Gwei is used for gas fees, or rather payments made by users to compensate for the computing energy required to process and validate transactions on the Ethereum blockchain.'",
+    "definition": "'Gwei is a unit of ether, the smallest denomination, which stands for gigawei (or 1,000,000,000). Gwei is used for gas fees, or rather payments made by users to compensate for the computing energy required to process and validate transactions on the Ethereum blockchain.'",
     "locales": {
       "Consensys' Definition": "Gwei is a unit of ether, the smallest denomination, which stands for gigawei (or 1,000,000,000). Gwei is used for gas fees, or rather payments made by users to compensate for the computing energy required to process and validate transactions on the Ethereum blockchain.",
       "Simplified Chinese": "Gigawei",
@@ -5346,7 +5346,7 @@ const glossary = {
   "Gitcoin": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Gitcoin is a platform where coders and developers can get paid to work on open-source software in a wide variety of programming languages. Users can also submit their own project ideas to the Gitcoin platform in order to crowdsource funding from contributing donors.<br><br>Gitcoin'",
+    "definition": "'Gitcoin is a platform where coders and developers can get paid to work on open-source software in a wide variety of programming languages. Users can also submit their own project ideas to the Gitcoin platform in order to crowdsource funding from contributing donors.<br><br>Gitcoin'",
     "locales": {
       "Consensys' Definition": "Gitcoin is a platform where coders and developers can get paid to work on open-source software in a wide variety of programming languages. Users can also submit their own project ideas to the Gitcoin platform in order to crowdsource funding from contributing donors.\n\nGitcoin",
       "Simplified Chinese": "Gitcoin",
@@ -5378,7 +5378,7 @@ const glossary = {
   "GitHub": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work. GitHub'",
+    "definition": "'GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work. GitHub'",
     "locales": {
       "Consensys' Definition": "GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work. GitHub",
       "Simplified Chinese": "GitHub",
@@ -5410,7 +5410,7 @@ const glossary = {
   "Goerli": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Goerli is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).<br><br>ETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet.'",
+    "definition": "'Goerli is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).<br><br>ETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet.'",
     "locales": {
       "Consensys' Definition": "Goerli is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).\n\nETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet.",
       "Simplified Chinese": "Goerli",
@@ -5442,7 +5442,7 @@ const glossary = {
   "Governance": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the world of cryptocurrencies, governance is defined as the people or organizations that have decision-making powers regarding the project. Governance is an essential aspect of all cryptocurrency projects. As decentralized blockchains, cryptocurrencies often have a very liberal governance structure. There are a number of different approaches to governance. Governance'",
+    "definition": "'In the world of cryptocurrencies, governance is defined as the people or organizations that have decision-making powers regarding the project. Governance is an essential aspect of all cryptocurrency projects. As decentralized blockchains, cryptocurrencies often have a very liberal governance structure. There are a number of different approaches to governance. Governance'",
     "locales": {
       "Consensys' Definition": "In the world of cryptocurrencies, governance is defined as the people or organizations that have decision-making powers regarding the project. Governance is an essential aspect of all cryptocurrency projects. As decentralized blockchains, cryptocurrencies often have a very liberal governance structure. There are a number of different approaches to governance. Governance",
       "Simplified Chinese": "治理",
@@ -5474,7 +5474,7 @@ const glossary = {
   "GSN": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Abbreviation for Gas Station Network'",
+    "definition": "'Abbreviation for Gas Station Network'",
     "locales": {
       "Consensys' Definition": "Abbreviation for Gas Station Network",
       "Simplified Chinese": "GSN",
@@ -5506,7 +5506,7 @@ const glossary = {
   "gwei": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A minuscule and common denomination of ETH, and the unit in which gas prices are often specified. See 'ether (denominations)' entry for more information.'",
+    "definition": "'A minuscule and common denomination of ETH, and the unit in which gas prices are often specified. See 'ether (denominations)' entry for more information.'",
     "locales": {
       "Consensys' Definition": "A minuscule and common denomination of ETH, and the unit in which gas prices are often specified. See 'ether (denominations)' entry for more information.",
       "Simplified Chinese": "gwei",
@@ -5538,7 +5538,7 @@ const glossary = {
   "halving": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Many cryptocurrencies have a finite supply, which makes them a scarce digital commodity. For example, the total amount of bitcoin that will ever be issued is 21 million. The number of bitcoins generated per block is decreased 50% every four years. This is called “halving.” The final halving will take place in the year 2140.'",
+    "definition": "'Many cryptocurrencies have a finite supply, which makes them a scarce digital commodity. For example, the total amount of bitcoin that will ever be issued is 21 million. The number of bitcoins generated per block is decreased 50% every four years. This is called “halving.” The final halving will take place in the year 2140.'",
     "locales": {
       "Consensys' Definition": "Many cryptocurrencies have a finite supply, which makes them a scarce digital commodity. For example, the total amount of bitcoin that will ever be issued is 21 million. The number of bitcoins generated per block is decreased 50% every four years. This is called “halving.” The final halving will take place in the year 2140.",
       "Simplified Chinese": "减半",
@@ -5570,7 +5570,7 @@ const glossary = {
   "hard fork": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A hard fork occurs when there is a change in the blockchain that is not backward compatible (not compatible with older versions), thus requiring all participants to upgrade to the new version in order to be able to continue participating on the network. See also \"fork\".'",
+    "definition": "'A hard fork occurs when there is a change in the blockchain that is not backward compatible (not compatible with older versions), thus requiring all participants to upgrade to the new version in order to be able to continue participating on the network. See also \"fork\".'",
     "locales": {
       "Consensys' Definition": "A hard fork occurs when there is a change in the blockchain that is not backward compatible (not compatible with older versions), thus requiring all participants to upgrade to the new version in order to be able to continue participating on the network. See also \"fork\".",
       "Simplified Chinese": "硬分叉",
@@ -5602,7 +5602,7 @@ const glossary = {
   "hardware wallet": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A hardware wallet is a physical device that is used to store cryptographic keys, and generally, sign transactions. Some hardware wallets can be connected physically or through software to internet connectivity; others are ‘air-gapped’, receiving transaction requests and sending transaction approvals through a mechanism such as a QR code. The overall goal of using a hardware wallet to manage keys and signatures is to reduce the likelihood of your keys or Secret Recovery Phrase from being somehow stolen or compromised, due to being connected to the Internet. For more on hardware wallets, see MetaMask’s Hardware Wallet Hub:<br>Hardware Wallet Hub'",
+    "definition": "'A hardware wallet is a physical device that is used to store cryptographic keys, and generally, sign transactions. Some hardware wallets can be connected physically or through software to internet connectivity; others are ‘air-gapped’, receiving transaction requests and sending transaction approvals through a mechanism such as a QR code. The overall goal of using a hardware wallet to manage keys and signatures is to reduce the likelihood of your keys or Secret Recovery Phrase from being somehow stolen or compromised, due to being connected to the Internet. For more on hardware wallets, see MetaMask’s Hardware Wallet Hub:<br>Hardware Wallet Hub'",
     "locales": {
       "Consensys' Definition": "A hardware wallet is a physical device that is used to store cryptographic keys, and generally, sign transactions. Some hardware wallets can be connected physically or through software to internet connectivity; others are ‘air-gapped’, receiving transaction requests and sending transaction approvals through a mechanism such as a QR code. The overall goal of using a hardware wallet to manage keys and signatures is to reduce the likelihood of your keys or Secret Recovery Phrase from being somehow stolen or compromised, due to being connected to the Internet. For more on hardware wallets, see MetaMask’s Hardware Wallet Hub:\nHardware Wallet Hub",
       "Simplified Chinese": "硬件钱包",
@@ -5634,7 +5634,7 @@ const glossary = {
   "hash (noun)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In computing, ‘hashing’ is an operation performed on lists or sets of data to create a reliable index for that data. A particular datum, or a reference to it, is fed into an algorithm, which transforms the datum and returns a standardized, and generally unrecognizable, ‘hash’ of it, sometimes referred to as that datum or file’s “digital fingerprint.” Each block in a blockchain contains the hash value that validated the block before it, followed by its own hash value (this is how the continuity of the ‘chain’ is constructed). Hashes can be used to confirm that blockchain transactions are complete and valid. You may see references to the “transaction hash” or “tx hash”; this should be understood as “unique identifier of the transaction”.'",
+    "definition": "'In computing, ‘hashing’ is an operation performed on lists or sets of data to create a reliable index for that data. A particular datum, or a reference to it, is fed into an algorithm, which transforms the datum and returns a standardized, and generally unrecognizable, ‘hash’ of it, sometimes referred to as that datum or file’s “digital fingerprint.” Each block in a blockchain contains the hash value that validated the block before it, followed by its own hash value (this is how the continuity of the ‘chain’ is constructed). Hashes can be used to confirm that blockchain transactions are complete and valid. You may see references to the “transaction hash” or “tx hash”; this should be understood as “unique identifier of the transaction”.'",
     "locales": {
       "Consensys' Definition": "In computing, ‘hashing’ is an operation performed on lists or sets of data to create a reliable index for that data. A particular datum, or a reference to it, is fed into an algorithm, which transforms the datum and returns a standardized, and generally unrecognizable, ‘hash’ of it, sometimes referred to as that datum or file’s “digital fingerprint.” Each block in a blockchain contains the hash value that validated the block before it, followed by its own hash value (this is how the continuity of the ‘chain’ is constructed). Hashes can be used to confirm that blockchain transactions are complete and valid. You may see references to the “transaction hash” or “tx hash”; this should be understood as “unique identifier of the transaction”.",
       "Simplified Chinese": "哈希",
@@ -5666,7 +5666,7 @@ const glossary = {
   "hexadecimal; 'hex data'": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Hexadecimal is a base 16, rather than base 10, counting system. Used all over Ethereum for a variety of things, a hexadecimal string is comprised of the numbers 0 1 2 3 4 5 6 7 8 9 and letters A B C D E F.'",
+    "definition": "'Hexadecimal is a base 16, rather than base 10, counting system. Used all over Ethereum for a variety of things, a hexadecimal string is comprised of the numbers 0 1 2 3 4 5 6 7 8 9 and letters A B C D E F.'",
     "locales": {
       "Consensys' Definition": "Hexadecimal is a base 16, rather than base 10, counting system. Used all over Ethereum for a variety of things, a hexadecimal string is comprised of the numbers 0 1 2 3 4 5 6 7 8 9 and letters A B C D E F.",
       "Simplified Chinese": "十六进制；“十六进制数据”",
@@ -5698,7 +5698,7 @@ const glossary = {
   "Hierarchical Deterministic (HD) wallet": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Hierarchical Deterministic wallets were first created for Bitcoin, and enable the creation of a very large number of accounts based on an initial seed phrase. This technology was later adopted in Ethereum wallets; when restoring a MetaMask wallet from the Secret Recovery Phrase, for example, if you \"create\" accounts, they will be the same accounts as previously created from that same phrase; they are derived from it.'",
+    "definition": "'Hierarchical Deterministic wallets were first created for Bitcoin, and enable the creation of a very large number of accounts based on an initial seed phrase. This technology was later adopted in Ethereum wallets; when restoring a MetaMask wallet from the Secret Recovery Phrase, for example, if you \"create\" accounts, they will be the same accounts as previously created from that same phrase; they are derived from it.'",
     "locales": {
       "Consensys' Definition": "Hierarchical Deterministic wallets were first created for Bitcoin, and enable the creation of a very large number of accounts based on an initial seed phrase. This technology was later adopted in Ethereum wallets; when restoring a MetaMask wallet from the Secret Recovery Phrase, for example, if you \"create\" accounts, they will be the same accounts as previously created from that same phrase; they are derived from it.",
       "Simplified Chinese": "分层确定性（HD）钱包",
@@ -5730,7 +5730,7 @@ const glossary = {
   "hot storage": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Synonymous with 'hot wallet'.'",
+    "definition": "'Synonymous with 'hot wallet'.'",
     "locales": {
       "Consensys' Definition": "Synonymous with 'hot wallet'.",
       "Simplified Chinese": "热存储",
@@ -5762,7 +5762,7 @@ const glossary = {
   "hot wallet": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A wallet that is directly connected to the internet at all times; for example, one that is held on a centralized exchange. Hot wallets are considered to have lower security than cold storage systems or hardware wallets.'",
+    "definition": "'A wallet that is directly connected to the internet at all times; for example, one that is held on a centralized exchange. Hot wallets are considered to have lower security than cold storage systems or hardware wallets.'",
     "locales": {
       "Consensys' Definition": "A wallet that is directly connected to the internet at all times; for example, one that is held on a centralized exchange. Hot wallets are considered to have lower security than cold storage systems or hardware wallets.",
       "Simplified Chinese": "热钱包",
@@ -5794,7 +5794,7 @@ const glossary = {
   "Hybrid Network": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Hybrid blockchain. See \"PoS/PoW Hybrid'",
+    "definition": "'Hybrid blockchain. See \"PoS/PoW Hybrid'",
     "locales": {
       "Consensys' Definition": "Hybrid blockchain. See \"PoS/PoW Hybrid",
       "Simplified Chinese": "混合网络",
@@ -5826,7 +5826,7 @@ const glossary = {
   "Hyperledger": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Hyperledger is an ecosystem of open-system tools, libraries, and products designed to enable and support enterprise-grade blockchain technology. In general, the products focus on creating solutions for permissioned blockchains--that is, non-public blockchains, with alternative consensus mechanisms other than Proof of Work (PoW) or Proof of Stake (PoS). That said, there are use cases where such institutions would want to integrate with public blockchains, and for that reason Hyperledger Besu and Hyperledger Burrow are actively developed projects, the former being a Java-based Ethereum client, the latter being a smart contract platform which supports EVM bytecode.'",
+    "definition": "'Hyperledger is an ecosystem of open-system tools, libraries, and products designed to enable and support enterprise-grade blockchain technology. In general, the products focus on creating solutions for permissioned blockchains--that is, non-public blockchains, with alternative consensus mechanisms other than Proof of Work (PoW) or Proof of Stake (PoS). That said, there are use cases where such institutions would want to integrate with public blockchains, and for that reason Hyperledger Besu and Hyperledger Burrow are actively developed projects, the former being a Java-based Ethereum client, the latter being a smart contract platform which supports EVM bytecode.'",
     "locales": {
       "Consensys' Definition": "Hyperledger is an ecosystem of open-system tools, libraries, and products designed to enable and support enterprise-grade blockchain technology. In general, the products focus on creating solutions for permissioned blockchains--that is, non-public blockchains, with alternative consensus mechanisms other than Proof of Work (PoW) or Proof of Stake (PoS). That said, there are use cases where such institutions would want to integrate with public blockchains, and for that reason Hyperledger Besu and Hyperledger Burrow are actively developed projects, the former being a Java-based Ethereum client, the latter being a smart contract platform which supports EVM bytecode.",
       "Simplified Chinese": "超级账本",
@@ -5858,7 +5858,7 @@ const glossary = {
   "ICO": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An Initial Coin Offering (also called ICO) occurs when a new token project sells advance tokens in exchange for upfront capital. These have been a vehicle for fraud and scams, and as such are subject to ever-evolving regulation and legislation.'",
+    "definition": "'An Initial Coin Offering (also called ICO) occurs when a new token project sells advance tokens in exchange for upfront capital. These have been a vehicle for fraud and scams, and as such are subject to ever-evolving regulation and legislation.'",
     "locales": {
       "Consensys' Definition": "An Initial Coin Offering (also called ICO) occurs when a new token project sells advance tokens in exchange for upfront capital. These have been a vehicle for fraud and scams, and as such are subject to ever-evolving regulation and legislation.",
       "Simplified Chinese": "首次代币发行（ICO）",
@@ -5890,7 +5890,7 @@ const glossary = {
   "Identicon / AddressIdenticon / AddressIcon": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The colorful blob of colors that corresponds to your address in MetaMask. It is an easy way to see if your address is correct. More specifically, you can choose between jazzicons (created by the MetaMask team!) or blockies.'",
+    "definition": "'The colorful blob of colors that corresponds to your address in MetaMask. It is an easy way to see if your address is correct. More specifically, you can choose between jazzicons (created by the MetaMask team!) or blockies.'",
     "locales": {
       "Consensys' Definition": "The colorful blob of colors that corresponds to your address in MetaMask. It is an easy way to see if your address is correct. More specifically, you can choose between jazzicons (created by the MetaMask team!) or blockies.",
       "Simplified Chinese": "Identicon / AddressIdenticon / AddressIcon",
@@ -5922,7 +5922,7 @@ const glossary = {
   "immutability": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The inability to be altered or changed. This is a key element of blockchain networks: once written onto a blockchain ledger, data cannot be altered. This immutability provides the basis for commerce and trade to take place on blockchain networks.'",
+    "definition": "'The inability to be altered or changed. This is a key element of blockchain networks: once written onto a blockchain ledger, data cannot be altered. This immutability provides the basis for commerce and trade to take place on blockchain networks.'",
     "locales": {
       "Consensys' Definition": "The inability to be altered or changed. This is a key element of blockchain networks: once written onto a blockchain ledger, data cannot be altered. This immutability provides the basis for commerce and trade to take place on blockchain networks.",
       "Simplified Chinese": "不可篡改性",
@@ -5954,7 +5954,7 @@ const glossary = {
   "Infura": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Part of ConsenSys, Infura offers backend access to the Ethereum network over established HTTP and WebSockets technology. Prior to Infura, developers were obligated to run their own nodes of the networks with which they wanted to interact; Infura provides that access through a set of APIs. This enables developers of dapps and websites seeking to interact with the Ethereum blockchain to do so, and at scale.<br><br>Infura'",
+    "definition": "'Part of ConsenSys, Infura offers backend access to the Ethereum network over established HTTP and WebSockets technology. Prior to Infura, developers were obligated to run their own nodes of the networks with which they wanted to interact; Infura provides that access through a set of APIs. This enables developers of dapps and websites seeking to interact with the Ethereum blockchain to do so, and at scale.<br><br>Infura'",
     "locales": {
       "Consensys' Definition": "Part of ConsenSys, Infura offers backend access to the Ethereum network over established HTTP and WebSockets technology. Prior to Infura, developers were obligated to run their own nodes of the networks with which they wanted to interact; Infura provides that access through a set of APIs. This enables developers of dapps and websites seeking to interact with the Ethereum blockchain to do so, and at scale.\n\nInfura",
       "Simplified Chinese": "Infura",
@@ -5986,7 +5986,7 @@ const glossary = {
   "Initial Public Offering (IPO)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An initial public offering (IPO) is the process of a company offering shares for purchase on the stock market for the first time.  IPO'",
+    "definition": "'An initial public offering (IPO) is the process of a company offering shares for purchase on the stock market for the first time.  IPO'",
     "locales": {
       "Consensys' Definition": "An initial public offering (IPO) is the process of a company offering shares for purchase on the stock market for the first time.  IPO",
       "Simplified Chinese": "首次公开募股（IPO）",
@@ -6018,7 +6018,7 @@ const glossary = {
   "Insider Trading": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Insider trading happens when someone purchases or sells stocks while possessing private, material information about that stock. Insider Trading'",
+    "definition": "'Insider trading happens when someone purchases or sells stocks while possessing private, material information about that stock. Insider Trading'",
     "locales": {
       "Consensys' Definition": "Insider trading happens when someone purchases or sells stocks while possessing private, material information about that stock. Insider Trading",
       "Simplified Chinese": "内幕交易",
@@ -6050,7 +6050,7 @@ const glossary = {
   "Inter-Blockchain Communication (IBC) Protocol": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Inter-Blockchain Communication (IBC) is a communication protocol that allows different blockchains to relay messages to each other. It guarantees reliable, ordered and authenticated communication between the chains. Blockchains can trustlessly exchange value like tokens. IBC does not work like a bridge. Instead, blockchains send packets of information via smart contracts that allow them to not only exchange value but relay any form of data, such as communication, via the communication protocol.  Inter-Blockchain Communication (IBC)'",
+    "definition": "'Inter-Blockchain Communication (IBC) is a communication protocol that allows different blockchains to relay messages to each other. It guarantees reliable, ordered and authenticated communication between the chains. Blockchains can trustlessly exchange value like tokens. IBC does not work like a bridge. Instead, blockchains send packets of information via smart contracts that allow them to not only exchange value but relay any form of data, such as communication, via the communication protocol.  Inter-Blockchain Communication (IBC)'",
     "locales": {
       "Consensys' Definition": "Inter-Blockchain Communication (IBC) is a communication protocol that allows different blockchains to relay messages to each other. It guarantees reliable, ordered and authenticated communication between the chains. Blockchains can trustlessly exchange value like tokens. IBC does not work like a bridge. Instead, blockchains send packets of information via smart contracts that allow them to not only exchange value but relay any form of data, such as communication, via the communication protocol.  Inter-Blockchain Communication (IBC)",
       "Simplified Chinese": "跨链通信（IBC）协议",
@@ -6082,7 +6082,7 @@ const glossary = {
   "internal transaction": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An internal transaction on the Ethereum network is one that occurs between smart contracts, rather than between addresses. Notably, they are not included on the blockchain, and therefore do not incur gas fees, but they are often crucial to carrying out the action in question, and can be viewed on Etherscan. For more detail, see MetaMask's article on the topic: Internal Transactions'",
+    "definition": "'An internal transaction on the Ethereum network is one that occurs between smart contracts, rather than between addresses. Notably, they are not included on the blockchain, and therefore do not incur gas fees, but they are often crucial to carrying out the action in question, and can be viewed on Etherscan. For more detail, see MetaMask's article on the topic: Internal Transactions'",
     "locales": {
       "Consensys' Definition": "An internal transaction on the Ethereum network is one that occurs between smart contracts, rather than between addresses. Notably, they are not included on the blockchain, and therefore do not incur gas fees, but they are often crucial to carrying out the action in question, and can be viewed on Etherscan. For more detail, see MetaMask's article on the topic: Internal Transactions",
       "Simplified Chinese": "内部交易",
@@ -6114,7 +6114,7 @@ const glossary = {
   "Interoperability": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Blockchain interoperability, or cross-chain interoperability, is the ability to see and share information across multiple blockchains. One of the clear benefits of blockchain interoperability is being able to trade assets across various blockchains without the need for a centralized, custodial exchange. Interoperability'",
+    "definition": "'Blockchain interoperability, or cross-chain interoperability, is the ability to see and share information across multiple blockchains. One of the clear benefits of blockchain interoperability is being able to trade assets across various blockchains without the need for a centralized, custodial exchange. Interoperability'",
     "locales": {
       "Consensys' Definition": "Blockchain interoperability, or cross-chain interoperability, is the ability to see and share information across multiple blockchains. One of the clear benefits of blockchain interoperability is being able to trade assets across various blockchains without the need for a centralized, custodial exchange. Interoperability",
       "Simplified Chinese": "互操作性",
@@ -6146,7 +6146,7 @@ const glossary = {
   "InterPlanetary File System (IPFS)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A decentralized file storage and referencing system for the Ethereum blockchain, and the internet as a whole. IFPS is an open source protocol that enables storing and sharing hypermedia (text, audio, visual) in a distributed manner without relying on a single point of failure. This distributed file system enables applications to run faster, safer and more transparently.'",
+    "definition": "'A decentralized file storage and referencing system for the Ethereum blockchain, and the internet as a whole. IFPS is an open source protocol that enables storing and sharing hypermedia (text, audio, visual) in a distributed manner without relying on a single point of failure. This distributed file system enables applications to run faster, safer and more transparently.'",
     "locales": {
       "Consensys' Definition": "A decentralized file storage and referencing system for the Ethereum blockchain, and the internet as a whole. IFPS is an open source protocol that enables storing and sharing hypermedia (text, audio, visual) in a distributed manner without relying on a single point of failure. This distributed file system enables applications to run faster, safer and more transparently.",
       "Simplified Chinese": "星际文件系统（IPFS）",
@@ -6178,7 +6178,7 @@ const glossary = {
   "IP address": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A unique string of characters that identifies each computer using the Internet Protocol to communicate over a network.'",
+    "definition": "'A unique string of characters that identifies each computer using the Internet Protocol to communicate over a network.'",
     "locales": {
       "Consensys' Definition": "A unique string of characters that identifies each computer using the Internet Protocol to communicate over a network.",
       "Simplified Chinese": "IP 地址",
@@ -6210,7 +6210,7 @@ const glossary = {
   "JSON file": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. it is commonly used in public blockchain systems to move data.'",
+    "definition": "'JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. it is commonly used in public blockchain systems to move data.'",
     "locales": {
       "Consensys' Definition": "JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. it is commonly used in public blockchain systems to move data.",
       "Simplified Chinese": "JSON 文件",
@@ -6242,7 +6242,7 @@ const glossary = {
   "JSON-RPC": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'JSON-RPC is, quite simply, a method used to move data around computer systems, and predates public blockchain technology. It was chosen as a standard for moving data between blockchain networks and Internet browsers and wallets, with the result that these networks have come to be called 'RPC networks', despite JSON-RPC not being their defining technical feature.'",
+    "definition": "'JSON-RPC is, quite simply, a method used to move data around computer systems, and predates public blockchain technology. It was chosen as a standard for moving data between blockchain networks and Internet browsers and wallets, with the result that these networks have come to be called 'RPC networks', despite JSON-RPC not being their defining technical feature.'",
     "locales": {
       "Consensys' Definition": "JSON-RPC is, quite simply, a method used to move data around computer systems, and predates public blockchain technology. It was chosen as a standard for moving data between blockchain networks and Internet browsers and wallets, with the result that these networks have come to be called 'RPC networks', despite JSON-RPC not being their defining technical feature.",
       "Simplified Chinese": "JSON-RPC",
@@ -6274,7 +6274,7 @@ const glossary = {
   "keystore file": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A keystore file is a special, encrypted version of a private key in JSON format. See also 'private key'.'",
+    "definition": "'A keystore file is a special, encrypted version of a private key in JSON format. See also 'private key'.'",
     "locales": {
       "Consensys' Definition": "A keystore file is a special, encrypted version of a private key in JSON format. See also 'private key'.",
       "Simplified Chinese": "密钥库文件",
@@ -6306,7 +6306,7 @@ const glossary = {
   "Know Your Customer (KYC)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A process in which a business must verify the identity and background information (address, financial details, etc.) of their customers. For example, current regulations and laws require banks and other financial institutions to keep and report customers' personal information and transactions.'",
+    "definition": "'A process in which a business must verify the identity and background information (address, financial details, etc.) of their customers. For example, current regulations and laws require banks and other financial institutions to keep and report customers' personal information and transactions.'",
     "locales": {
       "Consensys' Definition": "A process in which a business must verify the identity and background information (address, financial details, etc.) of their customers. For example, current regulations and laws require banks and other financial institutions to keep and report customers' personal information and transactions.",
       "Simplified Chinese": "实名认证（KYC）",
@@ -6338,7 +6338,7 @@ const glossary = {
   "Know Your Transaction": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Know Your Transaction (KYT) is a process employed by financial institutions to monitor the merchants' businesses through the analysis of transaction data.'",
+    "definition": "'Know Your Transaction (KYT) is a process employed by financial institutions to monitor the merchants' businesses through the analysis of transaction data.'",
     "locales": {
       "Consensys' Definition": "Know Your Transaction (KYT) is a process employed by financial institutions to monitor the merchants' businesses through the analysis of transaction data.",
       "Simplified Chinese": "交易监控（KYT）",
@@ -6370,7 +6370,7 @@ const glossary = {
   "Kovan": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Kovan test network has been deprecated. Ethereum used to have four testnets: Ropsten, Rinkeby, Goerli, and Kovan (Kiln was also added for specific purposes relating to the Merge in 2022). However, after the Merge occurred on September 15th 2022, most of the existing testnets began being deprecated (taken out of service). They may still work, but could be unreliable. Sepolia and Goerli are now the only two available.'",
+    "definition": "'An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Kovan test network has been deprecated. Ethereum used to have four testnets: Ropsten, Rinkeby, Goerli, and Kovan (Kiln was also added for specific purposes relating to the Merge in 2022). However, after the Merge occurred on September 15th 2022, most of the existing testnets began being deprecated (taken out of service). They may still work, but could be unreliable. Sepolia and Goerli are now the only two available.'",
     "locales": {
       "Consensys' Definition": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Kovan test network has been deprecated. Ethereum used to have four testnets: Ropsten, Rinkeby, Goerli, and Kovan (Kiln was also added for specific purposes relating to the Merge in 2022). However, after the Merge occurred on September 15th 2022, most of the existing testnets began being deprecated (taken out of service). They may still work, but could be unreliable. Sepolia and Goerli are now the only two available.",
       "Simplified Chinese": "Kovan",
@@ -6402,7 +6402,7 @@ const glossary = {
   "KYC": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronym; see 'Know Your Customer'.'",
+    "definition": "'Acronym; see 'Know Your Customer'.'",
     "locales": {
       "Consensys' Definition": "Acronym; see 'Know Your Customer'.",
       "Simplified Chinese": "KYC（实名认证）",
@@ -6434,7 +6434,7 @@ const glossary = {
   "KYT": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronym; see 'Know Your Transaction'.'",
+    "definition": "'Acronym; see 'Know Your Transaction'.'",
     "locales": {
       "Consensys' Definition": "Acronym; see 'Know Your Transaction'.",
       "Simplified Chinese": "KYT（交易监控）",
@@ -6466,7 +6466,7 @@ const glossary = {
   "Latency": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of Network latency:  refers to the amount of time it takes for a computer on one network to communicate with a computer on another network. Network latency'",
+    "definition": "'In the context of Network latency:  refers to the amount of time it takes for a computer on one network to communicate with a computer on another network. Network latency'",
     "locales": {
       "Consensys' Definition": "In the context of Network latency:  refers to the amount of time it takes for a computer on one network to communicate with a computer on another network. Network latency",
       "Simplified Chinese": "延迟",
@@ -6498,7 +6498,7 @@ const glossary = {
   "Lattice1": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Lattice1 is a powerful, secure, and user-friendly hardware wallet that allows you to manage an unlimited number of wallets and easily transact on the blockchain.'",
+    "definition": "'The Lattice1 is a powerful, secure, and user-friendly hardware wallet that allows you to manage an unlimited number of wallets and easily transact on the blockchain.'",
     "locales": {
       "Consensys' Definition": "The Lattice1 is a powerful, secure, and user-friendly hardware wallet that allows you to manage an unlimited number of wallets and easily transact on the blockchain.",
       "Simplified Chinese": "Lattice1",
@@ -6530,7 +6530,7 @@ const glossary = {
   "Launchpad": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Launchpad is the Ethereum Foundation's official way to deposit your ETH for staking on Ethereum. Ethereum Launchpad'",
+    "definition": "'The Launchpad is the Ethereum Foundation's official way to deposit your ETH for staking on Ethereum. Ethereum Launchpad'",
     "locales": {
       "Consensys' Definition": "The Launchpad is the Ethereum Foundation's official way to deposit your ETH for staking on Ethereum. Ethereum Launchpad",
       "Simplified Chinese": "Launchpad",
@@ -6562,7 +6562,7 @@ const glossary = {
   "Layer 0": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Layer 0 in blockchain refers to the underlying infrastructure that supports the blockchain network. It includes the physical hardware, such as computers, servers, and other network components, as well as the software protocols that govern the interactions between the nodes in the network.<br><br>In other words, Layer 0 is the foundation upon which the blockchain network is built. It provides the necessary resources and technical capabilities for the network to function, such as computing power, storage, and network connectivity. Layer 0 is essential to the operation and security of the blockchain network, as it ensures that data is transmitted and stored correctly and securely across the network.<br><br>Layer 0 is sometimes also referred to as \"Layer Zero\" or \"L0\". It is important to note that the concept of Layer 0 is not unique to blockchain technology, but is a more general term used to describe the physical and technical infrastructure underlying any type of computer network.'",
+    "definition": "'Layer 0 in blockchain refers to the underlying infrastructure that supports the blockchain network. It includes the physical hardware, such as computers, servers, and other network components, as well as the software protocols that govern the interactions between the nodes in the network.<br><br>In other words, Layer 0 is the foundation upon which the blockchain network is built. It provides the necessary resources and technical capabilities for the network to function, such as computing power, storage, and network connectivity. Layer 0 is essential to the operation and security of the blockchain network, as it ensures that data is transmitted and stored correctly and securely across the network.<br><br>Layer 0 is sometimes also referred to as \"Layer Zero\" or \"L0\". It is important to note that the concept of Layer 0 is not unique to blockchain technology, but is a more general term used to describe the physical and technical infrastructure underlying any type of computer network.'",
     "locales": {
       "Consensys' Definition": "Layer 0 in blockchain refers to the underlying infrastructure that supports the blockchain network. It includes the physical hardware, such as computers, servers, and other network components, as well as the software protocols that govern the interactions between the nodes in the network.\n\nIn other words, Layer 0 is the foundation upon which the blockchain network is built. It provides the necessary resources and technical capabilities for the network to function, such as computing power, storage, and network connectivity. Layer 0 is essential to the operation and security of the blockchain network, as it ensures that data is transmitted and stored correctly and securely across the network.\n\nLayer 0 is sometimes also referred to as \"Layer Zero\" or \"L0\". It is important to note that the concept of Layer 0 is not unique to blockchain technology, but is a more general term used to describe the physical and technical infrastructure underlying any type of computer network.",
       "Simplified Chinese": "零层",
@@ -6594,7 +6594,7 @@ const glossary = {
   "Layer 1": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Layer 1 in blockchain refers to the base layer of the blockchain protocol. It is the layer that contains the core elements of the blockchain, including the consensus mechanism, the data structure, and the rules that govern the creation and transfer of assets or tokens.<br><br>In other words, Layer 1 is the foundation of the blockchain technology stack, upon which all other layers and applications are built. It is responsible for maintaining the integrity of the blockchain network and ensuring that all transactions are valid and secure.<br><br>Layer 1 is designed to be decentralized, meaning that no single entity has control over the network. This is achieved through the use of consensus mechanisms, such as Proof of Work (PoW), Proof of Stake (PoS), or other methods, which enable participants to reach agreement on the validity of transactions and the state of the network.<br><br>Some examples of Layer 1 blockchain protocols include Bitcoin, Ethereum, Binance Smart Chain, Avalanche.'",
+    "definition": "'Layer 1 in blockchain refers to the base layer of the blockchain protocol. It is the layer that contains the core elements of the blockchain, including the consensus mechanism, the data structure, and the rules that govern the creation and transfer of assets or tokens.<br><br>In other words, Layer 1 is the foundation of the blockchain technology stack, upon which all other layers and applications are built. It is responsible for maintaining the integrity of the blockchain network and ensuring that all transactions are valid and secure.<br><br>Layer 1 is designed to be decentralized, meaning that no single entity has control over the network. This is achieved through the use of consensus mechanisms, such as Proof of Work (PoW), Proof of Stake (PoS), or other methods, which enable participants to reach agreement on the validity of transactions and the state of the network.<br><br>Some examples of Layer 1 blockchain protocols include Bitcoin, Ethereum, Binance Smart Chain, Avalanche.'",
     "locales": {
       "Consensys' Definition": "Layer 1 in blockchain refers to the base layer of the blockchain protocol. It is the layer that contains the core elements of the blockchain, including the consensus mechanism, the data structure, and the rules that govern the creation and transfer of assets or tokens.\n\nIn other words, Layer 1 is the foundation of the blockchain technology stack, upon which all other layers and applications are built. It is responsible for maintaining the integrity of the blockchain network and ensuring that all transactions are valid and secure.\n\nLayer 1 is designed to be decentralized, meaning that no single entity has control over the network. This is achieved through the use of consensus mechanisms, such as Proof of Work (PoW), Proof of Stake (PoS), or other methods, which enable participants to reach agreement on the validity of transactions and the state of the network.\n\nSome examples of Layer 1 blockchain protocols include Bitcoin, Ethereum, Binance Smart Chain, Avalanche.",
       "Simplified Chinese": "一层公链",
@@ -6626,7 +6626,7 @@ const glossary = {
   "Layer 2": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A Layer 2 network, or L2, is a blockchain that is built specifically to scale another network. For a full understanding of how this is achieved, see here. Some popular examples of this in the Ethereum ecosystem are Arbitrum, Optimism, and StarkNet. These chains are specifically built to handle a large number of transactions quickly by relying on Ethereum Mainnet for security functions, while optimizing for speed and scale. These networks are considered \"scaling solutions\" while not being part of Ethereum's protocol-level scaling efforts. See also \"blockchain trilemma\", \"modular blockchain\", \"Serenity\". Contrast with \"sidechain\".'",
+    "definition": "'A Layer 2 network, or L2, is a blockchain that is built specifically to scale another network. For a full understanding of how this is achieved, see here. Some popular examples of this in the Ethereum ecosystem are Arbitrum, Optimism, and StarkNet. These chains are specifically built to handle a large number of transactions quickly by relying on Ethereum Mainnet for security functions, while optimizing for speed and scale. These networks are considered \"scaling solutions\" while not being part of Ethereum's protocol-level scaling efforts. See also \"blockchain trilemma\", \"modular blockchain\", \"Serenity\". Contrast with \"sidechain\".'",
     "locales": {
       "Consensys' Definition": "A Layer 2 network, or L2, is a blockchain that is built specifically to scale another network. For a full understanding of how this is achieved, see here. Some popular examples of this in the Ethereum ecosystem are Arbitrum, Optimism, and StarkNet. These chains are specifically built to handle a large number of transactions quickly by relying on Ethereum Mainnet for security functions, while optimizing for speed and scale. These networks are considered \"scaling solutions\" while not being part of Ethereum's protocol-level scaling efforts. See also \"blockchain trilemma\", \"modular blockchain\", \"Serenity\". Contrast with \"sidechain\".",
       "Simplified Chinese": "二层公链",
@@ -6658,7 +6658,7 @@ const glossary = {
   "Learn; MetaMask Learn": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.<br><br>https://learn.metamask.io/'",
+    "definition": "'MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.<br><br>https://learn.metamask.io/'",
     "locales": {
       "Consensys' Definition": "MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.\n\nhttps://learn.metamask.io/",
       "Simplified Chinese": "Learn；MetaMask Learn",
@@ -6690,7 +6690,7 @@ const glossary = {
   "Ledger": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "''",
+    "definition": "''",
     "locales": {
       "Consensys' Definition": "",
       "Simplified Chinese": "Ledger",
@@ -6722,7 +6722,7 @@ const glossary = {
   "Ledger Live App": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Ledger Live is a hardware wallet interface app for users of the Ledger Nano X, Ledger Nano S, and Ledger Blue.<br><br>The app enables Ledger users to manage their cryptocurrency hardware and assets. Additionally, it features real-time price updates, multi-account management, and the convenience of an extremely simple setup process.<br><br>Ledger Live combines the management of your individual crypto assets and device management into one interface, with the intention of gradually replacing the Chrome-based applications system that previously annoyed some users of the device.'",
+    "definition": "'Ledger Live is a hardware wallet interface app for users of the Ledger Nano X, Ledger Nano S, and Ledger Blue.<br><br>The app enables Ledger users to manage their cryptocurrency hardware and assets. Additionally, it features real-time price updates, multi-account management, and the convenience of an extremely simple setup process.<br><br>Ledger Live combines the management of your individual crypto assets and device management into one interface, with the intention of gradually replacing the Chrome-based applications system that previously annoyed some users of the device.'",
     "locales": {
       "Consensys' Definition": "Ledger Live is a hardware wallet interface app for users of the Ledger Nano X, Ledger Nano S, and Ledger Blue.\n\nThe app enables Ledger users to manage their cryptocurrency hardware and assets. Additionally, it features real-time price updates, multi-account management, and the convenience of an extremely simple setup process.\n\nLedger Live combines the management of your individual crypto assets and device management into one interface, with the intention of gradually replacing the Chrome-based applications system that previously annoyed some users of the device.",
       "Simplified Chinese": "Ledger Live App",
@@ -6754,7 +6754,7 @@ const glossary = {
   "Library": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A collection of non-volatile resources used by computer programs, often for software development. These may include configuration data, documentation, help data, message templates, pre-written code and subroutines, classes, values or type specifications. Software Library'",
+    "definition": "'A collection of non-volatile resources used by computer programs, often for software development. These may include configuration data, documentation, help data, message templates, pre-written code and subroutines, classes, values or type specifications. Software Library'",
     "locales": {
       "Consensys' Definition": "A collection of non-volatile resources used by computer programs, often for software development. These may include configuration data, documentation, help data, message templates, pre-written code and subroutines, classes, values or type specifications. Software Library",
       "Simplified Chinese": "软件库",
@@ -6786,7 +6786,7 @@ const glossary = {
   "Lido": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Lido is a liquid staking protocol for Ethereum that allows users with less than 32 ETH to collectively fund new validators and receive rewards.'",
+    "definition": "'Lido is a liquid staking protocol for Ethereum that allows users with less than 32 ETH to collectively fund new validators and receive rewards.'",
     "locales": {
       "Consensys' Definition": "Lido is a liquid staking protocol for Ethereum that allows users with less than 32 ETH to collectively fund new validators and receive rewards.",
       "Simplified Chinese": "Lido",
@@ -6818,7 +6818,7 @@ const glossary = {
   "light client": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In computing, a 'client' is a software that runs or accesses a program made available by a remote computer. With blockchain networks, then, clients are the programs that sync blockchain data and participate in network consensus. More often and more specifically, 'Layer 2' is used as a noun, to refer to a type of network that is specifically built to handle a large number of transactions quickly by relying on Ethereum mainnet for security functions, and optimizing for speed and scale. Examples include Arbitrum and Optimism; this is different from a 'sidechain', which is a network that has its own security mechanism, yet still allows compatibility and bridging of assets between itself and Ethereum.'",
+    "definition": "'In computing, a 'client' is a software that runs or accesses a program made available by a remote computer. With blockchain networks, then, clients are the programs that sync blockchain data and participate in network consensus. More often and more specifically, 'Layer 2' is used as a noun, to refer to a type of network that is specifically built to handle a large number of transactions quickly by relying on Ethereum mainnet for security functions, and optimizing for speed and scale. Examples include Arbitrum and Optimism; this is different from a 'sidechain', which is a network that has its own security mechanism, yet still allows compatibility and bridging of assets between itself and Ethereum.'",
     "locales": {
       "Consensys' Definition": "In computing, a 'client' is a software that runs or accesses a program made available by a remote computer. With blockchain networks, then, clients are the programs that sync blockchain data and participate in network consensus. More often and more specifically, 'Layer 2' is used as a noun, to refer to a type of network that is specifically built to handle a large number of transactions quickly by relying on Ethereum mainnet for security functions, and optimizing for speed and scale. Examples include Arbitrum and Optimism; this is different from a 'sidechain', which is a network that has its own security mechanism, yet still allows compatibility and bridging of assets between itself and Ethereum.",
       "Simplified Chinese": "轻客户端",
@@ -6850,7 +6850,7 @@ const glossary = {
   "Lightning Network": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently.<br><br>This layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain.'",
+    "definition": "'The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently.<br><br>This layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain.'",
     "locales": {
       "Consensys' Definition": "The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently.\n\nThis layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain.",
       "Simplified Chinese": "Lightning Network",
@@ -6882,7 +6882,7 @@ const glossary = {
   "Liquid Democracy (Delegative Democracy)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A government system where votes can be delegated or proxied to other individuals such as friends, politicians, or subject matter experts. For example, in a liquid democracy, Bernadette could give Ahmad her vote and Ahmad would then vote for both himself and Bernadette. Liquid democracy is used at times as a governance mechanism for Decentralized Autonomous Organizations (DAOs) wherein every participant is able to vote or delegate their vote to another individual.'",
+    "definition": "'A government system where votes can be delegated or proxied to other individuals such as friends, politicians, or subject matter experts. For example, in a liquid democracy, Bernadette could give Ahmad her vote and Ahmad would then vote for both himself and Bernadette. Liquid democracy is used at times as a governance mechanism for Decentralized Autonomous Organizations (DAOs) wherein every participant is able to vote or delegate their vote to another individual.'",
     "locales": {
       "Consensys' Definition": "A government system where votes can be delegated or proxied to other individuals such as friends, politicians, or subject matter experts. For example, in a liquid democracy, Bernadette could give Ahmad her vote and Ahmad would then vote for both himself and Bernadette. Liquid democracy is used at times as a governance mechanism for Decentralized Autonomous Organizations (DAOs) wherein every participant is able to vote or delegate their vote to another individual.",
       "Simplified Chinese": "委任式民主",
@@ -6914,7 +6914,7 @@ const glossary = {
   "Liquidation": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Liquidation happens when a trader has insufficient funds to keep a leveraged trade open. Liquidation'",
+    "definition": "'Liquidation happens when a trader has insufficient funds to keep a leveraged trade open. Liquidation'",
     "locales": {
       "Consensys' Definition": "Liquidation happens when a trader has insufficient funds to keep a leveraged trade open. Liquidation",
       "Simplified Chinese": "清算",
@@ -6946,7 +6946,7 @@ const glossary = {
   "liquidity": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An asset is considered more ‘liquid’ if it can easily be converted into cash, and therefore, ‘liquidity’ refers to the availability of assets to a company or market. Conversely, the harder it is to turn an asset into cash, the more illiquid the asset. For example, stocks are considered relatively liquid assets, as they can be easily converted to cash, while real estate is considered an illiquid asset. The liquidity of an asset affects its risk potential and market price.'",
+    "definition": "'An asset is considered more ‘liquid’ if it can easily be converted into cash, and therefore, ‘liquidity’ refers to the availability of assets to a company or market. Conversely, the harder it is to turn an asset into cash, the more illiquid the asset. For example, stocks are considered relatively liquid assets, as they can be easily converted to cash, while real estate is considered an illiquid asset. The liquidity of an asset affects its risk potential and market price.'",
     "locales": {
       "Consensys' Definition": "An asset is considered more ‘liquid’ if it can easily be converted into cash, and therefore, ‘liquidity’ refers to the availability of assets to a company or market. Conversely, the harder it is to turn an asset into cash, the more illiquid the asset. For example, stocks are considered relatively liquid assets, as they can be easily converted to cash, while real estate is considered an illiquid asset. The liquidity of an asset affects its risk potential and market price.",
       "Simplified Chinese": "流动性",
@@ -6978,7 +6978,7 @@ const glossary = {
   "liquidity pool": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A liquidity pool is a crowdsourced pool of cryptocurrencies or tokens locked in a smart contract that is used to facilitate trades between the assets on a decentralized exchange (DEX). Instead of traditional markets of buyers and sellers, many decentralized finance (DeFi) platforms use automated market makers (AMMs), which allow digital assets to be traded in an automatic and permissionless manner through the use of liquidity pools.'",
+    "definition": "'A liquidity pool is a crowdsourced pool of cryptocurrencies or tokens locked in a smart contract that is used to facilitate trades between the assets on a decentralized exchange (DEX). Instead of traditional markets of buyers and sellers, many decentralized finance (DeFi) platforms use automated market makers (AMMs), which allow digital assets to be traded in an automatic and permissionless manner through the use of liquidity pools.'",
     "locales": {
       "Consensys' Definition": "A liquidity pool is a crowdsourced pool of cryptocurrencies or tokens locked in a smart contract that is used to facilitate trades between the assets on a decentralized exchange (DEX). Instead of traditional markets of buyers and sellers, many decentralized finance (DeFi) platforms use automated market makers (AMMs), which allow digital assets to be traded in an automatic and permissionless manner through the use of liquidity pools.",
       "Simplified Chinese": "流动性池",
@@ -7010,7 +7010,7 @@ const glossary = {
   "liquidity staking": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Liquid staking allows users to stake tokens and simultaneously use them in the DeFi ecosystem. This is made possible by wrapping the staked tokens and providing users with a wrapped token that is a claim on the underlying collateral. The wrapped tokens can be transferred and generate yield.<br>Liquid staking permits users to stake and unstake their coins without being beholden to a lock-up period. It thus enables greater capital efficiency and increased liquidity on proof-of-stake blockchains, allowing users to maximize the benefits of staking and DeFi simultaneously. Furthermore, liquid staking enhances network security on PoS chains.'",
+    "definition": "'Liquid staking allows users to stake tokens and simultaneously use them in the DeFi ecosystem. This is made possible by wrapping the staked tokens and providing users with a wrapped token that is a claim on the underlying collateral. The wrapped tokens can be transferred and generate yield.<br>Liquid staking permits users to stake and unstake their coins without being beholden to a lock-up period. It thus enables greater capital efficiency and increased liquidity on proof-of-stake blockchains, allowing users to maximize the benefits of staking and DeFi simultaneously. Furthermore, liquid staking enhances network security on PoS chains.'",
     "locales": {
       "Consensys' Definition": "Liquid staking allows users to stake tokens and simultaneously use them in the DeFi ecosystem. This is made possible by wrapping the staked tokens and providing users with a wrapped token that is a claim on the underlying collateral. The wrapped tokens can be transferred and generate yield.\nLiquid staking permits users to stake and unstake their coins without being beholden to a lock-up period. It thus enables greater capital efficiency and increased liquidity on proof-of-stake blockchains, allowing users to maximize the benefits of staking and DeFi simultaneously. Furthermore, liquid staking enhances network security on PoS chains.",
       "Simplified Chinese": "流动性质押",
@@ -7042,7 +7042,7 @@ const glossary = {
   "Low": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of \"gas fees\", Low is a category that allows you to wait a bit longer and save money if you choose. There are 3 categories available in MetaMask: Low, Market, Aggressive<br><br>Using Advanced Gas Controls'",
+    "definition": "'In the context of \"gas fees\", Low is a category that allows you to wait a bit longer and save money if you choose. There are 3 categories available in MetaMask: Low, Market, Aggressive<br><br>Using Advanced Gas Controls'",
     "locales": {
       "Consensys' Definition": "In the context of \"gas fees\", Low is a category that allows you to wait a bit longer and save money if you choose. There are 3 categories available in MetaMask: Low, Market, Aggressive\n\nUsing Advanced Gas Controls",
       "Simplified Chinese": "低级型",
@@ -7074,7 +7074,7 @@ const glossary = {
   "mainnet": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The primary network where actual transactions take place on a specific distributed ledger. For example, The Ethereum Mainnet (capitalized in this case) is the public blockchain where network validation and transactions take place'",
+    "definition": "'The primary network where actual transactions take place on a specific distributed ledger. For example, The Ethereum Mainnet (capitalized in this case) is the public blockchain where network validation and transactions take place'",
     "locales": {
       "Consensys' Definition": "The primary network where actual transactions take place on a specific distributed ledger. For example, The Ethereum Mainnet (capitalized in this case) is the public blockchain where network validation and transactions take place",
       "Simplified Chinese": "主网",
@@ -7106,7 +7106,7 @@ const glossary = {
   "Maker Protocol": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Maker Protocol, built on the Ethereum blockchain, enables users to create and hold currency. Current elements of the Maker Protocol are the DAI stable coin, Maker Vaults, and Voting. MakerDAO governs the Maker Protocol by deciding on key parameters (e.g., stability fees, collateral types and rates, etc.)'",
+    "definition": "'The Maker Protocol, built on the Ethereum blockchain, enables users to create and hold currency. Current elements of the Maker Protocol are the DAI stable coin, Maker Vaults, and Voting. MakerDAO governs the Maker Protocol by deciding on key parameters (e.g., stability fees, collateral types and rates, etc.)'",
     "locales": {
       "Consensys' Definition": "The Maker Protocol, built on the Ethereum blockchain, enables users to create and hold currency. Current elements of the Maker Protocol are the DAI stable coin, Maker Vaults, and Voting. MakerDAO governs the Maker Protocol by deciding on key parameters (e.g., stability fees, collateral types and rates, etc.)",
       "Simplified Chinese": "稳定币协议",
@@ -7138,7 +7138,7 @@ const glossary = {
   "Malware": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.'",
+    "definition": "'Any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.'",
     "locales": {
       "Consensys' Definition": "Any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.",
       "Simplified Chinese": "恶意软件",
@@ -7170,7 +7170,7 @@ const glossary = {
   "market cap": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Short for 'market capitalization', this refers to the total value held in a particular industry, market, company, or asset. For a publicly traded company, the market cap is the total dollar market value of a company's outstanding shares. For Bitcoin or Ethereum, the total market cap is a reflection of the current existing supply times the market price.'",
+    "definition": "'Short for 'market capitalization', this refers to the total value held in a particular industry, market, company, or asset. For a publicly traded company, the market cap is the total dollar market value of a company's outstanding shares. For Bitcoin or Ethereum, the total market cap is a reflection of the current existing supply times the market price.'",
     "locales": {
       "Consensys' Definition": "Short for 'market capitalization', this refers to the total value held in a particular industry, market, company, or asset. For a publicly traded company, the market cap is the total dollar market value of a company's outstanding shares. For Bitcoin or Ethereum, the total market cap is a reflection of the current existing supply times the market price.",
       "Simplified Chinese": "市值",
@@ -7202,7 +7202,7 @@ const glossary = {
   "Maximal Extractable Value (MEV)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Originally known as Miner Extractable Value, MEV is a broad complex topic that refers to the inclusion, exclusion, and reordering of transactions within a block in order to extract more value from it, generally in excess of what a validator (or miner, on PoW networks) would earn from producing the block. MEV includes activities such as frontrunning, arbitrage, and what could be considered malicious actions to profit off of other users' transactions. This is a very active topic of research that is changing rapidly.'",
+    "definition": "'Originally known as Miner Extractable Value, MEV is a broad complex topic that refers to the inclusion, exclusion, and reordering of transactions within a block in order to extract more value from it, generally in excess of what a validator (or miner, on PoW networks) would earn from producing the block. MEV includes activities such as frontrunning, arbitrage, and what could be considered malicious actions to profit off of other users' transactions. This is a very active topic of research that is changing rapidly.'",
     "locales": {
       "Consensys' Definition": "Originally known as Miner Extractable Value, MEV is a broad complex topic that refers to the inclusion, exclusion, and reordering of transactions within a block in order to extract more value from it, generally in excess of what a validator (or miner, on PoW networks) would earn from producing the block. MEV includes activities such as frontrunning, arbitrage, and what could be considered malicious actions to profit off of other users' transactions. This is a very active topic of research that is changing rapidly.",
       "Simplified Chinese": "最大可提取价值（MEV）",
@@ -7234,7 +7234,7 @@ const glossary = {
   "Maximum Priority Fee": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The fee, or \"miner tip\", goes to the validator or miner, and incentivizes them to prioritize your transaction.'",
+    "definition": "'The fee, or \"miner tip\", goes to the validator or miner, and incentivizes them to prioritize your transaction.'",
     "locales": {
       "Consensys' Definition": "The fee, or \"miner tip\", goes to the validator or miner, and incentivizes them to prioritize your transaction.",
       "Simplified Chinese": "最大优先交易费用",
@@ -7266,7 +7266,7 @@ const glossary = {
   "memory pool; mempool": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'a.k.a. Transaction Pool<br><br>When a user submits a transaction to the Ethereum network–or many other networks based on Ethereum–the transaction goes into what’s known as a “transaction pool”, or “txpool” for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are “picked up” and included in the next block, and there is currently a lot of research surrounding how this decision gets made. In Bitcoin, the transaction pool was referred to as the “memory pool”, or “mempool”, and often these terms are used interchangeably.'",
+    "definition": "'a.k.a. Transaction Pool<br><br>When a user submits a transaction to the Ethereum network–or many other networks based on Ethereum–the transaction goes into what’s known as a “transaction pool”, or “txpool” for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are “picked up” and included in the next block, and there is currently a lot of research surrounding how this decision gets made. In Bitcoin, the transaction pool was referred to as the “memory pool”, or “mempool”, and often these terms are used interchangeably.'",
     "locales": {
       "Consensys' Definition": "a.k.a. Transaction Pool\n\nWhen a user submits a transaction to the Ethereum network–or many other networks based on Ethereum–the transaction goes into what’s known as a “transaction pool”, or “txpool” for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are “picked up” and included in the next block, and there is currently a lot of research surrounding how this decision gets made. In Bitcoin, the transaction pool was referred to as the “memory pool”, or “mempool”, and often these terms are used interchangeably.",
       "Simplified Chinese": "内存池（Mempool）",
@@ -7298,7 +7298,7 @@ const glossary = {
   "Merge (noun)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Finalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.'",
+    "definition": "'Finalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.'",
     "locales": {
       "Consensys' Definition": "Finalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.",
       "Simplified Chinese": "合并",
@@ -7330,7 +7330,7 @@ const glossary = {
   "Merkle Patricia trie": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Often referred to simply as a \"Merkle trie\" (pronounced \"tree\"), a Merkle Patricia trie is a data structure in which a single hash code function (see 'hash') splits into smaller branches. In a similar way to a family tree, where a parent branch splits into child branches, which are then extrapolated into grandchild branches, a Merkle Patricia trie keeps a record of the filiation and history of each element. This type of data structure enables for faster verification on a blockchain network.'",
+    "definition": "'Often referred to simply as a \"Merkle trie\" (pronounced \"tree\"), a Merkle Patricia trie is a data structure in which a single hash code function (see 'hash') splits into smaller branches. In a similar way to a family tree, where a parent branch splits into child branches, which are then extrapolated into grandchild branches, a Merkle Patricia trie keeps a record of the filiation and history of each element. This type of data structure enables for faster verification on a blockchain network.'",
     "locales": {
       "Consensys' Definition": "Often referred to simply as a \"Merkle trie\" (pronounced \"tree\"), a Merkle Patricia trie is a data structure in which a single hash code function (see 'hash') splits into smaller branches. In a similar way to a family tree, where a parent branch splits into child branches, which are then extrapolated into grandchild branches, a Merkle Patricia trie keeps a record of the filiation and history of each element. This type of data structure enables for faster verification on a blockchain network.",
       "Simplified Chinese": "梅克尔树",
@@ -7362,7 +7362,7 @@ const glossary = {
   "Mesh": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'ConsenSys Mesh is a network of loosely coupled, tightly aligned teams, products, and investments advancing the Ethereum ecosystem and the arrival of web3.'",
+    "definition": "'ConsenSys Mesh is a network of loosely coupled, tightly aligned teams, products, and investments advancing the Ethereum ecosystem and the arrival of web3.'",
     "locales": {
       "Consensys' Definition": "ConsenSys Mesh is a network of loosely coupled, tightly aligned teams, products, and investments advancing the Ethereum ecosystem and the arrival of web3.",
       "Simplified Chinese": "Mesh",
@@ -7394,7 +7394,7 @@ const glossary = {
   "Metadata": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of \"NFT metadata\": Metadata is \"data that provides information about other data\" Metadata'",
+    "definition": "'In the context of \"NFT metadata\": Metadata is \"data that provides information about other data\" Metadata'",
     "locales": {
       "Consensys' Definition": "In the context of \"NFT metadata\": Metadata is \"data that provides information about other data\" Metadata",
       "Simplified Chinese": "元数据",
@@ -7426,7 +7426,7 @@ const glossary = {
   "MetaMask": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMask, either in its mobile app form on iOS and Android, or in its browser extension form, is a tool to access and interact with blockchains and the decentralized web. It allows users to manage their digital identity and the permission of others to interact with that identity; its functions include that of a wallet, a dapp permissions manager, and access to token swaps. It is an open-source project that encourages developers from other projects to build on top of it through MetaMask Snaps.'",
+    "definition": "'MetaMask, either in its mobile app form on iOS and Android, or in its browser extension form, is a tool to access and interact with blockchains and the decentralized web. It allows users to manage their digital identity and the permission of others to interact with that identity; its functions include that of a wallet, a dapp permissions manager, and access to token swaps. It is an open-source project that encourages developers from other projects to build on top of it through MetaMask Snaps.'",
     "locales": {
       "Consensys' Definition": "MetaMask, either in its mobile app form on iOS and Android, or in its browser extension form, is a tool to access and interact with blockchains and the decentralized web. It allows users to manage their digital identity and the permission of others to interact with that identity; its functions include that of a wallet, a dapp permissions manager, and access to token swaps. It is an open-source project that encourages developers from other projects to build on top of it through MetaMask Snaps.",
       "Simplified Chinese": "MetaMask",
@@ -7458,7 +7458,7 @@ const glossary = {
   "MetaMask Bridge": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMask Bridge: You can now access a curated, straightforward bridging experience in MetaMask Bridge, available at https://portfolio.metamask.io/bridge <br>Only certain tokens and network combinations are available initially. MetaMask Bridge'",
+    "definition": "'MetaMask Bridge: You can now access a curated, straightforward bridging experience in MetaMask Bridge, available at https://portfolio.metamask.io/bridge <br>Only certain tokens and network combinations are available initially. MetaMask Bridge'",
     "locales": {
       "Consensys' Definition": "MetaMask Bridge: You can now access a curated, straightforward bridging experience in MetaMask Bridge, available at https://portfolio.metamask.io/bridge \nOnly certain tokens and network combinations are available initially. MetaMask Bridge",
       "Simplified Chinese": "MetaMask Bridge",
@@ -7490,7 +7490,7 @@ const glossary = {
   "MetaMask Community Platform": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The MetaMask forums located at community.metamask.io<br><br>MetaMask's community platform can be accessed here:<br>MetaMask Community'",
+    "definition": "'The MetaMask forums located at community.metamask.io<br><br>MetaMask's community platform can be accessed here:<br>MetaMask Community'",
     "locales": {
       "Consensys' Definition": "The MetaMask forums located at community.metamask.io\n\nMetaMask's community platform can be accessed here:\nMetaMask Community",
       "Simplified Chinese": "MetaMask 社区平台",
@@ -7522,7 +7522,7 @@ const glossary = {
   "MetaMask Extension": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMask is a web browser extension and mobile app that allows you to manage your Ethereum private keys. By doing so, it serves as a wallet for Ether and other tokens, and allows you to interact with decentralized applications, or dapps. Unlike some wallets, MetaMask keeps no information on you: not your email address, not your password, and not your Secret Recovery Phrase or other private keys. You retain all power over your crypto-identity.'",
+    "definition": "'MetaMask is a web browser extension and mobile app that allows you to manage your Ethereum private keys. By doing so, it serves as a wallet for Ether and other tokens, and allows you to interact with decentralized applications, or dapps. Unlike some wallets, MetaMask keeps no information on you: not your email address, not your password, and not your Secret Recovery Phrase or other private keys. You retain all power over your crypto-identity.'",
     "locales": {
       "Consensys' Definition": "MetaMask is a web browser extension and mobile app that allows you to manage your Ethereum private keys. By doing so, it serves as a wallet for Ether and other tokens, and allows you to interact with decentralized applications, or dapps. Unlike some wallets, MetaMask keeps no information on you: not your email address, not your password, and not your Secret Recovery Phrase or other private keys. You retain all power over your crypto-identity.",
       "Simplified Chinese": "MetaMask Extension",
@@ -7554,7 +7554,7 @@ const glossary = {
   "MetaMask Flask": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.<br><br>What is MetaMask Flask, and how is it different from normal MetaMask?'",
+    "definition": "'MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.<br><br>What is MetaMask Flask, and how is it different from normal MetaMask?'",
     "locales": {
       "Consensys' Definition": "MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.\n\nWhat is MetaMask Flask, and how is it different from normal MetaMask?",
       "Simplified Chinese": "MetaMask Flask",
@@ -7586,7 +7586,7 @@ const glossary = {
   "MetaMask Institutional": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMask Institutional is an institution-compliant version of the world’s leading web3 wallet, MetaMask. Organizations trust us to manage their web3 access and engagement with institution-required security, operational efficiency, and compliance. MetaMask Institutional'",
+    "definition": "'MetaMask Institutional is an institution-compliant version of the world’s leading web3 wallet, MetaMask. Organizations trust us to manage their web3 access and engagement with institution-required security, operational efficiency, and compliance. MetaMask Institutional'",
     "locales": {
       "Consensys' Definition": "MetaMask Institutional is an institution-compliant version of the world’s leading web3 wallet, MetaMask. Organizations trust us to manage their web3 access and engagement with institution-required security, operational efficiency, and compliance. MetaMask Institutional",
       "Simplified Chinese": "MetaMask Institutional",
@@ -7618,7 +7618,7 @@ const glossary = {
   "MetaMask Learn": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.<br><br>MetaMask Learn'",
+    "definition": "'MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.<br><br>MetaMask Learn'",
     "locales": {
       "Consensys' Definition": "MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.\n\nMetaMask Learn",
       "Simplified Chinese": "MetaMask Learn",
@@ -7650,7 +7650,7 @@ const glossary = {
   "MetaMask SDK": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMask SDK (Software Development Kit) is a library that can be installed by developers in their projects. It will automatically guide their users to connect easily with a MetaMask Wallet client.  MetaMask SDK'",
+    "definition": "'MetaMask SDK (Software Development Kit) is a library that can be installed by developers in their projects. It will automatically guide their users to connect easily with a MetaMask Wallet client.  MetaMask SDK'",
     "locales": {
       "Consensys' Definition": "MetaMask SDK (Software Development Kit) is a library that can be installed by developers in their projects. It will automatically guide their users to connect easily with a MetaMask Wallet client.  MetaMask SDK",
       "Simplified Chinese": "MetaMask SDK（软件开发工具包）",
@@ -7682,7 +7682,7 @@ const glossary = {
   "MetaMask Snaps": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The first big feature shipped through Flask has been MetaMask Snaps. Snaps is a whole topic in and of itself, but think of it like this: Snaps allows developers to bring any kind of functionality they want to the application. Given how broad that is, and the potential security implications, snaps can only be used in Flask at the moment; however, the plan is to allow users to customize their MetaMask experience through this functionality.'",
+    "definition": "'The first big feature shipped through Flask has been MetaMask Snaps. Snaps is a whole topic in and of itself, but think of it like this: Snaps allows developers to bring any kind of functionality they want to the application. Given how broad that is, and the potential security implications, snaps can only be used in Flask at the moment; however, the plan is to allow users to customize their MetaMask experience through this functionality.'",
     "locales": {
       "Consensys' Definition": "The first big feature shipped through Flask has been MetaMask Snaps. Snaps is a whole topic in and of itself, but think of it like this: Snaps allows developers to bring any kind of functionality they want to the application. Given how broad that is, and the potential security implications, snaps can only be used in Flask at the moment; however, the plan is to allow users to customize their MetaMask experience through this functionality.",
       "Simplified Chinese": "Snaps (MetaMask Snaps)",
@@ -7714,7 +7714,7 @@ const glossary = {
   "MetaMetrics": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MetaMetrics is an opt-in analytics platform that aims to collect information on non-sensitive user events to help us improve the software for MetaMask users.<br><br>How to manage your MetaMetrics settings'",
+    "definition": "'MetaMetrics is an opt-in analytics platform that aims to collect information on non-sensitive user events to help us improve the software for MetaMask users.<br><br>How to manage your MetaMetrics settings'",
     "locales": {
       "Consensys' Definition": "MetaMetrics is an opt-in analytics platform that aims to collect information on non-sensitive user events to help us improve the software for MetaMask users.\n\nHow to manage your MetaMetrics settings",
       "Simplified Chinese": "MetaMetrics",
@@ -7746,7 +7746,7 @@ const glossary = {
   "metaverse": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A metaverse is a digital universe that contains all the aspects of the real world, such as real-time interactions and economies. It offers a unique experience to end-users. Metaverse'",
+    "definition": "'A metaverse is a digital universe that contains all the aspects of the real world, such as real-time interactions and economies. It offers a unique experience to end-users. Metaverse'",
     "locales": {
       "Consensys' Definition": "A metaverse is a digital universe that contains all the aspects of the real world, such as real-time interactions and economies. It offers a unique experience to end-users. Metaverse",
       "Simplified Chinese": "元宇宙",
@@ -7778,7 +7778,7 @@ const glossary = {
   "miner tip": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The miner tip is the Maximum Priority Fee that incentivizes the miner to prioritize a transaction. Learn the basics of blockchains and Ethereum (miners and validators, gas, cryptocurrencies and NFTs, block explorer, networks, etc.)'",
+    "definition": "'The miner tip is the Maximum Priority Fee that incentivizes the miner to prioritize a transaction. Learn the basics of blockchains and Ethereum (miners and validators, gas, cryptocurrencies and NFTs, block explorer, networks, etc.)'",
     "locales": {
       "Consensys' Definition": "The miner tip is the Maximum Priority Fee that incentivizes the miner to prioritize a transaction. Learn the basics of blockchains and Ethereum (miners and validators, gas, cryptocurrencies and NFTs, block explorer, networks, etc.)",
       "Simplified Chinese": "矿工费",
@@ -7810,7 +7810,7 @@ const glossary = {
   "mining": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The process by which blocks or transactions are verified and added to a blockchain using a Proof of Work (PoW) consensus mechanism. In order to verify a block, a miner must use a computer to solve a cryptographic problem. Once the computer has solved the problem, the block is considered “mined” or verified. On Bitcoin or other PoW blockchains, the first computer to mine or verify the block receives bitcoin, or the equivalent network token, as a reward.'",
+    "definition": "'The process by which blocks or transactions are verified and added to a blockchain using a Proof of Work (PoW) consensus mechanism. In order to verify a block, a miner must use a computer to solve a cryptographic problem. Once the computer has solved the problem, the block is considered “mined” or verified. On Bitcoin or other PoW blockchains, the first computer to mine or verify the block receives bitcoin, or the equivalent network token, as a reward.'",
     "locales": {
       "Consensys' Definition": "The process by which blocks or transactions are verified and added to a blockchain using a Proof of Work (PoW) consensus mechanism. In order to verify a block, a miner must use a computer to solve a cryptographic problem. Once the computer has solved the problem, the block is considered “mined” or verified. On Bitcoin or other PoW blockchains, the first computer to mine or verify the block receives bitcoin, or the equivalent network token, as a reward.",
       "Simplified Chinese": "挖矿",
@@ -7842,7 +7842,7 @@ const glossary = {
   "Mint": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Minting refers to the act of publishing a token on the blockchain to make it transferrable and purchasable.'",
+    "definition": "'Minting refers to the act of publishing a token on the blockchain to make it transferrable and purchasable.'",
     "locales": {
       "Consensys' Definition": "Minting refers to the act of publishing a token on the blockchain to make it transferrable and purchasable.",
       "Simplified Chinese": "铸币",
@@ -7874,7 +7874,7 @@ const glossary = {
   "mnemonic phrase": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'This is an alternative way of referring to a Secret Recovery Phrase, also known as a 'seed phrase': a series of words that correspond to a very long cryptographic key, used to generate and control all the addresses of a crypto wallet.'",
+    "definition": "'This is an alternative way of referring to a Secret Recovery Phrase, also known as a 'seed phrase': a series of words that correspond to a very long cryptographic key, used to generate and control all the addresses of a crypto wallet.'",
     "locales": {
       "Consensys' Definition": "This is an alternative way of referring to a Secret Recovery Phrase, also known as a 'seed phrase': a series of words that correspond to a very long cryptographic key, used to generate and control all the addresses of a crypto wallet.",
       "Simplified Chinese": "助记词",
@@ -7906,7 +7906,7 @@ const glossary = {
   "MobiKwik": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MobiKwik is an Indian payment service provider founded in 2009 that provides a mobile phone-based payment system and digital wallet.'",
+    "definition": "'MobiKwik is an Indian payment service provider founded in 2009 that provides a mobile phone-based payment system and digital wallet.'",
     "locales": {
       "Consensys' Definition": "MobiKwik is an Indian payment service provider founded in 2009 that provides a mobile phone-based payment system and digital wallet.",
       "Simplified Chinese": "MobiKwik",
@@ -7938,7 +7938,7 @@ const glossary = {
   "modular blockchain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Bitcoin is an example of a monolithic blockchain: all of the functions of the network (consensus, execution, data availability, and settlement) are run on one chain. This has significant drawbacks (see \"blockchain trilemma\" for more). A modular blockchain, on the other hand, separates some or all of these functions into separate chains, each one optimized for its specific function, and relying on the other chains for the other functions. Ethereum is currently moving towards modularization, both on a protocol level beginning with the Merge, which split consensus and execution into two chains, and at the level of \"Layer 2\" networks which provide optimized execution environments, and then \"roll up\" their data to Ethereum for its consensus functionality.'",
+    "definition": "'Bitcoin is an example of a monolithic blockchain: all of the functions of the network (consensus, execution, data availability, and settlement) are run on one chain. This has significant drawbacks (see \"blockchain trilemma\" for more). A modular blockchain, on the other hand, separates some or all of these functions into separate chains, each one optimized for its specific function, and relying on the other chains for the other functions. Ethereum is currently moving towards modularization, both on a protocol level beginning with the Merge, which split consensus and execution into two chains, and at the level of \"Layer 2\" networks which provide optimized execution environments, and then \"roll up\" their data to Ethereum for its consensus functionality.'",
     "locales": {
       "Consensys' Definition": "Bitcoin is an example of a monolithic blockchain: all of the functions of the network (consensus, execution, data availability, and settlement) are run on one chain. This has significant drawbacks (see \"blockchain trilemma\" for more). A modular blockchain, on the other hand, separates some or all of these functions into separate chains, each one optimized for its specific function, and relying on the other chains for the other functions. Ethereum is currently moving towards modularization, both on a protocol level beginning with the Merge, which split consensus and execution into two chains, and at the level of \"Layer 2\" networks which provide optimized execution environments, and then \"roll up\" their data to Ethereum for its consensus functionality.",
       "Simplified Chinese": "模块化区块链",
@@ -7970,7 +7970,7 @@ const glossary = {
   "MoonPay": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'MoonPay is a financial technology company that builds payments infrastructure for crypto. Its on-and-off-ramp suite of products provides a seamless experience for converting between fiat currencies and cryptocurrencies using all major payment methods, including debit and credit cards, local bank transfers, Apple Pay, Google Pay, and Samsung Pay. MoonPay is active in more than 160 countries and is trusted by 300+ leading wallets, websites, and applications to accept payments and defeat fraud. The company is based in Miami, Florida, and was founded in 2019.'",
+    "definition": "'MoonPay is a financial technology company that builds payments infrastructure for crypto. Its on-and-off-ramp suite of products provides a seamless experience for converting between fiat currencies and cryptocurrencies using all major payment methods, including debit and credit cards, local bank transfers, Apple Pay, Google Pay, and Samsung Pay. MoonPay is active in more than 160 countries and is trusted by 300+ leading wallets, websites, and applications to accept payments and defeat fraud. The company is based in Miami, Florida, and was founded in 2019.'",
     "locales": {
       "Consensys' Definition": "MoonPay is a financial technology company that builds payments infrastructure for crypto. Its on-and-off-ramp suite of products provides a seamless experience for converting between fiat currencies and cryptocurrencies using all major payment methods, including debit and credit cards, local bank transfers, Apple Pay, Google Pay, and Samsung Pay. MoonPay is active in more than 160 countries and is trusted by 300+ leading wallets, websites, and applications to accept payments and defeat fraud. The company is based in Miami, Florida, and was founded in 2019.",
       "Simplified Chinese": "MoonPay",
@@ -8002,7 +8002,7 @@ const glossary = {
   "multi-sig": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'multi-signature wallet (multisig)<br>A crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.'",
+    "definition": "'multi-signature wallet (multisig)<br>A crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.'",
     "locales": {
       "Consensys' Definition": "multi-signature wallet (multisig)\nA crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.",
       "Simplified Chinese": "多重签名",
@@ -8034,7 +8034,7 @@ const glossary = {
   "multi-signature wallet (multisig)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.'",
+    "definition": "'A crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.'",
     "locales": {
       "Consensys' Definition": "A crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.",
       "Simplified Chinese": "多重签名钱包（multisig）",
@@ -8066,7 +8066,7 @@ const glossary = {
   "Multifactor Authentication": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Authentication using two or more different factors to achieve authentication.'",
+    "definition": "'Authentication using two or more different factors to achieve authentication.'",
     "locales": {
       "Consensys' Definition": "Authentication using two or more different factors to achieve authentication.",
       "Simplified Chinese": "多因素身份验证",
@@ -8098,7 +8098,7 @@ const glossary = {
   "Near-Field Communication (NFC)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Near-field communication is a set of communication protocols that enables communication between two electronic devices over a distance of 4 cm or less. NFC offers a low-speed connection through a simple setup that can be used to bootstrap more capable wireless connections..'",
+    "definition": "'Near-field communication is a set of communication protocols that enables communication between two electronic devices over a distance of 4 cm or less. NFC offers a low-speed connection through a simple setup that can be used to bootstrap more capable wireless connections..'",
     "locales": {
       "Consensys' Definition": "Near-field communication is a set of communication protocols that enables communication between two electronic devices over a distance of 4 cm or less. NFC offers a low-speed connection through a simple setup that can be used to bootstrap more capable wireless connections..",
       "Simplified Chinese": "近距离无线通讯（NFC）",
@@ -8130,7 +8130,7 @@ const glossary = {
   "Nested Blockchain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A nested blockchain is essentially a blockchain within — or, rather, atop — another blockchain. See \"Layer 2'",
+    "definition": "'A nested blockchain is essentially a blockchain within — or, rather, atop — another blockchain. See \"Layer 2'",
     "locales": {
       "Consensys' Definition": "A nested blockchain is essentially a blockchain within — or, rather, atop — another blockchain. See \"Layer 2",
       "Simplified Chinese": "嵌套区块链",
@@ -8162,7 +8162,7 @@ const glossary = {
   "Network": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A network refers to all nodes in the operation of a blockchain at any given moment in time.'",
+    "definition": "'A network refers to all nodes in the operation of a blockchain at any given moment in time.'",
     "locales": {
       "Consensys' Definition": "A network refers to all nodes in the operation of a blockchain at any given moment in time.",
       "Simplified Chinese": "网络",
@@ -8194,7 +8194,7 @@ const glossary = {
   "Network Congestion": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The reduced quality of service that occurs when a network node or link is carrying more data than it can handle. Typical effects include queueing delay, packet loss or the blocking of new connections. Congestion'",
+    "definition": "'The reduced quality of service that occurs when a network node or link is carrying more data than it can handle. Typical effects include queueing delay, packet loss or the blocking of new connections. Congestion'",
     "locales": {
       "Consensys' Definition": "The reduced quality of service that occurs when a network node or link is carrying more data than it can handle. Typical effects include queueing delay, packet loss or the blocking of new connections. Congestion",
       "Simplified Chinese": "网络拥塞",
@@ -8226,7 +8226,7 @@ const glossary = {
   "NFT": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'When discussing Non-Fungible Tokens (NFTs), “fungibility” refers to an object’s ability to be exchanged for another. For example, an individual dollar is considered fungible, as one dollar is fully interchangeable with another. Artwork is usually deemed non-fungible, as paintings or sculptures are likely to be unequal between them in quality, value, or other attributes. A non-fungible token is a type of token that is a unique digital asset and has no equal token. This is in contrast to cryptocurrencies like ether that are fungible in nature.'",
+    "definition": "'When discussing Non-Fungible Tokens (NFTs), “fungibility” refers to an object’s ability to be exchanged for another. For example, an individual dollar is considered fungible, as one dollar is fully interchangeable with another. Artwork is usually deemed non-fungible, as paintings or sculptures are likely to be unequal between them in quality, value, or other attributes. A non-fungible token is a type of token that is a unique digital asset and has no equal token. This is in contrast to cryptocurrencies like ether that are fungible in nature.'",
     "locales": {
       "Consensys' Definition": "When discussing Non-Fungible Tokens (NFTs), “fungibility” refers to an object’s ability to be exchanged for another. For example, an individual dollar is considered fungible, as one dollar is fully interchangeable with another. Artwork is usually deemed non-fungible, as paintings or sculptures are likely to be unequal between them in quality, value, or other attributes. A non-fungible token is a type of token that is a unique digital asset and has no equal token. This is in contrast to cryptocurrencies like ether that are fungible in nature.",
       "Simplified Chinese": "NFT",
@@ -8258,7 +8258,7 @@ const glossary = {
   "NFT aggregator": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the initial wave of interest in buying and selling NFTs, a number of NFT marketplaces--websites where you can buy and sell NFTs--were created. As the market matured, aggregators appeared, which offer the user the ability to view available stock and price, buy and sell across marketplaces from a single unified application. Similar to familiar web2 shopping portals, these have come to be known as NFT Marketplace Aggregators, or just NFT Aggregators.'",
+    "definition": "'In the initial wave of interest in buying and selling NFTs, a number of NFT marketplaces--websites where you can buy and sell NFTs--were created. As the market matured, aggregators appeared, which offer the user the ability to view available stock and price, buy and sell across marketplaces from a single unified application. Similar to familiar web2 shopping portals, these have come to be known as NFT Marketplace Aggregators, or just NFT Aggregators.'",
     "locales": {
       "Consensys' Definition": "In the initial wave of interest in buying and selling NFTs, a number of NFT marketplaces--websites where you can buy and sell NFTs--were created. As the market matured, aggregators appeared, which offer the user the ability to view available stock and price, buy and sell across marketplaces from a single unified application. Similar to familiar web2 shopping portals, these have come to be known as NFT Marketplace Aggregators, or just NFT Aggregators.",
       "Simplified Chinese": "NFT 聚合器",
@@ -8290,7 +8290,7 @@ const glossary = {
   "NFT drop": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An NFT drop happens when a new NFT collection is released. NFT drops can vary in both how the NFTs are sold (listed for sale or auction), and in who they’re released to (the public, or a specific list called an “allowlist”).<br><br><br>Often, NFT drops coincide with when the NFTs in the collection are minted, that is, written to the blockchain. You might hear these terms used interchangeably— a drop might be referred to as the project’s mint.'",
+    "definition": "'An NFT drop happens when a new NFT collection is released. NFT drops can vary in both how the NFTs are sold (listed for sale or auction), and in who they’re released to (the public, or a specific list called an “allowlist”).<br><br><br>Often, NFT drops coincide with when the NFTs in the collection are minted, that is, written to the blockchain. You might hear these terms used interchangeably— a drop might be referred to as the project’s mint.'",
     "locales": {
       "Consensys' Definition": "An NFT drop happens when a new NFT collection is released. NFT drops can vary in both how the NFTs are sold (listed for sale or auction), and in who they’re released to (the public, or a specific list called an “allowlist”).\n\n\nOften, NFT drops coincide with when the NFTs in the collection are minted, that is, written to the blockchain. You might hear these terms used interchangeably— a drop might be referred to as the project’s mint.",
       "Simplified Chinese": "NFT 投放",
@@ -8322,7 +8322,7 @@ const glossary = {
   "Ngrave": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Crypto hardware wallet.'",
+    "definition": "'Crypto hardware wallet.'",
     "locales": {
       "Consensys' Definition": "Crypto hardware wallet.",
       "Simplified Chinese": "Ngrave",
@@ -8354,7 +8354,7 @@ const glossary = {
   "node": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.'",
+    "definition": "'Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.'",
     "locales": {
       "Consensys' Definition": "Public blockchains consist of a network of computers which sync the network's data, coordinate transaction requests, and participate in consensus regarding the validity of those transactions; each one of these computers is called a 'node'. A full node is a computer that can fully validate transactions and download the entire data of a specific blockchain. In contrast, a “lightweight” or “light” node does not download all pieces of a blockchain’s data, and uses a different validation process.",
       "Simplified Chinese": "节点",
@@ -8386,7 +8386,7 @@ const glossary = {
   "Non-fungible token": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'See NFT'",
+    "definition": "'See NFT'",
     "locales": {
       "Consensys' Definition": "See NFT",
       "Simplified Chinese": "非同质化代币",
@@ -8418,7 +8418,7 @@ const glossary = {
   "nonce": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The word ‘nonce’ has a few different meanings, and in different contexts, it ends up getting used a lot of different ways. Originally formed from a contraction of a phrase meaning “not more than once”, on the Ethereum Mainnet, “nonce” refers to a unique transaction identification number that increases in value with each successive transaction in order to ensure various safety features (such as preventing a double-spend). Note that due to its broader use in cryptography, you may encounter ‘nonce’ being used differently on other sidechains or decentralized projects.'",
+    "definition": "'The word ‘nonce’ has a few different meanings, and in different contexts, it ends up getting used a lot of different ways. Originally formed from a contraction of a phrase meaning “not more than once”, on the Ethereum Mainnet, “nonce” refers to a unique transaction identification number that increases in value with each successive transaction in order to ensure various safety features (such as preventing a double-spend). Note that due to its broader use in cryptography, you may encounter ‘nonce’ being used differently on other sidechains or decentralized projects.'",
     "locales": {
       "Consensys' Definition": "The word ‘nonce’ has a few different meanings, and in different contexts, it ends up getting used a lot of different ways. Originally formed from a contraction of a phrase meaning “not more than once”, on the Ethereum Mainnet, “nonce” refers to a unique transaction identification number that increases in value with each successive transaction in order to ensure various safety features (such as preventing a double-spend). Note that due to its broader use in cryptography, you may encounter ‘nonce’ being used differently on other sidechains or decentralized projects.",
       "Simplified Chinese": "唯一交易标识号",
@@ -8450,7 +8450,7 @@ const glossary = {
   "off-chain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A transaction that is processed outside the blockchain network with an increased speed and reduced cost. There are two different transactions that occur on the blockchain:<br><br>On-chain transactions are those reflected on the distributed ledger and are visible to all the network users. On the other hand, off-chain transactions occur outside the blockchain network. Such a transaction doesn’t need the services of miners because no ledger verification is conducted.<br>Unlike on-chain transactions, off-chain transactions can be made instantly. This method entails lower fees, happens instantly, and offers more anonymity.'",
+    "definition": "'A transaction that is processed outside the blockchain network with an increased speed and reduced cost. There are two different transactions that occur on the blockchain:<br><br>On-chain transactions are those reflected on the distributed ledger and are visible to all the network users. On the other hand, off-chain transactions occur outside the blockchain network. Such a transaction doesn’t need the services of miners because no ledger verification is conducted.<br>Unlike on-chain transactions, off-chain transactions can be made instantly. This method entails lower fees, happens instantly, and offers more anonymity.'",
     "locales": {
       "Consensys' Definition": "A transaction that is processed outside the blockchain network with an increased speed and reduced cost. There are two different transactions that occur on the blockchain:\n\nOn-chain transactions are those reflected on the distributed ledger and are visible to all the network users. On the other hand, off-chain transactions occur outside the blockchain network. Such a transaction doesn’t need the services of miners because no ledger verification is conducted.\nUnlike on-chain transactions, off-chain transactions can be made instantly. This method entails lower fees, happens instantly, and offers more anonymity.",
       "Simplified Chinese": "链下",
@@ -8482,7 +8482,7 @@ const glossary = {
   "ommer block": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Under the Proof of Work (PoW) consensus mechanism, miners received rewards for being the first to mine a new block. However, at times a block would be mined just after, and in competition with, the last block. This block, known as an ommer and previously as an uncle, could get rolled into subsequent blocks and the miner of the original ommer would get a partial block reward. All of this functionality was deprecated as of the launch of the Beacon Chain.'",
+    "definition": "'Under the Proof of Work (PoW) consensus mechanism, miners received rewards for being the first to mine a new block. However, at times a block would be mined just after, and in competition with, the last block. This block, known as an ommer and previously as an uncle, could get rolled into subsequent blocks and the miner of the original ommer would get a partial block reward. All of this functionality was deprecated as of the launch of the Beacon Chain.'",
     "locales": {
       "Consensys' Definition": "Under the Proof of Work (PoW) consensus mechanism, miners received rewards for being the first to mine a new block. However, at times a block would be mined just after, and in competition with, the last block. This block, known as an ommer and previously as an uncle, could get rolled into subsequent blocks and the miner of the original ommer would get a partial block reward. All of this functionality was deprecated as of the launch of the Beacon Chain.",
       "Simplified Chinese": "ommer 区块",
@@ -8514,7 +8514,7 @@ const glossary = {
   "on-chain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'On-chain, as the name implies, refers to blockchain transactions that exist on and have been verified to the blockchain by miners or validators. On-Chain also means that transactions have been recorded to the blockchain'",
+    "definition": "'On-chain, as the name implies, refers to blockchain transactions that exist on and have been verified to the blockchain by miners or validators. On-Chain also means that transactions have been recorded to the blockchain'",
     "locales": {
       "Consensys' Definition": "On-chain, as the name implies, refers to blockchain transactions that exist on and have been verified to the blockchain by miners or validators. On-Chain also means that transactions have been recorded to the blockchain",
       "Simplified Chinese": "链上",
@@ -8546,7 +8546,7 @@ const glossary = {
   "on-ramp, off-ramp": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Based on a metaphor from the American highway system, \"on-ramp\" refers to a tool, or a service provider, or the action, of converting fiat currency into tokens on a blockchain. Conversely, \"off-ramp\" refers to exchanging on-chain assets for their value in a given fiat currency. There are many providers of such services, and MetaMask users have access to them through the \"Buy Crypto\" feature.'",
+    "definition": "'Based on a metaphor from the American highway system, \"on-ramp\" refers to a tool, or a service provider, or the action, of converting fiat currency into tokens on a blockchain. Conversely, \"off-ramp\" refers to exchanging on-chain assets for their value in a given fiat currency. There are many providers of such services, and MetaMask users have access to them through the \"Buy Crypto\" feature.'",
     "locales": {
       "Consensys' Definition": "Based on a metaphor from the American highway system, \"on-ramp\" refers to a tool, or a service provider, or the action, of converting fiat currency into tokens on a blockchain. Conversely, \"off-ramp\" refers to exchanging on-chain assets for their value in a given fiat currency. There are many providers of such services, and MetaMask users have access to them through the \"Buy Crypto\" feature.",
       "Simplified Chinese": "充值，提现",
@@ -8578,7 +8578,7 @@ const glossary = {
   "OpenSea": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles.'",
+    "definition": "'OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles.'",
     "locales": {
       "Consensys' Definition": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles.",
       "Simplified Chinese": "OpenSea",
@@ -8610,7 +8610,7 @@ const glossary = {
   "Opera": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Internet browser.'",
+    "definition": "'Internet browser.'",
     "locales": {
       "Consensys' Definition": "Internet browser.",
       "Simplified Chinese": "Opera",
@@ -8642,7 +8642,7 @@ const glossary = {
   "Optimism": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Optimism is a layer-2 scaling solution for Ethereum, which is a blockchain-based platform for decentralized applications. It is designed to reduce the cost and increase the speed of transactions on the Ethereum network. Optimism works by using a technique called optimistic rollups, which allows it to process a large number of transactions off-chain, while still maintaining the security and decentralization of the Ethereum network.<br><br>In optimistic rollups, transactions are initially processed off-chain, and a summary of these transactions is then submitted to the Ethereum network for verification. This verification process ensures that the transactions are valid and that no fraud has occurred. Once the transactions are verified, they are added to the Ethereum blockchain, allowing users to interact with the decentralized applications built on the platform.'",
+    "definition": "'Optimism is a layer-2 scaling solution for Ethereum, which is a blockchain-based platform for decentralized applications. It is designed to reduce the cost and increase the speed of transactions on the Ethereum network. Optimism works by using a technique called optimistic rollups, which allows it to process a large number of transactions off-chain, while still maintaining the security and decentralization of the Ethereum network.<br><br>In optimistic rollups, transactions are initially processed off-chain, and a summary of these transactions is then submitted to the Ethereum network for verification. This verification process ensures that the transactions are valid and that no fraud has occurred. Once the transactions are verified, they are added to the Ethereum blockchain, allowing users to interact with the decentralized applications built on the platform.'",
     "locales": {
       "Consensys' Definition": "Optimism is a layer-2 scaling solution for Ethereum, which is a blockchain-based platform for decentralized applications. It is designed to reduce the cost and increase the speed of transactions on the Ethereum network. Optimism works by using a technique called optimistic rollups, which allows it to process a large number of transactions off-chain, while still maintaining the security and decentralization of the Ethereum network.\n\nIn optimistic rollups, transactions are initially processed off-chain, and a summary of these transactions is then submitted to the Ethereum network for verification. This verification process ensures that the transactions are valid and that no fraud has occurred. Once the transactions are verified, they are added to the Ethereum blockchain, allowing users to interact with the decentralized applications built on the platform.",
       "Simplified Chinese": "Optimism",
@@ -8674,7 +8674,7 @@ const glossary = {
   "optimistic rollup": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A rollup that assumes the validity and good faith of transactions, and only runs a fraud proof in the case of fraud being alleged. See also 'rollup'.'",
+    "definition": "'A rollup that assumes the validity and good faith of transactions, and only runs a fraud proof in the case of fraud being alleged. See also 'rollup'.'",
     "locales": {
       "Consensys' Definition": "A rollup that assumes the validity and good faith of transactions, and only runs a fraud proof in the case of fraud being alleged. See also 'rollup'.",
       "Simplified Chinese": "乐观性扩容方案（ORU）",
@@ -8706,7 +8706,7 @@ const glossary = {
   "Oracle": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Typically, an oracle is any entity or person that is relied on to report the outcome of an event. In a blockchain network an oracle (human or machine) helps communicate data to a smart contract, which can then be used to verify an event or specific outcome.'",
+    "definition": "'Typically, an oracle is any entity or person that is relied on to report the outcome of an event. In a blockchain network an oracle (human or machine) helps communicate data to a smart contract, which can then be used to verify an event or specific outcome.'",
     "locales": {
       "Consensys' Definition": "Typically, an oracle is any entity or person that is relied on to report the outcome of an event. In a blockchain network an oracle (human or machine) helps communicate data to a smart contract, which can then be used to verify an event or specific outcome.",
       "Simplified Chinese": "预言机",
@@ -8738,7 +8738,7 @@ const glossary = {
   "ParaSwap": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'ParaSwap is a decentralized exchange (DEX) aggregator that optimizes swaps for users through better prices, limited gas fees, and lower slippage. ParaSwap sources their liquidity from major DEXes such as Uniswap, Balancer, Curve, Kyber, in addition to ParaSwapPool, their professional Market Maker network.'",
+    "definition": "'ParaSwap is a decentralized exchange (DEX) aggregator that optimizes swaps for users through better prices, limited gas fees, and lower slippage. ParaSwap sources their liquidity from major DEXes such as Uniswap, Balancer, Curve, Kyber, in addition to ParaSwapPool, their professional Market Maker network.'",
     "locales": {
       "Consensys' Definition": "ParaSwap is a decentralized exchange (DEX) aggregator that optimizes swaps for users through better prices, limited gas fees, and lower slippage. ParaSwap sources their liquidity from major DEXes such as Uniswap, Balancer, Curve, Kyber, in addition to ParaSwapPool, their professional Market Maker network.",
       "Simplified Chinese": "ParaSwap",
@@ -8770,7 +8770,7 @@ const glossary = {
   "parity": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In a general sense, to say that something 'has parity' with another thing means 'equal in features or other important quality', and is a phrase often used by software developers and computer scientists.'",
+    "definition": "'In a general sense, to say that something 'has parity' with another thing means 'equal in features or other important quality', and is a phrase often used by software developers and computer scientists.'",
     "locales": {
       "Consensys' Definition": "In a general sense, to say that something 'has parity' with another thing means 'equal in features or other important quality', and is a phrase often used by software developers and computer scientists.",
       "Simplified Chinese": "parity",
@@ -8802,7 +8802,7 @@ const glossary = {
   "Parity": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Parity Technologies is the name of a blockchain technology company that is developing a number of significant projects in the blockchain space. One of its first projects was an Ethereum client, known as Parity; its name was changed to Parity Ethereum, and then was spun out as a DAO-owned and operated project called Open Ethereum, which has also been deprecated. See also 'client'.'",
+    "definition": "'Parity Technologies is the name of a blockchain technology company that is developing a number of significant projects in the blockchain space. One of its first projects was an Ethereum client, known as Parity; its name was changed to Parity Ethereum, and then was spun out as a DAO-owned and operated project called Open Ethereum, which has also been deprecated. See also 'client'.'",
     "locales": {
       "Consensys' Definition": "Parity Technologies is the name of a blockchain technology company that is developing a number of significant projects in the blockchain space. One of its first projects was an Ethereum client, known as Parity; its name was changed to Parity Ethereum, and then was spun out as a DAO-owned and operated project called Open Ethereum, which has also been deprecated. See also 'client'.",
       "Simplified Chinese": "Parity",
@@ -8834,7 +8834,7 @@ const glossary = {
   "Passphrase": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'See \"Secret Recovery Phrase'",
+    "definition": "'See \"Secret Recovery Phrase'",
     "locales": {
       "Consensys' Definition": "See \"Secret Recovery Phrase",
       "Simplified Chinese": "密语",
@@ -8866,7 +8866,7 @@ const glossary = {
   "password manager": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A password manager is a tool or software that stores all sorts of passwords needed for online applications and services.<br>Password manager'",
+    "definition": "'A password manager is a tool or software that stores all sorts of passwords needed for online applications and services.<br>Password manager'",
     "locales": {
       "Consensys' Definition": "A password manager is a tool or software that stores all sorts of passwords needed for online applications and services.\nPassword manager",
       "Simplified Chinese": "密码管理工具",
@@ -8898,7 +8898,7 @@ const glossary = {
   "PayPal": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'PayPal is a multinational financial technology company operating an online payments system in the majority of countries.'",
+    "definition": "'PayPal is a multinational financial technology company operating an online payments system in the majority of countries.'",
     "locales": {
       "Consensys' Definition": "PayPal is a multinational financial technology company operating an online payments system in the majority of countries.",
       "Simplified Chinese": "PayPal",
@@ -8930,7 +8930,7 @@ const glossary = {
   "peer-to-peer (P2P)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'P2P refers to interactions that happen directly between two parties, usually two separate individuals, and have been present in Internet technology in different ways for some time. These interactions are often coordinated through some sort of app or network, which can consist of any number of individuals. Public blockchains can be considered to have a high degree of P2P functionality, as individuals are able to transact or interact with each other without relying on an intermediary or single point of failure.'",
+    "definition": "'P2P refers to interactions that happen directly between two parties, usually two separate individuals, and have been present in Internet technology in different ways for some time. These interactions are often coordinated through some sort of app or network, which can consist of any number of individuals. Public blockchains can be considered to have a high degree of P2P functionality, as individuals are able to transact or interact with each other without relying on an intermediary or single point of failure.'",
     "locales": {
       "Consensys' Definition": "P2P refers to interactions that happen directly between two parties, usually two separate individuals, and have been present in Internet technology in different ways for some time. These interactions are often coordinated through some sort of app or network, which can consist of any number of individuals. Public blockchains can be considered to have a high degree of P2P functionality, as individuals are able to transact or interact with each other without relying on an intermediary or single point of failure.",
       "Simplified Chinese": "点对点（P2P）",
@@ -8962,7 +8962,7 @@ const glossary = {
   "permissioned ledger": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A blockchain network in which access to ledger or network requires permission from an individual or group of individuals, as opposed to a public blockchain. Permissioned ledgers may have one or many owners. Consensus on a permissioned ledger is conducted by the trusted actors, such as government departments, banks, or other known entities. Permissioned blockchains or ledgers contain highly-verifiable data sets because the consensus process creates a digital signature, which can be seen by all parties. A permissioned ledger is much easier to maintain and considerably faster than a public blockchain. For example, Quorum or Hyperledger Besu are permissioned ledgers that can be more easily set up for large enterprises. In contrast, the public Ethereum blockchain is a permissionless ledger which anyone can access.'",
+    "definition": "'A blockchain network in which access to ledger or network requires permission from an individual or group of individuals, as opposed to a public blockchain. Permissioned ledgers may have one or many owners. Consensus on a permissioned ledger is conducted by the trusted actors, such as government departments, banks, or other known entities. Permissioned blockchains or ledgers contain highly-verifiable data sets because the consensus process creates a digital signature, which can be seen by all parties. A permissioned ledger is much easier to maintain and considerably faster than a public blockchain. For example, Quorum or Hyperledger Besu are permissioned ledgers that can be more easily set up for large enterprises. In contrast, the public Ethereum blockchain is a permissionless ledger which anyone can access.'",
     "locales": {
       "Consensys' Definition": "A blockchain network in which access to ledger or network requires permission from an individual or group of individuals, as opposed to a public blockchain. Permissioned ledgers may have one or many owners. Consensus on a permissioned ledger is conducted by the trusted actors, such as government departments, banks, or other known entities. Permissioned blockchains or ledgers contain highly-verifiable data sets because the consensus process creates a digital signature, which can be seen by all parties. A permissioned ledger is much easier to maintain and considerably faster than a public blockchain. For example, Quorum or Hyperledger Besu are permissioned ledgers that can be more easily set up for large enterprises. In contrast, the public Ethereum blockchain is a permissionless ledger which anyone can access.",
       "Simplified Chinese": "许可账本",
@@ -8994,7 +8994,7 @@ const glossary = {
   "phishing (noun)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Phishing is a form of social engineering where attackers deceive people into revealing sensitive information or installing malware such as ransomware.'",
+    "definition": "'Phishing is a form of social engineering where attackers deceive people into revealing sensitive information or installing malware such as ransomware.'",
     "locales": {
       "Consensys' Definition": "Phishing is a form of social engineering where attackers deceive people into revealing sensitive information or installing malware such as ransomware.",
       "Simplified Chinese": "网络钓鱼",
@@ -9026,7 +9026,7 @@ const glossary = {
   "Plasma": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Plasma' is a term that is used to refer to one of the solutions being built and deployed in order to securely scale the Ethereum network. A Plasma network functions similarly to an optimistic rollup, inasmuch as it relies on Ethereum Mainnet to maintain the record of transactions, and as the source for arbitration or fraud resolution. However, a Plasma network differs in other important technical ways from rollups, and is currently limited to simple operations, such as swaps and token transfers. More technical information is available here.'",
+    "definition": "'Plasma' is a term that is used to refer to one of the solutions being built and deployed in order to securely scale the Ethereum network. A Plasma network functions similarly to an optimistic rollup, inasmuch as it relies on Ethereum Mainnet to maintain the record of transactions, and as the source for arbitration or fraud resolution. However, a Plasma network differs in other important technical ways from rollups, and is currently limited to simple operations, such as swaps and token transfers. More technical information is available here.'",
     "locales": {
       "Consensys' Definition": "Plasma' is a term that is used to refer to one of the solutions being built and deployed in order to securely scale the Ethereum network. A Plasma network functions similarly to an optimistic rollup, inasmuch as it relies on Ethereum Mainnet to maintain the record of transactions, and as the source for arbitration or fraud resolution. However, a Plasma network differs in other important technical ways from rollups, and is currently limited to simple operations, such as swaps and token transfers. More technical information is available here.",
       "Simplified Chinese": "Plasma",
@@ -9058,7 +9058,7 @@ const glossary = {
   "PoA, PoS, PoW": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronyms standing for Proof of X consensus mechanisms: Authority, Stake, Work. The “o” is lowercase since you wouldn’t capitalize “of” when writing out the phrase. See also 'consensus', 'Proof of Authority', 'Proof of Stake', 'Proof of Work'.'",
+    "definition": "'Acronyms standing for Proof of X consensus mechanisms: Authority, Stake, Work. The “o” is lowercase since you wouldn’t capitalize “of” when writing out the phrase. See also 'consensus', 'Proof of Authority', 'Proof of Stake', 'Proof of Work'.'",
     "locales": {
       "Consensys' Definition": "Acronyms standing for Proof of X consensus mechanisms: Authority, Stake, Work. The “o” is lowercase since you wouldn’t capitalize “of” when writing out the phrase. See also 'consensus', 'Proof of Authority', 'Proof of Stake', 'Proof of Work'.",
       "Simplified Chinese": "权威证明，权益证明，工作量证明",
@@ -9090,7 +9090,7 @@ const glossary = {
   "Polygon": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Polygon (formerly Matic Network) is a layer-2 scaling solution for Ethereum that aims to address the scalability issues of the Ethereum blockchain. It is designed to provide faster and cheaper transactions with the same level of security and decentralization as the Ethereum network.<br><br>Polygon achieves this by creating a multi-chain ecosystem that is built on top of the Ethereum network. This ecosystem consists of various interconnected sidechains that can process transactions independently of the main Ethereum blockchain. These sidechains are called \"Polygon chains\" or \"commit chains\".'",
+    "definition": "'Polygon (formerly Matic Network) is a layer-2 scaling solution for Ethereum that aims to address the scalability issues of the Ethereum blockchain. It is designed to provide faster and cheaper transactions with the same level of security and decentralization as the Ethereum network.<br><br>Polygon achieves this by creating a multi-chain ecosystem that is built on top of the Ethereum network. This ecosystem consists of various interconnected sidechains that can process transactions independently of the main Ethereum blockchain. These sidechains are called \"Polygon chains\" or \"commit chains\".'",
     "locales": {
       "Consensys' Definition": "Polygon (formerly Matic Network) is a layer-2 scaling solution for Ethereum that aims to address the scalability issues of the Ethereum blockchain. It is designed to provide faster and cheaper transactions with the same level of security and decentralization as the Ethereum network.\n\nPolygon achieves this by creating a multi-chain ecosystem that is built on top of the Ethereum network. This ecosystem consists of various interconnected sidechains that can process transactions independently of the main Ethereum blockchain. These sidechains are called \"Polygon chains\" or \"commit chains\".",
       "Simplified Chinese": "Polygon",
@@ -9122,7 +9122,7 @@ const glossary = {
   "Portfolio": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Portfolio Dapp enables you to view all your MetaMask accounts and their assets in one place. It aggregates values from across your accounts and shows your total holdings, making it easier than ever to get an at-a-glance summary of their value in your chosen currency.<br><br>Getting started with MetaMask Portfolio'",
+    "definition": "'The Portfolio Dapp enables you to view all your MetaMask accounts and their assets in one place. It aggregates values from across your accounts and shows your total holdings, making it easier than ever to get an at-a-glance summary of their value in your chosen currency.<br><br>Getting started with MetaMask Portfolio'",
     "locales": {
       "Consensys' Definition": "The Portfolio Dapp enables you to view all your MetaMask accounts and their assets in one place. It aggregates values from across your accounts and shows your total holdings, making it easier than ever to get an at-a-glance summary of their value in your chosen currency.\n\nGetting started with MetaMask Portfolio",
       "Simplified Chinese": "Portfolio",
@@ -9154,7 +9154,7 @@ const glossary = {
   "PoS/PoW Hybrid": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A hybrid consensus model that utilizes a combination of Proof of Stake (PoS) and Proof of Work (PoW) consensus. Using this Hybrid consensus mechanism, blocks are validated from not only miners, but also voters (stakeholders) to form a balanced network governance.'",
+    "definition": "'A hybrid consensus model that utilizes a combination of Proof of Stake (PoS) and Proof of Work (PoW) consensus. Using this Hybrid consensus mechanism, blocks are validated from not only miners, but also voters (stakeholders) to form a balanced network governance.'",
     "locales": {
       "Consensys' Definition": "A hybrid consensus model that utilizes a combination of Proof of Stake (PoS) and Proof of Work (PoW) consensus. Using this Hybrid consensus mechanism, blocks are validated from not only miners, but also voters (stakeholders) to form a balanced network governance.",
       "Simplified Chinese": "权益证明/工作量证明混合共识",
@@ -9186,7 +9186,7 @@ const glossary = {
   "Priority fee": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The priority fee, also referred to as the \"miner tip\", incentivizes the miner to prioritize your transaction.<br><br>Naturally, whether this does actually go to a miner depends on the consensus mechanism they use: Ethereum mainnet became a Proof of Stake network following the Merge in September 2022, so the priority fee goes to validators instead of miners.'",
+    "definition": "'The priority fee, also referred to as the \"miner tip\", incentivizes the miner to prioritize your transaction.<br><br>Naturally, whether this does actually go to a miner depends on the consensus mechanism they use: Ethereum mainnet became a Proof of Stake network following the Merge in September 2022, so the priority fee goes to validators instead of miners.'",
     "locales": {
       "Consensys' Definition": "The priority fee, also referred to as the \"miner tip\", incentivizes the miner to prioritize your transaction.\n\nNaturally, whether this does actually go to a miner depends on the consensus mechanism they use: Ethereum mainnet became a Proof of Stake network following the Merge in September 2022, so the priority fee goes to validators instead of miners.",
       "Simplified Chinese": "优先费用",
@@ -9218,7 +9218,7 @@ const glossary = {
   "private blockchain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A blockchain or distributed ledger that has a closed network wherein participants are controlled by a single entity. A private blockchain requires a verification process for new participants. A private blockchain may also limit which individuals are able to participate in consensus of the blockchain network. See also 'permissioned ledger'.'",
+    "definition": "'A blockchain or distributed ledger that has a closed network wherein participants are controlled by a single entity. A private blockchain requires a verification process for new participants. A private blockchain may also limit which individuals are able to participate in consensus of the blockchain network. See also 'permissioned ledger'.'",
     "locales": {
       "Consensys' Definition": "A blockchain or distributed ledger that has a closed network wherein participants are controlled by a single entity. A private blockchain requires a verification process for new participants. A private blockchain may also limit which individuals are able to participate in consensus of the blockchain network. See also 'permissioned ledger'.",
       "Simplified Chinese": "私有区块链",
@@ -9250,7 +9250,7 @@ const glossary = {
   "private currency": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A currency or token issued by a private individual or firm. Typically, the token or currency is limited to use within the network of that particular firm or individual. This is not to be confused with a “privacy cryptocurrency”, which are cryptocurrencies with specific privacy features, such as hidden user identities.'",
+    "definition": "'A currency or token issued by a private individual or firm. Typically, the token or currency is limited to use within the network of that particular firm or individual. This is not to be confused with a “privacy cryptocurrency”, which are cryptocurrencies with specific privacy features, such as hidden user identities.'",
     "locales": {
       "Consensys' Definition": "A currency or token issued by a private individual or firm. Typically, the token or currency is limited to use within the network of that particular firm or individual. This is not to be confused with a “privacy cryptocurrency”, which are cryptocurrencies with specific privacy features, such as hidden user identities.",
       "Simplified Chinese": "私人货币",
@@ -9282,7 +9282,7 @@ const glossary = {
   "private key": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A private key is an alphanumeric string of data that, in MetaMask, corresponds to a single specific account in a wallet. Private keys can be thought of as a password that enables an individual to control a specific crypto account. Never reveal your private key to anyone, as whoever controls the private key controls the account funds. If you lose your private key, then you lose access to, and control over, that account.'",
+    "definition": "'A private key is an alphanumeric string of data that, in MetaMask, corresponds to a single specific account in a wallet. Private keys can be thought of as a password that enables an individual to control a specific crypto account. Never reveal your private key to anyone, as whoever controls the private key controls the account funds. If you lose your private key, then you lose access to, and control over, that account.'",
     "locales": {
       "Consensys' Definition": "A private key is an alphanumeric string of data that, in MetaMask, corresponds to a single specific account in a wallet. Private keys can be thought of as a password that enables an individual to control a specific crypto account. Never reveal your private key to anyone, as whoever controls the private key controls the account funds. If you lose your private key, then you lose access to, and control over, that account.",
       "Simplified Chinese": "私钥",
@@ -9314,7 +9314,7 @@ const glossary = {
   "Proof of Authority (PoA)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A consensus mechanism used in private blockchains, granting a single private key the authority to generate all of the blocks or validate transactions.'",
+    "definition": "'A consensus mechanism used in private blockchains, granting a single private key the authority to generate all of the blocks or validate transactions.'",
     "locales": {
       "Consensys' Definition": "A consensus mechanism used in private blockchains, granting a single private key the authority to generate all of the blocks or validate transactions.",
       "Simplified Chinese": "权威证明（PoA）",
@@ -9346,7 +9346,7 @@ const glossary = {
   "Proof of Stake (PoS)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A consensus mechanism in which an individual node, or “validator”, validates transactions or blocks. Validators lock up a certain amount of cryptocurrency, such as ether, into a ‘stake’, in order to be able to participate in consensus. If the node validates a block (group of transactions) correctly, then the validator receives a reward. Conversely, if the validator behaves poorly by validating incorrect transactions or by not maintaining sufficient network connectivity, the cryptocurrency they staked can be ‘slashed’, or taken from them and put out of circulation (‘burned’). PoS requires a negligible amount of computing power compared to Proof of Work consensus.'",
+    "definition": "'A consensus mechanism in which an individual node, or “validator”, validates transactions or blocks. Validators lock up a certain amount of cryptocurrency, such as ether, into a ‘stake’, in order to be able to participate in consensus. If the node validates a block (group of transactions) correctly, then the validator receives a reward. Conversely, if the validator behaves poorly by validating incorrect transactions or by not maintaining sufficient network connectivity, the cryptocurrency they staked can be ‘slashed’, or taken from them and put out of circulation (‘burned’). PoS requires a negligible amount of computing power compared to Proof of Work consensus.'",
     "locales": {
       "Consensys' Definition": "A consensus mechanism in which an individual node, or “validator”, validates transactions or blocks. Validators lock up a certain amount of cryptocurrency, such as ether, into a ‘stake’, in order to be able to participate in consensus. If the node validates a block (group of transactions) correctly, then the validator receives a reward. Conversely, if the validator behaves poorly by validating incorrect transactions or by not maintaining sufficient network connectivity, the cryptocurrency they staked can be ‘slashed’, or taken from them and put out of circulation (‘burned’). PoS requires a negligible amount of computing power compared to Proof of Work consensus.",
       "Simplified Chinese": "权益证明（PoS）",
@@ -9378,7 +9378,7 @@ const glossary = {
   "Proof of Work (PoW)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A consensus mechanism in which each block is ‘mined’ by one of the nodes, or a group of nodes, on the network. The computational process involved in committing a series of transactions into a block on the network, known as ‘hashing a block’, is technically quite simple, and therefore subject to attack. Under PoW, each miner must solve a math problem to find a set, difficult variable in order to be able to propose their block to the network as the next to be ‘mined’. In effect, the process of hashing each block becomes a competition. This addition of solving for a target increases the difficulty of successfully hashing each block, and consequently the security of the network.<br><br>For each hashed block, the overall process of hashing will have taken some time and computational effort. Thus, a hashed block is considered Proof of Work, and the miner that successfully hashes the block first receives a reward, in the form of cryptocurrency. PoW is singificantly more energy-intensive than other consensus mechanisms, such as Proof of Stake.'",
+    "definition": "'A consensus mechanism in which each block is ‘mined’ by one of the nodes, or a group of nodes, on the network. The computational process involved in committing a series of transactions into a block on the network, known as ‘hashing a block’, is technically quite simple, and therefore subject to attack. Under PoW, each miner must solve a math problem to find a set, difficult variable in order to be able to propose their block to the network as the next to be ‘mined’. In effect, the process of hashing each block becomes a competition. This addition of solving for a target increases the difficulty of successfully hashing each block, and consequently the security of the network.<br><br>For each hashed block, the overall process of hashing will have taken some time and computational effort. Thus, a hashed block is considered Proof of Work, and the miner that successfully hashes the block first receives a reward, in the form of cryptocurrency. PoW is singificantly more energy-intensive than other consensus mechanisms, such as Proof of Stake.'",
     "locales": {
       "Consensys' Definition": "A consensus mechanism in which each block is ‘mined’ by one of the nodes, or a group of nodes, on the network. The computational process involved in committing a series of transactions into a block on the network, known as ‘hashing a block’, is technically quite simple, and therefore subject to attack. Under PoW, each miner must solve a math problem to find a set, difficult variable in order to be able to propose their block to the network as the next to be ‘mined’. In effect, the process of hashing each block becomes a competition. This addition of solving for a target increases the difficulty of successfully hashing each block, and consequently the security of the network.\n\nFor each hashed block, the overall process of hashing will have taken some time and computational effort. Thus, a hashed block is considered Proof of Work, and the miner that successfully hashes the block first receives a reward, in the form of cryptocurrency. PoW is singificantly more energy-intensive than other consensus mechanisms, such as Proof of Stake.",
       "Simplified Chinese": "工作量证明（PoW）",
@@ -9410,7 +9410,7 @@ const glossary = {
   "protocol": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Formally speaking, a 'protocol' is a set of rules governing how a process is carried out. This concept is used throughout public blockchain networks and web3 to refer to the way smart contracts execute their functionality in the same way regardless of the user. The products or services built on top of smart contracts are often referred to as 'protocols' by extension.'",
+    "definition": "'Formally speaking, a 'protocol' is a set of rules governing how a process is carried out. This concept is used throughout public blockchain networks and web3 to refer to the way smart contracts execute their functionality in the same way regardless of the user. The products or services built on top of smart contracts are often referred to as 'protocols' by extension.'",
     "locales": {
       "Consensys' Definition": "Formally speaking, a 'protocol' is a set of rules governing how a process is carried out. This concept is used throughout public blockchain networks and web3 to refer to the way smart contracts execute their functionality in the same way regardless of the user. The products or services built on top of smart contracts are often referred to as 'protocols' by extension.",
       "Simplified Chinese": "协议",
@@ -9442,7 +9442,7 @@ const glossary = {
   "public blockchain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A globally open network wherein anyone can participate in transactions, participate in the consensus protocol to help determine which blocks get added to the chain, maintain and examine the contents of the chain.'",
+    "definition": "'A globally open network wherein anyone can participate in transactions, participate in the consensus protocol to help determine which blocks get added to the chain, maintain and examine the contents of the chain.'",
     "locales": {
       "Consensys' Definition": "A globally open network wherein anyone can participate in transactions, participate in the consensus protocol to help determine which blocks get added to the chain, maintain and examine the contents of the chain.",
       "Simplified Chinese": "公共区块链",
@@ -9474,7 +9474,7 @@ const glossary = {
   "public key": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Public blockchain networks are just that: public. Their data is accessible and readable by anyone. In order to have any degree of usability when it comes to allowing users to do some things, like send transactions, but not others, like steal other peoples' tokens, cryptographic technology is used. In particular, a design paradigm known as 'public/private key pairs' is employed to ensure users can interact with others on the network as they wish, while keeping their own account secure. These key pairs consist of two long strings of alphanumeric characters. A public key can be derived mathematically from its corresponding private key, but the inverse is not true: it is mathematically impossible to derive a private key from its corresponding public key. This allows, for example, users to have a public wallet address that anyone can use to send them tokens, with the peace of mind that as long as they properly keep the corresponding private key safe, those tokens cannot be stolen. See also 'private key'.'",
+    "definition": "'Public blockchain networks are just that: public. Their data is accessible and readable by anyone. In order to have any degree of usability when it comes to allowing users to do some things, like send transactions, but not others, like steal other peoples' tokens, cryptographic technology is used. In particular, a design paradigm known as 'public/private key pairs' is employed to ensure users can interact with others on the network as they wish, while keeping their own account secure. These key pairs consist of two long strings of alphanumeric characters. A public key can be derived mathematically from its corresponding private key, but the inverse is not true: it is mathematically impossible to derive a private key from its corresponding public key. This allows, for example, users to have a public wallet address that anyone can use to send them tokens, with the peace of mind that as long as they properly keep the corresponding private key safe, those tokens cannot be stolen. See also 'private key'.'",
     "locales": {
       "Consensys' Definition": "Public blockchain networks are just that: public. Their data is accessible and readable by anyone. In order to have any degree of usability when it comes to allowing users to do some things, like send transactions, but not others, like steal other peoples' tokens, cryptographic technology is used. In particular, a design paradigm known as 'public/private key pairs' is employed to ensure users can interact with others on the network as they wish, while keeping their own account secure. These key pairs consist of two long strings of alphanumeric characters. A public key can be derived mathematically from its corresponding private key, but the inverse is not true: it is mathematically impossible to derive a private key from its corresponding public key. This allows, for example, users to have a public wallet address that anyone can use to send them tokens, with the peace of mind that as long as they properly keep the corresponding private key safe, those tokens cannot be stolen. See also 'private key'.",
       "Simplified Chinese": "公钥",
@@ -9506,7 +9506,7 @@ const glossary = {
   "Public-Key Cryptography": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'See \"public key\",see \"Cryptography\", see \"blockchain\". Public-Key Cryptography'",
+    "definition": "'See \"public key\",see \"Cryptography\", see \"blockchain\". Public-Key Cryptography'",
     "locales": {
       "Consensys' Definition": "See \"public key\",see \"Cryptography\", see \"blockchain\". Public-Key Cryptography",
       "Simplified Chinese": "公钥加密",
@@ -9538,7 +9538,7 @@ const glossary = {
   "Public-Key Infrastructure": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A public key infrastructure (PKI) is a collection of roles, rules, hardware, software, and processes for creating, managing, distributing, using, storing, and revoking digital certificates. Public-Key Infrastructure'",
+    "definition": "'A public key infrastructure (PKI) is a collection of roles, rules, hardware, software, and processes for creating, managing, distributing, using, storing, and revoking digital certificates. Public-Key Infrastructure'",
     "locales": {
       "Consensys' Definition": "A public key infrastructure (PKI) is a collection of roles, rules, hardware, software, and processes for creating, managing, distributing, using, storing, and revoking digital certificates. Public-Key Infrastructure",
       "Simplified Chinese": "公钥基础设施",
@@ -9570,7 +9570,7 @@ const glossary = {
   "QR code": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A QR code is a type of matrix barcode, constituting a machine-readable optical label that can contain information about the item to which it is attached.'",
+    "definition": "'A QR code is a type of matrix barcode, constituting a machine-readable optical label that can contain information about the item to which it is attached.'",
     "locales": {
       "Consensys' Definition": "A QR code is a type of matrix barcode, constituting a machine-readable optical label that can contain information about the item to which it is attached.",
       "Simplified Chinese": "二维码",
@@ -9602,7 +9602,7 @@ const glossary = {
   "Quorum": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'ConsenSys Quorum enables enterprises to leverage Ethereum for their high-value blockchain applications. Businesses can rely on the Quorum open-source protocol layer and integrate on top of it product modules from ConsenSys, other companies, or your own in-house development team to build high-performance, customizable applications.<br><br>Quorum'",
+    "definition": "'ConsenSys Quorum enables enterprises to leverage Ethereum for their high-value blockchain applications. Businesses can rely on the Quorum open-source protocol layer and integrate on top of it product modules from ConsenSys, other companies, or your own in-house development team to build high-performance, customizable applications.<br><br>Quorum'",
     "locales": {
       "Consensys' Definition": "ConsenSys Quorum enables enterprises to leverage Ethereum for their high-value blockchain applications. Businesses can rely on the Quorum open-source protocol layer and integrate on top of it product modules from ConsenSys, other companies, or your own in-house development team to build high-performance, customizable applications.\n\nQuorum",
       "Simplified Chinese": "Quorum",
@@ -9634,7 +9634,7 @@ const glossary = {
   "Rarible": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An NFT marketplace.'",
+    "definition": "'An NFT marketplace.'",
     "locales": {
       "Consensys' Definition": "An NFT marketplace.",
       "Simplified Chinese": "Rarible",
@@ -9666,7 +9666,7 @@ const glossary = {
   "relayer": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A relayer is an intermediary that facilitates the exchange or transfer of information, assets, or services between two or more parties. The term is used in various fields, including finance, communication, and technology.<br><br>In the context of cryptocurrencies and blockchain technology, a relayer typically refers to an intermediary that facilitates peer-to-peer transactions on a decentralized network. This can include decentralized exchanges (DEXs), where relayers act as matching engines to connect buyers and sellers of digital assets. A few examples of popular relayers include 0x: 0x is a decentralized exchange protocol that enables the creation of relayers on the Ethereum blockchain. These relayers can be built by anyone and allow for peer-to-peer trading of ERC-20 tokens.<br><br>Kyber Network: Kyber Network is a decentralized liquidity network that also operates as a relayer. It enables users to trade a wide range of digital assets, including ERC-20 tokens, without the need for a centralized intermediary.<br><br>Uniswap: Uniswap is a popular decentralized exchange that operates as a relayer. It uses an automated market maker (AMM) system to enable peer-to-peer trading of ERC-20 tokens.<br><br>AirSwap: AirSwap is a decentralized exchange that operates as a peer-to-peer relayer on the Ethereum blockchain. It uses an off-chain order book to match buyers and sellers and execute trades.'",
+    "definition": "'A relayer is an intermediary that facilitates the exchange or transfer of information, assets, or services between two or more parties. The term is used in various fields, including finance, communication, and technology.<br><br>In the context of cryptocurrencies and blockchain technology, a relayer typically refers to an intermediary that facilitates peer-to-peer transactions on a decentralized network. This can include decentralized exchanges (DEXs), where relayers act as matching engines to connect buyers and sellers of digital assets. A few examples of popular relayers include 0x: 0x is a decentralized exchange protocol that enables the creation of relayers on the Ethereum blockchain. These relayers can be built by anyone and allow for peer-to-peer trading of ERC-20 tokens.<br><br>Kyber Network: Kyber Network is a decentralized liquidity network that also operates as a relayer. It enables users to trade a wide range of digital assets, including ERC-20 tokens, without the need for a centralized intermediary.<br><br>Uniswap: Uniswap is a popular decentralized exchange that operates as a relayer. It uses an automated market maker (AMM) system to enable peer-to-peer trading of ERC-20 tokens.<br><br>AirSwap: AirSwap is a decentralized exchange that operates as a peer-to-peer relayer on the Ethereum blockchain. It uses an off-chain order book to match buyers and sellers and execute trades.'",
     "locales": {
       "Consensys' Definition": "A relayer is an intermediary that facilitates the exchange or transfer of information, assets, or services between two or more parties. The term is used in various fields, including finance, communication, and technology.\n\nIn the context of cryptocurrencies and blockchain technology, a relayer typically refers to an intermediary that facilitates peer-to-peer transactions on a decentralized network. This can include decentralized exchanges (DEXs), where relayers act as matching engines to connect buyers and sellers of digital assets. A few examples of popular relayers include 0x: 0x is a decentralized exchange protocol that enables the creation of relayers on the Ethereum blockchain. These relayers can be built by anyone and allow for peer-to-peer trading of ERC-20 tokens.\n\nKyber Network: Kyber Network is a decentralized liquidity network that also operates as a relayer. It enables users to trade a wide range of digital assets, including ERC-20 tokens, without the need for a centralized intermediary.\n\nUniswap: Uniswap is a popular decentralized exchange that operates as a relayer. It uses an automated market maker (AMM) system to enable peer-to-peer trading of ERC-20 tokens.\n\nAirSwap: AirSwap is a decentralized exchange that operates as a peer-to-peer relayer on the Ethereum blockchain. It uses an off-chain order book to match buyers and sellers and execute trades.",
       "Simplified Chinese": "中继器",
@@ -9698,7 +9698,7 @@ const glossary = {
   "Remote Procedure Call (RPC)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see ‘JSON-RPC’ for further details.'",
+    "definition": "'The Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see ‘JSON-RPC’ for further details.'",
     "locales": {
       "Consensys' Definition": "The Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see ‘JSON-RPC’ for further details.",
       "Simplified Chinese": "远程过程调用（RPC）",
@@ -9730,7 +9730,7 @@ const glossary = {
   "Rinkeby": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.'",
+    "definition": "'An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.'",
     "locales": {
       "Consensys' Definition": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.",
       "Simplified Chinese": "Rinkeby",
@@ -9762,7 +9762,7 @@ const glossary = {
   "Roadmap": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A planning technique which lays out the short and long term goals of a particular project within a flexible estimated timeline.'",
+    "definition": "'A planning technique which lays out the short and long term goals of a particular project within a flexible estimated timeline.'",
     "locales": {
       "Consensys' Definition": "A planning technique which lays out the short and long term goals of a particular project within a flexible estimated timeline.",
       "Simplified Chinese": "路线图",
@@ -9794,7 +9794,7 @@ const glossary = {
   "Rocket Pool": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Rocket Pool is a decentralized Ethereum staking pool.'",
+    "definition": "'Rocket Pool is a decentralized Ethereum staking pool.'",
     "locales": {
       "Consensys' Definition": "Rocket Pool is a decentralized Ethereum staking pool.",
       "Simplified Chinese": "Rocket Pool",
@@ -9826,7 +9826,7 @@ const glossary = {
   "rollups": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Rollups (pronounced \"roll ups\") are one element in the set of tools and infrastructure being built as scaling solutions for the Ethereum network. They consist, in general, of networks which prioritize their ability to compute transactions and smart contract functionality, and then 'roll up' those transactions to Ethereum Mainnet for secure verification of their validity. There are different ways of approaching this problem from a technical point of view, namely Zero Knowledge, or ZK, rollups, and Optimistic rollups. Arbitrum and Optimism are prominent examples. See the entries on both of these types of rollup for more, and more in-depth discussion here.'",
+    "definition": "'Rollups (pronounced \"roll ups\") are one element in the set of tools and infrastructure being built as scaling solutions for the Ethereum network. They consist, in general, of networks which prioritize their ability to compute transactions and smart contract functionality, and then 'roll up' those transactions to Ethereum Mainnet for secure verification of their validity. There are different ways of approaching this problem from a technical point of view, namely Zero Knowledge, or ZK, rollups, and Optimistic rollups. Arbitrum and Optimism are prominent examples. See the entries on both of these types of rollup for more, and more in-depth discussion here.'",
     "locales": {
       "Consensys' Definition": "Rollups (pronounced \"roll ups\") are one element in the set of tools and infrastructure being built as scaling solutions for the Ethereum network. They consist, in general, of networks which prioritize their ability to compute transactions and smart contract functionality, and then 'roll up' those transactions to Ethereum Mainnet for secure verification of their validity. There are different ways of approaching this problem from a technical point of view, namely Zero Knowledge, or ZK, rollups, and Optimistic rollups. Arbitrum and Optimism are prominent examples. See the entries on both of these types of rollup for more, and more in-depth discussion here.",
       "Simplified Chinese": "扩容方案",
@@ -9858,7 +9858,7 @@ const glossary = {
   "Ropsten": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.'",
+    "definition": "'An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.'",
     "locales": {
       "Consensys' Definition": "An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.",
       "Simplified Chinese": "Ropsten",
@@ -9890,7 +9890,7 @@ const glossary = {
   "RPC": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see 'JSON-RPC' for further details.'",
+    "definition": "'The Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see 'JSON-RPC' for further details.'",
     "locales": {
       "Consensys' Definition": "The Remote Procedure Call is a technology that is used to transfer data between endpoints. You may often see it referred to as JSON-RPC, which is its full name; see 'JSON-RPC' for further details.",
       "Simplified Chinese": "RPC（远程过程调用）",
@@ -9922,7 +9922,7 @@ const glossary = {
   "rug pull": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Similar to the traditional financial scam of a pyramid scheme, a 'rug pull' is a cryptocurrency or crypto-token based scam in which the creators of the token create hype, through injecting liquidity into their token, airdropping, and other schemes, and once investors pile in and boost the price of the token up to a certain point, the creators liquidate their (generally majority) share of the tokens, leaving their investors with next to nothing.'",
+    "definition": "'Similar to the traditional financial scam of a pyramid scheme, a 'rug pull' is a cryptocurrency or crypto-token based scam in which the creators of the token create hype, through injecting liquidity into their token, airdropping, and other schemes, and once investors pile in and boost the price of the token up to a certain point, the creators liquidate their (generally majority) share of the tokens, leaving their investors with next to nothing.'",
     "locales": {
       "Consensys' Definition": "Similar to the traditional financial scam of a pyramid scheme, a 'rug pull' is a cryptocurrency or crypto-token based scam in which the creators of the token create hype, through injecting liquidity into their token, airdropping, and other schemes, and once investors pile in and boost the price of the token up to a certain point, the creators liquidate their (generally majority) share of the tokens, leaving their investors with next to nothing.",
       "Simplified Chinese": "跑路",
@@ -9954,7 +9954,7 @@ const glossary = {
   "Safeheron": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Safeheron is an open-source platform for managing digital assets.'",
+    "definition": "'Safeheron is an open-source platform for managing digital assets.'",
     "locales": {
       "Consensys' Definition": "Safeheron is an open-source platform for managing digital assets.",
       "Simplified Chinese": "Safeheron",
@@ -9986,7 +9986,7 @@ const glossary = {
   "Samsung Pay": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Samsung Pay is a mobile payment and digital wallet service that lets users make payments using compatible phones and other Samsung-produced devices.'",
+    "definition": "'Samsung Pay is a mobile payment and digital wallet service that lets users make payments using compatible phones and other Samsung-produced devices.'",
     "locales": {
       "Consensys' Definition": "Samsung Pay is a mobile payment and digital wallet service that lets users make payments using compatible phones and other Samsung-produced devices.",
       "Simplified Chinese": "Samsung Pay",
@@ -10018,7 +10018,7 @@ const glossary = {
   "sandbox": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A testing environment in a computer system in which new or untested software or coding can be run securely.'",
+    "definition": "'A testing environment in a computer system in which new or untested software or coding can be run securely.'",
     "locales": {
       "Consensys' Definition": "A testing environment in a computer system in which new or untested software or coding can be run securely.",
       "Simplified Chinese": "沙盒",
@@ -10050,7 +10050,7 @@ const glossary = {
   "Sardine": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Sardine is an instant fiat and crypto settlement platform.'",
+    "definition": "'Sardine is an instant fiat and crypto settlement platform.'",
     "locales": {
       "Consensys' Definition": "Sardine is an instant fiat and crypto settlement platform.",
       "Simplified Chinese": "Sardine",
@@ -10082,7 +10082,7 @@ const glossary = {
   "Satoshi Nakamoto": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A pseudonymous individual or entity who created the Bitcoin protocol, solving the digital currency issue of the “double spend.” Nakamoto first published their white paper describing the project in 2008, and the first Bitcoin software was released one year later.'",
+    "definition": "'A pseudonymous individual or entity who created the Bitcoin protocol, solving the digital currency issue of the “double spend.” Nakamoto first published their white paper describing the project in 2008, and the first Bitcoin software was released one year later.'",
     "locales": {
       "Consensys' Definition": "A pseudonymous individual or entity who created the Bitcoin protocol, solving the digital currency issue of the “double spend.” Nakamoto first published their white paper describing the project in 2008, and the first Bitcoin software was released one year later.",
       "Simplified Chinese": "中本聪",
@@ -10114,7 +10114,7 @@ const glossary = {
   "scalability": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A change in size or scale to handle a network’s demands. This word is used to refer to a blockchain project’s ability to handle network traffic, future growth, and capacity in its intended application.'",
+    "definition": "'A change in size or scale to handle a network’s demands. This word is used to refer to a blockchain project’s ability to handle network traffic, future growth, and capacity in its intended application.'",
     "locales": {
       "Consensys' Definition": "A change in size or scale to handle a network’s demands. This word is used to refer to a blockchain project’s ability to handle network traffic, future growth, and capacity in its intended application.",
       "Simplified Chinese": "可扩展性",
@@ -10146,7 +10146,7 @@ const glossary = {
   "Scaling": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The main goal of scalability is to increase transaction speed (faster finality), and transaction throughput (high transactions per second), without sacrificing decentralization or security.'",
+    "definition": "'The main goal of scalability is to increase transaction speed (faster finality), and transaction throughput (high transactions per second), without sacrificing decentralization or security.'",
     "locales": {
       "Consensys' Definition": "The main goal of scalability is to increase transaction speed (faster finality), and transaction throughput (high transactions per second), without sacrificing decentralization or security.",
       "Simplified Chinese": "扩容",
@@ -10178,7 +10178,7 @@ const glossary = {
   "Scrypt": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An alternative proof-of-work (PoW) algorithm to SHA-256, used in Bitcoin mining. Scrypt mining relies more heavily on memory than on pure CPU power, aiming to reduce the advantage that ASICs. Scrypt'",
+    "definition": "'An alternative proof-of-work (PoW) algorithm to SHA-256, used in Bitcoin mining. Scrypt mining relies more heavily on memory than on pure CPU power, aiming to reduce the advantage that ASICs. Scrypt'",
     "locales": {
       "Consensys' Definition": "An alternative proof-of-work (PoW) algorithm to SHA-256, used in Bitcoin mining. Scrypt mining relies more heavily on memory than on pure CPU power, aiming to reduce the advantage that ASICs. Scrypt",
       "Simplified Chinese": "Scrypt 挖掘算法",
@@ -10210,7 +10210,7 @@ const glossary = {
   "Secret Recovery Phrase": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The seed phrase, mnemonic, or Secret Recovery Phrase is a crucial part of public blockchain technology, originally created for Bitcoin, and goes by many names. However, they all refer to a set of ordered words which correspond to determined values. These values never change, and therefore the same string of words in the same order will always produce the same number–this is the underlying functionality that allows seed phrases to back up wallets. This is also where the name ‘hierarchical deterministic wallets’ comes from, as all the accounts in a given wallet are deterministically created from the seed phrase, and they are hierarchically controlled by it.<br><br>A Secret Recovery Phrase is exactly what it sounds like: something that is secret, and should be known only to the owner of the account. If the seed phrase is given to someone else, that person has complete control over the account; they can drain it of tokens and funds, execute transactions with it, etc.    What is a ‘Secret Recovery Phrase’ and how to keep your crypto wallet secure'",
+    "definition": "'The seed phrase, mnemonic, or Secret Recovery Phrase is a crucial part of public blockchain technology, originally created for Bitcoin, and goes by many names. However, they all refer to a set of ordered words which correspond to determined values. These values never change, and therefore the same string of words in the same order will always produce the same number–this is the underlying functionality that allows seed phrases to back up wallets. This is also where the name ‘hierarchical deterministic wallets’ comes from, as all the accounts in a given wallet are deterministically created from the seed phrase, and they are hierarchically controlled by it.<br><br>A Secret Recovery Phrase is exactly what it sounds like: something that is secret, and should be known only to the owner of the account. If the seed phrase is given to someone else, that person has complete control over the account; they can drain it of tokens and funds, execute transactions with it, etc.    What is a ‘Secret Recovery Phrase’ and how to keep your crypto wallet secure'",
     "locales": {
       "Consensys' Definition": "The seed phrase, mnemonic, or Secret Recovery Phrase is a crucial part of public blockchain technology, originally created for Bitcoin, and goes by many names. However, they all refer to a set of ordered words which correspond to determined values. These values never change, and therefore the same string of words in the same order will always produce the same number–this is the underlying functionality that allows seed phrases to back up wallets. This is also where the name ‘hierarchical deterministic wallets’ comes from, as all the accounts in a given wallet are deterministically created from the seed phrase, and they are hierarchically controlled by it.\n\nA Secret Recovery Phrase is exactly what it sounds like: something that is secret, and should be known only to the owner of the account. If the seed phrase is given to someone else, that person has complete control over the account; they can drain it of tokens and funds, execute transactions with it, etc.    What is a ‘Secret Recovery Phrase’ and how to keep your crypto wallet secure",
       "Simplified Chinese": "私钥助记词",
@@ -10242,7 +10242,7 @@ const glossary = {
   "Security Token": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A security token is essentially a digital form of traditional securities. There are three primary types of traditional securities: equities, debt and a hybrid of debt and equity. Examples of securities include stocks, bonds, ETFs, options and futures. Hypothetically, any of these things can be tokenized to become a security token. It is possible that in the near future, security tokens could serve as a very viable alternative and competitor to stocks and other traditional securities. Security Token'",
+    "definition": "'A security token is essentially a digital form of traditional securities. There are three primary types of traditional securities: equities, debt and a hybrid of debt and equity. Examples of securities include stocks, bonds, ETFs, options and futures. Hypothetically, any of these things can be tokenized to become a security token. It is possible that in the near future, security tokens could serve as a very viable alternative and competitor to stocks and other traditional securities. Security Token'",
     "locales": {
       "Consensys' Definition": "A security token is essentially a digital form of traditional securities. There are three primary types of traditional securities: equities, debt and a hybrid of debt and equity. Examples of securities include stocks, bonds, ETFs, options and futures. Hypothetically, any of these things can be tokenized to become a security token. It is possible that in the near future, security tokens could serve as a very viable alternative and competitor to stocks and other traditional securities. Security Token",
       "Simplified Chinese": "证券型代币",
@@ -10274,7 +10274,7 @@ const glossary = {
   "Security Token Offering (STO)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A security token offering (STO) is a form of initial coin offering (ICO) where a company or organization issues a security token that is backed by a tangible asset, such as real estate, technology or other assets. The security token represents the right to ownership of the underlying asset, with the tokens being tradeable on a compliant digital asset exchange. Security Token Offering'",
+    "definition": "'A security token offering (STO) is a form of initial coin offering (ICO) where a company or organization issues a security token that is backed by a tangible asset, such as real estate, technology or other assets. The security token represents the right to ownership of the underlying asset, with the tokens being tradeable on a compliant digital asset exchange. Security Token Offering'",
     "locales": {
       "Consensys' Definition": "A security token offering (STO) is a form of initial coin offering (ICO) where a company or organization issues a security token that is backed by a tangible asset, such as real estate, technology or other assets. The security token represents the right to ownership of the underlying asset, with the tokens being tradeable on a compliant digital asset exchange. Security Token Offering",
       "Simplified Chinese": "证券型代币发行（STO）",
@@ -10306,7 +10306,7 @@ const glossary = {
   "seed phrase": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Another term for Secret Recovery Phrase'",
+    "definition": "'Another term for Secret Recovery Phrase'",
     "locales": {
       "Consensys' Definition": "Another term for Secret Recovery Phrase",
       "Simplified Chinese": "助记词",
@@ -10338,7 +10338,7 @@ const glossary = {
   "self-custody (noun)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Self-custodial' refers to the fact that it's you ('self') who holds your wallet's private key(s). A self-custodial wallet eliminates the third party between you and your crypto-assets, which is more suitable for some people.'",
+    "definition": "'Self-custodial' refers to the fact that it's you ('self') who holds your wallet's private key(s). A self-custodial wallet eliminates the third party between you and your crypto-assets, which is more suitable for some people.'",
     "locales": {
       "Consensys' Definition": "Self-custodial' refers to the fact that it's you ('self') who holds your wallet's private key(s). A self-custodial wallet eliminates the third party between you and your crypto-assets, which is more suitable for some people.",
       "Simplified Chinese": "自主托管",
@@ -10370,7 +10370,7 @@ const glossary = {
   "self-executing": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A smart contract is a self-executing contract: a computer program that automatically executes the terms of a contract when certain conditions are met.'",
+    "definition": "'A smart contract is a self-executing contract: a computer program that automatically executes the terms of a contract when certain conditions are met.'",
     "locales": {
       "Consensys' Definition": "A smart contract is a self-executing contract: a computer program that automatically executes the terms of a contract when certain conditions are met.",
       "Simplified Chinese": "自动执行",
@@ -10402,7 +10402,7 @@ const glossary = {
   "Sepolia": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Sepolia is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).<br><br>ETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet'",
+    "definition": "'Sepolia is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).<br><br>ETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet'",
     "locales": {
       "Consensys' Definition": "Sepolia is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).\n\nETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet",
       "Simplified Chinese": "Sepolia",
@@ -10434,9 +10434,9 @@ const glossary = {
   "Serenity": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Ethereum network is working on a series of technical upgrades that will allow massive increases in transaction throughput, amongst other things. The plan that outlined these changes was originally referred to as 'Serenity', although that name has become less popular, in favor of specific descriptions of the upgrades themselves.'",
+    "definition": "'The Ethereum network is working on a series of technical upgrades that will allow massive increases in transaction throughput, amongst other things. The plan that outlined these changes was originally referred to as 'Serenity', although that name has become less popular, in favor of specific definitions of the upgrades themselves.'",
     "locales": {
-      "Consensys' Definition": "The Ethereum network is working on a series of technical upgrades that will allow massive increases in transaction throughput, amongst other things. The plan that outlined these changes was originally referred to as 'Serenity', although that name has become less popular, in favor of specific descriptions of the upgrades themselves.",
+      "Consensys' Definition": "The Ethereum network is working on a series of technical upgrades that will allow massive increases in transaction throughput, amongst other things. The plan that outlined these changes was originally referred to as 'Serenity', although that name has become less popular, in favor of specific definitions of the upgrades themselves.",
       "Simplified Chinese": "Serenity",
       "French": "Serenity",
       "German": "Serenity",
@@ -10466,7 +10466,7 @@ const glossary = {
   "serialization": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The process of converting a data structure into a sequence of bytes. Ethereum internally uses an encoding format called recursive-length prefix encoding (RLP).'",
+    "definition": "'The process of converting a data structure into a sequence of bytes. Ethereum internally uses an encoding format called recursive-length prefix encoding (RLP).'",
     "locales": {
       "Consensys' Definition": "The process of converting a data structure into a sequence of bytes. Ethereum internally uses an encoding format called recursive-length prefix encoding (RLP).",
       "Simplified Chinese": "序列化",
@@ -10498,7 +10498,7 @@ const glossary = {
   "Shard chain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A proof-of-stake chain that is coordinated by the Beacon Chain and secured by validators. There will be 64 added to the network as part of the shard chain upgrade. Shard chains will offer increased transaction throughput for Ethereum by providing additional data to layer 2 solutions like optimistic rollups and ZK-rollups.'",
+    "definition": "'A proof-of-stake chain that is coordinated by the Beacon Chain and secured by validators. There will be 64 added to the network as part of the shard chain upgrade. Shard chains will offer increased transaction throughput for Ethereum by providing additional data to layer 2 solutions like optimistic rollups and ZK-rollups.'",
     "locales": {
       "Consensys' Definition": "A proof-of-stake chain that is coordinated by the Beacon Chain and secured by validators. There will be 64 added to the network as part of the shard chain upgrade. Shard chains will offer increased transaction throughput for Ethereum by providing additional data to layer 2 solutions like optimistic rollups and ZK-rollups.",
       "Simplified Chinese": "分片区块链",
@@ -10530,7 +10530,7 @@ const glossary = {
   "sharding (noun)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Sharding, in public blockchains, refers to splitting an entire network into multiple portions, called “shards.” Each shard would contain its own independent state, meaning a unique set of account balances and smart contracts. Sharding is currently being investigated and developed as one of the set of tools and solutions for scaling Ethereum.'",
+    "definition": "'Sharding, in public blockchains, refers to splitting an entire network into multiple portions, called “shards.” Each shard would contain its own independent state, meaning a unique set of account balances and smart contracts. Sharding is currently being investigated and developed as one of the set of tools and solutions for scaling Ethereum.'",
     "locales": {
       "Consensys' Definition": "Sharding, in public blockchains, refers to splitting an entire network into multiple portions, called “shards.” Each shard would contain its own independent state, meaning a unique set of account balances and smart contracts. Sharding is currently being investigated and developed as one of the set of tools and solutions for scaling Ethereum.",
       "Simplified Chinese": "分片",
@@ -10562,7 +10562,7 @@ const glossary = {
   "Shielded Transaction": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A shielded transaction is essentially a transaction that is between two shielded addresses.<br>Shielded Transaction'",
+    "definition": "'A shielded transaction is essentially a transaction that is between two shielded addresses.<br>Shielded Transaction'",
     "locales": {
       "Consensys' Definition": "A shielded transaction is essentially a transaction that is between two shielded addresses.\nShielded Transaction",
       "Simplified Chinese": "隐私交易",
@@ -10594,7 +10594,7 @@ const glossary = {
   "sidechain": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A ‘sidechain’ refers to a chain that is connected to another (most often, to Ethereum) through a bridge, allowing assets to be transferred between them. In contrast to a Layer 2 network or a rollup, a sidechain is a full blockchain network in and of itself, and does not rely on Ethereum for consensus. It therefore must be evaluated independently in terms of its security, stability, and other features. See also “blockchain trilemma”, “modular blockchain”.<br><br>Note: Bridges exist for good reason; sending tokens from a sidechain to Ethereum mainnet or vice versa would result in token loss.'",
+    "definition": "'A ‘sidechain’ refers to a chain that is connected to another (most often, to Ethereum) through a bridge, allowing assets to be transferred between them. In contrast to a Layer 2 network or a rollup, a sidechain is a full blockchain network in and of itself, and does not rely on Ethereum for consensus. It therefore must be evaluated independently in terms of its security, stability, and other features. See also “blockchain trilemma”, “modular blockchain”.<br><br>Note: Bridges exist for good reason; sending tokens from a sidechain to Ethereum mainnet or vice versa would result in token loss.'",
     "locales": {
       "Consensys' Definition": "A ‘sidechain’ refers to a chain that is connected to another (most often, to Ethereum) through a bridge, allowing assets to be transferred between them. In contrast to a Layer 2 network or a rollup, a sidechain is a full blockchain network in and of itself, and does not rely on Ethereum for consensus. It therefore must be evaluated independently in terms of its security, stability, and other features. See also “blockchain trilemma”, “modular blockchain”.\n\nNote: Bridges exist for good reason; sending tokens from a sidechain to Ethereum mainnet or vice versa would result in token loss.",
       "Simplified Chinese": "侧链",
@@ -10626,7 +10626,7 @@ const glossary = {
   "Signature (Cryptographic)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'See \"Digital signature'",
+    "definition": "'See \"Digital signature'",
     "locales": {
       "Consensys' Definition": "See \"Digital signature",
       "Simplified Chinese": "签名（加密）",
@@ -10658,7 +10658,7 @@ const glossary = {
   "slashing condition": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Under a Proof of Stake (PoS) consensus mechanism, a slashing condition is one that causes the validator's deposit to be destroyed when they trigger it. See also 'Proof of Stake'.'",
+    "definition": "'Under a Proof of Stake (PoS) consensus mechanism, a slashing condition is one that causes the validator's deposit to be destroyed when they trigger it. See also 'Proof of Stake'.'",
     "locales": {
       "Consensys' Definition": "Under a Proof of Stake (PoS) consensus mechanism, a slashing condition is one that causes the validator's deposit to be destroyed when they trigger it. See also 'Proof of Stake'.",
       "Simplified Chinese": "削减条件",
@@ -10690,7 +10690,7 @@ const glossary = {
   "slippage": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Slippage is the expected percentage difference between a quoted and an executed price.'",
+    "definition": "'Slippage is the expected percentage difference between a quoted and an executed price.'",
     "locales": {
       "Consensys' Definition": "Slippage is the expected percentage difference between a quoted and an executed price.",
       "Simplified Chinese": "滑移",
@@ -10722,7 +10722,7 @@ const glossary = {
   "slot": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In Proof of Stake consensus in Ethereum, a 'slot' is a period of time equivalent to 12 seconds; 32 slots make up an 'epoch'. Slots are significant in that for each slot, a different validator node is randomly chosen to propose blocks to the network, and a different committee of validators are chosen to vote on whether each block is valid'",
+    "definition": "'In Proof of Stake consensus in Ethereum, a 'slot' is a period of time equivalent to 12 seconds; 32 slots make up an 'epoch'. Slots are significant in that for each slot, a different validator node is randomly chosen to propose blocks to the network, and a different committee of validators are chosen to vote on whether each block is valid'",
     "locales": {
       "Consensys' Definition": "In Proof of Stake consensus in Ethereum, a 'slot' is a period of time equivalent to 12 seconds; 32 slots make up an 'epoch'. Slots are significant in that for each slot, a different validator node is randomly chosen to propose blocks to the network, and a different committee of validators are chosen to vote on whether each block is valid",
       "Simplified Chinese": "时间间隔（Slot）",
@@ -10754,7 +10754,7 @@ const glossary = {
   "smart contract": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Smart contracts are programs that have been published on a public blockchain, and can be used by anyone. While they often contain agreements or sets of actions between parties that emulate a traditional legal contract, they are not, in and of themselves, legal documents. Smart contracts are automated actions that can be coded and executed once a set of conditions is met, and are the dominant form of programming on the Ethereum Virtual Machine.'",
+    "definition": "'Smart contracts are programs that have been published on a public blockchain, and can be used by anyone. While they often contain agreements or sets of actions between parties that emulate a traditional legal contract, they are not, in and of themselves, legal documents. Smart contracts are automated actions that can be coded and executed once a set of conditions is met, and are the dominant form of programming on the Ethereum Virtual Machine.'",
     "locales": {
       "Consensys' Definition": "Smart contracts are programs that have been published on a public blockchain, and can be used by anyone. While they often contain agreements or sets of actions between parties that emulate a traditional legal contract, they are not, in and of themselves, legal documents. Smart contracts are automated actions that can be coded and executed once a set of conditions is met, and are the dominant form of programming on the Ethereum Virtual Machine.",
       "Simplified Chinese": "智能合约",
@@ -10786,7 +10786,7 @@ const glossary = {
   "snap": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A program or piece of code that extends the functionality of MetaMask by using the MetaMask Snaps framework.'",
+    "definition": "'A program or piece of code that extends the functionality of MetaMask by using the MetaMask Snaps framework.'",
     "locales": {
       "Consensys' Definition": "A program or piece of code that extends the functionality of MetaMask by using the MetaMask Snaps framework.",
       "Simplified Chinese": "Snap",
@@ -10818,7 +10818,7 @@ const glossary = {
   "soft fork": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A change to the blockchain protocol resulting in only previously valid blocks and transactions being made invalid. Since old nodes will recognize the new blocks as valid, a soft fork is backward-compatible. However, this can result in a potential divide in the blockchain, as the old software generates blocks that read as invalid according to the new rules. Contrast with 'hard fork'; for more basic information regarding forks, see 'fork'.'",
+    "definition": "'A change to the blockchain protocol resulting in only previously valid blocks and transactions being made invalid. Since old nodes will recognize the new blocks as valid, a soft fork is backward-compatible. However, this can result in a potential divide in the blockchain, as the old software generates blocks that read as invalid according to the new rules. Contrast with 'hard fork'; for more basic information regarding forks, see 'fork'.'",
     "locales": {
       "Consensys' Definition": "A change to the blockchain protocol resulting in only previously valid blocks and transactions being made invalid. Since old nodes will recognize the new blocks as valid, a soft fork is backward-compatible. However, this can result in a potential divide in the blockchain, as the old software generates blocks that read as invalid according to the new rules. Contrast with 'hard fork'; for more basic information regarding forks, see 'fork'.",
       "Simplified Chinese": "软分叉",
@@ -10850,7 +10850,7 @@ const glossary = {
   "Software Development Kit (SDK)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A software development kit is a collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and sometimes a software framework. See \"MetaMask SDK'",
+    "definition": "'A software development kit is a collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and sometimes a software framework. See \"MetaMask SDK'",
     "locales": {
       "Consensys' Definition": "A software development kit is a collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and sometimes a software framework. See \"MetaMask SDK",
       "Simplified Chinese": "软件开发工具包（SDK）",
@@ -10882,7 +10882,7 @@ const glossary = {
   "Solidity": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The programming language developers use to write smart contracts on the Ethereum network. See also ‘smart contract’. Solidity'",
+    "definition": "'The programming language developers use to write smart contracts on the Ethereum network. See also ‘smart contract’. Solidity'",
     "locales": {
       "Consensys' Definition": "The programming language developers use to write smart contracts on the Ethereum network. See also ‘smart contract’. Solidity",
       "Simplified Chinese": "Solidity",
@@ -10914,7 +10914,7 @@ const glossary = {
   "stablecoin": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A cryptocurrency whose value has been ‘pegged’ to that of something considered a ‘stable’ asset, like fiat currency or gold. It theoretically remains stable in price, as it is measured against a known amount of an asset which should be less subject to fluctuation. Always spelled as one word. User Guide: Tokens'",
+    "definition": "'A cryptocurrency whose value has been ‘pegged’ to that of something considered a ‘stable’ asset, like fiat currency or gold. It theoretically remains stable in price, as it is measured against a known amount of an asset which should be less subject to fluctuation. Always spelled as one word. User Guide: Tokens'",
     "locales": {
       "Consensys' Definition": "A cryptocurrency whose value has been ‘pegged’ to that of something considered a ‘stable’ asset, like fiat currency or gold. It theoretically remains stable in price, as it is measured against a known amount of an asset which should be less subject to fluctuation. Always spelled as one word. User Guide: Tokens",
       "Simplified Chinese": "稳定币",
@@ -10946,7 +10946,7 @@ const glossary = {
   "staking (noun)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'On the Ethereum Proof of Stake network, those wishing to participate in consensus must first lock up, or ‘stake’, 32 ETH into a smart contract; this ETH may be ‘slashed’ (taken from them and ‘burned’, put out of circulation) in the event that their validator behaves maliciously or does not meet performance requirements. Similar Proof of Stake mechanisms are in operation on other networks, as well.<br><br>Although this is the canonical meaning of the word, similar actions taken at the level of a decentralized exchange (DEX) or another dapp are often called ‘staking’, though it would probably be more accurate and descriptive to just call this ‘locking up tokens’.'",
+    "definition": "'On the Ethereum Proof of Stake network, those wishing to participate in consensus must first lock up, or ‘stake’, 32 ETH into a smart contract; this ETH may be ‘slashed’ (taken from them and ‘burned’, put out of circulation) in the event that their validator behaves maliciously or does not meet performance requirements. Similar Proof of Stake mechanisms are in operation on other networks, as well.<br><br>Although this is the canonical meaning of the word, similar actions taken at the level of a decentralized exchange (DEX) or another dapp are often called ‘staking’, though it would probably be more accurate and descriptive to just call this ‘locking up tokens’.'",
     "locales": {
       "Consensys' Definition": "On the Ethereum Proof of Stake network, those wishing to participate in consensus must first lock up, or ‘stake’, 32 ETH into a smart contract; this ETH may be ‘slashed’ (taken from them and ‘burned’, put out of circulation) in the event that their validator behaves maliciously or does not meet performance requirements. Similar Proof of Stake mechanisms are in operation on other networks, as well.\n\nAlthough this is the canonical meaning of the word, similar actions taken at the level of a decentralized exchange (DEX) or another dapp are often called ‘staking’, though it would probably be more accurate and descriptive to just call this ‘locking up tokens’.",
       "Simplified Chinese": "质押",
@@ -10978,7 +10978,7 @@ const glossary = {
   "state": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The set of data that a blockchain network strictly needs to keep track of, and that represents data currently relevant to applications on the chain.'",
+    "definition": "'The set of data that a blockchain network strictly needs to keep track of, and that represents data currently relevant to applications on the chain.'",
     "locales": {
       "Consensys' Definition": "The set of data that a blockchain network strictly needs to keep track of, and that represents data currently relevant to applications on the chain.",
       "Simplified Chinese": "状态",
@@ -11010,7 +11010,7 @@ const glossary = {
   "state channels": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'State channels are part of the set of tools and platforms involved in scaling Ethereum. While a complex topic, state channels are essentially methods through which the current 'state' of the blockchain can be exported, and then based on that, any given number of transactions can take place off-chain, and then be moved back onto the main Ethereum chain.'",
+    "definition": "'State channels are part of the set of tools and platforms involved in scaling Ethereum. While a complex topic, state channels are essentially methods through which the current 'state' of the blockchain can be exported, and then based on that, any given number of transactions can take place off-chain, and then be moved back onto the main Ethereum chain.'",
     "locales": {
       "Consensys' Definition": "State channels are part of the set of tools and platforms involved in scaling Ethereum. While a complex topic, state channels are essentially methods through which the current 'state' of the blockchain can be exported, and then based on that, any given number of transactions can take place off-chain, and then be moved back onto the main Ethereum chain.",
       "Simplified Chinese": "状态通道",
@@ -11042,7 +11042,7 @@ const glossary = {
   "Streaming": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Money streaming represents the idea of continuous payments over time. Block numbers are used to measure time in the blockchain and continuously update the balances of the parties in the contract.'",
+    "definition": "'Money streaming represents the idea of continuous payments over time. Block numbers are used to measure time in the blockchain and continuously update the balances of the parties in the contract.'",
     "locales": {
       "Consensys' Definition": "Money streaming represents the idea of continuous payments over time. Block numbers are used to measure time in the blockchain and continuously update the balances of the parties in the contract.",
       "Simplified Chinese": "资金流",
@@ -11074,7 +11074,7 @@ const glossary = {
   "swap (noun)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap. Within MetaMask, users have access to a powerful aggregator showing them information about swaps across the ecosystem, this is MetaMask Swaps:<br><br>User Guide Swaps'",
+    "definition": "'As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap. Within MetaMask, users have access to a powerful aggregator showing them information about swaps across the ecosystem, this is MetaMask Swaps:<br><br>User Guide Swaps'",
     "locales": {
       "Consensys' Definition": "As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap. Within MetaMask, users have access to a powerful aggregator showing them information about swaps across the ecosystem, this is MetaMask Swaps:\n\nUser Guide Swaps",
       "Simplified Chinese": "兑换",
@@ -11106,7 +11106,7 @@ const glossary = {
   "Swap /MetaSwap": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap.'",
+    "definition": "'As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap.'",
     "locales": {
       "Consensys' Definition": "As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap.",
       "Simplified Chinese": "Swap /MetaSwap",
@@ -11138,7 +11138,7 @@ const glossary = {
   "szabo": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A denomination of ETH. See also 'ether (denominations)'.'",
+    "definition": "'A denomination of ETH. See also 'ether (denominations)'.'",
     "locales": {
       "Consensys' Definition": "A denomination of ETH. See also 'ether (denominations)'.",
       "Simplified Chinese": "szabo",
@@ -11170,7 +11170,7 @@ const glossary = {
   "testnet (test network)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A testnet is a blockchain network that mirrors, as closely as possible, the current conditions of a corresponding ‘main’ network. Testnets are used by developers to verify that their smart contracts and other functionality work as intended, before permanently recording their code to a live blockchain network (and often spending significant gas fees in the process!).<br><br>Tokens minted on testnets are not transferrable for their equivalent value on mainnets.'",
+    "definition": "'A testnet is a blockchain network that mirrors, as closely as possible, the current conditions of a corresponding ‘main’ network. Testnets are used by developers to verify that their smart contracts and other functionality work as intended, before permanently recording their code to a live blockchain network (and often spending significant gas fees in the process!).<br><br>Tokens minted on testnets are not transferrable for their equivalent value on mainnets.'",
     "locales": {
       "Consensys' Definition": "A testnet is a blockchain network that mirrors, as closely as possible, the current conditions of a corresponding ‘main’ network. Testnets are used by developers to verify that their smart contracts and other functionality work as intended, before permanently recording their code to a live blockchain network (and often spending significant gas fees in the process!).\n\nTokens minted on testnets are not transferrable for their equivalent value on mainnets.",
       "Simplified Chinese": "测试网",
@@ -11202,7 +11202,7 @@ const glossary = {
   "Testnet Kovan": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; website here.'",
+    "definition": "'An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; website here.'",
     "locales": {
       "Consensys' Definition": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; website here.",
       "Simplified Chinese": "Testnet Kovan",
@@ -11234,7 +11234,7 @@ const glossary = {
   "Testnet Rinkeby": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; faucet here. Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.'",
+    "definition": "'An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; faucet here. Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.'",
     "locales": {
       "Consensys' Definition": "An Ethereum testnet that uses Proof of Authority consensus, available through MetaMask; faucet here. Following the transition to Proof of Stake, Rinkeby scheduled its deprecation for the end of 2023.",
       "Simplified Chinese": "Testnet Rinkeby",
@@ -11266,7 +11266,7 @@ const glossary = {
   "Testnet Ropsten": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.'",
+    "definition": "'An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.'",
     "locales": {
       "Consensys' Definition": "An Ethereum testnet that used Proof of Work, and, following the transition to Proof of Stake, was deprecated.",
       "Simplified Chinese": "Testnet Ropsten",
@@ -11298,7 +11298,7 @@ const glossary = {
   "token": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A token represents an asset issued on an existing blockchain; the transfer of tokens and the addresses that currently hold them are the subject of the network’s consensus activities. There are many types of tokens; see also ‘ERC-20’ and ‘ERC-721’ entries.'",
+    "definition": "'A token represents an asset issued on an existing blockchain; the transfer of tokens and the addresses that currently hold them are the subject of the network’s consensus activities. There are many types of tokens; see also ‘ERC-20’ and ‘ERC-721’ entries.'",
     "locales": {
       "Consensys' Definition": "A token represents an asset issued on an existing blockchain; the transfer of tokens and the addresses that currently hold them are the subject of the network’s consensus activities. There are many types of tokens; see also ‘ERC-20’ and ‘ERC-721’ entries.",
       "Simplified Chinese": "代币",
@@ -11330,7 +11330,7 @@ const glossary = {
   "token lockup": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A token lock-up refers to a mechanism where certain tokens or cryptocurrency holdings are locked up or frozen for a specified period of time to restrict their transfer or sale. This is often used in the context of initial coin offerings (ICOs), where token issuers may require investors to commit to holding onto their tokens for a certain period, typically to ensure that investors are committed to the project's long-term success.<br><br>Token lock-up periods can vary in duration and can be predetermined or set according to certain conditions, such as reaching a certain milestone, liquidity event or network upgrade. During the lock-up period, the tokens cannot be transferred or sold, although in some cases, they may be staked or used to participate in certain network activities. Once the lock-up period is over, the tokens can be freely traded or sold.'",
+    "definition": "'A token lock-up refers to a mechanism where certain tokens or cryptocurrency holdings are locked up or frozen for a specified period of time to restrict their transfer or sale. This is often used in the context of initial coin offerings (ICOs), where token issuers may require investors to commit to holding onto their tokens for a certain period, typically to ensure that investors are committed to the project's long-term success.<br><br>Token lock-up periods can vary in duration and can be predetermined or set according to certain conditions, such as reaching a certain milestone, liquidity event or network upgrade. During the lock-up period, the tokens cannot be transferred or sold, although in some cases, they may be staked or used to participate in certain network activities. Once the lock-up period is over, the tokens can be freely traded or sold.'",
     "locales": {
       "Consensys' Definition": "A token lock-up refers to a mechanism where certain tokens or cryptocurrency holdings are locked up or frozen for a specified period of time to restrict their transfer or sale. This is often used in the context of initial coin offerings (ICOs), where token issuers may require investors to commit to holding onto their tokens for a certain period, typically to ensure that investors are committed to the project's long-term success.\n\nToken lock-up periods can vary in duration and can be predetermined or set according to certain conditions, such as reaching a certain milestone, liquidity event or network upgrade. During the lock-up period, the tokens cannot be transferred or sold, although in some cases, they may be staked or used to participate in certain network activities. Once the lock-up period is over, the tokens can be freely traded or sold.",
       "Simplified Chinese": "代币锁定",
@@ -11362,7 +11362,7 @@ const glossary = {
   "Token standard": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'See ERC-20, ERC-721, ERC-1155, etc.'",
+    "definition": "'See ERC-20, ERC-721, ERC-1155, etc.'",
     "locales": {
       "Consensys' Definition": "See ERC-20, ERC-721, ERC-1155, etc.",
       "Simplified Chinese": "代币标准",
@@ -11394,7 +11394,7 @@ const glossary = {
   "Total Value Locked (TVL)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Total Value Locked, or TVL, is a common expression used in many contexts across the crypto ecosystem, so it's important to pay attention to the specifics. In general, it refers to how much value, in tokens, has been deposited into something. Most often, it refers to a protocol, which is an application on the blockchain, or a set of protocols. For example, a decentralized token trading platform might have a series of liquidity pools, which are protocols enabling swaps between tokens, and the platform may quote the \"TVL\" for all the pools combined. Alternatively, if a network uses proof of stake for their consensus mechanism, they may represent the TVL of all the tokens staked into that consensus protocol.'",
+    "definition": "'Total Value Locked, or TVL, is a common expression used in many contexts across the crypto ecosystem, so it's important to pay attention to the specifics. In general, it refers to how much value, in tokens, has been deposited into something. Most often, it refers to a protocol, which is an application on the blockchain, or a set of protocols. For example, a decentralized token trading platform might have a series of liquidity pools, which are protocols enabling swaps between tokens, and the platform may quote the \"TVL\" for all the pools combined. Alternatively, if a network uses proof of stake for their consensus mechanism, they may represent the TVL of all the tokens staked into that consensus protocol.'",
     "locales": {
       "Consensys' Definition": "Total Value Locked, or TVL, is a common expression used in many contexts across the crypto ecosystem, so it's important to pay attention to the specifics. In general, it refers to how much value, in tokens, has been deposited into something. Most often, it refers to a protocol, which is an application on the blockchain, or a set of protocols. For example, a decentralized token trading platform might have a series of liquidity pools, which are protocols enabling swaps between tokens, and the platform may quote the \"TVL\" for all the pools combined. Alternatively, if a network uses proof of stake for their consensus mechanism, they may represent the TVL of all the tokens staked into that consensus protocol.",
       "Simplified Chinese": "总锁仓价值（TVL）",
@@ -11426,7 +11426,7 @@ const glossary = {
   "Transaction": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Data committed to the Ethereum Blockchain signed by an originating account, targeting a specific address. The transaction contains metadata such as the gas limit for that transaction.'",
+    "definition": "'Data committed to the Ethereum Blockchain signed by an originating account, targeting a specific address. The transaction contains metadata such as the gas limit for that transaction.'",
     "locales": {
       "Consensys' Definition": "Data committed to the Ethereum Blockchain signed by an originating account, targeting a specific address. The transaction contains metadata such as the gas limit for that transaction.",
       "Simplified Chinese": "交易",
@@ -11458,7 +11458,7 @@ const glossary = {
   "transaction block": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A collection of transactions on a blockchain network, gathered into a set or a block that can then be hashed and added to the blockchain. See 'hash'.'",
+    "definition": "'A collection of transactions on a blockchain network, gathered into a set or a block that can then be hashed and added to the blockchain. See 'hash'.'",
     "locales": {
       "Consensys' Definition": "A collection of transactions on a blockchain network, gathered into a set or a block that can then be hashed and added to the blockchain. See 'hash'.",
       "Simplified Chinese": "交易区块",
@@ -11490,7 +11490,7 @@ const glossary = {
   "transaction fee": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A small fee imposed on transactions sent across a blockchain network. These fees are used to pay network validators or miners for their participation in consensus, and thus ensure that a blockchain network is self-sustaining.'",
+    "definition": "'A small fee imposed on transactions sent across a blockchain network. These fees are used to pay network validators or miners for their participation in consensus, and thus ensure that a blockchain network is self-sustaining.'",
     "locales": {
       "Consensys' Definition": "A small fee imposed on transactions sent across a blockchain network. These fees are used to pay network validators or miners for their participation in consensus, and thus ensure that a blockchain network is self-sustaining.",
       "Simplified Chinese": "交易费用",
@@ -11522,7 +11522,7 @@ const glossary = {
   "transaction ID": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A transaction hash/ID (often abbreviated as tx hash or txn hash) is a unique identifier, similar to a receipt, that serves as proof that a transaction was validated and added to the blockchain. In many cases, a transaction hash is needed in order to locate funds.'",
+    "definition": "'A transaction hash/ID (often abbreviated as tx hash or txn hash) is a unique identifier, similar to a receipt, that serves as proof that a transaction was validated and added to the blockchain. In many cases, a transaction hash is needed in order to locate funds.'",
     "locales": {
       "Consensys' Definition": "A transaction hash/ID (often abbreviated as tx hash or txn hash) is a unique identifier, similar to a receipt, that serves as proof that a transaction was validated and added to the blockchain. In many cases, a transaction hash is needed in order to locate funds.",
       "Simplified Chinese": "交易 ID",
@@ -11554,7 +11554,7 @@ const glossary = {
   "transaction pool": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'When a user submits a transaction to the Ethereum network--or many other networks based on Ethereum--the transaction goes into what's know as a \"transaction pool\", or \"txpool\" for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are \"picked up\" and included in the next block, and there is currently a lot of research surrounding how this decision gets made (see \"MEV\"). In Bitcoin, the transaction pool was referred to as the \"memory pool\", or \"mempool\", and often these terms are used interchangeably.'",
+    "definition": "'When a user submits a transaction to the Ethereum network--or many other networks based on Ethereum--the transaction goes into what's know as a \"transaction pool\", or \"txpool\" for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are \"picked up\" and included in the next block, and there is currently a lot of research surrounding how this decision gets made (see \"MEV\"). In Bitcoin, the transaction pool was referred to as the \"memory pool\", or \"mempool\", and often these terms are used interchangeably.'",
     "locales": {
       "Consensys' Definition": "When a user submits a transaction to the Ethereum network--or many other networks based on Ethereum--the transaction goes into what's know as a \"transaction pool\", or \"txpool\" for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are \"picked up\" and included in the next block, and there is currently a lot of research surrounding how this decision gets made (see \"MEV\"). In Bitcoin, the transaction pool was referred to as the \"memory pool\", or \"mempool\", and often these terms are used interchangeably.",
       "Simplified Chinese": "交易池",
@@ -11586,7 +11586,7 @@ const glossary = {
   "Transak": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Transak is a developer integration toolkit to let users buy/sell crypto in any app, website or web plugin.'",
+    "definition": "'Transak is a developer integration toolkit to let users buy/sell crypto in any app, website or web plugin.'",
     "locales": {
       "Consensys' Definition": "Transak is a developer integration toolkit to let users buy/sell crypto in any app, website or web plugin.",
       "Simplified Chinese": "Transak",
@@ -11618,7 +11618,7 @@ const glossary = {
   "Trezor": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Hardware wallet.'",
+    "definition": "'Hardware wallet.'",
     "locales": {
       "Consensys' Definition": "Hardware wallet.",
       "Simplified Chinese": "Trezor",
@@ -11650,7 +11650,7 @@ const glossary = {
   "Truffle": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Truffle Suite is a development environment based on Ethereum Blockchain, used to develop dapps. Truffle is a one-stop solution for building dapps: compiling contracts, deploying contracts, injecting it into a web app, creating front-end for dapps and testing.<br>Truffle Suite'",
+    "definition": "'Truffle Suite is a development environment based on Ethereum Blockchain, used to develop dapps. Truffle is a one-stop solution for building dapps: compiling contracts, deploying contracts, injecting it into a web app, creating front-end for dapps and testing.<br>Truffle Suite'",
     "locales": {
       "Consensys' Definition": "Truffle Suite is a development environment based on Ethereum Blockchain, used to develop dapps. Truffle is a one-stop solution for building dapps: compiling contracts, deploying contracts, injecting it into a web app, creating front-end for dapps and testing.\nTruffle Suite",
       "Simplified Chinese": "Truffle",
@@ -11682,7 +11682,7 @@ const glossary = {
   "trustless": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Trustless' is a term that gets used a lot in the decentralized web, and it deserves some explanation. Traditionally, to call something 'trustless' would sound like a negative thing. In the context of decentralized technology, it has a more technical meaning: since everyone has a copy of the ledger of all transactions ever executed, there is no need for a centralized entity that 'must be trusted' as the source of truth. With public blockchain networks, data isn't kept on some centralized server somewhere that could be hacked or changed arbitrarily; anyone can verify the transactions themselves. This is why the term 'trustless' was coined: there is no need for trust, although, in a way, the rules and assurances built into the blockchain provide the basis for greater trust between people, because the system is guaranteed to work the same for everyone.'",
+    "definition": "'Trustless' is a term that gets used a lot in the decentralized web, and it deserves some explanation. Traditionally, to call something 'trustless' would sound like a negative thing. In the context of decentralized technology, it has a more technical meaning: since everyone has a copy of the ledger of all transactions ever executed, there is no need for a centralized entity that 'must be trusted' as the source of truth. With public blockchain networks, data isn't kept on some centralized server somewhere that could be hacked or changed arbitrarily; anyone can verify the transactions themselves. This is why the term 'trustless' was coined: there is no need for trust, although, in a way, the rules and assurances built into the blockchain provide the basis for greater trust between people, because the system is guaranteed to work the same for everyone.'",
     "locales": {
       "Consensys' Definition": "Trustless' is a term that gets used a lot in the decentralized web, and it deserves some explanation. Traditionally, to call something 'trustless' would sound like a negative thing. In the context of decentralized technology, it has a more technical meaning: since everyone has a copy of the ledger of all transactions ever executed, there is no need for a centralized entity that 'must be trusted' as the source of truth. With public blockchain networks, data isn't kept on some centralized server somewhere that could be hacked or changed arbitrarily; anyone can verify the transactions themselves. This is why the term 'trustless' was coined: there is no need for trust, although, in a way, the rules and assurances built into the blockchain provide the basis for greater trust between people, because the system is guaranteed to work the same for everyone.",
       "Simplified Chinese": "去信任",
@@ -11714,7 +11714,7 @@ const glossary = {
   "Turing-complete": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Any machine that can calculate on a level equal to a programmable computer is Turing-complete, or computationally universal. The Ethereum Virtual Machine, which processes smart contracts and transactions, is Turing-complete, despite not existing on a single physical computer.'",
+    "definition": "'Any machine that can calculate on a level equal to a programmable computer is Turing-complete, or computationally universal. The Ethereum Virtual Machine, which processes smart contracts and transactions, is Turing-complete, despite not existing on a single physical computer.'",
     "locales": {
       "Consensys' Definition": "Any machine that can calculate on a level equal to a programmable computer is Turing-complete, or computationally universal. The Ethereum Virtual Machine, which processes smart contracts and transactions, is Turing-complete, despite not existing on a single physical computer.",
       "Simplified Chinese": "图灵完备",
@@ -11746,7 +11746,7 @@ const glossary = {
   "Two-Factor Authentication (2FA)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Two-factor authentication (2FA) is an identity and access management security method that requires two forms of identification to access resources and data. 2FA gives businesses the ability to monitor and help safeguard their most vulnerable information and networks.See also \"U2F\" When 2FA'",
+    "definition": "'Two-factor authentication (2FA) is an identity and access management security method that requires two forms of identification to access resources and data. 2FA gives businesses the ability to monitor and help safeguard their most vulnerable information and networks.See also \"U2F\" When 2FA'",
     "locales": {
       "Consensys' Definition": "Two-factor authentication (2FA) is an identity and access management security method that requires two forms of identification to access resources and data. 2FA gives businesses the ability to monitor and help safeguard their most vulnerable information and networks.See also \"U2F\" When 2FA",
       "Simplified Chinese": "双因素认证（2FA）",
@@ -11778,7 +11778,7 @@ const glossary = {
   "TXID": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Transaction ID'",
+    "definition": "'Transaction ID'",
     "locales": {
       "Consensys' Definition": "Transaction ID",
       "Simplified Chinese": "交易 ID",
@@ -11810,7 +11810,7 @@ const glossary = {
   "U2F": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Universal 2nd Factor (U2F) is an open standard that strengthens and simplifies two-factor authentication (2FA) using specialized Universal Serial Bus (USB) or near-field communication (NFC) devices based on similar security technology found in smart cards'",
+    "definition": "'Universal 2nd Factor (U2F) is an open standard that strengthens and simplifies two-factor authentication (2FA) using specialized Universal Serial Bus (USB) or near-field communication (NFC) devices based on similar security technology found in smart cards'",
     "locales": {
       "Consensys' Definition": "Universal 2nd Factor (U2F) is an open standard that strengthens and simplifies two-factor authentication (2FA) using specialized Universal Serial Bus (USB) or near-field communication (NFC) devices based on similar security technology found in smart cards",
       "Simplified Chinese": "U2F（通用第二因素）",
@@ -11842,7 +11842,7 @@ const glossary = {
   "Uniswap": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Uniswap is a decentralized cryptocurrency exchange that uses a set of smart contracts to execute trades on its exchange.'",
+    "definition": "'Uniswap is a decentralized cryptocurrency exchange that uses a set of smart contracts to execute trades on its exchange.'",
     "locales": {
       "Consensys' Definition": "Uniswap is a decentralized cryptocurrency exchange that uses a set of smart contracts to execute trades on its exchange.",
       "Simplified Chinese": "Uniswap",
@@ -11874,7 +11874,7 @@ const glossary = {
   "unspent transaction output (UTXO)": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'An unspent transaction output (UTXO) represents some amount of digital currency which has been authorized by one account to be spent by another. UTXOs use public key cryptography to identify and transfer ownership between holders of public/private key pairs. UTXOs are formatted with the recipient's public key, thus restricting the ability to spend that UTXO to the account that can prove ownership of the associated private key. The UTXO can only be spent if it includes the digital signature associated with the public key attached the last time it was sent.'",
+    "definition": "'An unspent transaction output (UTXO) represents some amount of digital currency which has been authorized by one account to be spent by another. UTXOs use public key cryptography to identify and transfer ownership between holders of public/private key pairs. UTXOs are formatted with the recipient's public key, thus restricting the ability to spend that UTXO to the account that can prove ownership of the associated private key. The UTXO can only be spent if it includes the digital signature associated with the public key attached the last time it was sent.'",
     "locales": {
       "Consensys' Definition": "An unspent transaction output (UTXO) represents some amount of digital currency which has been authorized by one account to be spent by another. UTXOs use public key cryptography to identify and transfer ownership between holders of public/private key pairs. UTXOs are formatted with the recipient's public key, thus restricting the ability to spend that UTXO to the account that can prove ownership of the associated private key. The UTXO can only be spent if it includes the digital signature associated with the public key attached the last time it was sent.",
       "Simplified Chinese": "未花费的交易输出（UTXO）",
@@ -11906,7 +11906,7 @@ const glossary = {
   "upgrade": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Upgrading is the process of replacing a product with a newer version of the same product. In computing and consumer electronics, an upgrade is generally a replacement of hardware, software, or firmware with a newer or better version, in order to bring the system up to date or to improve its characteristics. See also EIP-1159, merge, and  other important Ethereum upgrades'",
+    "definition": "'Upgrading is the process of replacing a product with a newer version of the same product. In computing and consumer electronics, an upgrade is generally a replacement of hardware, software, or firmware with a newer or better version, in order to bring the system up to date or to improve its characteristics. See also EIP-1159, merge, and  other important Ethereum upgrades'",
     "locales": {
       "Consensys' Definition": "Upgrading is the process of replacing a product with a newer version of the same product. In computing and consumer electronics, an upgrade is generally a replacement of hardware, software, or firmware with a newer or better version, in order to bring the system up to date or to improve its characteristics. See also EIP-1159, merge, and  other important Ethereum upgrades",
       "Simplified Chinese": "升级",
@@ -11938,7 +11938,7 @@ const glossary = {
   "UTXO": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Acronym; Unspent Transaction Output.'",
+    "definition": "'Acronym; Unspent Transaction Output.'",
     "locales": {
       "Consensys' Definition": "Acronym; Unspent Transaction Output.",
       "Simplified Chinese": "UTXO（未花费的交易输出）",
@@ -11970,7 +11970,7 @@ const glossary = {
   "validator": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A participant in Proof of Stake (PoS) consensus. On Ethereum’s Proof of Stake network, validators need to stake 32 ETH in order to get included in the validator set. See also ‘staking’.'",
+    "definition": "'A participant in Proof of Stake (PoS) consensus. On Ethereum’s Proof of Stake network, validators need to stake 32 ETH in order to get included in the validator set. See also ‘staking’.'",
     "locales": {
       "Consensys' Definition": "A participant in Proof of Stake (PoS) consensus. On Ethereum’s Proof of Stake network, validators need to stake 32 ETH in order to get included in the validator set. See also ‘staking’.",
       "Simplified Chinese": "验证器",
@@ -12002,7 +12002,7 @@ const glossary = {
   "validity proof": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The proof submitted along with certain types of rollups to prove that the transactions are valid. See also 'rollups'.'",
+    "definition": "'The proof submitted along with certain types of rollups to prove that the transactions are valid. See also 'rollups'.'",
     "locales": {
       "Consensys' Definition": "The proof submitted along with certain types of rollups to prove that the transactions are valid. See also 'rollups'.",
       "Simplified Chinese": "有效性证明",
@@ -12034,7 +12034,7 @@ const glossary = {
   "Validium": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'One of the technologies developed for scaling of the Ethereum network; see more here.'",
+    "definition": "'One of the technologies developed for scaling of the Ethereum network; see more here.'",
     "locales": {
       "Consensys' Definition": "One of the technologies developed for scaling of the Ethereum network; see more here.",
       "Simplified Chinese": "Validium 扩容技术",
@@ -12066,7 +12066,7 @@ const glossary = {
   "Vault Decryptor": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The MetaMask Vault Decryptor is a tool used in recovering the Secret Recovery Phrase. This tool was written by MetaMask co-founder Dan Finlay and can be accessed here: Vault Decryptor'",
+    "definition": "'The MetaMask Vault Decryptor is a tool used in recovering the Secret Recovery Phrase. This tool was written by MetaMask co-founder Dan Finlay and can be accessed here: Vault Decryptor'",
     "locales": {
       "Consensys' Definition": "The MetaMask Vault Decryptor is a tool used in recovering the Secret Recovery Phrase. This tool was written by MetaMask co-founder Dan Finlay and can be accessed here: Vault Decryptor",
       "Simplified Chinese": "Vault Decryptor",
@@ -12098,7 +12098,7 @@ const glossary = {
   "Vesting": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In the context of \"vesting period\": The act of restricting the sale of a token for a particular period of time. Vesting period'",
+    "definition": "'In the context of \"vesting period\": The act of restricting the sale of a token for a particular period of time. Vesting period'",
     "locales": {
       "Consensys' Definition": "In the context of \"vesting period\": The act of restricting the sale of a token for a particular period of time. Vesting period",
       "Simplified Chinese": "等待行权",
@@ -12130,7 +12130,7 @@ const glossary = {
   "wallet": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'In Ethereum-based blockchain technology, a 'wallet' is a something that allows you to manage private keys, your Secret Recovery Phrase, and the accounts generated from it. This could be an internet-connected 'hot wallet', like MetaMask, or an 'airgapped' hardware wallet. In more technical speak, you could say \"the wallet is the client, not the keys.\" It is very common for people to use the word 'wallet' to refer to their SRP itself, or the accounts generated from it, or even to one account.'",
+    "definition": "'In Ethereum-based blockchain technology, a 'wallet' is a something that allows you to manage private keys, your Secret Recovery Phrase, and the accounts generated from it. This could be an internet-connected 'hot wallet', like MetaMask, or an 'airgapped' hardware wallet. In more technical speak, you could say \"the wallet is the client, not the keys.\" It is very common for people to use the word 'wallet' to refer to their SRP itself, or the accounts generated from it, or even to one account.'",
     "locales": {
       "Consensys' Definition": "In Ethereum-based blockchain technology, a 'wallet' is a something that allows you to manage private keys, your Secret Recovery Phrase, and the accounts generated from it. This could be an internet-connected 'hot wallet', like MetaMask, or an 'airgapped' hardware wallet. In more technical speak, you could say \"the wallet is the client, not the keys.\" It is very common for people to use the word 'wallet' to refer to their SRP itself, or the accounts generated from it, or even to one account.",
       "Simplified Chinese": "钱包",
@@ -12162,7 +12162,7 @@ const glossary = {
   "WalletConnect": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.'",
+    "definition": "'WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.'",
     "locales": {
       "Consensys' Definition": "WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.",
       "Simplified Chinese": "WalletConnect",
@@ -12194,7 +12194,7 @@ const glossary = {
   "web3, Web 3.0": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Web3, or Web 3.0, are terms used synonymously with “the decentralized web” and are often used to refer, broadly, to the blockchain and decentralized technology ecosystems and communities as a whole.'",
+    "definition": "'Web3, or Web 3.0, are terms used synonymously with “the decentralized web” and are often used to refer, broadly, to the blockchain and decentralized technology ecosystems and communities as a whole.'",
     "locales": {
       "Consensys' Definition": "Web3, or Web 3.0, are terms used synonymously with “the decentralized web” and are often used to refer, broadly, to the blockchain and decentralized technology ecosystems and communities as a whole.",
       "Simplified Chinese": "Web3，Web 3.0",
@@ -12226,7 +12226,7 @@ const glossary = {
   "WebHID": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'WebHID (Human Interface Device)<br>Enables web applications to interact with human interface devices (HIDs) other than the standard supported devices (mice, keyboards, touchscreens, and gamepads). However, there are many other HID devices that are currently inaccessible to the web'",
+    "definition": "'WebHID (Human Interface Device)<br>Enables web applications to interact with human interface devices (HIDs) other than the standard supported devices (mice, keyboards, touchscreens, and gamepads). However, there are many other HID devices that are currently inaccessible to the web'",
     "locales": {
       "Consensys' Definition": "WebHID (Human Interface Device)\nEnables web applications to interact with human interface devices (HIDs) other than the standard supported devices (mice, keyboards, touchscreens, and gamepads). However, there are many other HID devices that are currently inaccessible to the web",
       "Simplified Chinese": "WebHID",
@@ -12258,7 +12258,7 @@ const glossary = {
   "WebSocket": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection. It's often used by dapps to regularly fetch up-to-date information from the blockchain.'",
+    "definition": "'WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection. It's often used by dapps to regularly fetch up-to-date information from the blockchain.'",
     "locales": {
       "Consensys' Definition": "WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection. It's often used by dapps to regularly fetch up-to-date information from the blockchain.",
       "Simplified Chinese": "WebSocket",
@@ -12290,7 +12290,7 @@ const glossary = {
   "Wei": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Wei is the smallest denomination of ether, the currency used to facilitate transactional operations on the Ethereum blockchain network, where 10^18 or 1,000,000,000,000,000,000 wei is equivalent to one ether.'",
+    "definition": "'Wei is the smallest denomination of ether, the currency used to facilitate transactional operations on the Ethereum blockchain network, where 10^18 or 1,000,000,000,000,000,000 wei is equivalent to one ether.'",
     "locales": {
       "Consensys' Definition": "Wei is the smallest denomination of ether, the currency used to facilitate transactional operations on the Ethereum blockchain network, where 10^18 or 1,000,000,000,000,000,000 wei is equivalent to one ether.",
       "Simplified Chinese": "Wei",
@@ -12322,7 +12322,7 @@ const glossary = {
   "Whitepaper": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Whitepapers explain the purpose and technology behind a project.'",
+    "definition": "'Whitepapers explain the purpose and technology behind a project.'",
     "locales": {
       "Consensys' Definition": "Whitepapers explain the purpose and technology behind a project.",
       "Simplified Chinese": "白皮书",
@@ -12354,7 +12354,7 @@ const glossary = {
   "Wrapping": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Wrapping a token is a way of bringing a token from one network to another, like wrapped Bitcoin or MATIC tokens on Ethereum Mainnet. User Guide: Tokens'",
+    "definition": "'Wrapping a token is a way of bringing a token from one network to another, like wrapped Bitcoin or MATIC tokens on Ethereum Mainnet. User Guide: Tokens'",
     "locales": {
       "Consensys' Definition": "Wrapping a token is a way of bringing a token from one network to another, like wrapped Bitcoin or MATIC tokens on Ethereum Mainnet. User Guide: Tokens",
       "Simplified Chinese": "包装",
@@ -12386,7 +12386,7 @@ const glossary = {
   "Wyre": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Wyre is a regulated Money Service Business (MSB), which means it is a financial services provider licensed to transmit and convert money. The company is almost a decade old, having been around since 2013.<br><br>Wyre provides what the company calls a secure and compliant bridge between fiat and cryptocurrencies.<br><br>It serves as an infrastructure provider for blockchain businesses to connect with the fiat economy. In other words, Wyre payments enable blockchain businesses to efficiently integrate highly customizable fiat on-ramps into their onboarding flows.'",
+    "definition": "'Wyre is a regulated Money Service Business (MSB), which means it is a financial services provider licensed to transmit and convert money. The company is almost a decade old, having been around since 2013.<br><br>Wyre provides what the company calls a secure and compliant bridge between fiat and cryptocurrencies.<br><br>It serves as an infrastructure provider for blockchain businesses to connect with the fiat economy. In other words, Wyre payments enable blockchain businesses to efficiently integrate highly customizable fiat on-ramps into their onboarding flows.'",
     "locales": {
       "Consensys' Definition": "Wyre is a regulated Money Service Business (MSB), which means it is a financial services provider licensed to transmit and convert money. The company is almost a decade old, having been around since 2013.\n\nWyre provides what the company calls a secure and compliant bridge between fiat and cryptocurrencies.\n\nIt serves as an infrastructure provider for blockchain businesses to connect with the fiat economy. In other words, Wyre payments enable blockchain businesses to efficiently integrate highly customizable fiat on-ramps into their onboarding flows.",
       "Simplified Chinese": "Wyre",
@@ -12418,7 +12418,7 @@ const glossary = {
   "yield farming": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Yield farming is an investment practice that involves locking crypto in a dapp for token rewards. Yield farmers deposit their tokens into DeFi applications for crypto trading, lending, or borrowing.'",
+    "definition": "'Yield farming is an investment practice that involves locking crypto in a dapp for token rewards. Yield farmers deposit their tokens into DeFi applications for crypto trading, lending, or borrowing.'",
     "locales": {
       "Consensys' Definition": "Yield farming is an investment practice that involves locking crypto in a dapp for token rewards. Yield farmers deposit their tokens into DeFi applications for crypto trading, lending, or borrowing.",
       "Simplified Chinese": "收益挖矿",
@@ -12450,7 +12450,7 @@ const glossary = {
   "yield-bearing tokens": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Yield tokens. See 'yield farming''",
+    "definition": "'Yield tokens. See 'yield farming''",
     "locales": {
       "Consensys' Definition": "Yield tokens. See 'yield farming'",
       "Simplified Chinese": "收益代币",
@@ -12482,7 +12482,7 @@ const glossary = {
   "zero address": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'The Zero Address is an address on the Ethereum network that is the recipient of a special transaction used to register the creation of a new smart contract on the network.'",
+    "definition": "'The Zero Address is an address on the Ethereum network that is the recipient of a special transaction used to register the creation of a new smart contract on the network.'",
     "locales": {
       "Consensys' Definition": "The Zero Address is an address on the Ethereum network that is the recipient of a special transaction used to register the creation of a new smart contract on the network.",
       "Simplified Chinese": "0地址",
@@ -12514,7 +12514,7 @@ const glossary = {
   "Zero-knowledge proof": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A zero-knowledge proof is a cryptographic method that allows an individual to prove that a statement is true without conveying any additional information.'",
+    "definition": "'A zero-knowledge proof is a cryptographic method that allows an individual to prove that a statement is true without conveying any additional information.'",
     "locales": {
       "Consensys' Definition": "A zero-knowledge proof is a cryptographic method that allows an individual to prove that a statement is true without conveying any additional information.",
       "Simplified Chinese": "零知识证明",
@@ -12546,7 +12546,7 @@ const glossary = {
   "Zero-knowledge rollup": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'A rollup of transactions that use validity proofs to offer increased layer 2 transaction throughput while using the security provided by mainnet (layer 1). Although they can't handle complex transaction types, like Optimistic rollups, they don't have latency issues because transactions are provably valid when submitted.'",
+    "definition": "'A rollup of transactions that use validity proofs to offer increased layer 2 transaction throughput while using the security provided by mainnet (layer 1). Although they can't handle complex transaction types, like Optimistic rollups, they don't have latency issues because transactions are provably valid when submitted.'",
     "locales": {
       "Consensys' Definition": "A rollup of transactions that use validity proofs to offer increased layer 2 transaction throughput while using the security provided by mainnet (layer 1). Although they can't handle complex transaction types, like Optimistic rollups, they don't have latency issues because transactions are provably valid when submitted.",
       "Simplified Chinese": "零知识汇总",
@@ -12578,7 +12578,7 @@ const glossary = {
   "zk-SNARKs": {
     "phonetic": "",
     "partOfSpeech": "",
-    "description": "'Zero-Knowledge Succinct Non-interactive ARguments of Knowledge are an incredible technology, and vital to the scaling of blockchain technology and the decentralized web. They are mathematically complex and can be daunting; this explanation from the Ethereum Foundation is a good primer.'",
+    "definition": "'Zero-Knowledge Succinct Non-interactive ARguments of Knowledge are an incredible technology, and vital to the scaling of blockchain technology and the decentralized web. They are mathematically complex and can be daunting; this explanation from the Ethereum Foundation is a good primer.'",
     "locales": {
       "Consensys' Definition": "Zero-Knowledge Succinct Non-interactive ARguments of Knowledge are an incredible technology, and vital to the scaling of blockchain technology and the decentralized web. They are mathematically complex and can be daunting; this explanation from the Ethereum Foundation is a good primer.",
       "Simplified Chinese": "零知识简洁非交互知识论证（zk-SNARK）",

@@ -20,7 +20,7 @@ fs.readFile('consensys-termbase.json', 'utf8', (err, data) => {
         term: englishTerm,
         phonetic: '', // You may need to update this if phonetic is available in the JSON
         partOfSpeech: '', // You may need to fill this later
-        description: termData['Definition'], // Using 'Definition' field as description
+        definition: termData['Definition'], // Using 'Definition' field as definition
         termCategory: termData['Term category'] || '', // Using 'Term category' field if available
         i18n: {},
       };
