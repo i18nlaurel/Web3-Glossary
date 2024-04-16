@@ -2,7 +2,7 @@ import "./Term.css";
 
 function Term({ word, partOfSpeech, phonetic, definition }) {
   return (
-    <div className="Definition">
+    <div className="Entry">
       <div className="declaration">
         <div className="word">{word}</div>
         <div className="grammar">

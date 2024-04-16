@@ -34,8 +34,8 @@ function App() {
 
       <Term
         word={word}
-        definition={term.definition}
-        phonetic={definition.phonetic}
+        definition={term.definition} 
+        phonetic={term.phonetic}
         partOfSpeech={term.partOfSpeech}
       />
     </>

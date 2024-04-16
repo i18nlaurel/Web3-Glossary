@@ -1,7 +1,7 @@
 import { Link } from "./Link";
 import "./Term.css";
 
-const definitions = {
+const terms = {
   "permissionless distribution": {
     phonetic: "pɝˈmɪʃənˈɫɛs ˌdɪstɹəbˈjuʃən",
     definition: (
