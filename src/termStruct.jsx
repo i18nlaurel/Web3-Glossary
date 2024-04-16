@@ -1,6 +1,6 @@
 import "./Term.css";
 
-function Term({ word, partOfSpeech, phonetic, description }) {
+function Term({ word, partOfSpeech, phonetic, definition }) {
   return (
     <div className="Definition">
       <div className="declaration">
@@ -9,7 +9,7 @@ function Term({ word, partOfSpeech, phonetic, description }) {
           [{phonetic}] {partOfSpeech}
         </div>
       </div>
-      <div className="description">{description}</div>
+      <div className="definition">{definition}</div>
     </div>
   );
 }
