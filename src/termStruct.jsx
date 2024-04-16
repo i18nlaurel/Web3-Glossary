@@ -1,6 +1,6 @@
-import "./Definition.css";
+import "./Term.css";
 
-function Definition({ word, partOfSpeech, phonetic, description }) {
+function Term({ word, partOfSpeech, phonetic, description }) {
   return (
     <div className="Definition">
       <div className="declaration">
@@ -13,4 +13,4 @@ function Definition({ word, partOfSpeech, phonetic, description }) {
     </div>
   );
 }
-export default Definition;
+export default Term;

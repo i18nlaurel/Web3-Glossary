@@ -1,5 +1,5 @@
-import definitions from "./definitions";
-import Definition from "./Definition";
+import terms from "./terms";
+import Term from "./termStruct";
 import { useState, useEffect } from "react";
 import { urlToPath } from "./Link";
 import { Breadcrumbs } from "./Breadcrumbs";
@@ -22,21 +22,21 @@ function App() {
   }, []);
 
   let word = currentPath.length > 0 ? currentPath.at(-1) : DEFAULT;
-  if (!(word in definitions) || currentPath.length === 0) {
+  if (!(word in terms) || currentPath.length === 0) {
     word = DEFAULT;
     window.location.pathname = `/${DEFAULT}`;
   }
-  const definition = definitions[word];
+  const term = terms[word];
 
   return (
     <>
       <Breadcrumbs segments={currentPath} />
 
-      <Definition
+      <Term
         word={word}
-        description={definition.description}
+        definition={term.definition}
         phonetic={definition.phonetic}
-        partOfSpeech={definition.partOfSpeech}
+        partOfSpeech={term.partOfSpeech}
       />
     </>
   );
