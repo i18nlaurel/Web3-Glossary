@@ -1,44 +1,24 @@
-import definitions from "./definitions";
-import Definition from "./Definition";
-import { useState, useEffect } from "react";
-import { urlToPath } from "./Link";
-import { Breadcrumbs } from "./Breadcrumbs";
-
-const DEFAULT = "permissionless distribution";
+import React, { useState } from 'react';
+import Search from './components/Search';
+import index from './searchIndex'; // Import the search index created earlier
 
 function App() {
-  const [currentPath, setCurrentPath] = useState(urlToPath());
-  useEffect(() => {
-    const onLocationChange = () => {
-      setCurrentPath(urlToPath());
-    };
-    window.addEventListener("navigate", onLocationChange);
-    window.addEventListener("popstate", onLocationChange);
+  const [searchResults, setSearchResults] = useState([]);
 
-    return () => {
-      window.removeEventListener("navigate", onLocationChange);
-      window.removeEventListener("popstate", onLocationChange);
-    };
-  }, []);
-
-  let word = currentPath.length > 0 ? currentPath.at(-1) : DEFAULT;
-  if (!(word in definitions) || currentPath.length === 0) {
-    word = DEFAULT;
-    window.location.pathname = `/${DEFAULT}`;
-  }
-  const definition = definitions[word];
+  const handleSearch = (query) => {
+    const results = index.search(query);
+    setSearchResults(results);
+  };
 
   return (
-    <>
-      <Breadcrumbs segments={currentPath} />
-
-      <Definition
-        word={word}
-        description={definition.description}
-        phonetic={definition.phonetic}
-        partOfSpeech={definition.partOfSpeech}
-      />
-    </>
+    <div>
+      <Search onSearch={handleSearch} />
+      <ul>
+        {searchResults.map((result) => (
+          <li key={result.ref}>{result.ref}</li>
+        ))}
+      </ul>
+    </div>
   );
 }
 
