@@ -23,7 +23,7 @@ Object.keys(glossaryData).forEach(key => {
     generatedDefinitions[englishTerm] = {
         phonetic: "", // Add phonetic if available
         partOfSpeech: "", // Add part of speech if available
-        description: {
+        definition: {
             "Consensys' Definition": term["Consensys' Definition"],
             "locales": translations
         }

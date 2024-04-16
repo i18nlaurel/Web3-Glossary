@@ -18,17 +18,17 @@ Object.keys(glossaryData).forEach(key => {
         }
     });
 
-    // Create the JSX-like string for the description
-    let description = term["Consensys' Definition"];
-    description = description.replace(/<([^<>]+)>/g, "&lt;$1&gt;");
-    description = description.replace(/\n/g, "<br>");
+    // Create the JSX-like string for the definition
+    let definition = term["Consensys' Definition"];
+    definition = definition.replace(/<([^<>]+)>/g, "&lt;$1&gt;");
+    definition = definition.replace(/\n/g, "<br>");
 
     // Create the definition object
     const englishTerm = term["English term"];
     generatedDefinitions[englishTerm] = {
         phonetic: "", // Add phonetic if available
         partOfSpeech: "", // Add part of speech if available
-        description: `'${description}'`,
+        definition: `'${definition}'`,
         locales: translations
     };
 
