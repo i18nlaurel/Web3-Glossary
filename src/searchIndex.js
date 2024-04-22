@@ -1,28 +1,30 @@
 import lunr from 'lunr';
-import lunrMulti from 'lunr-languages/lunr.multi'; // Import multi-language support
-import termsObject from './terms'; // Import the terms data
+import lunrMulti from 'lunr-languages/lunr.multi';
+import termsObject from './terms';
 
-lunr.multiLanguage = lunrMulti; // Add support for multiple languages
+lunr.multiLanguage = lunrMulti;
 
-// Convert the terms object to an array
 const terms = Object.values(termsObject);
 
+console.log('Building search index...');
+
 const index = lunr(function () {
-  this.use(lunr.multiLanguage); // Use multi-language plugin
+  this.use(lunr.multiLanguage);
   this.ref('id');
-  this.field('term.en'); // English field
-  this.field('term.fr'); // French field
+  this.field('term.en');
 
   terms.forEach((term, index) => {
     const termKey = Object.keys(termsObject)[index];
+    console.log(`Adding term: ${termKey}`);
     this.add({
       id: termKey,
       term: {
-        en: termKey, // Use the object key as the English term
-        fr: term.translation?.fr || '', // French translation (if available)
+        en: termKey,
       },
     });
   });
 });
+
+console.log('Search index built successfully!');
 
 export default index;

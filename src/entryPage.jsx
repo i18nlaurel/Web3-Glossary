@@ -1,45 +1,42 @@
-import definitions from "./definitions";
-import Definition from "./Definition";
-import { useState, useEffect } from "react";
-import { urlToPath } from "./Link";
-import { Breadcrumbs } from "./Breadcrumbs";
+import React, { useEffect, useState } from 'react';
+import definitions from './definitions';
+import Definition from './Definition';
+import { Breadcrumbs } from './Breadcrumbs';
 
-const DEFAULT = "permissionless distribution";
+const EntryPage = ({ term }) => {
+  const [definition, setDefinition] = useState(null);
 
-function App() {
-  const [currentPath, setCurrentPath] = useState(urlToPath());
   useEffect(() => {
-    const onLocationChange = () => {
-      setCurrentPath(urlToPath());
+    const fetchDefinition = async () => {
+      const termDefinition = await fetchTermDefinition(term);
+      setDefinition(termDefinition);
     };
-    window.addEventListener("navigate", onLocationChange);
-    window.addEventListener("popstate", onLocationChange);
 
-    return () => {
-      window.removeEventListener("navigate", onLocationChange);
-      window.removeEventListener("popstate", onLocationChange);
-    };
-  }, []);
+    fetchDefinition();
+  }, [term]);
 
-  let word = currentPath.length > 0 ? currentPath.at(-1) : DEFAULT;
-  if (!(word in definitions) || currentPath.length === 0) {
-    word = DEFAULT;
-    window.location.pathname = `/${DEFAULT}`;
+  if (!definition) {
+    return <div>Loading...</div>;
   }
-  const definition = definitions[word];
 
   return (
     <>
-      <Breadcrumbs segments={currentPath} />
-
+      <Breadcrumbs segments={[term]} />
       <Definition
-        word={word}
+        word={term}
         description={definition.description}
         phonetic={definition.phonetic}
         partOfSpeech={definition.partOfSpeech}
       />
     </>
   );
-}
+};
 
-export default App;
+const fetchTermDefinition = async (term) => {
+  // Fetch the definition for the given term from your data source
+  // You can use the `definitions` object or any other data source
+  const termDefinition = definitions[term];
+  return termDefinition;
+};
+
+export default EntryPage;
