@@ -1,9 +1,11 @@
 import lunr from 'lunr';
-import 'lunr-languages/lunr.stemmer.support'; // Import stemmer support for languages
-import 'lunr-languages/lunr.multi'; // Import multi-language support
-import terms from './terms'; // Import the terms data
+import lunrMulti from 'lunr-languages/lunr.multi'; // Import multi-language support
+import termsObject from './terms'; // Import the terms data
 
-lunr.multiLanguage('en', 'fr'); // Add support for English and French
+lunr.multiLanguage = lunrMulti; // Add support for multiple languages
+
+// Convert the terms object to an array
+const terms = Object.values(termsObject);
 
 const index = lunr(function () {
   this.use(lunr.multiLanguage); // Use multi-language plugin
@@ -11,12 +13,13 @@ const index = lunr(function () {
   this.field('term.en'); // English field
   this.field('term.fr'); // French field
 
-  terms.forEach((term) => {
+  terms.forEach((term, index) => {
+    const termKey = Object.keys(termsObject)[index];
     this.add({
-      id: term.id,
+      id: termKey,
       term: {
-        en: term.term, // English term
-        fr: term.translation.fr, // French translation
+        en: termKey, // Use the object key as the English term
+        fr: term.translation?.fr || '', // French translation (if available)
       },
     });
   });
