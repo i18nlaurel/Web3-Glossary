@@ -4,27 +4,21 @@ import termsObject from './terms';
 
 lunr.multiLanguage = lunrMulti;
 
-const terms = Object.values(termsObject);
-
-console.log('Building search index...');
+const terms = Object.entries(termsObject);
 
 const index = lunr(function () {
   this.use(lunr.multiLanguage);
   this.ref('id');
-  this.field('term.en');
+  this.field('term');
+  this.field('definition');
 
-  terms.forEach((term, index) => {
-    const termKey = Object.keys(termsObject)[index];
-    console.log(`Adding term: ${termKey}`);
+  terms.forEach(([termKey, termData]) => {
     this.add({
       id: termKey,
-      term: {
-        en: termKey,
-      },
+      term: termKey,
+      definition: termData.definition.toString(),
     });
   });
 });
-
-console.log('Search index built successfully!');
 
 export default index;

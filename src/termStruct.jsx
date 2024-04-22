@@ -1,10 +1,10 @@
 import "./Term.css";
 
-function Term({ word, partOfSpeech, phonetic, definition }) {
+function Term({ term, partOfSpeech, phonetic, definition }) {
   return (
     <div className="Entry">
       <div className="declaration">
-        <div className="word">{word}</div>
+        <div className="word">{term}</div>
         <div className="grammar">
           [{phonetic}] {partOfSpeech}
         </div>
@@ -13,4 +13,4 @@ function Term({ word, partOfSpeech, phonetic, definition }) {
     </div>
   );
 }
-export default Term;
+export default Term
