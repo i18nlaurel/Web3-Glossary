@@ -1,9 +1,8 @@
-import React, { useState } from 'react';
 import Search from './components/Search';
 import index from './searchIndex'; // Import the search index created earlier
 import terms from "./terms";
 import Term from "./termStruct";
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { urlToPath } from "./Link";
 import { Breadcrumbs } from "./Breadcrumbs";
 
