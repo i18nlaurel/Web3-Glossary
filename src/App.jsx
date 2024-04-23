@@ -8,7 +8,10 @@ import { Breadcrumbs } from "./Breadcrumbs";
 import './i18n/config';
 import './reset.css';
 import './index.css';
+import { generateLinkedTerms } from './utils/generateLinkedTerms';
 import EntryPage from './entryPage';
+
+const linkedTerms = generateLinkedTerms(terms);
 
 function App() {
   const [searchResults, setSearchResults] = useState([]);

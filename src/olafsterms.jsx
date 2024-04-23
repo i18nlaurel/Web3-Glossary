@@ -2,13 +2,77 @@ import { Link } from "./Link";
 import "./Term.css";
 
 const terms = {
+  "permissionless distribution": {
+    term: "permissionless distribution",
+    phonetic: "pɝˈmɪʃənˈɫɛs ˌdɪstɹəbˈjuʃən",
+    definition: (
+      <>
+        <Link to="permissionless">permissionless</Link> system in which each
+        actor maintains <Link to="sovereignty">sovereignty</Link> over the
+        ability of <Link to="publishing">publishing</Link> a new medium and of{" "}
+        <Link to="distribution">distribution</Link> of every medium
+      </>
+    ),
+  },
+  "distribution": {
+    term: "distribution",
+    phonetic: "ˌdɪstɹəbˈjuʃən",
+    partOfSpeech: "noun",
+    definition: (
+      <>
+        process of delivering a <Link to="publishing">published</Link> medium to
+        a consumer
+      </>
+    ),
+  },
+  "publishing": {
+    term: "publishing",
+    phonetic: "ˈpəbɫɪʃɪŋ",
+    partOfSpeech: "noun",
+    definition: <>process of making a medium available to the public</>,
+  },
+  "permissionless": {
+    term: "permissionless",
+    phonetic: "pɝˈmɪʃənˈɫɛs",
+    partOfSpeech: "adjective",
+    definition: (
+      <>
+        property of a system whose participants maintain{" "}
+        <Link to="equality">equal</Link>{" "}
+        <Link to="sovereignty">sovereignty</Link> over the defined scope of the
+        system.
+      </>
+    ),
+  },
+  "sovereignty": {
+    term: "sovereignty",
+    phonetic: "ˈsɑvɹənti",
+    partOfSpeech: "noun",
+    definition: (
+      <>
+        supreme power over a scope that can be exercised without any external
+        restrictions being possible
+      </>
+    ),
+  },
+  "equality": {
+    term: "equality",
+    phonetic: "ɪˈkwɑɫəti",
+    partOfSpeech: "noun",
+    definition: (
+      <>
+        state of a system in which every actor has exactly the same rights and
+        responsibilities
+      </>
+    ),
+  },
     "0x API": {
       term: "0x API",
       phonetic: "",
       partOfSpeech: "",
       definition: (
     <>
-      The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users:  API References
+      The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users:\n\nAPI References
     </>
   )
   ,
@@ -84,7 +148,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      The inventors and core developers of Ceramic, the first decentralized network for composable data. Ceramic makes it possible for developers to build data-rich Web3 applications without needing a traditional database, and in the process, unlocks data composability and portability across every application within the Web3 ecosystem  3Box Labs
+      The inventors and core developers of Ceramic, the first decentralized network for composable data. Ceramic makes it possible for developers to build data-rich Web3 applications without needing a traditional database, and in the process, unlocks data composability and portability across every application within the Web3 ecosystem\n\n3Box Labs
     </>
   )
   ,
@@ -198,7 +262,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose.    In the world of crypto, this is referred to as a cryptocurrency account. It gives you certain benefits, and it is a requirement in order to use just about any cryptocurrency exchange. A cryptocurrency account gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process.   Account
+      Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose.  \n\nIn the world of crypto, this is referred to as a cryptocurrency account. It gives you certain benefits, and it is a requirement in order to use just about any cryptocurrency exchange. A cryptocurrency account gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process. \n\nAccount
     </>
   )
   ,
@@ -284,24 +348,24 @@ const terms = {
         "Simplified Chinese": "地址/“公钥”（钱包地址）",
         "French": "adresse/ « adresse publique » (adresse du portefeuille)",
         "German": "Adresse/„öffentliche Adresse“ (Wallet-Adresse)",
-        "Indonesian": "alamat/alamat publik (alamat dompet)",
-        "Italian": "indirizzo/indirizzo pubblico (indirizzo del wallet)",
-        "Korean": "주소/공개 주소(지갑 주소)",
+        "Indonesian": "alamat/\"alamat publik\" (alamat dompet)",
+        "Italian": "indirizzo/\"indirizzo pubblico\" (indirizzo del wallet)",
+        "Korean": "주소/\"공개 주소\"(지갑 주소)",
         "Persian": "آدرس /«آدرس عمومی»",
-        "Brazilian Portuguese": "endereço/endereço público (endereço da carteira)",
-        "Russian": "адрес/публичный адрес (адрес кошелька)",
-        "Spanish": "dirección/dirección pública (dirección de monedero)",
-        "Filipino (Tagalog)": "address/pampublikong address (address ng wallet)",
+        "Brazilian Portuguese": "endereço/\"endereço público\" (endereço da carteira)",
+        "Russian": "адрес/\"публичный адрес\" (адрес кошелька)",
+        "Spanish": "dirección/\"dirección pública\" (dirección de monedero)",
+        "Filipino (Tagalog)": "address/\"pampublikong address\" (address ng wallet)",
         "Thai": "ที่อยู่",
-        "Turkish": "adres/genel adres (cüzdan adresi)",
-        "Vietnamese": "địa chỉ/địa chỉ công khai (địa chỉ ví)",
-        "Arabic": "العنوان / العنوان العام (عنوان المحفظة)",
+        "Turkish": "adres/\"genel adres\" (cüzdan adresi)",
+        "Vietnamese": "địa chỉ/\"địa chỉ công khai\" (địa chỉ ví)",
+        "Arabic": "العنوان / \"العنوان العام\" (عنوان المحفظة)",
         "Traditional Chinese": "收款地址（錢包地址）",
-        "Dutch": "adres/openbaar adres (wallet-adres)",
-        "Greek": "διεύθυνση/δημόσια διεύθυνση (διεύθυνση πορτοφολιού)",
-        "Hindi": "एड्रेस/पब्लिक एड्रेस (वॉलेट एड्रेस)",
+        "Dutch": "adres/\"openbaar adres\" (wallet-adres)",
+        "Greek": "διεύθυνση/\"δημόσια διεύθυνση\" (διεύθυνση πορτοφολιού)",
+        "Hindi": "एड्रेस/\"पब्लिक एड्रेस\" (वॉलेट एड्रेस)",
         "Hungarian": "cím/„nyilvános cím” (pénztárca címe)",
-        "Japanese": "アドレス/パブリックアドレス (ウォレットアドレス)",
+        "Japanese": "アドレス/\"パブリックアドレス\" (ウォレットアドレス)",
         "Polish": "Adres / „adres publiczny” (adres portfela)",
         "Ukrainian": "адреса/«публічна адреса» (адреса гаманця)"
       }
@@ -312,7 +376,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      In the context of 'Advanced gas controls': it is an optional feature in the MetaMask wallet,  that gives you more control over the gas you pay in MetaMask.  Using advanced gas controls
+      In the context of 'Advanced gas controls': it is an optional feature in the MetaMask wallet,  that gives you more control over the gas you pay in MetaMask.\n\nUsing advanced gas controls
     </>
   )
   ,
@@ -388,7 +452,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      In the context of 'gas fees', Aggressive is a category that enables you to be more forceful with your transaction, and have it completed as soon as possible. There are three categories available in MetaMask: Low, Market, Aggressive  Using advanced gas controls
+      In the context of 'gas fees', Aggressive is a category that enables you to be more forceful with your transaction, and have it completed as soon as possible. There are three categories available in MetaMask: Low, Market, Aggressive\n\nUsing advanced gas controls
     </>
   )
   ,
@@ -1034,7 +1098,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Attestation in crypto refers to the process of verifying the authenticity or validity of a piece of information or a transaction on a blockchain network. Attestation is an important aspect of blockchain technology, as it helps to ensure the integrity and security of the network.  In general, attestation involves a trusted third-party, or attester, verifying the authenticity of a transaction or piece of information. This can include verifying the identity of users on the network, verifying the accuracy of data, or validating the authenticity of a digital signature.  One example of attestation in crypto is the use of digital signatures to authenticate transactions on a blockchain network. Digital signatures use public key cryptography to verify the identity of the sender and ensure that the transaction has not been tampered with.  Another example of attestation in crypto is the use of Proof of Stake (PoS) consensus mechanisms, which rely on validators to attest to the validity of transactions on the network. Validators are responsible for verifying transactions and adding new blocks to the blockchain, and they are rewarded with cryptocurrency for their efforts.  For more info, see Attestation in Ethereum.
+      Attestation in crypto refers to the process of verifying the authenticity or validity of a piece of information or a transaction on a blockchain network. Attestation is an important aspect of blockchain technology, as it helps to ensure the integrity and security of the network.\n\nIn general, attestation involves a trusted third-party, or attester, verifying the authenticity of a transaction or piece of information. This can include verifying the identity of users on the network, verifying the accuracy of data, or validating the authenticity of a digital signature.\n\nOne example of attestation in crypto is the use of digital signatures to authenticate transactions on a blockchain network. Digital signatures use public key cryptography to verify the identity of the sender and ensure that the transaction has not been tampered with.\n\nAnother example of attestation in crypto is the use of Proof of Stake (PoS) consensus mechanisms, which rely on validators to attest to the validity of transactions on the network. Validators are responsible for verifying transactions and adding new blocks to the blockchain, and they are rewarded with cryptocurrency for their efforts.\n\nFor more info, see Attestation in Ethereum.
     </>
   )
   ,
@@ -1262,7 +1326,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Bitcoin is a decentralized digital currency or cryptocurrency, which was created in 2009 by an unknown person or group using the name Satoshi Nakamoto. Bitcoin transactions are recorded on a public digital ledger called the blockchain, which is maintained by a network of computers worldwide. Bitcoin transactions are made directly between users without the need for intermediaries like banks or financial institutions. Users can send and receive Bitcoins using digital wallets.  One of the key features of Bitcoin is its limited supply. There will only ever be 21 million Bitcoins in existence, which helps to prevent inflation and maintain the value of the currency. The plural of bitcoin is just bitcoin; the abbreviation is BTC, with a space: I have 250 BTC.
+      Bitcoin is a decentralized digital currency or cryptocurrency, which was created in 2009 by an unknown person or group using the name Satoshi Nakamoto. Bitcoin transactions are recorded on a public digital ledger called the blockchain, which is maintained by a network of computers worldwide. Bitcoin transactions are made directly between users without the need for intermediaries like banks or financial institutions. Users can send and receive Bitcoins using digital wallets.\n\nOne of the key features of Bitcoin is its limited supply. There will only ever be 21 million Bitcoins in existence, which helps to prevent inflation and maintain the value of the currency. The plural of bitcoin is just bitcoin; the abbreviation is BTC, with a space: I have 250 BTC.
     </>
   )
   ,
@@ -1756,7 +1820,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A bridge is a tool built to move assets from one network to another. It’s also a verb, used to describe that action: “I bridged my ETH from Ethereum mainnet to Arbitrum.” Not all bridges are created equal, and you should be informed about what you’re doing before you use one.  Field Guide to bridges   See also MetaMask Bridge
+      A bridge is a tool built to move assets from one network to another. It’s also a verb, used to describe that action: “I bridged my ETH from Ethereum mainnet to Arbitrum.” Not all bridges are created equal, and you should be informed about what you’re doing before you use one. \nField Guide to bridges \n\nSee also MetaMask Bridge
     </>
   )
   ,
@@ -2022,7 +2086,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users. Centralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools. However, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.
+      A centralized exchange (CEX) is a cryptocurrency exchange that is operated and controlled by a centralized entity. In a CEX, the exchange company or organization acts as an intermediary between buyers and sellers, holding and managing the assets on behalf of its users.\nCentralized exchanges typically offer a wide range of trading pairs, with many popular cryptocurrencies available for trade. They also usually have high liquidity and offer advanced trading features such as margin trading, order types, and charting tools.\nHowever, centralized exchanges also have several drawbacks. They are often targeted by hackers, as the centralized nature of the exchange makes them a single point of failure. They also require users to trust the exchange to hold their funds securely and execute trades fairly, which can be a source of concern for some users.
     </>
   )
   ,
@@ -2098,7 +2162,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A chain ID is a unique identifier that represents a blockchain network. We use it to distinguish different blockchain networks from each other and to ensure that transactions and messages are sent to the correct network. Ethereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses.  Peer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID
+      A chain ID is a unique identifier that represents a blockchain network. We use it to distinguish different blockchain networks from each other and to ensure that transactions and messages are sent to the correct network.\nEthereum networks have two identifiers, a network ID and a chain ID. Although they often have the same value, they have different uses.\n\nPeer-to-peer communication between nodes uses the network ID, while the transaction signature process uses the chain ID
     </>
   )
   ,
@@ -2326,7 +2390,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      cold wallet/cold storage: An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub: Hardware Wallet Hub
+      cold wallet/cold storage: An offline wallet that is never connected to the internet. These wallets protect cryptocurrencies from getting hacked online. For more information, check out MetaMask's Hardware Wallet Hub:\nHardware Wallet Hub
     </>
   )
   ,
@@ -2402,7 +2466,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A community platform is a dedicated virtual space where people who share the same goals, interests, or motivations can connect and build relationships.  MetaMask's community platform can be accessed here: MetaMask Community
+      A community platform is a dedicated virtual space where people who share the same goals, interests, or motivations can connect and build relationships.\n\nMetaMask's community platform can be accessed here:\nMetaMask Community
     </>
   )
   ,
@@ -2592,7 +2656,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A consensus client is a component of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger.  There are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.
+      A consensus client is a component of a blockchain node that is responsible for validating and verifying transactions and blocks in the network. It communicates with other nodes to reach consensus on the current state of the blockchain and to ensure that all nodes have a consistent copy of the ledger.\n\nThere are various types of consensus mechanisms used in blockchain networks, including proof of work (PoW), proof of stake (PoS), and delegated proof of stake (DPoS). The consensus client implements the specific consensus mechanism used by the network and ensures that all nodes follow the rules and reach agreement on the current state of the blockchain.
     </>
   )
   ,
@@ -3010,7 +3074,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A crypto wallet is a device, physical medium, program or a service which stores the public and/or private keys for cryptocurrency transactions. Crypto wallets come in different forms, including software wallets, hardware wallets, and paper wallets.
+      A crypto wallet is a device, physical medium, program or a service which stores the public and/or private keys for cryptocurrency transactions.\nCrypto wallets come in different forms, including software wallets, hardware wallets, and paper wallets.
     </>
   )
   ,
@@ -3314,7 +3378,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      In the context of cryptocurrencies, custody refers to the safekeeping and management of digital assets on behalf of a client by a third-party service provider. Custody services are an important aspect of the cryptocurrency industry because cryptocurrencies are digital assets that require secure storage and management to prevent loss, theft, or unauthorized access.  Crypto custody services are typically offered by specialized companies that provide secure storage solutions for cryptocurrencies. These companies use various security measures such as multi-signature authentication, cold storage, and insurance to protect their clients' assets.
+      In the context of cryptocurrencies, custody refers to the safekeeping and management of digital assets on behalf of a client by a third-party service provider. Custody services are an important aspect of the cryptocurrency industry because cryptocurrencies are digital assets that require secure storage and management to prevent loss, theft, or unauthorized access.\n\nCrypto custody services are typically offered by specialized companies that provide secure storage solutions for cryptocurrencies. These companies use various security measures such as multi-signature authentication, cold storage, and insurance to protect their clients' assets.
     </>
   )
   ,
@@ -3694,7 +3758,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      The decentralized web, also known as web3, is a concept that refers to a new type of internet architecture that aims to provide a more open, secure, and privacy-preserving internet experience by removing the need for centralized intermediaries and giving users more control over their data.  In contrast to the current centralized web, where most online activities are controlled by a few large corporations and their servers, the decentralized web relies on a network of distributed nodes and peer-to-peer protocols to store and transmit data. This means that there is no central authority controlling the internet, and users can interact directly with each other without the need for intermediaries.
+      The decentralized web, also known as web3, is a concept that refers to a new type of internet architecture that aims to provide a more open, secure, and privacy-preserving internet experience by removing the need for centralized intermediaries and giving users more control over their data.\n\nIn contrast to the current centralized web, where most online activities are controlled by a few large corporations and their servers, the decentralized web relies on a network of distributed nodes and peer-to-peer protocols to store and transmit data. This means that there is no central authority controlling the internet, and users can interact directly with each other without the need for intermediaries.
     </>
   )
   ,
@@ -4378,7 +4442,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      In the context of 'Edge computing': it is an emerging computing paradigm which refers to a range of networks and devices at or near the user. Edge is about processing data closer to where it's being generated, enabling processing at greater speeds and volumes, leading to greater action-led results in real time. The term can also refer to Microsoft's browser or the crypto software wallet
+      In the context of 'Edge computing': it is an emerging computing paradigm which refers to a range of networks and devices at or near the user. Edge is about processing data closer to where it's being generated, enabling processing at greater speeds and volumes, leading to greater action-led results in real time.\nThe term can also refer to Microsoft's browser or the crypto software wallet
     </>
   )
   ,
@@ -4416,7 +4480,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      EIP (Ethereum Improvement Proposal)  The EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559. EIP-1559 will change Ethereum’s fee market mechanism. Fundamentally, EIP-1559 gets rid of the first-price auction as the main gas fee calculation. In first-price auctions, people bid a set amount of money to pay for their transaction to be processed, and the highest bidder wins. With EIP-1559, there will be a discrete “base fee” for transactions to be included in the next block. For users or applications that want to prioritize their transaction, they can add a “tip,” which is called a “priority fee” to pay a miner for faster inclusion.
+      EIP (Ethereum Improvement Proposal)\n\nThe EIP process is a public and open process through which suggestions are made as to how to change (and hopefully, improve) the way the Ethereum network functions as a whole. Individual EIPs are referred to by the name assigned to them in the repository, for example, EIP-1559.\nEIP-1559 will change Ethereum’s fee market mechanism. Fundamentally, EIP-1559 gets rid of the first-price auction as the main gas fee calculation. In first-price auctions, people bid a set amount of money to pay for their transaction to be processed, and the highest bidder wins. With EIP-1559, there will be a discrete “base fee” for transactions to be included in the next block. For users or applications that want to prioritize their transaction, they can add a “tip,” which is called a “priority fee” to pay a miner for faster inclusion.
     </>
   )
   ,
@@ -4796,7 +4860,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      ERC-721 Token Standard  Another standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.
+      ERC-721 Token Standard\n\nAnother standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.
     </>
   )
   ,
@@ -4834,7 +4898,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      ERC-721 Token Standard  A standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.
+      ERC-721 Token Standard\n\nA standard for Ethereum smart contracts, which allows for the issuance of a non-fungible token: this is the standard that created what we all now know as an NFT. This token standard is used to represent a unique digital asset that is not interchangeable, as opposed to the ERC-20 (or other equivalent) standard, which issues identical, interchangeable tokens.
     </>
   )
   ,
@@ -5024,7 +5088,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      a.k.a The Merge  Finalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.
+      a.k.a The Merge\n\nFinalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.
     </>
   )
   ,
@@ -5138,7 +5202,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      An Ethereum public address, also known as an Ethereum account address, is a string of 42 characters (including letters and numbers) that is used to receive or send Ethereum and other Ethereum-based tokens on the Ethereum network.  Each Ethereum public address is unique and is associated with a private key that allows the owner of the address to sign and authorize transactions. The public address is derived from the private key using a mathematical algorithm, and it can be shared with others to receive payments or tokens.  When sending Ethereum or tokens, users need to specify the recipient's public address as the destination for the transaction. Once the transaction is confirmed by the network, the Ethereum or tokens are transferred to the recipient's address.
+      An Ethereum public address, also known as an Ethereum account address, is a string of 42 characters (including letters and numbers) that is used to receive or send Ethereum and other Ethereum-based tokens on the Ethereum network.\n\nEach Ethereum public address is unique and is associated with a private key that allows the owner of the address to sign and authorize transactions. The public address is derived from the private key using a mathematical algorithm, and it can be shared with others to receive payments or tokens.\n\nWhen sending Ethereum or tokens, users need to specify the recipient's public address as the destination for the transaction. Once the transaction is confirmed by the network, the Ethereum or tokens are transferred to the recipient's address.
     </>
   )
   ,
@@ -5214,7 +5278,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A popular website for analyzing activity on the Ethereum blockchain. See ‘blockchain explorer’.  https://etherscan.io/
+      A popular website for analyzing activity on the Ethereum blockchain. See ‘blockchain explorer’.\n\nhttps://etherscan.io/
     </>
   )
   ,
@@ -5518,7 +5582,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Fantom is a public blockchain platform that aims to facilitate fast and low-cost transactions for dapps and smart contracts. It was launched in 2018 and is based on the Ethereum codebase, but with several key enhancements.  One of the main features of Fantom is its consensus mechanism, known as Lachesis, which is a variant of Directed Acyclic Graphs (DAGs) that allows for high transaction throughput and low confirmation times. This means that transactions on the Fantom network can be processed quickly and at a low cost, making it an attractive platform for developers looking to build dApps that require fast and efficient transactions.
+      Fantom is a public blockchain platform that aims to facilitate fast and low-cost transactions for dapps and smart contracts. It was launched in 2018 and is based on the Ethereum codebase, but with several key enhancements.\n\nOne of the main features of Fantom is its consensus mechanism, known as Lachesis, which is a variant of Directed Acyclic Graphs (DAGs) that allows for high transaction throughput and low confirmation times. This means that transactions on the Fantom network can be processed quickly and at a low cost, making it an attractive platform for developers looking to build dApps that require fast and efficient transactions.
     </>
   )
   ,
@@ -5860,7 +5924,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.  What is MetaMask Flask, and how is it different from normal MetaMask
+      MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.\n\nWhat is MetaMask Flask, and how is it different from normal MetaMask
     </>
   )
   ,
@@ -5936,7 +6000,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      In the context of NFT ownership:  A fractional NFT (F-NFT) is an entire NFT broken into smaller fragments, allowing several people to claim ownership of a piece of the same NFT. Fractional NFTs
+      In the context of NFT ownership: \nA fractional NFT (F-NFT) is an entire NFT broken into smaller fragments, allowing several people to claim ownership of a piece of the same NFT. Fractional NFTs
     </>
   )
   ,
@@ -6088,7 +6152,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A measure of the computational steps required for a transaction on the Ethereum network. This then equates to a fee for network users paid in small units of ETH specified as gwei. For more on gas, see MetaMask’s user guide here:  User Guide: Gas
+      A measure of the computational steps required for a transaction on the Ethereum network. This then equates to a fee for network users paid in small units of ETH specified as gwei. For more on gas, see MetaMask’s user guide here:\n\nUser Guide: Gas
     </>
   )
   ,
@@ -6240,7 +6304,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      The Gas Station Network (GSN) is a decentralized network of relayers mainly referring to the Ethereum blockchain. It allows you to build dapps which provide payment for transactions, so users do not need to hold Ether or ETH to pay for gas, easing their onboarding process and improving user acquisition and experience. However, while the relayers in the GSN do not charge users, they charge the recipient and contract instead. In this way, the relayers recover the costs of transactions and profit from extra fees for providing such services.  Originally conceived and designed by TabooKey, the GSN has grown to encompass many companies, protocols and platforms in the Ethereum ecosystem that wish to facilitate the onboarding of users to Ethereum applications. Gas Station Network
+      The Gas Station Network (GSN) is a decentralized network of relayers mainly referring to the Ethereum blockchain. It allows you to build dapps which provide payment for transactions, so users do not need to hold Ether or ETH to pay for gas, easing their onboarding process and improving user acquisition and experience.\nHowever, while the relayers in the GSN do not charge users, they charge the recipient and contract instead. In this way, the relayers recover the costs of transactions and profit from extra fees for providing such services.\n\nOriginally conceived and designed by TabooKey, the GSN has grown to encompass many companies, protocols and platforms in the Ethereum ecosystem that wish to facilitate the onboarding of users to Ethereum applications. Gas Station Network
     </>
   )
   ,
@@ -6354,7 +6418,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Gitcoin is a platform where coders and developers can get paid to work on open-source software in a wide variety of programming languages. Users can also submit their own project ideas to the Gitcoin platform in order to crowdsource funding from contributing donors.  Gitcoin
+      Gitcoin is a platform where coders and developers can get paid to work on open-source software in a wide variety of programming languages. Users can also submit their own project ideas to the Gitcoin platform in order to crowdsource funding from contributing donors.\n\nGitcoin
     </>
   )
   ,
@@ -6430,7 +6494,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Goerli is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).  ETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet.
+      Goerli is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).\n\nETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet.
     </>
   )
   ,
@@ -6658,7 +6722,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A hardware wallet is a physical device that is used to store cryptographic keys, and generally, sign transactions. Some hardware wallets can be connected physically or through software to internet connectivity; others are ‘air-gapped’, receiving transaction requests and sending transaction approvals through a mechanism such as a QR code. The overall goal of using a hardware wallet to manage keys and signatures is to reduce the likelihood of your keys or Secret Recovery Phrase from being somehow stolen or compromised, due to being connected to the Internet. For more on hardware wallets, see MetaMask’s Hardware Wallet Hub: Hardware Wallet Hub
+      A hardware wallet is a physical device that is used to store cryptographic keys, and generally, sign transactions. Some hardware wallets can be connected physically or through software to internet connectivity; others are ‘air-gapped’, receiving transaction requests and sending transaction approvals through a mechanism such as a QR code. The overall goal of using a hardware wallet to manage keys and signatures is to reduce the likelihood of your keys or Secret Recovery Phrase from being somehow stolen or compromised, due to being connected to the Internet. For more on hardware wallets, see MetaMask’s Hardware Wallet Hub:\nHardware Wallet Hub
     </>
   )
   ,
@@ -6744,18 +6808,18 @@ const terms = {
         "Simplified Chinese": "十六进制；“十六进制数据”",
         "French": "hexadécimal ; « données hexadécimales »",
         "German": "hexadezimal; ‚Hex-Daten‘",
-        "Indonesian": "heksadesimal; data hex",
+        "Indonesian": "heksadesimal; \"data hex",
         "Italian": "esadecimale; 'dati esadecimali'",
         "Korean": "16진수; '헥스 데이터'",
         "Persian": "شانزده‌شماری؛ داده‌های هگز",
-        "Brazilian Portuguese": "hexadecimal; dados hexa",
+        "Brazilian Portuguese": "hexadecimal; \"dados hexa",
         "Russian": "шестнадцатеричный; 'шестнадцатеричные данные'",
-        "Spanish": "hexadecimal; datos hexadecimales",
+        "Spanish": "hexadecimal; \"datos hexadecimales",
         "Filipino (Tagalog)": "hexadecimal; 'hex na data'",
         "Thai": "เลขฐานสิบหก, ข้อมูลเลขฐานสิบหก",
         "Turkish": "on altılık sayı; 'on altılı veri'",
-        "Vietnamese": "thập lục phân; dữ liệu thập lục phân",
-        "Arabic": "السداسي عشري؛ بيانات سداسية",
+        "Vietnamese": "thập lục phân; \"dữ liệu thập lục phân",
+        "Arabic": "السداسي عشري؛ \"بيانات سداسية",
         "Traditional Chinese": "十六進位",
         "Dutch": "hexadecimaal; hexadecimale data",
         "Greek": "Δεκαεξαδικά δεδομένα",
@@ -7076,7 +7140,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Part of ConsenSys, Infura offers backend access to the Ethereum network over established HTTP and WebSockets technology. Prior to Infura, developers were obligated to run their own nodes of the networks with which they wanted to interact; Infura provides that access through a set of APIs. This enables developers of dapps and websites seeking to interact with the Ethereum blockchain to do so, and at scale.  Infura
+      Part of ConsenSys, Infura offers backend access to the Ethereum network over established HTTP and WebSockets technology. Prior to Infura, developers were obligated to run their own nodes of the networks with which they wanted to interact; Infura provides that access through a set of APIs. This enables developers of dapps and websites seeking to interact with the Ethereum blockchain to do so, and at scale.\n\nInfura
     </>
   )
   ,
@@ -7798,7 +7862,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Layer 0 in blockchain refers to the underlying infrastructure that supports the blockchain network. It includes the physical hardware, such as computers, servers, and other network components, as well as the software protocols that govern the interactions between the nodes in the network.  In other words, Layer 0 is the foundation upon which the blockchain network is built. It provides the necessary resources and technical capabilities for the network to function, such as computing power, storage, and network connectivity. Layer 0 is essential to the operation and security of the blockchain network, as it ensures that data is transmitted and stored correctly and securely across the network.  Layer 0 is sometimes also referred to as 'Layer Zero' or 'L0'. It is important to note that the concept of Layer 0 is not unique to blockchain technology, but is a more general term used to describe the physical and technical infrastructure underlying any type of computer network.
+      Layer 0 in blockchain refers to the underlying infrastructure that supports the blockchain network. It includes the physical hardware, such as computers, servers, and other network components, as well as the software protocols that govern the interactions between the nodes in the network.\n\nIn other words, Layer 0 is the foundation upon which the blockchain network is built. It provides the necessary resources and technical capabilities for the network to function, such as computing power, storage, and network connectivity. Layer 0 is essential to the operation and security of the blockchain network, as it ensures that data is transmitted and stored correctly and securely across the network.\n\nLayer 0 is sometimes also referred to as 'Layer Zero' or 'L0'. It is important to note that the concept of Layer 0 is not unique to blockchain technology, but is a more general term used to describe the physical and technical infrastructure underlying any type of computer network.
     </>
   )
   ,
@@ -7836,7 +7900,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Layer 1 in blockchain refers to the base layer of the blockchain protocol. It is the layer that contains the core elements of the blockchain, including the consensus mechanism, the data structure, and the rules that govern the creation and transfer of assets or tokens.  In other words, Layer 1 is the foundation of the blockchain technology stack, upon which all other layers and applications are built. It is responsible for maintaining the integrity of the blockchain network and ensuring that all transactions are valid and secure.  Layer 1 is designed to be decentralized, meaning that no single entity has control over the network. This is achieved through the use of consensus mechanisms, such as Proof of Work (PoW), Proof of Stake (PoS), or other methods, which enable participants to reach agreement on the validity of transactions and the state of the network.  Some examples of Layer 1 blockchain protocols include Bitcoin, Ethereum, Binance Smart Chain, Avalanche.
+      Layer 1 in blockchain refers to the base layer of the blockchain protocol. It is the layer that contains the core elements of the blockchain, including the consensus mechanism, the data structure, and the rules that govern the creation and transfer of assets or tokens.\n\nIn other words, Layer 1 is the foundation of the blockchain technology stack, upon which all other layers and applications are built. It is responsible for maintaining the integrity of the blockchain network and ensuring that all transactions are valid and secure.\n\nLayer 1 is designed to be decentralized, meaning that no single entity has control over the network. This is achieved through the use of consensus mechanisms, such as Proof of Work (PoW), Proof of Stake (PoS), or other methods, which enable participants to reach agreement on the validity of transactions and the state of the network.\n\nSome examples of Layer 1 blockchain protocols include Bitcoin, Ethereum, Binance Smart Chain, Avalanche.
     </>
   )
   ,
@@ -7912,7 +7976,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.  https://learn.metamask.io/
+      MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.\n\nhttps://learn.metamask.io/
     </>
   )
   ,
@@ -7983,7 +8047,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Ledger Live is a hardware wallet interface app for users of the Ledger Nano X, Ledger Nano S, and Ledger Blue.  The app enables Ledger users to manage their cryptocurrency hardware and assets. Additionally, it features real-time price updates, multi-account management, and the convenience of an extremely simple setup process.  Ledger Live combines the management of your individual crypto assets and device management into one interface, with the intention of gradually replacing the Chrome-based applications system that previously annoyed some users of the device.
+      Ledger Live is a hardware wallet interface app for users of the Ledger Nano X, Ledger Nano S, and Ledger Blue.\n\nThe app enables Ledger users to manage their cryptocurrency hardware and assets. Additionally, it features real-time price updates, multi-account management, and the convenience of an extremely simple setup process.\n\nLedger Live combines the management of your individual crypto assets and device management into one interface, with the intention of gradually replacing the Chrome-based applications system that previously annoyed some users of the device.
     </>
   )
   ,
@@ -8135,7 +8199,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently.  This layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain.
+      The Lightning Network is a second layer for Bitcoin that uses micropayment channels to scale the blockchain’s capability to conduct transactions more efficiently.\n\nThis layer consists of multiple payment channels between parties or Bitcoin users. A Lightning Network channel is a transaction mechanism between two parties. Using channels, the parties can make or receive payments from each other. Transactions conducted on the Lightning Network are faster, less costly, and more readily confirmed than those conducted directly on the Bitcoin blockchain.
     </>
   )
   ,
@@ -8325,7 +8389,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Liquid staking allows users to stake tokens and simultaneously use them in the DeFi ecosystem. This is made possible by wrapping the staked tokens and providing users with a wrapped token that is a claim on the underlying collateral. The wrapped tokens can be transferred and generate yield. Liquid staking permits users to stake and unstake their coins without being beholden to a lock-up period. It thus enables greater capital efficiency and increased liquidity on proof-of-stake blockchains, allowing users to maximize the benefits of staking and DeFi simultaneously. Furthermore, liquid staking enhances network security on PoS chains.
+      Liquid staking allows users to stake tokens and simultaneously use them in the DeFi ecosystem. This is made possible by wrapping the staked tokens and providing users with a wrapped token that is a claim on the underlying collateral. The wrapped tokens can be transferred and generate yield.\nLiquid staking permits users to stake and unstake their coins without being beholden to a lock-up period. It thus enables greater capital efficiency and increased liquidity on proof-of-stake blockchains, allowing users to maximize the benefits of staking and DeFi simultaneously. Furthermore, liquid staking enhances network security on PoS chains.
     </>
   )
   ,
@@ -8363,7 +8427,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      In the context of 'gas fees', Low is a category that allows you to wait a bit longer and save money if you choose. There are 3 categories available in MetaMask: Low, Market, Aggressive  Using Advanced Gas Controls
+      In the context of 'gas fees', Low is a category that allows you to wait a bit longer and save money if you choose. There are 3 categories available in MetaMask: Low, Market, Aggressive\n\nUsing Advanced Gas Controls
     </>
   )
   ,
@@ -8629,7 +8693,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      a.k.a. Transaction Pool  When a user submits a transaction to the Ethereum network–or many other networks based on Ethereum–the transaction goes into what’s known as a “transaction pool”, or “txpool” for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are “picked up” and included in the next block, and there is currently a lot of research surrounding how this decision gets made. In Bitcoin, the transaction pool was referred to as the “memory pool”, or “mempool”, and often these terms are used interchangeably.
+      a.k.a. Transaction Pool\n\nWhen a user submits a transaction to the Ethereum network–or many other networks based on Ethereum–the transaction goes into what’s known as a “transaction pool”, or “txpool” for short. This is essentially a queue of transactions that are waiting to be added to a block and recorded to the blockchain. There are mechanisms that determine which transactions are “picked up” and included in the next block, and there is currently a lot of research surrounding how this decision gets made. In Bitcoin, the transaction pool was referred to as the “memory pool”, or “mempool”, and often these terms are used interchangeably.
     </>
   )
   ,
@@ -8857,7 +8921,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      MetaMask Bridge: You can now access a curated, straightforward bridging experience in MetaMask Bridge, available at https://portfolio.metamask.io/bridge  Only certain tokens and network combinations are available initially. MetaMask Bridge
+      MetaMask Bridge: You can now access a curated, straightforward bridging experience in MetaMask Bridge, available at https://portfolio.metamask.io/bridge \nOnly certain tokens and network combinations are available initially. MetaMask Bridge
     </>
   )
   ,
@@ -8895,7 +8959,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      The MetaMask forums located at community.metamask.io  MetaMask's community platform can be accessed here: MetaMask Community
+      The MetaMask forums located at community.metamask.io\n\nMetaMask's community platform can be accessed here:\nMetaMask Community
     </>
   )
   ,
@@ -8971,7 +9035,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.  What is MetaMask Flask, and how is it different from normal MetaMask?
+      MetaMask Flask is a distribution of the software designed for developers. It's like a laboratory (hence the name) where the MetaMask team can try out new ideas and features. It has experimental, even dangerous functionality in it that is not meant for everyday use. It also doesn't have the same stability guarantees that the production distribution of MetaMask has.\n\nWhat is MetaMask Flask, and how is it different from normal MetaMask?
     </>
   )
   ,
@@ -9047,7 +9111,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.  MetaMask Learn
+      MetaMask Learn is a free-to-use educational platform available in 10 languages for anyone interested in learning about web3. Through engaging lessons and interactive simulations, it helps you understand what web3 is, why it matters, and how to get started.\n\nMetaMask Learn
     </>
   )
   ,
@@ -9161,7 +9225,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      MetaMetrics is an opt-in analytics platform that aims to collect information on non-sensitive user events to help us improve the software for MetaMask users.  How to manage your MetaMetrics settings
+      MetaMetrics is an opt-in analytics platform that aims to collect information on non-sensitive user events to help us improve the software for MetaMask users.\n\nHow to manage your MetaMetrics settings
     </>
   )
   ,
@@ -9503,7 +9567,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      multi-signature wallet (multisig) A crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.
+      multi-signature wallet (multisig)\nA crypto-asset wallet which requires multiple keys in order to access and transact. Typically, a specified number of individuals are required to approve or “sign” a transaction before they are able to access the wallet. This is different from most wallets, which only require one signature to approve a transaction.
     </>
   )
   ,
@@ -9845,7 +9909,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      An NFT drop happens when a new NFT collection is released. NFT drops can vary in both how the NFTs are sold (listed for sale or auction), and in who they’re released to (the public, or a specific list called an “allowlist”).   Often, NFT drops coincide with when the NFTs in the collection are minted, that is, written to the blockchain. You might hear these terms used interchangeably— a drop might be referred to as the project’s mint.
+      An NFT drop happens when a new NFT collection is released. NFT drops can vary in both how the NFTs are sold (listed for sale or auction), and in who they’re released to (the public, or a specific list called an “allowlist”).\n\n\nOften, NFT drops coincide with when the NFTs in the collection are minted, that is, written to the blockchain. You might hear these terms used interchangeably— a drop might be referred to as the project’s mint.
     </>
   )
   ,
@@ -10035,7 +10099,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A transaction that is processed outside the blockchain network with an increased speed and reduced cost. There are two different transactions that occur on the blockchain:  On-chain transactions are those reflected on the distributed ledger and are visible to all the network users. On the other hand, off-chain transactions occur outside the blockchain network. Such a transaction doesn’t need the services of miners because no ledger verification is conducted. Unlike on-chain transactions, off-chain transactions can be made instantly. This method entails lower fees, happens instantly, and offers more anonymity.
+      A transaction that is processed outside the blockchain network with an increased speed and reduced cost. There are two different transactions that occur on the blockchain:\n\nOn-chain transactions are those reflected on the distributed ledger and are visible to all the network users. On the other hand, off-chain transactions occur outside the blockchain network. Such a transaction doesn’t need the services of miners because no ledger verification is conducted.\nUnlike on-chain transactions, off-chain transactions can be made instantly. This method entails lower fees, happens instantly, and offers more anonymity.
     </>
   )
   ,
@@ -10263,7 +10327,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Optimism is a layer-2 scaling solution for Ethereum, which is a blockchain-based platform for decentralized applications. It is designed to reduce the cost and increase the speed of transactions on the Ethereum network. Optimism works by using a technique called optimistic rollups, which allows it to process a large number of transactions off-chain, while still maintaining the security and decentralization of the Ethereum network.  In optimistic rollups, transactions are initially processed off-chain, and a summary of these transactions is then submitted to the Ethereum network for verification. This verification process ensures that the transactions are valid and that no fraud has occurred. Once the transactions are verified, they are added to the Ethereum blockchain, allowing users to interact with the decentralized applications built on the platform.
+      Optimism is a layer-2 scaling solution for Ethereum, which is a blockchain-based platform for decentralized applications. It is designed to reduce the cost and increase the speed of transactions on the Ethereum network. Optimism works by using a technique called optimistic rollups, which allows it to process a large number of transactions off-chain, while still maintaining the security and decentralization of the Ethereum network.\n\nIn optimistic rollups, transactions are initially processed off-chain, and a summary of these transactions is then submitted to the Ethereum network for verification. This verification process ensures that the transactions are valid and that no fraud has occurred. Once the transactions are verified, they are added to the Ethereum blockchain, allowing users to interact with the decentralized applications built on the platform.
     </>
   )
   ,
@@ -10529,7 +10593,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A password manager is a tool or software that stores all sorts of passwords needed for online applications and services. Password manager
+      A password manager is a tool or software that stores all sorts of passwords needed for online applications and services.\nPassword manager
     </>
   )
   ,
@@ -10795,7 +10859,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Polygon (formerly Matic Network) is a layer-2 scaling solution for Ethereum that aims to address the scalability issues of the Ethereum blockchain. It is designed to provide faster and cheaper transactions with the same level of security and decentralization as the Ethereum network.  Polygon achieves this by creating a multi-chain ecosystem that is built on top of the Ethereum network. This ecosystem consists of various interconnected sidechains that can process transactions independently of the main Ethereum blockchain. These sidechains are called 'Polygon chains' or 'commit chains'.
+      Polygon (formerly Matic Network) is a layer-2 scaling solution for Ethereum that aims to address the scalability issues of the Ethereum blockchain. It is designed to provide faster and cheaper transactions with the same level of security and decentralization as the Ethereum network.\n\nPolygon achieves this by creating a multi-chain ecosystem that is built on top of the Ethereum network. This ecosystem consists of various interconnected sidechains that can process transactions independently of the main Ethereum blockchain. These sidechains are called 'Polygon chains' or 'commit chains'.
     </>
   )
   ,
@@ -10833,7 +10897,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      The Portfolio Dapp enables you to view all your MetaMask accounts and their assets in one place. It aggregates values from across your accounts and shows your total holdings, making it easier than ever to get an at-a-glance summary of their value in your chosen currency.  Getting started with MetaMask Portfolio
+      The Portfolio Dapp enables you to view all your MetaMask accounts and their assets in one place. It aggregates values from across your accounts and shows your total holdings, making it easier than ever to get an at-a-glance summary of their value in your chosen currency.\n\nGetting started with MetaMask Portfolio
     </>
   )
   ,
@@ -10909,7 +10973,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      The priority fee, also referred to as the 'miner tip', incentivizes the miner to prioritize your transaction.  Naturally, whether this does actually go to a miner depends on the consensus mechanism they use: Ethereum mainnet became a Proof of Stake network following the Merge in September 2022, so the priority fee goes to validators instead of miners.
+      The priority fee, also referred to as the 'miner tip', incentivizes the miner to prioritize your transaction.\n\nNaturally, whether this does actually go to a miner depends on the consensus mechanism they use: Ethereum mainnet became a Proof of Stake network following the Merge in September 2022, so the priority fee goes to validators instead of miners.
     </>
   )
   ,
@@ -11125,7 +11189,7 @@ const terms = {
         "Dutch": "proof of stake (PoS)",
         "Greek": "Απόδειξης συμμετοχής (PoS)",
         "Hindi": "प्रूफ ऑफ स्टेक (PoS)",
-        "Hungarian": "Tét igazolása  (TI)",
+        "Hungarian": "Tét igazolása\n (TI)",
         "Japanese": "プルーフオブステーク (PoS)",
         "Polish": "Proof of Stake – PoS (dowód stawki)",
         "Ukrainian": "Доказ частки володіння (PoS)"
@@ -11137,7 +11201,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A consensus mechanism in which each block is ‘mined’ by one of the nodes, or a group of nodes, on the network. The computational process involved in committing a series of transactions into a block on the network, known as ‘hashing a block’, is technically quite simple, and therefore subject to attack. Under PoW, each miner must solve a math problem to find a set, difficult variable in order to be able to propose their block to the network as the next to be ‘mined’. In effect, the process of hashing each block becomes a competition. This addition of solving for a target increases the difficulty of successfully hashing each block, and consequently the security of the network.  For each hashed block, the overall process of hashing will have taken some time and computational effort. Thus, a hashed block is considered Proof of Work, and the miner that successfully hashes the block first receives a reward, in the form of cryptocurrency. PoW is singificantly more energy-intensive than other consensus mechanisms, such as Proof of Stake.
+      A consensus mechanism in which each block is ‘mined’ by one of the nodes, or a group of nodes, on the network. The computational process involved in committing a series of transactions into a block on the network, known as ‘hashing a block’, is technically quite simple, and therefore subject to attack. Under PoW, each miner must solve a math problem to find a set, difficult variable in order to be able to propose their block to the network as the next to be ‘mined’. In effect, the process of hashing each block becomes a competition. This addition of solving for a target increases the difficulty of successfully hashing each block, and consequently the security of the network.\n\nFor each hashed block, the overall process of hashing will have taken some time and computational effort. Thus, a hashed block is considered Proof of Work, and the miner that successfully hashes the block first receives a reward, in the form of cryptocurrency. PoW is singificantly more energy-intensive than other consensus mechanisms, such as Proof of Stake.
     </>
   )
   ,
@@ -11163,7 +11227,7 @@ const terms = {
         "Dutch": "proof of work (PoW)",
         "Greek": "Απόδειξη εργασίας (PoW)",
         "Hindi": "प्रूफ ऑफ वर्क (PoW)",
-        "Hungarian": "Munka igazolása (MI)",
+        "Hungarian": "Munka igazolása\n(MI)",
         "Japanese": "プルーフオブワーク (PoW)",
         "Polish": "Proof of Work – PoW (dowód wykonania pracy)",
         "Ukrainian": "Доказ виконання роботи (PoW)"
@@ -11403,7 +11467,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      ConsenSys Quorum enables enterprises to leverage Ethereum for their high-value blockchain applications. Businesses can rely on the Quorum open-source protocol layer and integrate on top of it product modules from ConsenSys, other companies, or your own in-house development team to build high-performance, customizable applications.  Quorum
+      ConsenSys Quorum enables enterprises to leverage Ethereum for their high-value blockchain applications. Businesses can rely on the Quorum open-source protocol layer and integrate on top of it product modules from ConsenSys, other companies, or your own in-house development team to build high-performance, customizable applications.\n\nQuorum
     </>
   )
   ,
@@ -11479,7 +11543,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A relayer is an intermediary that facilitates the exchange or transfer of information, assets, or services between two or more parties. The term is used in various fields, including finance, communication, and technology.  In the context of cryptocurrencies and blockchain technology, a relayer typically refers to an intermediary that facilitates peer-to-peer transactions on a decentralized network. This can include decentralized exchanges (DEXs), where relayers act as matching engines to connect buyers and sellers of digital assets. A few examples of popular relayers include 0x: 0x is a decentralized exchange protocol that enables the creation of relayers on the Ethereum blockchain. These relayers can be built by anyone and allow for peer-to-peer trading of ERC-20 tokens.  Kyber Network: Kyber Network is a decentralized liquidity network that also operates as a relayer. It enables users to trade a wide range of digital assets, including ERC-20 tokens, without the need for a centralized intermediary.  Uniswap: Uniswap is a popular decentralized exchange that operates as a relayer. It uses an automated market maker (AMM) system to enable peer-to-peer trading of ERC-20 tokens.  AirSwap: AirSwap is a decentralized exchange that operates as a peer-to-peer relayer on the Ethereum blockchain. It uses an off-chain order book to match buyers and sellers and execute trades.
+      A relayer is an intermediary that facilitates the exchange or transfer of information, assets, or services between two or more parties. The term is used in various fields, including finance, communication, and technology.\n\nIn the context of cryptocurrencies and blockchain technology, a relayer typically refers to an intermediary that facilitates peer-to-peer transactions on a decentralized network. This can include decentralized exchanges (DEXs), where relayers act as matching engines to connect buyers and sellers of digital assets. A few examples of popular relayers include 0x: 0x is a decentralized exchange protocol that enables the creation of relayers on the Ethereum blockchain. These relayers can be built by anyone and allow for peer-to-peer trading of ERC-20 tokens.\n\nKyber Network: Kyber Network is a decentralized liquidity network that also operates as a relayer. It enables users to trade a wide range of digital assets, including ERC-20 tokens, without the need for a centralized intermediary.\n\nUniswap: Uniswap is a popular decentralized exchange that operates as a relayer. It uses an automated market maker (AMM) system to enable peer-to-peer trading of ERC-20 tokens.\n\nAirSwap: AirSwap is a decentralized exchange that operates as a peer-to-peer relayer on the Ethereum blockchain. It uses an off-chain order book to match buyers and sellers and execute trades.
     </>
   )
   ,
@@ -12125,7 +12189,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      The seed phrase, mnemonic, or Secret Recovery Phrase is a crucial part of public blockchain technology, originally created for Bitcoin, and goes by many names. However, they all refer to a set of ordered words which correspond to determined values. These values never change, and therefore the same string of words in the same order will always produce the same number–this is the underlying functionality that allows seed phrases to back up wallets. This is also where the name ‘hierarchical deterministic wallets’ comes from, as all the accounts in a given wallet are deterministically created from the seed phrase, and they are hierarchically controlled by it.  A Secret Recovery Phrase is exactly what it sounds like: something that is secret, and should be known only to the owner of the account. If the seed phrase is given to someone else, that person has complete control over the account; they can drain it of tokens and funds, execute transactions with it, etc.    What is a ‘Secret Recovery Phrase’ and how to keep your crypto wallet secure
+      The seed phrase, mnemonic, or Secret Recovery Phrase is a crucial part of public blockchain technology, originally created for Bitcoin, and goes by many names. However, they all refer to a set of ordered words which correspond to determined values. These values never change, and therefore the same string of words in the same order will always produce the same number–this is the underlying functionality that allows seed phrases to back up wallets. This is also where the name ‘hierarchical deterministic wallets’ comes from, as all the accounts in a given wallet are deterministically created from the seed phrase, and they are hierarchically controlled by it.\n\nA Secret Recovery Phrase is exactly what it sounds like: something that is secret, and should be known only to the owner of the account. If the seed phrase is given to someone else, that person has complete control over the account; they can drain it of tokens and funds, execute transactions with it, etc.    What is a ‘Secret Recovery Phrase’ and how to keep your crypto wallet secure
     </>
   )
   ,
@@ -12353,7 +12417,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Sepolia is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).  ETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet
+      Sepolia is a test networks. It is primarily used for development on the blockchain (testing out applications and smart contracts, etc).\n\nETH on these testnets is a dummy balance and cannot be withdrawn or sent to mainnet
     </>
   )
   ,
@@ -12543,7 +12607,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A shielded transaction is essentially a transaction that is between two shielded addresses. Shielded Transaction
+      A shielded transaction is essentially a transaction that is between two shielded addresses.\nShielded Transaction
     </>
   )
   ,
@@ -12581,7 +12645,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A ‘sidechain’ refers to a chain that is connected to another (most often, to Ethereum) through a bridge, allowing assets to be transferred between them. In contrast to a Layer 2 network or a rollup, a sidechain is a full blockchain network in and of itself, and does not rely on Ethereum for consensus. It therefore must be evaluated independently in terms of its security, stability, and other features. See also “blockchain trilemma”, “modular blockchain”.  Note: Bridges exist for good reason; sending tokens from a sidechain to Ethereum mainnet or vice versa would result in token loss.
+      A ‘sidechain’ refers to a chain that is connected to another (most often, to Ethereum) through a bridge, allowing assets to be transferred between them. In contrast to a Layer 2 network or a rollup, a sidechain is a full blockchain network in and of itself, and does not rely on Ethereum for consensus. It therefore must be evaluated independently in terms of its security, stability, and other features. See also “blockchain trilemma”, “modular blockchain”.\n\nNote: Bridges exist for good reason; sending tokens from a sidechain to Ethereum mainnet or vice versa would result in token loss.
     </>
   )
   ,
@@ -12999,7 +13063,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      On the Ethereum Proof of Stake network, those wishing to participate in consensus must first lock up, or ‘stake’, 32 ETH into a smart contract; this ETH may be ‘slashed’ (taken from them and ‘burned’, put out of circulation) in the event that their validator behaves maliciously or does not meet performance requirements. Similar Proof of Stake mechanisms are in operation on other networks, as well.  Although this is the canonical meaning of the word, similar actions taken at the level of a decentralized exchange (DEX) or another dapp are often called ‘staking’, though it would probably be more accurate and descriptive to just call this ‘locking up tokens’.
+      On the Ethereum Proof of Stake network, those wishing to participate in consensus must first lock up, or ‘stake’, 32 ETH into a smart contract; this ETH may be ‘slashed’ (taken from them and ‘burned’, put out of circulation) in the event that their validator behaves maliciously or does not meet performance requirements. Similar Proof of Stake mechanisms are in operation on other networks, as well.\n\nAlthough this is the canonical meaning of the word, similar actions taken at the level of a decentralized exchange (DEX) or another dapp are often called ‘staking’, though it would probably be more accurate and descriptive to just call this ‘locking up tokens’.
     </>
   )
   ,
@@ -13151,7 +13215,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap. Within MetaMask, users have access to a powerful aggregator showing them information about swaps across the ecosystem, this is MetaMask Swaps:  User Guide Swaps
+      As the number of different blockchain projects and tokens has proliferated, the system by which users exchange one token for another has come to be known as swapping, and the individual action, a swap. Within MetaMask, users have access to a powerful aggregator showing them information about swaps across the ecosystem, this is MetaMask Swaps:\n\nUser Guide Swaps
     </>
   )
   ,
@@ -13265,7 +13329,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A testnet is a blockchain network that mirrors, as closely as possible, the current conditions of a corresponding ‘main’ network. Testnets are used by developers to verify that their smart contracts and other functionality work as intended, before permanently recording their code to a live blockchain network (and often spending significant gas fees in the process!).  Tokens minted on testnets are not transferrable for their equivalent value on mainnets.
+      A testnet is a blockchain network that mirrors, as closely as possible, the current conditions of a corresponding ‘main’ network. Testnets are used by developers to verify that their smart contracts and other functionality work as intended, before permanently recording their code to a live blockchain network (and often spending significant gas fees in the process!).\n\nTokens minted on testnets are not transferrable for their equivalent value on mainnets.
     </>
   )
   ,
@@ -13455,7 +13519,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      A token lock-up refers to a mechanism where certain tokens or cryptocurrency holdings are locked up or frozen for a specified period of time to restrict their transfer or sale. This is often used in the context of initial coin offerings (ICOs), where token issuers may require investors to commit to holding onto their tokens for a certain period, typically to ensure that investors are committed to the project's long-term success.  Token lock-up periods can vary in duration and can be predetermined or set according to certain conditions, such as reaching a certain milestone, liquidity event or network upgrade. During the lock-up period, the tokens cannot be transferred or sold, although in some cases, they may be staked or used to participate in certain network activities. Once the lock-up period is over, the tokens can be freely traded or sold.
+      A token lock-up refers to a mechanism where certain tokens or cryptocurrency holdings are locked up or frozen for a specified period of time to restrict their transfer or sale. This is often used in the context of initial coin offerings (ICOs), where token issuers may require investors to commit to holding onto their tokens for a certain period, typically to ensure that investors are committed to the project's long-term success.\n\nToken lock-up periods can vary in duration and can be predetermined or set according to certain conditions, such as reaching a certain milestone, liquidity event or network upgrade. During the lock-up period, the tokens cannot be transferred or sold, although in some cases, they may be staked or used to participate in certain network activities. Once the lock-up period is over, the tokens can be freely traded or sold.
     </>
   )
   ,
@@ -13835,7 +13899,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Truffle Suite is a development environment based on Ethereum Blockchain, used to develop dapps. Truffle is a one-stop solution for building dapps: compiling contracts, deploying contracts, injecting it into a web app, creating front-end for dapps and testing. Truffle Suite
+      Truffle Suite is a development environment based on Ethereum Blockchain, used to develop dapps. Truffle is a one-stop solution for building dapps: compiling contracts, deploying contracts, injecting it into a web app, creating front-end for dapps and testing.\nTruffle Suite
     </>
   )
   ,
@@ -14519,7 +14583,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      WebHID (Human Interface Device) Enables web applications to interact with human interface devices (HIDs) other than the standard supported devices (mice, keyboards, touchscreens, and gamepads). However, there are many other HID devices that are currently inaccessible to the web
+      WebHID (Human Interface Device)\nEnables web applications to interact with human interface devices (HIDs) other than the standard supported devices (mice, keyboards, touchscreens, and gamepads). However, there are many other HID devices that are currently inaccessible to the web
     </>
   )
   ,
@@ -14709,7 +14773,7 @@ const terms = {
       partOfSpeech: "",
       definition: (
     <>
-      Wyre is a regulated Money Service Business (MSB), which means it is a financial services provider licensed to transmit and convert money. The company is almost a decade old, having been around since 2013.  Wyre provides what the company calls a secure and compliant bridge between fiat and cryptocurrencies.  It serves as an infrastructure provider for blockchain businesses to connect with the fiat economy. In other words, Wyre payments enable blockchain businesses to efficiently integrate highly customizable fiat on-ramps into their onboarding flows.
+      Wyre is a regulated Money Service Business (MSB), which means it is a financial services provider licensed to transmit and convert money. The company is almost a decade old, having been around since 2013.\n\nWyre provides what the company calls a secure and compliant bridge between fiat and cryptocurrencies.\n\nIt serves as an infrastructure provider for blockchain businesses to connect with the fiat economy. In other words, Wyre payments enable blockchain businesses to efficiently integrate highly customizable fiat on-ramps into their onboarding flows.
     </>
   )
   ,
