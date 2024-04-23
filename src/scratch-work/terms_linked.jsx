@@ -1,4 +1,4 @@
-import { Link } from './Link';
+import { Link } from '../Link';
 import './Term.css';
 
 const terms = {
@@ -200,7 +200,7 @@ const terms = {
           "Polish": "Konto",
           "Ukrainian": "Обліковий запис"
         },
-        "definition": "Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose.    In the world of crypto, this is referred to as a <Link to=\"cryptocurrency\">cryptocurrency</Link> <Link to=\"account\">account</Link>. It gives you certain benefits, and it is a requirement in order to use just about any <Link to=\"cryptocurrency\">cryptocurrency</Link> <Link to=\"exchange\">exchange</Link>. A <Link to=\"cryptocurrency\">cryptocurrency</Link> <Link to=\"account\">account</Link> gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process.   <Link to=\"Account\">Account</Link>"
+        "definition": "Accounts are records or statements of financial expenditure and receipts that relate to a particular period or purpose. In the world of crypto, this is referred to as a <Link to=\"cryptocurrency\">cryptocurrency</Link> <Link to=\"account\">account</Link>. It gives you certain benefits, and it is a requirement in order to use just about any <Link to=\"cryptocurrency\">cryptocurrency</Link> <Link to=\"exchange\">exchange</Link>. A <Link to=\"cryptocurrency\">cryptocurrency</Link> <Link to=\"account\">account</Link> gives you access to hot wallets, which allow you to quickly buy, sell and trade cryptocurrencies, and it gives you an identity or a way through which you can hold onto your public keys when it comes to the aforementioned process."
       },
       "ACH transfer": {
         "term": "ACH transfer",
