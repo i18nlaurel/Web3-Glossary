@@ -1,34 +1,14 @@
 const fs = require('fs');
 const path = require('path');
 const React = require('react');
-const babel = require('@babel/core');
 
-// Read the existing terms.jsx file
-const termsFilePath = path.join(__dirname, 'terms.jsx');
+// Read the existing terms.json file
+const termsFilePath = path.join(__dirname, 'terms.json');
 const termsFileContent = fs.readFileSync(termsFilePath, 'utf8');
 
-// Split the file content by the 'const terms = {' string
-const contentParts = termsFileContent.split('const terms = {');
-
-// Check if the split was successful
-if (contentParts.length < 2) {
-  console.error('Error: Could not find the terms object in the file.');
-  return;
-}
-
-// Get the terms object string
-const termsObjectString = `{${contentParts[1].split('}')[0]}}`;
-
-// Transpile the terms object string with Babel
-const { code: transpiled } = babel.transformSync(termsObjectString, {
-  presets: ['@babel/preset-react'],
-  parserOpts: {
-    plugins: ['jsx'],
-  },
-});
-
-// Parse the transpiled terms object
-const termsObject = eval(`(${transpiled})`);
+// Parse the terms object from the JSON file
+const jsonData = JSON.parse(termsFileContent);
+const termsObject = jsonData["0"]["terms"];
 
 // Create a set of all terms for efficient lookup
 const allTerms = new Set(Object.keys(termsObject));
@@ -66,7 +46,7 @@ for (const [term, data] of Object.entries(termsObject)) {
 
 // Create the updated terms.jsx file with the linked definitions
 const updatedTermsFileContent = `import { Link } from './Link';\nimport './Term.css';\n\nconst terms = ${JSON.stringify(
-  linkedTerms,
+  { "0": { "terms": linkedTerms } },
   null,
   2
 )};\n\nexport default terms;`;
