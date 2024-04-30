@@ -3,7 +3,7 @@ const path = require('path');
 const React = require('react');
 
 // Read the existing terms.json file
-const termsFilePath = path.join(__dirname, 'terms.json');
+const termsFilePath = path.join(__dirname, '..', 'terms.json');
 const termsFileContent = fs.readFileSync(termsFilePath, 'utf8');
 
 // Parse the terms object from the JSON file
@@ -35,24 +35,25 @@ const parseDefinition = (definition, terms) => {
 };
 
 // Generate the linked definitions
-const linkedTerms = {};
+const linkedDefinitions = {};
 for (const [term, data] of Object.entries(termsObject)) {
-  const { definition, ...rest } = data;
-  linkedTerms[term] = {
-    ...rest,
-    definition: parseDefinition(definition, termsObject),
+  linkedDefinitions[term] = {
+    definition: parseDefinition(data.definition, termsObject),
   };
 }
 
-// Create the updated terms.jsx file with the linked definitions
-const updatedTermsFileContent = `import { Link } from './Link';\nimport './Term.css';\n\nconst terms = ${JSON.stringify(
-  { "0": { "terms": linkedTerms } },
+// Create the linked-definitions.jsx file
+const linkedDefinitionsFileContent = `import { Link } from './Link';\n\nconst linkedDefinitions = ${JSON.stringify(
+  linkedDefinitions,
   null,
   2
-)};\n\nexport default terms;`;
+)
+  .replace(/&quot;/g, '"')
+  .replace(/&lt;/g, '<')
+  .replace(/&gt;/g, '>')};\n\nexport default linkedDefinitions;`;
 
-// Write the updated terms.jsx file
-const outputFilePath = path.join(__dirname, 'terms_linked.jsx');
-fs.writeFileSync(outputFilePath, updatedTermsFileContent);
+// Write the linked-definitions.jsx file
+const outputFilePath = path.join(__dirname, 'linked-definitions.jsx');
+fs.writeFileSync(outputFilePath, linkedDefinitionsFileContent);
 
-console.log('Linked terms generated successfully!');
+console.log('Linked definitions generated successfully!');
