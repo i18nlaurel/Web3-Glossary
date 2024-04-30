@@ -3,7 +3,7 @@ const path = require('path');
 const React = require('react');
 
 // Read the existing terms.json file
-const termsFilePath = path.join(__dirname, '..', 'terms.json');
+const termsFilePath = path.join(__dirname, '.', 'terms.json');
 const termsFileContent = fs.readFileSync(termsFilePath, 'utf8');
 
 // Parse the terms object from the JSON file
@@ -43,14 +43,30 @@ for (const [term, data] of Object.entries(termsObject)) {
 }
 
 // Create the linked-definitions.jsx file
-const linkedDefinitionsFileContent = `import { Link } from './Link';\n\nconst linkedDefinitions = ${JSON.stringify(
+let linkedDefinitionsFileContent = `import { Link } from './Link';\n\nconst linkedDefinitions = ${JSON.stringify(
   linkedDefinitions,
   null,
   2
-)
-  .replace(/&quot;/g, '"')
-  .replace(/&lt;/g, '<')
-  .replace(/&gt;/g, '>')};\n\nexport default linkedDefinitions;`;
+)};\n\nexport default linkedDefinitions;`;
+
+console.log('Original content:', linkedDefinitionsFileContent);
+
+linkedDefinitionsFileContent = linkedDefinitionsFileContent.replace(/&quot;/g, (match) => {
+  console.log('Replacing &quot; with "');
+  return '"';
+});
+
+linkedDefinitionsFileContent = linkedDefinitionsFileContent.replace(/&lt;/g, (match) => {
+  console.log('Replacing &lt; with <');
+  return '<';
+});
+
+linkedDefinitionsFileContent = linkedDefinitionsFileContent.replace(/&gt;/g, (match) => {
+  console.log('Replacing &gt; with >');
+  return '>';
+});
+
+console.log('Final content:', linkedDefinitionsFileContent);
 
 // Write the linked-definitions.jsx file
 const outputFilePath = path.join(__dirname, 'linked-definitions.jsx');
