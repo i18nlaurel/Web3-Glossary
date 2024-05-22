@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Search from './components/Search';
 import index from './searchIndex';
 import terms from './terms';
+import linkedDefinitions from './linked-definitions';
 import EntryPage from './entryPage';
 
 function App() {
@@ -23,9 +24,15 @@ function App() {
 
   return (
     <div>
+      <div>
+        <h2> Search the Education DAO Glossary:
+          <br />
+          <br />
+        </h2>
+      </div>
       <Search onSearch={handleSearch} />
       {selectedTerm ? (
-        <EntryPage term={selectedTerm} />
+        <EntryPage termKey={selectedTerm} />
       ) : (
         <ul>
           {searchResults.map((result) => (

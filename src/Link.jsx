@@ -2,8 +2,9 @@ import { useMemo } from "react";
 
 export function Link({ to, here, children }) {
   if (to && here) {
-    throw new Error();
+    throw new Error("Link component should receive either 'to' or 'here' prop, not both.");
   }
+  
   const loc = useMemo(() => {
     let location;
     if (here) {

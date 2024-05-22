@@ -23,30 +23,21 @@ const parseDefinition = (definition, terms) => {
   const termRegex = new RegExp(`\\b(${Object.keys(terms).join('|')})\\b`, 'gi');
 
   if (typeof definition === 'string') {
+    // Trim excess spaces from the definition
+    definition = definition.trim().replace(/\s+/g, ' ');
+    
     const elements = definition.split(termRegex).map((part, index) => {
-      if (part === undefined || part === null) {
-        return '';
-      }
-      
       if (index % 2 === 0) {
-        // Text part
         return part;
       } else {
-        // Term part
-        const term = part.trim();
-        if (terms.hasOwnProperty(term)) {
+        const term = part ? part.trim() : '';
+        if (term) {
           return createLink(term);
         } else {
-          return part;  // Return as plain text if not a valid term
+          return null;
         }
       }
-    }).reduce((acc, part, index, arr) => {
-      if (typeof part === 'string' && typeof arr[index - 1] === 'string') {
-        acc.push(' ');  // Add space between text fragments
-      }
-      acc.push(part);
-      return acc;
-    }, []);
+    }).filter(Boolean);
 
     return React.createElement(React.Fragment, null, ...elements);
   }
@@ -57,6 +48,7 @@ const parseDefinition = (definition, terms) => {
 
   return null;
 };
+
 
 // Generate the linked definitions
 const linkedDefinitions = {};

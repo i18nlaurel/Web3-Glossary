@@ -1,6 +1,15 @@
 import "./Term.css";
+import terms from "./terms.json";
+import linkedDefinitions from "./linked-definitions";
 
-function Term({ term, partOfSpeech, phonetic, definition }) {
+function Term({ termKey }) {
+  const { term, partOfSpeech, phonetic } = terms["0"]["terms"][termKey];
+  const definition = linkedDefinitions[termKey]?.definition;
+
+  if (!definition) {
+    return <div>Term not found</div>;
+  }
+
   return (
     <div className="Entry">
       <div className="declaration">
@@ -13,4 +22,5 @@ function Term({ term, partOfSpeech, phonetic, definition }) {
     </div>
   );
 }
-export default Term
+
+export default Term;

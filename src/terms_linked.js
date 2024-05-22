@@ -14,24 +14,37 @@ const termsObject = jsonData["0"]["terms"];
 const allTerms = new Set(Object.keys(termsObject));
 
 // Function to create a Link component for a term
-const createLink = (term) => `<Link to="${term}">${term}</Link>`;
+const createLink = (term) => React.createElement(
+  'Link',
+  { to: term },
+  term
+);
 
-// Function to replace term occurrences with Link components
 const parseDefinition = (definition, terms) => {
   const termRegex = new RegExp(`\\b(${Object.keys(terms).join('|')})\\b`, 'gi');
 
   if (typeof definition === 'string') {
-    return definition.replace(termRegex, (match, term) => createLink(term));
+    const elements = definition.split(termRegex).map((part, index) => {
+      if (index % 2 === 0) {
+        return part;
+      } else {
+        const term = part ? part.trim() : '';
+        if (term) {
+          return createLink(term);
+        } else {
+          return null;
+        }
+      }
+    }).filter(Boolean);
+
+    return React.createElement(React.Fragment, null, ...elements);
   }
 
-  const linkedDefinition = React.Children.map(definition, (child) => {
-    if (typeof child === 'string') {
-      return child.replace(termRegex, (match, term) => createLink(term));
-    }
-    return child;
-  });
+  if (React.isValidElement(definition)) {
+    return definition;
+  }
 
-  return linkedDefinition;
+  return null;
 };
 
 // Generate the linked definitions
@@ -43,30 +56,11 @@ for (const [term, data] of Object.entries(termsObject)) {
 }
 
 // Create the linked-definitions.jsx file
-let linkedDefinitionsFileContent = `import { Link } from './Link';\n\nconst linkedDefinitions = ${JSON.stringify(
+const linkedDefinitionsFileContent = `import { Link } from './Link';\n\nconst linkedDefinitions = ${JSON.stringify(
   linkedDefinitions,
   null,
   2
 )};\n\nexport default linkedDefinitions;`;
-
-console.log('Original content:', linkedDefinitionsFileContent);
-
-linkedDefinitionsFileContent = linkedDefinitionsFileContent.replace(/&quot;/g, (match) => {
-  console.log('Replacing &quot; with "');
-  return '"';
-});
-
-linkedDefinitionsFileContent = linkedDefinitionsFileContent.replace(/&lt;/g, (match) => {
-  console.log('Replacing &lt; with <');
-  return '<';
-});
-
-linkedDefinitionsFileContent = linkedDefinitionsFileContent.replace(/&gt;/g, (match) => {
-  console.log('Replacing &gt; with >');
-  return '>';
-});
-
-console.log('Final content:', linkedDefinitionsFileContent);
 
 // Write the linked-definitions.jsx file
 const outputFilePath = path.join(__dirname, 'linked-definitions.jsx');

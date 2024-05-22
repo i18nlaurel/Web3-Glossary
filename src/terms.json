@@ -6667,7 +6667,7 @@
           "Ukrainian": "KYT"
         }
       },
-      "Latency": {
+      "latency": {
         "term": "Latency",
         "phonetic": "",
         "partOfSpeech": "",
@@ -6766,7 +6766,7 @@
           "Ukrainian": "Панель запуску"
         }
       },
-      "Layer 0": {
+      "layer 0": {
         "term": "Layer 0",
         "phonetic": "",
         "partOfSpeech": "",
@@ -6799,7 +6799,7 @@
           "Ukrainian": "Рівень 0"
         }
       },
-      "Layer 1": {
+      "layer 1": {
         "term": "Layer 1",
         "phonetic": "",
         "partOfSpeech": "",
@@ -6832,7 +6832,7 @@
           "Ukrainian": "Рівень 1"
         }
       },
-      "Layer 2": {
+      "layer 2": {
         "term": "Layer 2",
         "phonetic": "",
         "partOfSpeech": "",
@@ -7096,7 +7096,7 @@
           "Ukrainian": "Мережа Lightning"
         }
       },
-      "Liquid Democracy (Delegative Democracy)": {
+      "liquid democracy (delegative democracy)": {
         "term": "Liquid Democracy (Delegative Democracy)",
         "phonetic": "",
         "partOfSpeech": "",
@@ -7129,7 +7129,7 @@
           "Ukrainian": "Ліквідна демократія (делегативна демократія)"
         }
       },
-      "Liquidation": {
+      "liquidation": {
         "term": "Liquidation",
         "phonetic": "",
         "partOfSpeech": "",
@@ -7360,7 +7360,7 @@
           "Ukrainian": "Протокол Maker"
         }
       },
-      "Malware": {
+      "malware": {
         "term": "Malware",
         "phonetic": "",
         "partOfSpeech": "",
@@ -7525,8 +7525,8 @@
           "Ukrainian": "пул пам'яті; мемпул"
         }
       },
-      "Merge (noun)": {
-        "term": "Merge (noun)",
+      "Merge": {
+        "term": "Merge",
         "phonetic": "",
         "partOfSpeech": "",
         "definition": "Finalized in September 2022, the Merge was the culmination of years of work involved in transitioning Ethereum from a Proof of Work consensus model, to Proof of Stake, all while keeping the network live. This was successful, and reduced the network’s carbon footprint by more than 99.9%.",
@@ -7624,7 +7624,7 @@
           "Ukrainian": "Mesh"
         }
       },
-      "Metadata": {
+      "metadata": {
         "term": "Metadata",
         "phonetic": "",
         "partOfSpeech": "",

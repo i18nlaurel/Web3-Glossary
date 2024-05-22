@@ -1,33 +1,44 @@
 import React, { useEffect, useState } from 'react';
 import { Breadcrumbs } from './Breadcrumbs';
-import Term from './termStruct';
-import terms from './terms';
+import terms from './terms.json';
+import linkedDefinitions from './linked-definitions';
+import Definition from './components/Definition';
 
-const EntryPage = ({ term }) => {
+const EntryPage = ({ termKey }) => {
+  const [term, setTerm] = useState(null);
   const [definition, setDefinition] = useState(null);
 
   useEffect(() => {
-    const fetchDefinition = () => {
-      const termData = terms["0"]["terms"][term];
-      setDefinition(termData);
+    const fetchTermData = () => {
+      const termData = terms["0"]["terms"][termKey];
+      const termDefinition = linkedDefinitions[termKey]?.definition;
+
+      if (termData && termDefinition) {
+        setTerm(termData.term);
+        setDefinition(termDefinition);
+      } else {
+        setTerm(null);
+        setDefinition(null);
+      }
     };
 
-    fetchDefinition();
-  }, [term]);
+    fetchTermData();
+  }, [termKey]);
 
-  if (!definition) {
-    return <div>Loading...</div>;
+  if (!term || !definition) {
+    return <div>Term not found</div>;
   }
 
   return (
     <>
+      <div>
+        <h2>Results:</h2>
+        <br />
+        <br />
+      </div>
       <Breadcrumbs segments={[term]} />
-      <Term
-        term={term}
-        definition={definition.definition}
-        phonetic={definition.phonetic}
-        partOfSpeech={definition.partOfSpeech}
-      />
+      <h1>{term}</h1>
+      <Definition definition={definition} />
     </>
   );
 };

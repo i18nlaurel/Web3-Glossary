@@ -1,8 +1,6 @@
 const exportDefinitions = {
   "0x API": {
-    "term": "0x API",
-    "phonetic": "",
-    "partOfSpeech": "",
+    "term": "0x API",,
     "definition": (
   <>
     The 0x API is the liquidity and data endpoint for DeFi. It lets you access aggregated liquidity from tens of on-chain and off-chain decentralized exchange networks, across multiple blockchains. It comes with many parameters to customize your requests for your application and your users:\n\nAPI References
