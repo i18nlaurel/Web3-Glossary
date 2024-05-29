@@ -3,19 +3,30 @@ import React, { useState } from 'react';
 const Search = ({ onSearch }) => {
   const [query, setQuery] = useState('');
 
-  const handleSearch = () => {
-    console.log('Search query:', query); // Log the search query
-    onSearch(query); // Call the onSearch prop with the search query
+  const handleChange = (event) => {
+    setQuery(event.target.value);
   };
 
-  const handleInputChange = (event) => {
-    setQuery(event.target.value);
+  const handleKeyPress = (event) => {
+    if (event.key === 'Enter') {
+      onSearch(query);
+    }
+  };
+
+  const handleClick = () => {
+    onSearch(query);
   };
 
   return (
     <div>
-      <input type="text" value={query} onChange={handleInputChange} placeholder="Search..." />
-      <button onClick={handleSearch}>Search</button>
+      <input
+        type="text"
+        placeholder="Search..."
+        value={query}
+        onChange={handleChange}
+        onKeyPress={handleKeyPress}
+      />
+      <button onClick={handleClick}>Search</button>
     </div>
   );
 };
