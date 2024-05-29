@@ -18,6 +18,7 @@ i18n
       // Add other languages here
     },
     lng: 'en', // default language
+    lngs: ['en', 'es', 'ar', 'de', 'fr', 'id', 'it', 'ja', 'ko', 'nl', 'pt-br', 'ru', 'th', 'tl', 'tr', 'uk', 'vi', 'zh-cn'], // List of languages to generate translation files for
     fallbackLng: 'en', // fallback language
     interpolation: {
       escapeValue: false, // react already safes from xss

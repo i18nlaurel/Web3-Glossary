@@ -1,8 +1,9 @@
-import { Link } from "./Link";
+import { Link } from "../Link";
 import "./Term.css";
 
 const terms = {
   "permissionless distribution": {
+    term: "permissionless distribution",
     phonetic: "pɝˈmɪʃənˈɫɛs ˌdɪstɹəbˈjuʃən",
     definition: (
       <>
@@ -13,7 +14,8 @@ const terms = {
       </>
     ),
   },
-  distribution: {
+  "distribution": {
+    term: "distribution",
     phonetic: "ˌdɪstɹəbˈjuʃən",
     partOfSpeech: "noun",
     definition: (
@@ -23,12 +25,14 @@ const terms = {
       </>
     ),
   },
-  publishing: {
+  "publishing": {
+    term: "publishing",
     phonetic: "ˈpəbɫɪʃɪŋ",
     partOfSpeech: "noun",
     definition: <>process of making a medium available to the public</>,
   },
-  permissionless: {
+  "permissionless": {
+    term: "permissionless",
     phonetic: "pɝˈmɪʃənˈɫɛs",
     partOfSpeech: "adjective",
     definition: (
@@ -40,7 +44,8 @@ const terms = {
       </>
     ),
   },
-  sovereignty: {
+  "sovereignty": {
+    term: "sovereignty",
     phonetic: "ˈsɑvɹənti",
     partOfSpeech: "noun",
     definition: (
@@ -50,7 +55,8 @@ const terms = {
       </>
     ),
   },
-  equality: {
+  "equality": {
+    term: "equality",
     phonetic: "ɪˈkwɑɫəti",
     partOfSpeech: "noun",
     definition: (
@@ -61,7 +67,7 @@ const terms = {
     ),
   },
     "0x API": {
-      "term": "0x API",
+      term: "0x API",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -99,7 +105,7 @@ const terms = {
       }
     },
     "1inch": {
-      "term": "1inch",
+      term: "1inch",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -137,7 +143,7 @@ const terms = {
       }
     },
     "3Box Labs": {
-      "term": "3Box Labs",
+      term: "3Box Labs",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -175,7 +181,7 @@ const terms = {
       }
     },
     "51% Attack": {
-      "term": "51% Attack",
+      term: "51% Attack",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -213,7 +219,7 @@ const terms = {
       }
     },
     "Aave": {
-      "term": "Aave",
+      term: "Aave",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -251,7 +257,7 @@ const terms = {
       }
     },
     "Account": {
-      "term": "Account",
+      term: "Account",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -289,7 +295,7 @@ const terms = {
       }
     },
     "ACH transfer": {
-      "term": "ACH transfer",
+      term: "ACH transfer",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -327,7 +333,7 @@ const terms = {
       }
     },
     "address; public address; account address": {
-      "term": "address; public address; account address",
+      term: "address; public address; account address",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -365,7 +371,7 @@ const terms = {
       }
     },
     "Advanced": {
-      "term": "Advanced",
+      term: "Advanced",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -403,7 +409,7 @@ const terms = {
       }
     },
     "aggregator": {
-      "term": "aggregator",
+      term: "aggregator",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -441,7 +447,7 @@ const terms = {
       }
     },
     "Aggressive": {
-      "term": "Aggressive",
+      term: "Aggressive",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -479,7 +485,7 @@ const terms = {
       }
     },
     "Agoric": {
-      "term": "Agoric",
+      term: "Agoric",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -517,7 +523,7 @@ const terms = {
       }
     },
     "air-gapping": {
-      "term": "air-gapping",
+      term: "air-gapping",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -555,7 +561,7 @@ const terms = {
       }
     },
     "airdrop": {
-      "term": "airdrop",
+      term: "airdrop",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -593,7 +599,7 @@ const terms = {
       }
     },
     "airdrop (noun)": {
-      "term": "airdrop (noun)",
+      term: "airdrop (noun)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -631,7 +637,7 @@ const terms = {
       }
     },
     "AirGap Vault": {
-      "term": "AirGap Vault",
+      term: "AirGap Vault",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -669,7 +675,7 @@ const terms = {
       }
     },
     "AirSwap": {
-      "term": "AirSwap",
+      term: "AirSwap",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -707,7 +713,7 @@ const terms = {
       }
     },
     "algorithm": {
-      "term": "algorithm",
+      term: "algorithm",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -745,7 +751,7 @@ const terms = {
       }
     },
     "altcoin": {
-      "term": "altcoin",
+      term: "altcoin",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -783,7 +789,7 @@ const terms = {
       }
     },
     "AML (Anti-Money Laundering)": {
-      "term": "AML (Anti-Money Laundering)",
+      term: "AML (Anti-Money Laundering)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -821,7 +827,7 @@ const terms = {
       }
     },
     "API": {
-      "term": "API",
+      term: "API",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -859,7 +865,7 @@ const terms = {
       }
     },
     "API (Application Programming Interface)": {
-      "term": "API (Application Programming Interface)",
+      term: "API (Application Programming Interface)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -897,7 +903,7 @@ const terms = {
       }
     },
     "AppChain": {
-      "term": "AppChain",
+      term: "AppChain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -935,7 +941,7 @@ const terms = {
       }
     },
     "Apple Pay": {
-      "term": "Apple Pay",
+      term: "Apple Pay",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -973,7 +979,7 @@ const terms = {
       }
     },
     "Arbitrum": {
-      "term": "Arbitrum",
+      term: "Arbitrum",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1011,7 +1017,7 @@ const terms = {
       }
     },
     "ASIC (Application Specific Integrated Circuit)": {
-      "term": "ASIC (Application Specific Integrated Circuit)",
+      term: "ASIC (Application Specific Integrated Circuit)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1049,7 +1055,7 @@ const terms = {
       }
     },
     "asset provenance": {
-      "term": "asset provenance",
+      term: "asset provenance",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1087,7 +1093,7 @@ const terms = {
       }
     },
     "attestation": {
-      "term": "attestation",
+      term: "attestation",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1125,7 +1131,7 @@ const terms = {
       }
     },
     "Avalanche": {
-      "term": "Avalanche",
+      term: "Avalanche",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1163,7 +1169,7 @@ const terms = {
       }
     },
     "Axie Infinity": {
-      "term": "Axie Infinity",
+      term: "Axie Infinity",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1201,7 +1207,7 @@ const terms = {
       }
     },
     "Base fee": {
-      "term": "Base fee",
+      term: "Base fee",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1239,7 +1245,7 @@ const terms = {
       }
     },
     "Beacon Chain": {
-      "term": "Beacon Chain",
+      term: "Beacon Chain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1277,7 +1283,7 @@ const terms = {
       }
     },
     "Binance": {
-      "term": "Binance",
+      term: "Binance",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1315,7 +1321,7 @@ const terms = {
       }
     },
     "Bitcoin / bitcoin (BTC)": {
-      "term": "Bitcoin / bitcoin (BTC)",
+      term: "Bitcoin / bitcoin (BTC)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1353,7 +1359,7 @@ const terms = {
       }
     },
     "block (noun)": {
-      "term": "block (noun)",
+      term: "block (noun)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1391,7 +1397,7 @@ const terms = {
       }
     },
     "block explorer": {
-      "term": "block explorer",
+      term: "block explorer",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1429,7 +1435,7 @@ const terms = {
       }
     },
     "block height": {
-      "term": "block height",
+      term: "block height",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1467,7 +1473,7 @@ const terms = {
       }
     },
     "block reward": {
-      "term": "block reward",
+      term: "block reward",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1505,7 +1511,7 @@ const terms = {
       }
     },
     "block time": {
-      "term": "block time",
+      term: "block time",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1543,7 +1549,7 @@ const terms = {
       }
     },
     "blockchain": {
-      "term": "blockchain",
+      term: "blockchain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1581,7 +1587,7 @@ const terms = {
       }
     },
     "Blockchain explorer": {
-      "term": "Blockchain explorer",
+      term: "Blockchain explorer",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1619,7 +1625,7 @@ const terms = {
       }
     },
     "blockchain trilemma": {
-      "term": "blockchain trilemma",
+      term: "blockchain trilemma",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1657,7 +1663,7 @@ const terms = {
       }
     },
     "BNB Chain": {
-      "term": "BNB Chain",
+      term: "BNB Chain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1695,7 +1701,7 @@ const terms = {
       }
     },
     "bounty / bug bounty": {
-      "term": "bounty / bug bounty",
+      term: "bounty / bug bounty",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1733,7 +1739,7 @@ const terms = {
       }
     },
     "brain wallet": {
-      "term": "brain wallet",
+      term: "brain wallet",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1771,7 +1777,7 @@ const terms = {
       }
     },
     "Brave": {
-      "term": "Brave",
+      term: "Brave",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1809,7 +1815,7 @@ const terms = {
       }
     },
     "Bridge": {
-      "term": "Bridge",
+      term: "Bridge",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1847,7 +1853,7 @@ const terms = {
       }
     },
     "BTC": {
-      "term": "BTC",
+      term: "BTC",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1885,7 +1891,7 @@ const terms = {
       }
     },
     "BUIDL": {
-      "term": "BUIDL",
+      term: "BUIDL",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1923,7 +1929,7 @@ const terms = {
       }
     },
     "bytecode": {
-      "term": "bytecode",
+      term: "bytecode",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1961,7 +1967,7 @@ const terms = {
       }
     },
     "Byzantine fault tolerance": {
-      "term": "Byzantine fault tolerance",
+      term: "Byzantine fault tolerance",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -1999,7 +2005,7 @@ const terms = {
       }
     },
     "Byzantium fork": {
-      "term": "Byzantium fork",
+      term: "Byzantium fork",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2037,7 +2043,7 @@ const terms = {
       }
     },
     "Celo": {
-      "term": "Celo",
+      term: "Celo",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2075,7 +2081,7 @@ const terms = {
       }
     },
     "Centralized exchange (CEX)": {
-      "term": "Centralized exchange (CEX)",
+      term: "Centralized exchange (CEX)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2113,7 +2119,7 @@ const terms = {
       }
     },
     "CEX": {
-      "term": "CEX",
+      term: "CEX",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2151,7 +2157,7 @@ const terms = {
       }
     },
     "chain ID": {
-      "term": "chain ID",
+      term: "chain ID",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2189,7 +2195,7 @@ const terms = {
       }
     },
     "Chrome": {
-      "term": "Chrome",
+      term: "Chrome",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2227,7 +2233,7 @@ const terms = {
       }
     },
     "client (Ethereum or other compatible blockchain)": {
-      "term": "client (Ethereum or other compatible blockchain)",
+      term: "client (Ethereum or other compatible blockchain)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2265,7 +2271,7 @@ const terms = {
       }
     },
     "Codefi": {
-      "term": "Codefi",
+      term: "Codefi",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2303,7 +2309,7 @@ const terms = {
       }
     },
     "coin": {
-      "term": "coin",
+      term: "coin",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2341,7 +2347,7 @@ const terms = {
       }
     },
     "Coinbase Pay": {
-      "term": "Coinbase Pay",
+      term: "Coinbase Pay",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2379,7 +2385,7 @@ const terms = {
       }
     },
     "cold storage": {
-      "term": "cold storage",
+      term: "cold storage",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2417,7 +2423,7 @@ const terms = {
       }
     },
     "cold wallet / cold storage": {
-      "term": "cold wallet / cold storage",
+      term: "cold wallet / cold storage",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2455,7 +2461,7 @@ const terms = {
       }
     },
     "Community Platform": {
-      "term": "Community Platform",
+      term: "Community Platform",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2493,7 +2499,7 @@ const terms = {
       }
     },
     "Compiling": {
-      "term": "Compiling",
+      term: "Compiling",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2531,7 +2537,7 @@ const terms = {
       }
     },
     "Compound": {
-      "term": "Compound",
+      term: "Compound",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2569,7 +2575,7 @@ const terms = {
       }
     },
     "confirmation": {
-      "term": "confirmation",
+      term: "confirmation",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2607,7 +2613,7 @@ const terms = {
       }
     },
     "consensus": {
-      "term": "consensus",
+      term: "consensus",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2645,7 +2651,7 @@ const terms = {
       }
     },
     "Consensus client": {
-      "term": "Consensus client",
+      term: "Consensus client",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2683,7 +2689,7 @@ const terms = {
       }
     },
     "Consensus layer": {
-      "term": "Consensus layer",
+      term: "Consensus layer",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2721,7 +2727,7 @@ const terms = {
       }
     },
     "Consensus mechanism": {
-      "term": "Consensus mechanism",
+      term: "Consensus mechanism",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2759,7 +2765,7 @@ const terms = {
       }
     },
     "Consensys": {
-      "term": "Consensys",
+      term: "Consensys",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2797,7 +2803,7 @@ const terms = {
       }
     },
     "Constantinople fork": {
-      "term": "Constantinople fork",
+      term: "Constantinople fork",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2835,7 +2841,7 @@ const terms = {
       }
     },
     "contract": {
-      "term": "contract",
+      term: "contract",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2873,7 +2879,7 @@ const terms = {
       }
     },
     "Contract account": {
-      "term": "Contract account",
+      term: "Contract account",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2911,7 +2917,7 @@ const terms = {
       }
     },
     "CoolWallet": {
-      "term": "CoolWallet",
+      term: "CoolWallet",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2949,7 +2955,7 @@ const terms = {
       }
     },
     "crypto asset": {
-      "term": "crypto asset",
+      term: "crypto asset",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -2987,7 +2993,7 @@ const terms = {
       }
     },
     "crypto bounties": {
-      "term": "crypto bounties",
+      term: "crypto bounties",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3025,7 +3031,7 @@ const terms = {
       }
     },
     "crypto fund": {
-      "term": "crypto fund",
+      term: "crypto fund",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3063,7 +3069,7 @@ const terms = {
       }
     },
     "crypto wallet": {
-      "term": "crypto wallet",
+      term: "crypto wallet",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3101,7 +3107,7 @@ const terms = {
       }
     },
     "crypto-": {
-      "term": "crypto-",
+      term: "crypto-",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3139,7 +3145,7 @@ const terms = {
       }
     },
     "crypto-compliance": {
-      "term": "crypto-compliance",
+      term: "crypto-compliance",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3177,7 +3183,7 @@ const terms = {
       }
     },
     "cryptoassets": {
-      "term": "cryptoassets",
+      term: "cryptoassets",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3215,7 +3221,7 @@ const terms = {
       }
     },
     "cryptocurrency": {
-      "term": "cryptocurrency",
+      term: "cryptocurrency",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3253,7 +3259,7 @@ const terms = {
       }
     },
     "cryptoeconomics": {
-      "term": "cryptoeconomics",
+      term: "cryptoeconomics",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3291,7 +3297,7 @@ const terms = {
       }
     },
     "cryptography": {
-      "term": "cryptography",
+      term: "cryptography",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3329,7 +3335,7 @@ const terms = {
       }
     },
     "Curve": {
-      "term": "Curve",
+      term: "Curve",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3367,7 +3373,7 @@ const terms = {
       }
     },
     "custody (noun)": {
-      "term": "custody (noun)",
+      term: "custody (noun)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3405,7 +3411,7 @@ const terms = {
       }
     },
     "D'CENT": {
-      "term": "D'CENT",
+      term: "D'CENT",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3443,7 +3449,7 @@ const terms = {
       }
     },
     "DAI": {
-      "term": "DAI",
+      term: "DAI",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3481,7 +3487,7 @@ const terms = {
       }
     },
     "DAO": {
-      "term": "DAO",
+      term: "DAO",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3519,7 +3525,7 @@ const terms = {
       }
     },
     "dapp": {
-      "term": "dapp",
+      term: "dapp",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3557,7 +3563,7 @@ const terms = {
       }
     },
     "decentralization": {
-      "term": "decentralization",
+      term: "decentralization",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3595,7 +3601,7 @@ const terms = {
       }
     },
     "decentralized application": {
-      "term": "decentralized application",
+      term: "decentralized application",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3633,7 +3639,7 @@ const terms = {
       }
     },
     "Decentralized Autonomous Organization (DAO)": {
-      "term": "Decentralized Autonomous Organization (DAO)",
+      term: "Decentralized Autonomous Organization (DAO)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3671,7 +3677,7 @@ const terms = {
       }
     },
     "decentralized exchange (DEX)": {
-      "term": "decentralized exchange (DEX)",
+      term: "decentralized exchange (DEX)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3709,7 +3715,7 @@ const terms = {
       }
     },
     "decentralized finance": {
-      "term": "decentralized finance",
+      term: "decentralized finance",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3747,7 +3753,7 @@ const terms = {
       }
     },
     "decentralized web": {
-      "term": "decentralized web",
+      term: "decentralized web",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3785,7 +3791,7 @@ const terms = {
       }
     },
     "deposit": {
-      "term": "deposit",
+      term: "deposit",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3823,7 +3829,7 @@ const terms = {
       }
     },
     "derive / derivation": {
-      "term": "derive / derivation",
+      term: "derive / derivation",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3861,7 +3867,7 @@ const terms = {
       }
     },
     "dev": {
-      "term": "dev",
+      term: "dev",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3899,7 +3905,7 @@ const terms = {
       }
     },
     "Devcon": {
-      "term": "Devcon",
+      term: "Devcon",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3937,7 +3943,7 @@ const terms = {
       }
     },
     "Developer": {
-      "term": "Developer",
+      term: "Developer",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -3975,7 +3981,7 @@ const terms = {
       }
     },
     "DEX": {
-      "term": "DEX",
+      term: "DEX",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4013,7 +4019,7 @@ const terms = {
       }
     },
     "difficulty": {
-      "term": "difficulty",
+      term: "difficulty",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4051,7 +4057,7 @@ const terms = {
       }
     },
     "difficulty bomb": {
-      "term": "difficulty bomb",
+      term: "difficulty bomb",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4089,7 +4095,7 @@ const terms = {
       }
     },
     "digital asset": {
-      "term": "digital asset",
+      term: "digital asset",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4127,7 +4133,7 @@ const terms = {
       }
     },
     "digital identity": {
-      "term": "digital identity",
+      term: "digital identity",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4165,7 +4171,7 @@ const terms = {
       }
     },
     "Digital signature": {
-      "term": "Digital signature",
+      term: "Digital signature",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4203,7 +4209,7 @@ const terms = {
       }
     },
     "Distributed Denial of Service (DDoS) Attack": {
-      "term": "Distributed Denial of Service (DDoS) Attack",
+      term: "Distributed Denial of Service (DDoS) Attack",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4241,7 +4247,7 @@ const terms = {
       }
     },
     "distributed ledger": {
-      "term": "distributed ledger",
+      term: "distributed ledger",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4279,7 +4285,7 @@ const terms = {
       }
     },
     "Distributed Ledger Technology": {
-      "term": "Distributed Ledger Technology",
+      term: "Distributed Ledger Technology",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4317,7 +4323,7 @@ const terms = {
       }
     },
     "DLT": {
-      "term": "DLT",
+      term: "DLT",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4355,7 +4361,7 @@ const terms = {
       }
     },
     "double spend": {
-      "term": "double spend",
+      term: "double spend",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4393,7 +4399,7 @@ const terms = {
       }
     },
     "ecosystem": {
-      "term": "ecosystem",
+      term: "ecosystem",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4431,7 +4437,7 @@ const terms = {
       }
     },
     "Edge": {
-      "term": "Edge",
+      term: "Edge",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4469,7 +4475,7 @@ const terms = {
       }
     },
     "EIP-1559": {
-      "term": "EIP-1559",
+      term: "EIP-1559",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4507,7 +4513,7 @@ const terms = {
       }
     },
     "encrypted vs unencrypted keys": {
-      "term": "encrypted vs unencrypted keys",
+      term: "encrypted vs unencrypted keys",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4545,7 +4551,7 @@ const terms = {
       }
     },
     "encryption": {
-      "term": "encryption",
+      term: "encryption",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4583,7 +4589,7 @@ const terms = {
       }
     },
     "ENS": {
-      "term": "ENS",
+      term: "ENS",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4621,7 +4627,7 @@ const terms = {
       }
     },
     "Enterprise Ethereum Alliance (EEA)": {
-      "term": "Enterprise Ethereum Alliance (EEA)",
+      term: "Enterprise Ethereum Alliance (EEA)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4659,7 +4665,7 @@ const terms = {
       }
     },
     "entropy": {
-      "term": "entropy",
+      term: "entropy",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4697,7 +4703,7 @@ const terms = {
       }
     },
     "epoch": {
-      "term": "epoch",
+      term: "epoch",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4735,7 +4741,7 @@ const terms = {
       }
     },
     "ERC": {
-      "term": "ERC",
+      term: "ERC",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4773,7 +4779,7 @@ const terms = {
       }
     },
     "ERC-1155": {
-      "term": "ERC-1155",
+      term: "ERC-1155",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4811,7 +4817,7 @@ const terms = {
       }
     },
     "ERC-20 Token Standard": {
-      "term": "ERC-20 Token Standard",
+      term: "ERC-20 Token Standard",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4849,7 +4855,7 @@ const terms = {
       }
     },
     "ERC-721": {
-      "term": "ERC-721",
+      term: "ERC-721",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4887,7 +4893,7 @@ const terms = {
       }
     },
     "ERC-721 Token Standard": {
-      "term": "ERC-721 Token Standard",
+      term: "ERC-721 Token Standard",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4925,7 +4931,7 @@ const terms = {
       }
     },
     "ETH": {
-      "term": "ETH",
+      term: "ETH",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -4963,7 +4969,7 @@ const terms = {
       }
     },
     "ether (denominations)": {
-      "term": "ether (denominations)",
+      term: "ether (denominations)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5001,7 +5007,7 @@ const terms = {
       }
     },
     "ether (ETH)": {
-      "term": "ether (ETH)",
+      term: "ether (ETH)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5039,7 +5045,7 @@ const terms = {
       }
     },
     "Ethereum": {
-      "term": "Ethereum",
+      term: "Ethereum",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5077,7 +5083,7 @@ const terms = {
       }
     },
     "Ethereum 2.0": {
-      "term": "Ethereum 2.0",
+      term: "Ethereum 2.0",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5115,7 +5121,7 @@ const terms = {
       }
     },
     "Ethereum Improvement Proposal (EIP)": {
-      "term": "Ethereum Improvement Proposal (EIP)",
+      term: "Ethereum Improvement Proposal (EIP)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5153,7 +5159,7 @@ const terms = {
       }
     },
     "Ethereum Name Service (ENS)": {
-      "term": "Ethereum Name Service (ENS)",
+      term: "Ethereum Name Service (ENS)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5191,7 +5197,7 @@ const terms = {
       }
     },
     "Ethereum Public Address": {
-      "term": "Ethereum Public Address",
+      term: "Ethereum Public Address",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5229,7 +5235,7 @@ const terms = {
       }
     },
     "Ethereum Virtual Machine (EVM)": {
-      "term": "Ethereum Virtual Machine (EVM)",
+      term: "Ethereum Virtual Machine (EVM)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5267,7 +5273,7 @@ const terms = {
       }
     },
     "Etherscan": {
-      "term": "Etherscan",
+      term: "Etherscan",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5305,7 +5311,7 @@ const terms = {
       }
     },
     "EVM": {
-      "term": "EVM",
+      term: "EVM",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5343,7 +5349,7 @@ const terms = {
       }
     },
     "exchange": {
-      "term": "exchange",
+      term: "exchange",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5381,7 +5387,7 @@ const terms = {
       }
     },
     "Execution client": {
-      "term": "Execution client",
+      term: "Execution client",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5419,7 +5425,7 @@ const terms = {
       }
     },
     "Execution layer": {
-      "term": "Execution layer",
+      term: "Execution layer",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5457,7 +5463,7 @@ const terms = {
       }
     },
     "Extended Private Key (XPRIV)": {
-      "term": "Extended Private Key (XPRIV)",
+      term: "Extended Private Key (XPRIV)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5495,7 +5501,7 @@ const terms = {
       }
     },
     "Extended Public Key (XPUB)": {
-      "term": "Extended Public Key (XPUB)",
+      term: "Extended Public Key (XPUB)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5533,7 +5539,7 @@ const terms = {
       }
     },
     "Extension": {
-      "term": "Extension",
+      term: "Extension",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5571,7 +5577,7 @@ const terms = {
       }
     },
     "Fantom": {
-      "term": "Fantom",
+      term: "Fantom",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5609,7 +5615,7 @@ const terms = {
       }
     },
     "faucet": {
-      "term": "faucet",
+      term: "faucet",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5647,7 +5653,7 @@ const terms = {
       }
     },
     "fiat currency": {
-      "term": "fiat currency",
+      term: "fiat currency",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5685,7 +5691,7 @@ const terms = {
       }
     },
     "final, finality": {
-      "term": "final, finality",
+      term: "final, finality",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5723,7 +5729,7 @@ const terms = {
       }
     },
     "Finality Rate": {
-      "term": "Finality Rate",
+      term: "Finality Rate",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5761,7 +5767,7 @@ const terms = {
       }
     },
     "financial technology (FinTech)": {
-      "term": "financial technology (FinTech)",
+      term: "financial technology (FinTech)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5799,7 +5805,7 @@ const terms = {
       }
     },
     "finney": {
-      "term": "finney",
+      term: "finney",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5837,7 +5843,7 @@ const terms = {
       }
     },
     "Firefox": {
-      "term": "Firefox",
+      term: "Firefox",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5875,7 +5881,7 @@ const terms = {
       }
     },
     "Firewall": {
-      "term": "Firewall",
+      term: "Firewall",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5913,7 +5919,7 @@ const terms = {
       }
     },
     "Flask": {
-      "term": "Flask",
+      term: "Flask",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5951,7 +5957,7 @@ const terms = {
       }
     },
     "fork": {
-      "term": "fork",
+      term: "fork",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -5989,7 +5995,7 @@ const terms = {
       }
     },
     "Fractional Ownership": {
-      "term": "Fractional Ownership",
+      term: "Fractional Ownership",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6027,7 +6033,7 @@ const terms = {
       }
     },
     "Fraud proof": {
-      "term": "Fraud proof",
+      term: "Fraud proof",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6065,7 +6071,7 @@ const terms = {
       }
     },
     "full node": {
-      "term": "full node",
+      term: "full node",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6103,7 +6109,7 @@ const terms = {
       }
     },
     "Ganache": {
-      "term": "Ganache",
+      term: "Ganache",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6141,7 +6147,7 @@ const terms = {
       }
     },
     "gas": {
-      "term": "gas",
+      term: "gas",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6179,7 +6185,7 @@ const terms = {
       }
     },
     "gas fee": {
-      "term": "gas fee",
+      term: "gas fee",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6217,7 +6223,7 @@ const terms = {
       }
     },
     "gas limit": {
-      "term": "gas limit",
+      term: "gas limit",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6255,7 +6261,7 @@ const terms = {
       }
     },
     "gas price": {
-      "term": "gas price",
+      term: "gas price",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6293,7 +6299,7 @@ const terms = {
       }
     },
     "Gas Station Network": {
-      "term": "Gas Station Network",
+      term: "Gas Station Network",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6331,7 +6337,7 @@ const terms = {
       }
     },
     "genesis block": {
-      "term": "genesis block",
+      term: "genesis block",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6369,7 +6375,7 @@ const terms = {
       }
     },
     "Gigawei": {
-      "term": "Gigawei",
+      term: "Gigawei",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6407,7 +6413,7 @@ const terms = {
       }
     },
     "Gitcoin": {
-      "term": "Gitcoin",
+      term: "Gitcoin",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6445,7 +6451,7 @@ const terms = {
       }
     },
     "GitHub": {
-      "term": "GitHub",
+      term: "GitHub",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6483,7 +6489,7 @@ const terms = {
       }
     },
     "Goerli": {
-      "term": "Goerli",
+      term: "Goerli",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6521,7 +6527,7 @@ const terms = {
       }
     },
     "Governance": {
-      "term": "Governance",
+      term: "Governance",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6559,7 +6565,7 @@ const terms = {
       }
     },
     "GSN": {
-      "term": "GSN",
+      term: "GSN",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6597,7 +6603,7 @@ const terms = {
       }
     },
     "gwei": {
-      "term": "gwei",
+      term: "gwei",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6635,7 +6641,7 @@ const terms = {
       }
     },
     "halving": {
-      "term": "halving",
+      term: "halving",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6673,7 +6679,7 @@ const terms = {
       }
     },
     "hard fork": {
-      "term": "hard fork",
+      term: "hard fork",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6711,7 +6717,7 @@ const terms = {
       }
     },
     "hardware wallet": {
-      "term": "hardware wallet",
+      term: "hardware wallet",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6749,7 +6755,7 @@ const terms = {
       }
     },
     "hash (noun)": {
-      "term": "hash (noun)",
+      term: "hash (noun)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6787,7 +6793,7 @@ const terms = {
       }
     },
     "hexadecimal; 'hex data'": {
-      "term": "hexadecimal; 'hex data'",
+      term: "hexadecimal; 'hex data'",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6825,7 +6831,7 @@ const terms = {
       }
     },
     "Hierarchical Deterministic (HD) wallet": {
-      "term": "Hierarchical Deterministic (HD) wallet",
+      term: "Hierarchical Deterministic (HD) wallet",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6863,7 +6869,7 @@ const terms = {
       }
     },
     "hot storage": {
-      "term": "hot storage",
+      term: "hot storage",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6901,7 +6907,7 @@ const terms = {
       }
     },
     "hot wallet": {
-      "term": "hot wallet",
+      term: "hot wallet",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6939,7 +6945,7 @@ const terms = {
       }
     },
     "Hybrid Network": {
-      "term": "Hybrid Network",
+      term: "Hybrid Network",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -6977,7 +6983,7 @@ const terms = {
       }
     },
     "Hyperledger": {
-      "term": "Hyperledger",
+      term: "Hyperledger",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7015,7 +7021,7 @@ const terms = {
       }
     },
     "ICO": {
-      "term": "ICO",
+      term: "ICO",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7053,7 +7059,7 @@ const terms = {
       }
     },
     "Identicon / AddressIdenticon / AddressIcon": {
-      "term": "Identicon / AddressIdenticon / AddressIcon",
+      term: "Identicon / AddressIdenticon / AddressIcon",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7091,7 +7097,7 @@ const terms = {
       }
     },
     "immutability": {
-      "term": "immutability",
+      term: "immutability",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7129,7 +7135,7 @@ const terms = {
       }
     },
     "Infura": {
-      "term": "Infura",
+      term: "Infura",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7167,7 +7173,7 @@ const terms = {
       }
     },
     "Initial Public Offering (IPO)": {
-      "term": "Initial Public Offering (IPO)",
+      term: "Initial Public Offering (IPO)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7205,7 +7211,7 @@ const terms = {
       }
     },
     "Insider Trading": {
-      "term": "Insider Trading",
+      term: "Insider Trading",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7243,7 +7249,7 @@ const terms = {
       }
     },
     "Inter-Blockchain Communication (IBC) Protocol": {
-      "term": "Inter-Blockchain Communication (IBC) Protocol",
+      term: "Inter-Blockchain Communication (IBC) Protocol",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7281,7 +7287,7 @@ const terms = {
       }
     },
     "internal transaction": {
-      "term": "internal transaction",
+      term: "internal transaction",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7319,7 +7325,7 @@ const terms = {
       }
     },
     "Interoperability": {
-      "term": "Interoperability",
+      term: "Interoperability",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7357,7 +7363,7 @@ const terms = {
       }
     },
     "InterPlanetary File System (IPFS)": {
-      "term": "InterPlanetary File System (IPFS)",
+      term: "InterPlanetary File System (IPFS)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7395,7 +7401,7 @@ const terms = {
       }
     },
     "IP address": {
-      "term": "IP address",
+      term: "IP address",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7433,7 +7439,7 @@ const terms = {
       }
     },
     "JSON file": {
-      "term": "JSON file",
+      term: "JSON file",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7471,7 +7477,7 @@ const terms = {
       }
     },
     "JSON-RPC": {
-      "term": "JSON-RPC",
+      term: "JSON-RPC",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7509,7 +7515,7 @@ const terms = {
       }
     },
     "keystore file": {
-      "term": "keystore file",
+      term: "keystore file",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7547,7 +7553,7 @@ const terms = {
       }
     },
     "Know Your Customer (KYC)": {
-      "term": "Know Your Customer (KYC)",
+      term: "Know Your Customer (KYC)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7585,7 +7591,7 @@ const terms = {
       }
     },
     "Know Your Transaction": {
-      "term": "Know Your Transaction",
+      term: "Know Your Transaction",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7623,7 +7629,7 @@ const terms = {
       }
     },
     "Kovan": {
-      "term": "Kovan",
+      term: "Kovan",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7661,7 +7667,7 @@ const terms = {
       }
     },
     "KYC": {
-      "term": "KYC",
+      term: "KYC",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7699,7 +7705,7 @@ const terms = {
       }
     },
     "KYT": {
-      "term": "KYT",
+      term: "KYT",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7737,7 +7743,7 @@ const terms = {
       }
     },
     "Latency": {
-      "term": "Latency",
+      term: "Latency",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7775,7 +7781,7 @@ const terms = {
       }
     },
     "Lattice1": {
-      "term": "Lattice1",
+      term: "Lattice1",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7813,7 +7819,7 @@ const terms = {
       }
     },
     "Launchpad": {
-      "term": "Launchpad",
+      term: "Launchpad",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7851,7 +7857,7 @@ const terms = {
       }
     },
     "Layer 0": {
-      "term": "Layer 0",
+      term: "Layer 0",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7889,7 +7895,7 @@ const terms = {
       }
     },
     "Layer 1": {
-      "term": "Layer 1",
+      term: "Layer 1",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7927,7 +7933,7 @@ const terms = {
       }
     },
     "Layer 2": {
-      "term": "Layer 2",
+      term: "Layer 2",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -7965,7 +7971,7 @@ const terms = {
       }
     },
     "Learn; MetaMask Learn": {
-      "term": "Learn; MetaMask Learn",
+      term: "Learn; MetaMask Learn",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8003,7 +8009,7 @@ const terms = {
       }
     },
     "Ledger": {
-      "term": "Ledger",
+      term: "Ledger",
       phonetic: "",
       partOfSpeech: "",
       definition: "",
@@ -8036,7 +8042,7 @@ const terms = {
       }
     },
     "Ledger Live App": {
-      "term": "Ledger Live App",
+      term: "Ledger Live App",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8074,7 +8080,7 @@ const terms = {
       }
     },
     "Library": {
-      "term": "Library",
+      term: "Library",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8112,7 +8118,7 @@ const terms = {
       }
     },
     "Lido": {
-      "term": "Lido",
+      term: "Lido",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8150,7 +8156,7 @@ const terms = {
       }
     },
     "light client": {
-      "term": "light client",
+      term: "light client",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8188,7 +8194,7 @@ const terms = {
       }
     },
     "Lightning Network": {
-      "term": "Lightning Network",
+      term: "Lightning Network",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8226,7 +8232,7 @@ const terms = {
       }
     },
     "Liquid Democracy (Delegative Democracy)": {
-      "term": "Liquid Democracy (Delegative Democracy)",
+      term: "Liquid Democracy (Delegative Democracy)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8264,7 +8270,7 @@ const terms = {
       }
     },
     "Liquidation": {
-      "term": "Liquidation",
+      term: "Liquidation",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8302,7 +8308,7 @@ const terms = {
       }
     },
     "liquidity": {
-      "term": "liquidity",
+      term: "liquidity",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8340,7 +8346,7 @@ const terms = {
       }
     },
     "liquidity pool": {
-      "term": "liquidity pool",
+      term: "liquidity pool",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8378,7 +8384,7 @@ const terms = {
       }
     },
     "liquidity staking": {
-      "term": "liquidity staking",
+      term: "liquidity staking",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8416,7 +8422,7 @@ const terms = {
       }
     },
     "Low": {
-      "term": "Low",
+      term: "Low",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8454,7 +8460,7 @@ const terms = {
       }
     },
     "mainnet": {
-      "term": "mainnet",
+      term: "mainnet",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8492,7 +8498,7 @@ const terms = {
       }
     },
     "Maker Protocol": {
-      "term": "Maker Protocol",
+      term: "Maker Protocol",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8530,7 +8536,7 @@ const terms = {
       }
     },
     "Malware": {
-      "term": "Malware",
+      term: "Malware",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8568,7 +8574,7 @@ const terms = {
       }
     },
     "market cap": {
-      "term": "market cap",
+      term: "market cap",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8606,7 +8612,7 @@ const terms = {
       }
     },
     "Maximal Extractable Value (MEV)": {
-      "term": "Maximal Extractable Value (MEV)",
+      term: "Maximal Extractable Value (MEV)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8644,7 +8650,7 @@ const terms = {
       }
     },
     "Maximum Priority Fee": {
-      "term": "Maximum Priority Fee",
+      term: "Maximum Priority Fee",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8682,7 +8688,7 @@ const terms = {
       }
     },
     "memory pool; mempool": {
-      "term": "memory pool; mempool",
+      term: "memory pool; mempool",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8720,7 +8726,7 @@ const terms = {
       }
     },
     "Merge (noun)": {
-      "term": "Merge (noun)",
+      term: "Merge (noun)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8758,7 +8764,7 @@ const terms = {
       }
     },
     "Merkle Patricia trie": {
-      "term": "Merkle Patricia trie",
+      term: "Merkle Patricia trie",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8796,7 +8802,7 @@ const terms = {
       }
     },
     "Mesh": {
-      "term": "Mesh",
+      term: "Mesh",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8834,7 +8840,7 @@ const terms = {
       }
     },
     "Metadata": {
-      "term": "Metadata",
+      term: "Metadata",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8872,7 +8878,7 @@ const terms = {
       }
     },
     "MetaMask": {
-      "term": "MetaMask",
+      term: "MetaMask",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8910,7 +8916,7 @@ const terms = {
       }
     },
     "MetaMask Bridge": {
-      "term": "MetaMask Bridge",
+      term: "MetaMask Bridge",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8948,7 +8954,7 @@ const terms = {
       }
     },
     "MetaMask Community Platform": {
-      "term": "MetaMask Community Platform",
+      term: "MetaMask Community Platform",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -8986,7 +8992,7 @@ const terms = {
       }
     },
     "MetaMask Extension": {
-      "term": "MetaMask Extension",
+      term: "MetaMask Extension",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9024,7 +9030,7 @@ const terms = {
       }
     },
     "MetaMask Flask": {
-      "term": "MetaMask Flask",
+      term: "MetaMask Flask",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9062,7 +9068,7 @@ const terms = {
       }
     },
     "MetaMask Institutional": {
-      "term": "MetaMask Institutional",
+      term: "MetaMask Institutional",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9100,7 +9106,7 @@ const terms = {
       }
     },
     "MetaMask Learn": {
-      "term": "MetaMask Learn",
+      term: "MetaMask Learn",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9138,7 +9144,7 @@ const terms = {
       }
     },
     "MetaMask SDK": {
-      "term": "MetaMask SDK",
+      term: "MetaMask SDK",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9176,7 +9182,7 @@ const terms = {
       }
     },
     "MetaMask Snaps": {
-      "term": "MetaMask Snaps",
+      term: "MetaMask Snaps",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9214,7 +9220,7 @@ const terms = {
       }
     },
     "MetaMetrics": {
-      "term": "MetaMetrics",
+      term: "MetaMetrics",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9252,7 +9258,7 @@ const terms = {
       }
     },
     "metaverse": {
-      "term": "metaverse",
+      term: "metaverse",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9290,7 +9296,7 @@ const terms = {
       }
     },
     "miner tip": {
-      "term": "miner tip",
+      term: "miner tip",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9328,7 +9334,7 @@ const terms = {
       }
     },
     "mining": {
-      "term": "mining",
+      term: "mining",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9366,7 +9372,7 @@ const terms = {
       }
     },
     "Mint": {
-      "term": "Mint",
+      term: "Mint",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9404,7 +9410,7 @@ const terms = {
       }
     },
     "mnemonic phrase": {
-      "term": "mnemonic phrase",
+      term: "mnemonic phrase",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9442,7 +9448,7 @@ const terms = {
       }
     },
     "MobiKwik": {
-      "term": "MobiKwik",
+      term: "MobiKwik",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9480,7 +9486,7 @@ const terms = {
       }
     },
     "modular blockchain": {
-      "term": "modular blockchain",
+      term: "modular blockchain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9518,7 +9524,7 @@ const terms = {
       }
     },
     "MoonPay": {
-      "term": "MoonPay",
+      term: "MoonPay",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9556,7 +9562,7 @@ const terms = {
       }
     },
     "multi-sig": {
-      "term": "multi-sig",
+      term: "multi-sig",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9594,7 +9600,7 @@ const terms = {
       }
     },
     "multi-signature wallet (multisig)": {
-      "term": "multi-signature wallet (multisig)",
+      term: "multi-signature wallet (multisig)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9632,7 +9638,7 @@ const terms = {
       }
     },
     "Multifactor Authentication": {
-      "term": "Multifactor Authentication",
+      term: "Multifactor Authentication",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9670,7 +9676,7 @@ const terms = {
       }
     },
     "Near-Field Communication (NFC)": {
-      "term": "Near-Field Communication (NFC)",
+      term: "Near-Field Communication (NFC)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9708,7 +9714,7 @@ const terms = {
       }
     },
     "Nested Blockchain": {
-      "term": "Nested Blockchain",
+      term: "Nested Blockchain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9746,7 +9752,7 @@ const terms = {
       }
     },
     "Network": {
-      "term": "Network",
+      term: "Network",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9784,7 +9790,7 @@ const terms = {
       }
     },
     "Network Congestion": {
-      "term": "Network Congestion",
+      term: "Network Congestion",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9822,7 +9828,7 @@ const terms = {
       }
     },
     "NFT": {
-      "term": "NFT",
+      term: "NFT",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9860,7 +9866,7 @@ const terms = {
       }
     },
     "NFT aggregator": {
-      "term": "NFT aggregator",
+      term: "NFT aggregator",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9898,7 +9904,7 @@ const terms = {
       }
     },
     "NFT drop": {
-      "term": "NFT drop",
+      term: "NFT drop",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9936,7 +9942,7 @@ const terms = {
       }
     },
     "Ngrave": {
-      "term": "Ngrave",
+      term: "Ngrave",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -9974,7 +9980,7 @@ const terms = {
       }
     },
     "node": {
-      "term": "node",
+      term: "node",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10012,7 +10018,7 @@ const terms = {
       }
     },
     "Non-fungible token": {
-      "term": "Non-fungible token",
+      term: "Non-fungible token",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10050,7 +10056,7 @@ const terms = {
       }
     },
     "nonce": {
-      "term": "nonce",
+      term: "nonce",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10088,7 +10094,7 @@ const terms = {
       }
     },
     "off-chain": {
-      "term": "off-chain",
+      term: "off-chain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10126,7 +10132,7 @@ const terms = {
       }
     },
     "ommer block": {
-      "term": "ommer block",
+      term: "ommer block",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10164,7 +10170,7 @@ const terms = {
       }
     },
     "on-chain": {
-      "term": "on-chain",
+      term: "on-chain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10202,7 +10208,7 @@ const terms = {
       }
     },
     "on-ramp, off-ramp": {
-      "term": "on-ramp, off-ramp",
+      term: "on-ramp, off-ramp",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10240,7 +10246,7 @@ const terms = {
       }
     },
     "OpenSea": {
-      "term": "OpenSea",
+      term: "OpenSea",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10278,7 +10284,7 @@ const terms = {
       }
     },
     "Opera": {
-      "term": "Opera",
+      term: "Opera",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10316,7 +10322,7 @@ const terms = {
       }
     },
     "Optimism": {
-      "term": "Optimism",
+      term: "Optimism",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10354,7 +10360,7 @@ const terms = {
       }
     },
     "optimistic rollup": {
-      "term": "optimistic rollup",
+      term: "optimistic rollup",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10392,7 +10398,7 @@ const terms = {
       }
     },
     "Oracle": {
-      "term": "Oracle",
+      term: "Oracle",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10430,7 +10436,7 @@ const terms = {
       }
     },
     "ParaSwap": {
-      "term": "ParaSwap",
+      term: "ParaSwap",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10468,7 +10474,7 @@ const terms = {
       }
     },
     "parity": {
-      "term": "parity",
+      term: "parity",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10506,7 +10512,7 @@ const terms = {
       }
     },
     "Parity": {
-      "term": "Parity",
+      term: "Parity",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10544,7 +10550,7 @@ const terms = {
       }
     },
     "Passphrase": {
-      "term": "Passphrase",
+      term: "Passphrase",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10582,7 +10588,7 @@ const terms = {
       }
     },
     "password manager": {
-      "term": "password manager",
+      term: "password manager",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10620,7 +10626,7 @@ const terms = {
       }
     },
     "PayPal": {
-      "term": "PayPal",
+      term: "PayPal",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10658,7 +10664,7 @@ const terms = {
       }
     },
     "peer-to-peer (P2P)": {
-      "term": "peer-to-peer (P2P)",
+      term: "peer-to-peer (P2P)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10696,7 +10702,7 @@ const terms = {
       }
     },
     "permissioned ledger": {
-      "term": "permissioned ledger",
+      term: "permissioned ledger",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10734,7 +10740,7 @@ const terms = {
       }
     },
     "phishing (noun)": {
-      "term": "phishing (noun)",
+      term: "phishing (noun)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10772,7 +10778,7 @@ const terms = {
       }
     },
     "Plasma": {
-      "term": "Plasma",
+      term: "Plasma",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10810,7 +10816,7 @@ const terms = {
       }
     },
     "PoA, PoS, PoW": {
-      "term": "PoA, PoS, PoW",
+      term: "PoA, PoS, PoW",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10848,7 +10854,7 @@ const terms = {
       }
     },
     "Polygon": {
-      "term": "Polygon",
+      term: "Polygon",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10886,7 +10892,7 @@ const terms = {
       }
     },
     "Portfolio": {
-      "term": "Portfolio",
+      term: "Portfolio",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10924,7 +10930,7 @@ const terms = {
       }
     },
     "PoS/PoW Hybrid": {
-      "term": "PoS/PoW Hybrid",
+      term: "PoS/PoW Hybrid",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -10962,7 +10968,7 @@ const terms = {
       }
     },
     "Priority fee": {
-      "term": "Priority fee",
+      term: "Priority fee",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11000,7 +11006,7 @@ const terms = {
       }
     },
     "private blockchain": {
-      "term": "private blockchain",
+      term: "private blockchain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11038,7 +11044,7 @@ const terms = {
       }
     },
     "private currency": {
-      "term": "private currency",
+      term: "private currency",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11076,7 +11082,7 @@ const terms = {
       }
     },
     "private key": {
-      "term": "private key",
+      term: "private key",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11114,7 +11120,7 @@ const terms = {
       }
     },
     "Proof of Authority (PoA)": {
-      "term": "Proof of Authority (PoA)",
+      term: "Proof of Authority (PoA)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11152,7 +11158,7 @@ const terms = {
       }
     },
     "Proof of Stake (PoS)": {
-      "term": "Proof of Stake (PoS)",
+      term: "Proof of Stake (PoS)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11190,7 +11196,7 @@ const terms = {
       }
     },
     "Proof of Work (PoW)": {
-      "term": "Proof of Work (PoW)",
+      term: "Proof of Work (PoW)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11228,7 +11234,7 @@ const terms = {
       }
     },
     "protocol": {
-      "term": "protocol",
+      term: "protocol",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11266,7 +11272,7 @@ const terms = {
       }
     },
     "public blockchain": {
-      "term": "public blockchain",
+      term: "public blockchain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11304,7 +11310,7 @@ const terms = {
       }
     },
     "public key": {
-      "term": "public key",
+      term: "public key",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11342,7 +11348,7 @@ const terms = {
       }
     },
     "Public-Key Cryptography": {
-      "term": "Public-Key Cryptography",
+      term: "Public-Key Cryptography",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11380,7 +11386,7 @@ const terms = {
       }
     },
     "Public-Key Infrastructure": {
-      "term": "Public-Key Infrastructure",
+      term: "Public-Key Infrastructure",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11418,7 +11424,7 @@ const terms = {
       }
     },
     "QR code": {
-      "term": "QR code",
+      term: "QR code",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11456,7 +11462,7 @@ const terms = {
       }
     },
     "Quorum": {
-      "term": "Quorum",
+      term: "Quorum",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11494,7 +11500,7 @@ const terms = {
       }
     },
     "Rarible": {
-      "term": "Rarible",
+      term: "Rarible",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11532,7 +11538,7 @@ const terms = {
       }
     },
     "relayer": {
-      "term": "relayer",
+      term: "relayer",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11570,7 +11576,7 @@ const terms = {
       }
     },
     "Remote Procedure Call (RPC)": {
-      "term": "Remote Procedure Call (RPC)",
+      term: "Remote Procedure Call (RPC)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11608,7 +11614,7 @@ const terms = {
       }
     },
     "Rinkeby": {
-      "term": "Rinkeby",
+      term: "Rinkeby",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11646,7 +11652,7 @@ const terms = {
       }
     },
     "Roadmap": {
-      "term": "Roadmap",
+      term: "Roadmap",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11684,7 +11690,7 @@ const terms = {
       }
     },
     "Rocket Pool": {
-      "term": "Rocket Pool",
+      term: "Rocket Pool",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11722,7 +11728,7 @@ const terms = {
       }
     },
     "rollups": {
-      "term": "rollups",
+      term: "rollups",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11760,7 +11766,7 @@ const terms = {
       }
     },
     "Ropsten": {
-      "term": "Ropsten",
+      term: "Ropsten",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11798,7 +11804,7 @@ const terms = {
       }
     },
     "RPC": {
-      "term": "RPC",
+      term: "RPC",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11836,7 +11842,7 @@ const terms = {
       }
     },
     "rug pull": {
-      "term": "rug pull",
+      term: "rug pull",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11874,7 +11880,7 @@ const terms = {
       }
     },
     "Safeheron": {
-      "term": "Safeheron",
+      term: "Safeheron",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11912,7 +11918,7 @@ const terms = {
       }
     },
     "Samsung Pay": {
-      "term": "Samsung Pay",
+      term: "Samsung Pay",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11950,7 +11956,7 @@ const terms = {
       }
     },
     "sandbox": {
-      "term": "sandbox",
+      term: "sandbox",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -11988,7 +11994,7 @@ const terms = {
       }
     },
     "Sardine": {
-      "term": "Sardine",
+      term: "Sardine",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12026,7 +12032,7 @@ const terms = {
       }
     },
     "Satoshi Nakamoto": {
-      "term": "Satoshi Nakamoto",
+      term: "Satoshi Nakamoto",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12064,7 +12070,7 @@ const terms = {
       }
     },
     "scalability": {
-      "term": "scalability",
+      term: "scalability",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12102,7 +12108,7 @@ const terms = {
       }
     },
     "Scaling": {
-      "term": "Scaling",
+      term: "Scaling",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12140,7 +12146,7 @@ const terms = {
       }
     },
     "Scrypt": {
-      "term": "Scrypt",
+      term: "Scrypt",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12178,7 +12184,7 @@ const terms = {
       }
     },
     "Secret Recovery Phrase": {
-      "term": "Secret Recovery Phrase",
+      term: "Secret Recovery Phrase",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12216,7 +12222,7 @@ const terms = {
       }
     },
     "Security Token": {
-      "term": "Security Token",
+      term: "Security Token",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12254,7 +12260,7 @@ const terms = {
       }
     },
     "Security Token Offering (STO)": {
-      "term": "Security Token Offering (STO)",
+      term: "Security Token Offering (STO)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12292,7 +12298,7 @@ const terms = {
       }
     },
     "seed phrase": {
-      "term": "seed phrase",
+      term: "seed phrase",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12330,7 +12336,7 @@ const terms = {
       }
     },
     "self-custody (noun)": {
-      "term": "self-custody (noun)",
+      term: "self-custody (noun)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12368,7 +12374,7 @@ const terms = {
       }
     },
     "self-executing": {
-      "term": "self-executing",
+      term: "self-executing",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12406,7 +12412,7 @@ const terms = {
       }
     },
     "Sepolia": {
-      "term": "Sepolia",
+      term: "Sepolia",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12444,7 +12450,7 @@ const terms = {
       }
     },
     "Serenity": {
-      "term": "Serenity",
+      term: "Serenity",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12482,7 +12488,7 @@ const terms = {
       }
     },
     "serialization": {
-      "term": "serialization",
+      term: "serialization",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12520,7 +12526,7 @@ const terms = {
       }
     },
     "Shard chain": {
-      "term": "Shard chain",
+      term: "Shard chain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12558,7 +12564,7 @@ const terms = {
       }
     },
     "sharding (noun)": {
-      "term": "sharding (noun)",
+      term: "sharding (noun)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12596,7 +12602,7 @@ const terms = {
       }
     },
     "Shielded Transaction": {
-      "term": "Shielded Transaction",
+      term: "Shielded Transaction",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12634,7 +12640,7 @@ const terms = {
       }
     },
     "sidechain": {
-      "term": "sidechain",
+      term: "sidechain",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12672,7 +12678,7 @@ const terms = {
       }
     },
     "Signature (Cryptographic)": {
-      "term": "Signature (Cryptographic)",
+      term: "Signature (Cryptographic)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12710,7 +12716,7 @@ const terms = {
       }
     },
     "slashing condition": {
-      "term": "slashing condition",
+      term: "slashing condition",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12748,7 +12754,7 @@ const terms = {
       }
     },
     "slippage": {
-      "term": "slippage",
+      term: "slippage",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12786,7 +12792,7 @@ const terms = {
       }
     },
     "slot": {
-      "term": "slot",
+      term: "slot",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12824,7 +12830,7 @@ const terms = {
       }
     },
     "smart contract": {
-      "term": "smart contract",
+      term: "smart contract",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12862,7 +12868,7 @@ const terms = {
       }
     },
     "snap": {
-      "term": "snap",
+      term: "snap",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12900,7 +12906,7 @@ const terms = {
       }
     },
     "soft fork": {
-      "term": "soft fork",
+      term: "soft fork",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12938,7 +12944,7 @@ const terms = {
       }
     },
     "Software Development Kit (SDK)": {
-      "term": "Software Development Kit (SDK)",
+      term: "Software Development Kit (SDK)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -12976,7 +12982,7 @@ const terms = {
       }
     },
     "Solidity": {
-      "term": "Solidity",
+      term: "Solidity",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13014,7 +13020,7 @@ const terms = {
       }
     },
     "stablecoin": {
-      "term": "stablecoin",
+      term: "stablecoin",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13052,7 +13058,7 @@ const terms = {
       }
     },
     "staking (noun)": {
-      "term": "staking (noun)",
+      term: "staking (noun)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13090,7 +13096,7 @@ const terms = {
       }
     },
     "state": {
-      "term": "state",
+      term: "state",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13128,7 +13134,7 @@ const terms = {
       }
     },
     "state channels": {
-      "term": "state channels",
+      term: "state channels",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13166,7 +13172,7 @@ const terms = {
       }
     },
     "Streaming": {
-      "term": "Streaming",
+      term: "Streaming",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13204,7 +13210,7 @@ const terms = {
       }
     },
     "swap (noun)": {
-      "term": "swap (noun)",
+      term: "swap (noun)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13242,7 +13248,7 @@ const terms = {
       }
     },
     "Swap /MetaSwap": {
-      "term": "Swap /MetaSwap",
+      term: "Swap /MetaSwap",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13280,7 +13286,7 @@ const terms = {
       }
     },
     "szabo": {
-      "term": "szabo",
+      term: "szabo",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13318,7 +13324,7 @@ const terms = {
       }
     },
     "testnet (test network)": {
-      "term": "testnet (test network)",
+      term: "testnet (test network)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13356,7 +13362,7 @@ const terms = {
       }
     },
     "Testnet Kovan": {
-      "term": "Testnet Kovan",
+      term: "Testnet Kovan",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13394,7 +13400,7 @@ const terms = {
       }
     },
     "Testnet Rinkeby": {
-      "term": "Testnet Rinkeby",
+      term: "Testnet Rinkeby",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13432,7 +13438,7 @@ const terms = {
       }
     },
     "Testnet Ropsten": {
-      "term": "Testnet Ropsten",
+      term: "Testnet Ropsten",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13470,7 +13476,7 @@ const terms = {
       }
     },
     "token": {
-      "term": "token",
+      term: "token",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13508,7 +13514,7 @@ const terms = {
       }
     },
     "token lockup": {
-      "term": "token lockup",
+      term: "token lockup",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13546,7 +13552,7 @@ const terms = {
       }
     },
     "Token standard": {
-      "term": "Token standard",
+      term: "Token standard",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13584,7 +13590,7 @@ const terms = {
       }
     },
     "Total Value Locked (TVL)": {
-      "term": "Total Value Locked (TVL)",
+      term: "Total Value Locked (TVL)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13622,7 +13628,7 @@ const terms = {
       }
     },
     "Transaction": {
-      "term": "Transaction",
+      term: "Transaction",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13660,7 +13666,7 @@ const terms = {
       }
     },
     "transaction block": {
-      "term": "transaction block",
+      term: "transaction block",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13698,7 +13704,7 @@ const terms = {
       }
     },
     "transaction fee": {
-      "term": "transaction fee",
+      term: "transaction fee",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13736,7 +13742,7 @@ const terms = {
       }
     },
     "transaction ID": {
-      "term": "transaction ID",
+      term: "transaction ID",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13774,7 +13780,7 @@ const terms = {
       }
     },
     "transaction pool": {
-      "term": "transaction pool",
+      term: "transaction pool",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13812,7 +13818,7 @@ const terms = {
       }
     },
     "Transak": {
-      "term": "Transak",
+      term: "Transak",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13850,7 +13856,7 @@ const terms = {
       }
     },
     "Trezor": {
-      "term": "Trezor",
+      term: "Trezor",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13888,7 +13894,7 @@ const terms = {
       }
     },
     "Truffle": {
-      "term": "Truffle",
+      term: "Truffle",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13926,7 +13932,7 @@ const terms = {
       }
     },
     "trustless": {
-      "term": "trustless",
+      term: "trustless",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -13964,7 +13970,7 @@ const terms = {
       }
     },
     "Turing-complete": {
-      "term": "Turing-complete",
+      term: "Turing-complete",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14002,7 +14008,7 @@ const terms = {
       }
     },
     "Two-Factor Authentication (2FA)": {
-      "term": "Two-Factor Authentication (2FA)",
+      term: "Two-Factor Authentication (2FA)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14040,7 +14046,7 @@ const terms = {
       }
     },
     "TXID": {
-      "term": "TXID",
+      term: "TXID",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14078,7 +14084,7 @@ const terms = {
       }
     },
     "U2F": {
-      "term": "U2F",
+      term: "U2F",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14116,7 +14122,7 @@ const terms = {
       }
     },
     "Uniswap": {
-      "term": "Uniswap",
+      term: "Uniswap",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14154,7 +14160,7 @@ const terms = {
       }
     },
     "unspent transaction output (UTXO)": {
-      "term": "unspent transaction output (UTXO)",
+      term: "unspent transaction output (UTXO)",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14192,7 +14198,7 @@ const terms = {
       }
     },
     "upgrade": {
-      "term": "upgrade",
+      term: "upgrade",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14230,7 +14236,7 @@ const terms = {
       }
     },
     "UTXO": {
-      "term": "UTXO",
+      term: "UTXO",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14268,7 +14274,7 @@ const terms = {
       }
     },
     "validator": {
-      "term": "validator",
+      term: "validator",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14306,7 +14312,7 @@ const terms = {
       }
     },
     "validity proof": {
-      "term": "validity proof",
+      term: "validity proof",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14344,7 +14350,7 @@ const terms = {
       }
     },
     "Validium": {
-      "term": "Validium",
+      term: "Validium",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14382,7 +14388,7 @@ const terms = {
       }
     },
     "Vault Decryptor": {
-      "term": "Vault Decryptor",
+      term: "Vault Decryptor",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14420,7 +14426,7 @@ const terms = {
       }
     },
     "Vesting": {
-      "term": "Vesting",
+      term: "Vesting",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14458,7 +14464,7 @@ const terms = {
       }
     },
     "wallet": {
-      "term": "wallet",
+      term: "wallet",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14496,7 +14502,7 @@ const terms = {
       }
     },
     "WalletConnect": {
-      "term": "WalletConnect",
+      term: "WalletConnect",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14534,7 +14540,7 @@ const terms = {
       }
     },
     "web3, Web 3.0": {
-      "term": "web3, Web 3.0",
+      term: "web3, Web 3.0",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14572,7 +14578,7 @@ const terms = {
       }
     },
     "WebHID": {
-      "term": "WebHID",
+      term: "WebHID",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14610,7 +14616,7 @@ const terms = {
       }
     },
     "WebSocket": {
-      "term": "WebSocket",
+      term: "WebSocket",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14648,7 +14654,7 @@ const terms = {
       }
     },
     "Wei": {
-      "term": "Wei",
+      term: "Wei",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14686,7 +14692,7 @@ const terms = {
       }
     },
     "Whitepaper": {
-      "term": "Whitepaper",
+      term: "Whitepaper",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14724,7 +14730,7 @@ const terms = {
       }
     },
     "Wrapping": {
-      "term": "Wrapping",
+      term: "Wrapping",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14762,7 +14768,7 @@ const terms = {
       }
     },
     "Wyre": {
-      "term": "Wyre",
+      term: "Wyre",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14800,7 +14806,7 @@ const terms = {
       }
     },
     "yield farming": {
-      "term": "yield farming",
+      term: "yield farming",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14838,7 +14844,7 @@ const terms = {
       }
     },
     "yield-bearing tokens": {
-      "term": "yield-bearing tokens",
+      term: "yield-bearing tokens",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14876,7 +14882,7 @@ const terms = {
       }
     },
     "zero address": {
-      "term": "zero address",
+      term: "zero address",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14914,7 +14920,7 @@ const terms = {
       }
     },
     "Zero-knowledge proof": {
-      "term": "Zero-knowledge proof",
+      term: "Zero-knowledge proof",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14952,7 +14958,7 @@ const terms = {
       }
     },
     "Zero-knowledge rollup": {
-      "term": "Zero-knowledge rollup",
+      term: "Zero-knowledge rollup",
       phonetic: "",
       partOfSpeech: "",
       definition: (
@@ -14990,7 +14996,7 @@ const terms = {
       }
     },
     "zk-SNARKs": {
-      "term": "zk-SNARKs",
+      term: "zk-SNARKs",
       phonetic: "",
       partOfSpeech: "",
       definition: (
