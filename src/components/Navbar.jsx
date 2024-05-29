@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav style={styles.navbar}>
       <Link to="/" style={styles.logo}>
-        <img src="/path/to/logo.png" alt="Logo" style={styles.logoImage} />
+        <img src="./public/education-dao-circle.png" alt="Logo" style={styles.logoImage} />
         Education DAO Glossary
       </Link>
     </nav>
