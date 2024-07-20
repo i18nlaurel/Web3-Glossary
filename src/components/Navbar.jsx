@@ -1,15 +1,15 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import LanguageSwitcher from './LanguageSwitcher'; // Import LanguageSwitcher
+import LanguageSwitcher from './LanguageSwitcher';
 
 const Navbar = () => {
   return (
     <nav style={styles.navbar}>
       <Link to="/" style={styles.logo}>
         <img src="./education-dao-circle.png" alt="Logo" style={styles.logoImage} />
-        Education DAO Glossary
+        t(Education DAO Glossary)
       </Link>
-      <LanguageSwitcher /> {/* Add LanguageSwitcher */}
+      <LanguageSwitcher />
     </nav>
   );
 };

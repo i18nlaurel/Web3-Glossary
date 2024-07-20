@@ -23,7 +23,7 @@ function Home() {
 
   return (
     <div>
-      <h2>Search the Education DAO Glossary:</h2>
+      <h2>t(Search the Education DAO Glossary:)</h2>
       <Search onSearch={handleSearch} />
       <ul>
         {searchResults.map((result) => (
