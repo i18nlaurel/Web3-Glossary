@@ -1,19 +1,17 @@
+// src/components/Search.jsx
+
 import React, { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 
 const Search = ({ onSearch }) => {
+  const { t } = useTranslation();
   const [query, setQuery] = useState('');
 
-  const handleChange = (event) => {
-    setQuery(event.target.value);
+  const handleInputChange = (e) => {
+    setQuery(e.target.value);
   };
 
-  const handleKeyPress = (event) => {
-    if (event.key === 'Enter') {
-      onSearch(query);
-    }
-  };
-
-  const handleClick = () => {
+  const handleSearch = () => {
     onSearch(query);
   };
 
@@ -21,12 +19,11 @@ const Search = ({ onSearch }) => {
     <div>
       <input
         type="text"
-        placeholder="Search..."
         value={query}
-        onChange={handleChange}
-        onKeyPress={handleKeyPress}
+        onChange={handleInputChange}
+        placeholder={t('Search')} // Use translation for placeholder
       />
-      <button onClick={handleClick}>Search</button>
+      <button onClick={handleSearch}>{t('Search')}</button> {/* Use translation for button text */}
     </div>
   );
 };

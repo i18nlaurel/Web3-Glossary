@@ -1,14 +1,16 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Routes, Route, useNavigate } from 'react-router-dom';
 import Search from './components/Search';
 import index from './searchIndex';
 import terms from './terms.json';
 import EntryPage from './EntryPage';
-import Navbar from './components/Navbar'; // Import the Navbar
+import Navbar from './components/Navbar';
+import { useTranslation } from 'react-i18next';
 
 function App() {
   const [searchResults, setSearchResults] = useState([]);
   const navigate = useNavigate();
+  const { t, i18n } = useTranslation();
 
   const handleSearch = (query) => {
     console.log('Searching for:', query);
@@ -23,11 +25,19 @@ function App() {
 
   const allTerms = Object.keys(terms["0"]["terms"]);
 
+  // Re-run the search when the language changes
+  useEffect(() => {
+    if (searchResults.length > 0) {
+      const query = searchResults[0].term; // Reuse the last search query
+      handleSearch(query);
+    }
+  }, [i18n.language]);
+
   return (
     <div>
-      <Navbar /> {/* Add the Navbar */}
+      <Navbar />
       <div>
-        <h2>Search the Education DAO Glossary:</h2>
+        <h2>{t('Search the Education DAO Glossary:')}</h2>
       </div>
       <Search onSearch={handleSearch} />
       <Routes>

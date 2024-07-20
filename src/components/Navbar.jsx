@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import LanguageSwitcher from './LanguageSwitcher'; // Import LanguageSwitcher
 
 const Navbar = () => {
   return (
@@ -8,6 +9,7 @@ const Navbar = () => {
         <img src="./education-dao-circle.png" alt="Logo" style={styles.logoImage} />
         Education DAO Glossary
       </Link>
+      <LanguageSwitcher /> {/* Add LanguageSwitcher */}
     </nav>
   );
 };
@@ -19,6 +21,7 @@ const styles = {
     color: '#fff',
     display: 'flex',
     alignItems: 'center',
+    justifyContent: 'space-between', // Adjust to space items
   },
   logo: {
     textDecoration: 'none',
