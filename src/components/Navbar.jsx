@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav style={styles.navbar}>
       <Link to="/" style={styles.logo}>
         <img src="./education-dao-circle.png" alt="Logo" style={styles.logoImage} />
-        t(Education DAO Glossary)
+        Education DAO Glossary
       </Link>
       <LanguageSwitcher />
     </nav>

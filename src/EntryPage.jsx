@@ -17,15 +17,17 @@ function EntryPage() {
   }, [termKey]);
 
   if (!termContent) {
-    return <div>t(Loading...)</div>;
+    return <div>Loading...</div>;
   }
 
   const linkedDefinition = linkedDefinitions[termKey]?.definition || termContent.definition;
 
   return (
     <div>
-      <h1>{t(termContent.term)}</h1>
-      <p>{t(linkedDefinition)}</p>
+      <h1>{termContent.term}</h1>
+      <h3>{termContent.phonetic}</h3>
+      <h4>Category: {termContent.termCategory}</h4>
+      <p>{linkedDefinition}</p>
       {/* Render other content based on term data */}
     </div>
   );
