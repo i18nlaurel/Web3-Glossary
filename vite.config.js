@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 
 export default defineConfig({
-  base: '/web3-glossary-website/', // Set this to your repository name
+  base: '/web3-glossary-website/',
   plugins: [react()],
   resolve: {
     alias: {

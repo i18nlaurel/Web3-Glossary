@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Routes, Route, useNavigate } from 'react-router-dom';
-import Search from './components/Search';
 import index from './searchIndex';
 import terms from './terms.json';
 import EntryPage from './EntryPage';
@@ -38,7 +37,7 @@ function App() {
 
   useEffect(() => {
     if (searchResults.length > 0) {
-      const query = searchResults[0].term; // Reuse the last search query
+      const query = searchResults[0].term;
       handleSearch(query);
     }
   }, [i18n.language]);
