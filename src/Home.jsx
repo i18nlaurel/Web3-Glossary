@@ -2,11 +2,13 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Search from './components/Search';
 import index from './searchIndex';
-import terms from './terms';
+import terms from './terms.json';
+import { useTranslation } from 'react-i18next';
 
 function Home() {
   const [searchResults, setSearchResults] = useState([]);
   const navigate = useNavigate();
+  const { t } = useTranslation();
 
   const handleSearch = (query) => {
     console.log('Searching for:', query);
@@ -23,13 +25,13 @@ function Home() {
 
   return (
     <div>
-      <h2>t(Search the Education DAO Glossary:)</h2>
+      <h2>{t('Search the Education DAO Glossary:')}</h2>
       <Search onSearch={handleSearch} />
       <ul>
         {searchResults.map((result) => (
           <li
             key={result.term}
-            onClick={() => navigate(`/term/${result.term}`)}
+            onClick={() => navigate(`/term/${encodeURIComponent(result.term)}`)}
             style={{
               cursor: allTerms.includes(result.term) ? 'pointer' : 'default',
             }}

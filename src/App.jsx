@@ -23,9 +23,8 @@ function App() {
     console.log('Updated searchResults:', formattedResults);
   };
 
-  const allTerms = Object.keys(terms["0"]["terms"]);
+  const allTerms = Object.keys(terms[0].terms);
 
-  // Re-run the search when the language changes
   useEffect(() => {
     if (searchResults.length > 0) {
       const query = searchResults[0].term; // Reuse the last search query
