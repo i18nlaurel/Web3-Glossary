@@ -5,7 +5,7 @@ import index from './searchIndex';
 import terms from './terms.json';
 import { useTranslation } from 'react-i18next';
 
-function Home() {
+function Home({ onSearch }) {
   const [searchResults, setSearchResults] = useState([]);
   const navigate = useNavigate();
   const { t } = useTranslation();
@@ -21,7 +21,7 @@ function Home() {
     console.log('Updated searchResults:', formattedResults);
   };
 
-  const allTerms = Object.keys(terms["0"]["terms"]);
+  const allTerms = Object.keys(terms[0].terms);
 
   return (
     <div>

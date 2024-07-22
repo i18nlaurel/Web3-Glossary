@@ -5,6 +5,7 @@ import index from './searchIndex';
 import terms from './terms.json';
 import EntryPage from './EntryPage';
 import Navbar from './components/Navbar';
+import Home from './Home';
 import { useTranslation } from 'react-i18next';
 
 function App() {
@@ -25,6 +26,16 @@ function App() {
 
   const allTerms = Object.keys(terms[0].terms);
 
+  const handleLogoClick = () => {
+    setSearchResults([]);
+    navigate('/');
+  };
+
+  const handleNewSearch = () => {
+    setSearchResults([]);
+    navigate('/');
+  };
+
   useEffect(() => {
     if (searchResults.length > 0) {
       const query = searchResults[0].term; // Reuse the last search query
@@ -34,31 +45,10 @@ function App() {
 
   return (
     <div>
-      <Navbar />
-      <div>
-        <h2>{t('Search the Education DAO Glossary:')}</h2>
-      </div>
-      <Search onSearch={handleSearch} />
+      <Navbar onLogoClick={handleLogoClick} />
       <Routes>
-        <Route
-          path="/"
-          element={
-            <ul>
-              {searchResults.map((result) => (
-                <li
-                  key={result.term}
-                  onClick={() => navigate(`/term/${encodeURIComponent(result.term)}`)}
-                  style={{
-                    cursor: allTerms.includes(result.term) ? 'pointer' : 'default',
-                  }}
-                >
-                  {result.term}
-                </li>
-              ))}
-            </ul>
-          }
-        />
-        <Route path="/term/:termKey" element={<EntryPage />} />
+        <Route path="/" element={<Home onSearch={handleSearch} />} />
+        <Route path="/term/:termKey" element={<EntryPage onNewSearch={handleNewSearch} />} />
       </Routes>
     </div>
   );
