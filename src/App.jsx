@@ -37,7 +37,7 @@ function App() {
 
   useEffect(() => {
     if (searchResults.length > 0) {
-      const query = searchResults[0].term; // Reuse the last search query
+      const query = searchResults[0].term;
       handleSearch(query);
     }
   }, [i18n.language]);
@@ -49,21 +49,6 @@ function App() {
         <Route path="/" element={<Home onSearch={handleSearch} />} />
         <Route path="/term/:termKey" element={<EntryPage onNewSearch={handleNewSearch} />} />
       </Routes>
-      {searchResults.length > 0 && (
-        <ul>
-          {searchResults.map((result) => (
-            <li
-              key={result.term}
-              onClick={() => navigate(`/term/${encodeURIComponent(result.term)}`)}
-              style={{
-                cursor: allTerms.includes(result.term) ? 'pointer' : 'default',
-              }}
-            >
-              {result.term}
-            </li>
-          ))}
-        </ul>
-      )}
     </div>
   );
 }
