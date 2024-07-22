@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Routes, Route, useNavigate } from 'react-router-dom';
-import Search from './components/Search';
 import index from './searchIndex';
 import terms from './terms.json';
 import EntryPage from './EntryPage';
@@ -50,6 +49,21 @@ function App() {
         <Route path="/" element={<Home onSearch={handleSearch} />} />
         <Route path="/term/:termKey" element={<EntryPage onNewSearch={handleNewSearch} />} />
       </Routes>
+      {searchResults.length > 0 && (
+        <ul>
+          {searchResults.map((result) => (
+            <li
+              key={result.term}
+              onClick={() => navigate(`/term/${encodeURIComponent(result.term)}`)}
+              style={{
+                cursor: allTerms.includes(result.term) ? 'pointer' : 'default',
+              }}
+            >
+              {result.term}
+            </li>
+          ))}
+        </ul>
+      )}
     </div>
   );
 }
