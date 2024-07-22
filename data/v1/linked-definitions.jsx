@@ -1,6 +1,6 @@
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import React from 'react';
-import { Link } from './Link';
+import { Link } from '../../src/Link';
 
 const linkedDefinitions = {
   "0x API": {
@@ -1186,7 +1186,6 @@ const linkedDefinitions = {
     definition: <>Zero-Knowledge Succinct Non-interactive ARguments of Knowledge are an incredible technology, and vital to the <Link to="/term/scaling">scaling </Link> of <Link to="/term/blockchain">blockchain </Link> technology and the <Link to="/term/decentralized%20web">decentralized web </Link>. They are mathematically complex and can be daunting; this explanation from the <Link to="/term/Ethereum">Ethereum </Link> Foundation is a good primer.</>,
   }
 };
-
-export default linkedTerms;
+// export default linkedTerms;
 
 export default linkedDefinitions;

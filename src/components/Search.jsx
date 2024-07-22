@@ -3,31 +3,32 @@ import React, { useState } from 'react';
 const Search = ({ onSearch }) => {
   const [query, setQuery] = useState('');
 
-  const handleChange = (event) => {
-    setQuery(event.target.value);
+  const handleInputChange = (e) => {
+    setQuery(e.target.value);
   };
 
-  const handleKeyPress = (event) => {
-    if (event.key === 'Enter') {
+  const handleKeyDown = (e) => {
+    if (e.key === 'Enter') {
       onSearch(query);
     }
   };
 
-  const handleClick = () => {
+  const handleSubmit = (e) => {
+    e.preventDefault();
     onSearch(query);
   };
 
   return (
-    <div>
+    <form onSubmit={handleSubmit}>
       <input
         type="text"
-        placeholder="Search..."
         value={query}
-        onChange={handleChange}
-        onKeyPress={handleKeyPress}
+        onChange={handleInputChange}
+        onKeyDown={handleKeyDown}
+        placeholder="Search"
       />
-      <button onClick={handleClick}>Search</button>
-    </div>
+      <button type="submit">Search</button>
+    </form>
   );
 };
 

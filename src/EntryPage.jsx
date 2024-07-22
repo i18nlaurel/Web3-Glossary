@@ -1,34 +1,40 @@
-import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import React from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 import terms from './terms.json';
-import linkedDefinitions from './linked-definitions.jsx';
+import { linkTermsInDefinition } from './utils/linkTerms';
+import { useTranslation } from 'react-i18next';
+import './EntryPage.css'; // Ensure you have this CSS file for styling
 
-function EntryPage() {
+const EntryPage = ({ onNewSearch }) => {
   const { termKey } = useParams();
-  const [termContent, setTermContent] = useState(null);
+  const navigate = useNavigate();
+  const { t } = useTranslation();
+  console.log("Term Key:", termKey);
 
-  useEffect(() => {
-    const termData = terms.find(term => term.terms[termKey]);
-    if (termData) {
-      setTermContent(termData.terms[termKey]);
-    } else {
-      console.error(`Term "${termKey}" not found`);
-    }
-  }, [termKey]);
+  const termData = terms[0]?.terms[termKey];
+  console.log("Term Data:", termData);
 
-  if (!termContent) {
-    return <div>Loading...</div>;
+  if (!termData) {
+    return <div>{t('Term not found')}</div>;
   }
 
-  const linkedDefinition = linkedDefinitions[termKey]?.definition || termContent.definition;
+  const linkedDefinition = linkTermsInDefinition(termData.definition, terms[0].terms);
+  console.log("Linked Definition:", linkedDefinition);
+
+  const handleNewSearch = () => {
+    onNewSearch(); // Clear search history
+    navigate('/');
+  };
 
   return (
     <div>
-      <h1>{termContent.term}</h1>
-      <p>{linkedDefinition}</p>
-      {/* Render other content based on term data */}
+      <h1>{t(termData.term)}</h1>
+      <p>{termData.phonetic}</p>
+      <p><strong>{t('Category')}:</strong> {t(termData.termCategory)}</p>
+      <p dangerouslySetInnerHTML={{ __html: linkedDefinition }}></p>
+      <button className="new-search-button" onClick={handleNewSearch}>{t('New search')}</button>
     </div>
   );
-}
+};
 
 export default EntryPage;
