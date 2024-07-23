@@ -1,16 +1,14 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import "./reset.css";
-import "./index.css";
-import App from "./App";
-import reportWebVitals from "./reportWebVitals";
-import { sendToVercelAnalytics } from "./vitals";
+import React from 'react';
+import { createRoot } from 'react-dom/client';
+import { BrowserRouter } from 'react-router-dom'; // Use BrowserRouter instead of HashRouter
+import App from './App';
+import './i18n'; // Ensure this import is here to initialize i18n
 
-ReactDOM.render(
-  <React.StrictMode>
+const container = document.getElementById('root');
+const root = createRoot(container);
+
+root.render(
+  <BrowserRouter>
     <App />
-  </React.StrictMode>,
-  document.getElementById("root")
+  </BrowserRouter>,
 );
-
-reportWebVitals(sendToVercelAnalytics);
