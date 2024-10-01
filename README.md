@@ -1,3 +1,4 @@
+ARCHIVED ON OCTOBER 1 2024 BY LAUREL KLAFEHN
 # Web3-Glossary
 
 Welcome to the Web3 Glossary!
